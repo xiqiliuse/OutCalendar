@@ -5,51 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230413T083500
-DTEND;TZID="GMT 标准时间":20230413T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Call 3 - Intro to Continental Tire O2O Mini Program
-DTSTART;TZID="GMT 标准时间":20230413T133000
-DTEND;TZID="GMT 标准时间":20230413T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams meeting \n\nJoin on your compu
- ter\, mobile app or room device \n\nClick here to join the meeting <https:
- //teams.microsoft.com/l/meetup-join/19%3ameeting_M2JiNjY4MjktMDExNS00MDlkL
- WFhNGQtZDhmMjAwMzZkNTVj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221d07df43-cbe9-49f1-8614-0d9
- 7f9c95f27%22%7d>  \n\nMeeting ID: 334 868 536 436 \nPasscode: VArct9 \n\nD
- ownload Teams <https://www.microsoft.com/en-us/microsoft-teams/download-ap
- p>  | Join on the web <https://www.microsoft.com/microsoft-teams/join-a-me
- eting> \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options
-  <https://teams.microsoft.com/meetingOptions/?organizerId=1d07df43-cbe9-49
- f1-8614-0d97f9c95f27&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
- d=19_meeting_M2JiNjY4MjktMDExNS00MDlkLWFhNGQtZDhmMjAwMzZkNTVj@thread.v2&me
- ssageId=0&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
- _________________________________________________ \n\n \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230414T083500
 DTEND;TZID="GMT 标准时间":20230414T092500
 CLASS:PUBLIC
@@ -71,8 +26,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:工厂站会+Gemba Walk
-DTSTART;TZID="GMT 标准时间":20230414T100000
-DTEND;TZID="GMT 标准时间":20230414T103000
+DTSTART;TZID="GMT 标准时间":20230414T110000
+DTEND;TZID="GMT 标准时间":20230414T113000
 CLASS:PUBLIC
 DESCRIPTION: \n\n \n
 LOCATION:工厂大厅
