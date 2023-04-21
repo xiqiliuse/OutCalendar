@@ -120,36 +120,6 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FULLER 胶水国产化讨论
-DTSTART;TZID="GMT 标准时间":20230424T100000
-DTEND;TZID="GMT 标准时间":20230424T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\n目前我们在用的两款如下FULLER胶水，
- 供应商反馈欧洲将停止供货，都要使用他们国产品，附
- 件是FULLER的官方说明，国产品和进口品配方原料工艺质
- 量管控一样且最终性能一致，特召集会议一起讨论下切
- 换的相关事项，感谢参与！\n\n \n\nItem #.\n\nItem description\n
- \nXR45101\n\nHAERTER F5 (SURBOURG)\n\nXR45102\n\nISARPLAST VP509/51N  (FRA
- NCE)\n\n \n\n_____________________________________________________________
- ___________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动
- 应用或会议室设备加入 \n\n单击此处以加入会议 <https://te
- ams.microsoft.com/l/meetup-join/19%3ameeting_NDE0MGJiYzgtOGI4Mi00YWNjLWI0Y
- TAtOThiZjFkZDFmMWI0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-
- 40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be13-420b-4c9f-b01d-2db82ce
- a817c%22%7d>  \n\n会议 ID: 312 589 120 546 \n密码: 2imrf5 \n\n下载 T
- eams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在
-  web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> 
- \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:
- //teams.microsoft.com/meetingOptions/?organizerId=5095be13-420b-4c9f-b01d-
- 2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
- ting_NDE0MGJiYzgtOGI4Mi00YWNjLWI0YTAtOThiZjFkZDFmMWI0@thread.v2&messageId=
- 0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531
- f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________________________
- __________________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230425T083500
 DTEND;TZID="GMT 标准时间":20230425T092500
@@ -179,6 +149,36 @@ DESCRIPTION:大家好，为了配合解决自制色母粒析出问题，
  色母粒现场已在陆续接受色母粒退库，但退库色母粒后
  续也需要有解决措施，特邀请大家一起讨论。\n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FULLER 胶水国产化讨论
+DTSTART;TZID="GMT 标准时间":20230425T110000
+DTEND;TZID="GMT 标准时间":20230425T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n目前我们在用的两款如下FULLER胶水，
+ 供应商反馈欧洲将停止供货，都要使用他们国产品，附
+ 件是FULLER的官方说明，国产品和进口品配方原料工艺质
+ 量管控一样且最终性能一致，特召集会议一起讨论下切
+ 换的相关事项，感谢参与！\n\n \n\nItem #.\n\nItem description\n
+ \nXR45101\n\nHAERTER F5 (SURBOURG)\n\nXR45102\n\nISARPLAST VP509/51N  (FRA
+ NCE)\n\n \n\n_____________________________________________________________
+ ___________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动
+ 应用或会议室设备加入 \n\n单击此处以加入会议 <https://te
+ ams.microsoft.com/l/meetup-join/19%3ameeting_NDE0MGJiYzgtOGI4Mi00YWNjLWI0Y
+ TAtOThiZjFkZDFmMWI0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-
+ 40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be13-420b-4c9f-b01d-2db82ce
+ a817c%22%7d>  \n\n会议 ID: 312 589 120 546 \n密码: 2imrf5 \n\n下载 T
+ eams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在
+  web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> 
+ \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:
+ //teams.microsoft.com/meetingOptions/?organizerId=5095be13-420b-4c9f-b01d-
+ 2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
+ ting_NDE0MGJiYzgtOGI4Mi00YWNjLWI0YTAtOThiZjFkZDFmMWI0@thread.v2&messageId=
+ 0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531
+ f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________________________
+ __________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
