@@ -90,6 +90,30 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Changshu MSB introduction&communication
+DTSTART;TZID="GMT 标准时间":20230425T150000
+DTEND;TZID="GMT 标准时间":20230425T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_MGJiNzFiMWYtNDk5OS00YzVjLW
+ E2ZjItNjZjYjI0MGM5ODA3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22046a6ed9-d14d-4454-9dd9-43d4
+ 8f52f03b%22%7d>  \n\n会议 ID: 320 903 901 074 \n密码: soe6vU \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=046a6ed9-d14d-4454-
+ 9dd9-43d48f52f03b&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_MGJiNzFiMWYtNDk5OS00YzVjLWE2ZjItNjZjYjI0MGM5ODA3@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:问题库与大事件回顾会议
 DTSTART;TZID="GMT 标准时间":20230425T160000
 DTEND;TZID="GMT 标准时间":20230425T170000
