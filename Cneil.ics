@@ -4,6 +4,34 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
+SUMMARY:北京萨玛 戴姆勒TPO亮线问题分析
+DTSTART;TZID="GMT 标准时间":20230506T140000
+DTEND;TZID="GMT 标准时间":20230506T150000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位，\n\n \n\n \n\n审核在即，北京萨玛戴姆
+ 勒的TPO亮线问题仍待分析处理\n\n目前手头能得到的只有
+ 客户端的不良零件，需要各位帮忙一起识别分析，早日
+ 结案\n\n \n\n相关物料批次信息：Z2100150Y0760A，8227831，82310
+ 00\n\n \n\n谢谢\n\n \n\n________________________________________________
+ ________________________________ \n\nMicrosoft Teams 会议 \n\n使用电
+ 脑、移动应用或会议室设备加入 \n\n单击此处以加入会议
+  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWM2ZjEwMzMtZjg0Y
+ i00N2NkLTkzOTAtNDQyNTYyMGEzZjQ4%40thread.v2/0?context=%7b%22Tid%22%3a%228d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22f433124e-0aac-488c-
+ 9cee-66790f6678e3%22%7d>  \n\n会议 ID: 387 784 559 785 \n密码: RZSypG 
+ \n\n下载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download
+ -app>  | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join
+ -a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=f433124e-0
+ aac-488c-9cee-66790f6678e3&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_YWM2ZjEwMzMtZjg0Yi00N2NkLTkzOTAtNDQyNTYyMGEzZjQ4@thread
+ .v2&messageId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.co
+ m/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________________
+ ________________________________________________________ \n\n \n
+LOCATION:QM meeting room
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230508T083500
 DTEND;TZID="GMT 标准时间":20230508T092500
@@ -270,6 +298,30 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:工艺安全巡检
+DTSTART;TZID="GMT 标准时间":20230515T133000
+DTEND;TZID="GMT 标准时间":20230515T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_YjE1ZWI3MzAtZGEwOS00ZmQ4LW
+ IxMGUtZjZlOWE2NjMwMGZm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12
+ f76925ee%22%7d>  \n\n会议 ID: 369 090 268 187 \n密码: gzpvJp \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-
+ af1c-fd12f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_YjE1ZWI3MzAtZGEwOS00ZmQ4LWIxMGUtZjZlOWE2NjMwMGZm@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:工厂大厅集合
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
