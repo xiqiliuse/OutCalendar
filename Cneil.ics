@@ -5,84 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230511T083500
-DTEND;TZID="GMT 标准时间":20230511T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:R2R数据导入系统
-DTSTART;TZID="GMT 标准时间":20230511T133000
-DTEND;TZID="GMT 标准时间":20230511T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_NTY3M2FhYTUtZDI0NS00OTNmLT
- kwNjgtZGE3ZDhhNDAwNTIy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
- 5713688c%22%7d>  \n\n会议 ID: 394 921 130 620 \n密码: FaZkbq \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
- 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_NTY3M2FhYTUtZDI0NS00OTNmLTkwNjgtZGE3ZDhhNDAwNTIy@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datacenter-PPMS 定期回顾（颜色相关）
-DTSTART;TZID="GMT 标准时间":20230511T140000
-DTEND;TZID="GMT 标准时间":20230511T143000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI月会
-DTSTART;TZID="GMT 标准时间":20230511T150000
-DTEND;TZID="GMT 标准时间":20230511T170000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_OTA3NjdlODEtNjRjMS00NDBkLT
- kxNTUtZWUxMjYwMjMyOTM3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
- f9224084%22%7d>  \n\n会议 ID: 385 157 593 989 \n密码: ix7PYM \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
- 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_OTA3NjdlODEtNjRjMS00NDBkLTkxNTUtZWUxMjYwMjMyOTM3@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230512T083500
 DTEND;TZID="GMT 标准时间":20230512T092500
 CLASS:PUBLIC
@@ -109,6 +31,128 @@ DTEND;TZID="GMT 标准时间":20230512T103000
 CLASS:PUBLIC
 DESCRIPTION: \n\n \n
 LOCATION:工厂大厅
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G18外购色母自制切换成FRZ200357V001沟通
+DTSTART;TZID="GMT 标准时间":20230512T103000
+DTEND;TZID="GMT 标准时间":20230512T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n-----原始约会-----\n发件人: Zhou\, Xiaolan <x
+ iaolan.zhou@benecke-changshun.com.cn> \n发送时间: 2023年5月9日 11:1
+ 8\n收件人: Zhou\, Xiaolan\; Xu\, Jinlong (uie25425)\; Bian\, Yunfei (ui
+ e99820)\; Liu\, Jiawen02\; Sun\, Xiaoyong (uie17681)\; Xu\, Jinkai (uie998
+ 23)\n主题: G18外购色母自制切换成FRZ200357V001沟通\n时间: 20
+ 23年5月12日星期五 10:30-11:00(UTC+08:00) 北京，重庆，香港特
+ 别行政区，乌鲁木齐。\n地点: Microsoft Teams 会议\n\n \n\nAll
+ \,\n\n在连续临时变更了近2万米多个批次的跟踪（5月7号
+ 连续挤出近1万米也OK），目前自制的色母均无任何析出
+ ，邀会大家讨论下G18色母的变更意见。\n\n___________________
+ _____________________________________________________________ \n\nMicrosof
+ t Teams 会议 \n\n使用电脑、移动应用或会议室设备加入 \n\
+ n单击此处以加入会议 <https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_N2I1ODM3OGYtNTdlZC00OTVhLTg0YzAtNzM0YjM1ZDcxMzUz%40thread.v2/0?
+ context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid
+ %22%3a%22bb7080c9-7fd4-4ab7-b271-a9a49380fc23%22%7d>  \n\n会议 ID: 371 8
+ 32 398 113 \n密码: 2kjk95 \n\n下载 Teams <https://www.microsoft.com/en
+ -us/microsoft-teams/download-app>  | 在 web 上加入 <https://www.micros
+ oft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/J
+ oinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOptio
+ ns/?organizerId=bb7080c9-7fd4-4ab7-b271-a9a49380fc23&tenantId=8d4b558f-7b2
+ e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_N2I1ODM3OGYtNTdlZC00OTVhLTg0Y
+ zAtNzM0YjM1ZDcxMzUz@thread.v2&messageId=0&language=zh-CN>  | 法律 <https
+ ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n
+ \n________________________________________________________________________
+ ________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO挤出二代产品刮伤线条问题
+DTSTART;TZID="GMT 标准时间":20230512T123000
+DTEND;TZID="GMT 标准时间":20230512T130000
+CLASS:PUBLIC
+DESCRIPTION: \n\n5/11 EX1 U2100142L1620生产时发生严重的析出刮
+ 伤线条问题。\n
+LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:苏州市质量奖&张家港市市长质量奖
+DTSTART;TZID="GMT 标准时间":20230512T130000
+DTEND;TZID="GMT 标准时间":20230512T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n \n\n由于这次的资料收集必须在下周
+ 二前完成，因此我约了老师进行这次集中答疑\n\n大家务
+ 必看过清单里面本部分能够提供的所有资料 --- 重要！\n\
+ n \n\n \n\n \n\n \n\n_____________________________________________________
+ ___________________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、
+ 移动应用或会议室设备加入 \n\n单击此处以加入会议 <http
+ s://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDVmZjRhZWEtMTZmMS00MmR
+ lLWEwMGUtNzEyODA3Njk4MDFh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f
+ -7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22c9dcba31-96ae-4452-ab8f-6
+ 786ab875c96%22%7d>  \n\n会议 ID: 358 769 960 930 \n密码: K8Qnxo \n\n
+ 下载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app
+ >  | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-m
+ eeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项
+  <https://teams.microsoft.com/meetingOptions/?organizerId=c9dcba31-96ae-44
+ 52-ab8f-6786ab875c96&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
+ d=19_meeting_ZDVmZjRhZWEtMTZmMS00MmRlLWEwMGUtNzEyODA3Njk4MDFh@thread.v2&me
+ ssageId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5
+ /6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________________
+ __________________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230512T150000
+DTEND;TZID="GMT 标准时间":20230512T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello everyone! This is a weekly meeting where we discuss the 
+ status of development of the ContiGPT initiative\, as well as the next ste
+ ps. We're now making it open for anyone who's interested and wants to join
+ . The meeting usually has the following structure: 5 min - kick-off and ne
+ w people present themselves in the chat 15 min - updates (eg. pull request
+ s\, research\, biggest news\, etc) 30 min - look into the tasks\, discuss 
+ and assign them 10 min - other topics/questions Sorry for the short notice
+  for tomorrow\, and no worries if you can't join this time\, we plan to wr
+ ite meeting notes. See you! \n \n________________________________\n\nFrom:
+  Koll\, David <david.koll@conti.de>\nSent: Friday\, May 5\, 2023 8:08:02 A
+ M (UTC) Coordinated Universal Time\nTo: Koll\, David <david.koll@conti.de>
+ \; Di Seri\, Francesco (uif41207) <francesco.di.seri@conti.de>\; Dolic\, D
+ ubravko <dubravko.dolic@conti.de>\; Oliveira\, Nuno (uif29913) <nuno.andre
+ .oliveira@conti.de>\; Castro\, Filipa (uie21490) <filipa.branco.castro@con
+ ti.de>\; Ferreira\, Pedro Miguel (uie87530) <pedro.miguel.ferreira@conti-e
+ ngineering.com>\; Braun\, Stefan (uie32594) <stefan.braun@conti.de>\; Rueh
+ le\, Daniel (uia09444) <daniel01.ruehle@conti-engineering.com>\; Neuner\, 
+ Sabrina (uig02352) <sabrina.neuner@conti-engineering.com>\; Honsberg\, And
+ re (uic99644) <andre.honsberg@contitech.de>\; Rajendran\, Vinod (uie49878)
+  <vinod.rajendran@continental-corporation.com>\; Issac Baby\, Febin (uie45
+ 456) <febin.issac.baby@continental-corporation.com>\; Cholakov\, Kostadin 
+ (uif78526) <kostadin.cholakov@continental-corporation.com>\; Baer\, Daniel
+  (uia65328) <daniel.baer@continental-corporation.com>\nCc: Grosskreutz\, H
+ olger <holger.grosskreutz@conti.de>\nSubject: ContiGPT Regular Meeting\n\n
+ \n\nDear all\,\n\n \n\nthis the recurring meeting for ContiGPT as discusse
+ d. I hope I did not forget anyone – please feel free to forward!\n\n \n\
+ nBest\,\n\nDavid\n\n______________________________________________________
+ __________________________ \n\nMicrosoft Teams-Besprechung \n\nNehmen Sie 
+ auf dem Computer\, in der mobilen App oder im Raumgerät teil \n\nHier kli
+ cken\, um an der Besprechung teilzunehmen <https://teams.microsoft.com/l/m
+ eetup-join/19%3ameeting_ZDc0NzYwMDUtNTQxZC00MDQ4LTlmNWEtNjM3M2RiNzJmZTQ1%4
+ 0thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265
+ a%22%2c%22Oid%22%3a%225dbef54f-f08f-4e49-9a8f-b364b297136b%22%7d>  \n\nBes
+ prechungs-ID: 392 385 881 603 \nPasscode: TrM6ho \n\nTeams herunterladen <
+ https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Im Web be
+ itreten <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\nWei
+ tere Infos <https://aka.ms/JoinTeamsMeeting>  | Besprechungsoptionen <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=5dbef54f-f08f-4e49-9a8
+ f-b364b297136b&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_ZDc0NzYwMDUtNTQxZC00MDQ4LTlmNWEtNjM3M2RiNzJmZTQ1@thread.v2&messageI
+ d=0&language=de-DE>  | Rechtliche Hinweise <https://filehub.admiralcloud.c
+ om/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________
+ _________________________________________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -473,6 +517,60 @@ DESCRIPTION: \n\n_________________________________________________________
  -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
  _________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230519T150000
+DTEND;TZID="GMT 标准时间":20230519T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello everyone! This is a weekly meeting where we discuss the 
+ status of development of the ContiGPT initiative\, as well as the next ste
+ ps. We're now making it open for anyone who's interested and wants to join
+ . The meeting usually has the following structure: 5 min - kick-off and ne
+ w people present themselves in the chat 15 min - updates (eg. pull request
+ s\, research\, biggest news\, etc) 30 min - look into the tasks\, discuss 
+ and assign them 10 min - other topics/questions Sorry for the short notice
+  for tomorrow\, and no worries if you can't join this time\, we plan to wr
+ ite meeting notes. See you! \n \n________________________________\n\nFrom:
+  Koll\, David <david.koll@conti.de>\nSent: Friday\, May 5\, 2023 8:08:02 A
+ M (UTC) Coordinated Universal Time\nTo: Koll\, David <david.koll@conti.de>
+ \; Di Seri\, Francesco (uif41207) <francesco.di.seri@conti.de>\; Dolic\, D
+ ubravko <dubravko.dolic@conti.de>\; Oliveira\, Nuno (uif29913) <nuno.andre
+ .oliveira@conti.de>\; Castro\, Filipa (uie21490) <filipa.branco.castro@con
+ ti.de>\; Baer\, Daniel (uia65328) <daniel.baer@continental-corporation.com
+ >\; Ferreira\, Pedro Miguel (uie87530) <pedro.miguel.ferreira@conti-engine
+ ering.com>\; Braun\, Stefan (uie32594) <stefan.braun@conti.de>\; Ruehle\, 
+ Daniel (uia09444) <daniel01.ruehle@conti-engineering.com>\; Neuner\, Sabri
+ na (uig02352) <sabrina.neuner@conti-engineering.com>\; Honsberg\, Andre (u
+ ic99644) <andre.honsberg@contitech.de>\; Rajendran\, Vinod (uie49878) <vin
+ od.rajendran@continental-corporation.com>\; Issac Baby\, Febin (uie45456) 
+ <febin.issac.baby@continental-corporation.com>\; Cholakov\, Kostadin (uif7
+ 8526) <kostadin.cholakov@continental-corporation.com>\nCc: Grosskreutz\, H
+ olger <holger.grosskreutz@conti.de>\nSubject: ContiGPT Regular Meeting\nWh
+ en: Occurs every Friday from 9:00 AM to 10:00 AM effective 5/12/2023 until
+  10/27/2023. (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vi
+ enna\nWhere: Microsoft Teams-Besprechung\n\n\n\nDear all\,\n\n \n\nthis th
+ e recurring meeting for ContiGPT as discussed. I hope I did not forget any
+ one – please feel free to forward!\n\n \n\nBest\,\n\nDavid\n\n__________
+ ______________________________________________________________________ \n\
+ nMicrosoft Teams-Besprechung \n\nNehmen Sie auf dem Computer\, in der mobi
+ len App oder im Raumgerät teil \n\nHier klicken\, um an der Besprechung t
+ eilzunehmen <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc0Nz
+ YwMDUtNTQxZC00MDQ4LTlmNWEtNjM3M2RiNzJmZTQ1%40thread.v2/0?context=%7b%22Tid
+ %22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225dbef54f
+ -f08f-4e49-9a8f-b364b297136b%22%7d>  \n\nBesprechungs-ID: 392 385 881 603 
+ \nPasscode: TrM6ho \n\nTeams herunterladen <https://www.microsoft.com/en-u
+ s/microsoft-teams/download-app>  | Im Web beitreten <https://www.microsoft
+ .com/microsoft-teams/join-a-meeting> \n\nWeitere Infos <https://aka.ms/Joi
+ nTeamsMeeting>  | Besprechungsoptionen <https://teams.microsoft.com/meetin
+ gOptions/?organizerId=5dbef54f-f08f-4e49-9a8f-b364b297136b&tenantId=8d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDc0NzYwMDUtNTQxZC00MDQ
+ 4LTlmNWEtNjM3M2RiNzJmZTQ1@thread.v2&messageId=0&language=de-DE>  | Rechtli
+ che Hinweise <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -887,6 +985,60 @@ LOCATION:工厂大厅
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230526T150000
+DTEND;TZID="GMT 标准时间":20230526T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello everyone! This is a weekly meeting where we discuss the 
+ status of development of the ContiGPT initiative\, as well as the next ste
+ ps. We're now making it open for anyone who's interested and wants to join
+ . The meeting usually has the following structure: 5 min - kick-off and ne
+ w people present themselves in the chat 15 min - updates (eg. pull request
+ s\, research\, biggest news\, etc) 30 min - look into the tasks\, discuss 
+ and assign them 10 min - other topics/questions Sorry for the short notice
+  for tomorrow\, and no worries if you can't join this time\, we plan to wr
+ ite meeting notes. See you! \n \n________________________________\n\nFrom:
+  Koll\, David <david.koll@conti.de>\nSent: Friday\, May 5\, 2023 8:08:02 A
+ M (UTC) Coordinated Universal Time\nTo: Koll\, David <david.koll@conti.de>
+ \; Di Seri\, Francesco (uif41207) <francesco.di.seri@conti.de>\; Dolic\, D
+ ubravko <dubravko.dolic@conti.de>\; Oliveira\, Nuno (uif29913) <nuno.andre
+ .oliveira@conti.de>\; Castro\, Filipa (uie21490) <filipa.branco.castro@con
+ ti.de>\; Baer\, Daniel (uia65328) <daniel.baer@continental-corporation.com
+ >\; Ferreira\, Pedro Miguel (uie87530) <pedro.miguel.ferreira@conti-engine
+ ering.com>\; Braun\, Stefan (uie32594) <stefan.braun@conti.de>\; Ruehle\, 
+ Daniel (uia09444) <daniel01.ruehle@conti-engineering.com>\; Neuner\, Sabri
+ na (uig02352) <sabrina.neuner@conti-engineering.com>\; Honsberg\, Andre (u
+ ic99644) <andre.honsberg@contitech.de>\; Rajendran\, Vinod (uie49878) <vin
+ od.rajendran@continental-corporation.com>\; Issac Baby\, Febin (uie45456) 
+ <febin.issac.baby@continental-corporation.com>\; Cholakov\, Kostadin (uif7
+ 8526) <kostadin.cholakov@continental-corporation.com>\nCc: Grosskreutz\, H
+ olger <holger.grosskreutz@conti.de>\nSubject: ContiGPT Regular Meeting\nWh
+ en: Occurs every Friday from 9:00 AM to 10:00 AM effective 5/12/2023 until
+  10/27/2023. (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vi
+ enna\nWhere: Microsoft Teams-Besprechung\n\n\n\nDear all\,\n\n \n\nthis th
+ e recurring meeting for ContiGPT as discussed. I hope I did not forget any
+ one – please feel free to forward!\n\n \n\nBest\,\n\nDavid\n\n__________
+ ______________________________________________________________________ \n\
+ nMicrosoft Teams-Besprechung \n\nNehmen Sie auf dem Computer\, in der mobi
+ len App oder im Raumgerät teil \n\nHier klicken\, um an der Besprechung t
+ eilzunehmen <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc0Nz
+ YwMDUtNTQxZC00MDQ4LTlmNWEtNjM3M2RiNzJmZTQ1%40thread.v2/0?context=%7b%22Tid
+ %22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225dbef54f
+ -f08f-4e49-9a8f-b364b297136b%22%7d>  \n\nBesprechungs-ID: 392 385 881 603 
+ \nPasscode: TrM6ho \n\nTeams herunterladen <https://www.microsoft.com/en-u
+ s/microsoft-teams/download-app>  | Im Web beitreten <https://www.microsoft
+ .com/microsoft-teams/join-a-meeting> \n\nWeitere Infos <https://aka.ms/Joi
+ nTeamsMeeting>  | Besprechungsoptionen <https://teams.microsoft.com/meetin
+ gOptions/?organizerId=5dbef54f-f08f-4e49-9a8f-b364b297136b&tenantId=8d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDc0NzYwMDUtNTQxZC00MDQ
+ 4LTlmNWEtNjM3M2RiNzJmZTQ1@thread.v2&messageId=0&language=de-DE>  | Rechtli
+ che Hinweise <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:前期开发和客户项目回顾
 DTSTART;TZID="GMT 标准时间":20230526T150000
 DTEND;TZID="GMT 标准时间":20230526T170000
@@ -1201,6 +1353,60 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230602T150000
+DTEND;TZID="GMT 标准时间":20230602T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello everyone! This is a weekly meeting where we discuss the 
+ status of development of the ContiGPT initiative\, as well as the next ste
+ ps. We're now making it open for anyone who's interested and wants to join
+ . The meeting usually has the following structure: 5 min - kick-off and ne
+ w people present themselves in the chat 15 min - updates (eg. pull request
+ s\, research\, biggest news\, etc) 30 min - look into the tasks\, discuss 
+ and assign them 10 min - other topics/questions Sorry for the short notice
+  for tomorrow\, and no worries if you can't join this time\, we plan to wr
+ ite meeting notes. See you! \n \n________________________________\n\nFrom:
+  Koll\, David <david.koll@conti.de>\nSent: Friday\, May 5\, 2023 8:08:02 A
+ M (UTC) Coordinated Universal Time\nTo: Koll\, David <david.koll@conti.de>
+ \; Di Seri\, Francesco (uif41207) <francesco.di.seri@conti.de>\; Dolic\, D
+ ubravko <dubravko.dolic@conti.de>\; Oliveira\, Nuno (uif29913) <nuno.andre
+ .oliveira@conti.de>\; Castro\, Filipa (uie21490) <filipa.branco.castro@con
+ ti.de>\; Baer\, Daniel (uia65328) <daniel.baer@continental-corporation.com
+ >\; Ferreira\, Pedro Miguel (uie87530) <pedro.miguel.ferreira@conti-engine
+ ering.com>\; Braun\, Stefan (uie32594) <stefan.braun@conti.de>\; Ruehle\, 
+ Daniel (uia09444) <daniel01.ruehle@conti-engineering.com>\; Neuner\, Sabri
+ na (uig02352) <sabrina.neuner@conti-engineering.com>\; Honsberg\, Andre (u
+ ic99644) <andre.honsberg@contitech.de>\; Rajendran\, Vinod (uie49878) <vin
+ od.rajendran@continental-corporation.com>\; Issac Baby\, Febin (uie45456) 
+ <febin.issac.baby@continental-corporation.com>\; Cholakov\, Kostadin (uif7
+ 8526) <kostadin.cholakov@continental-corporation.com>\nCc: Grosskreutz\, H
+ olger <holger.grosskreutz@conti.de>\nSubject: ContiGPT Regular Meeting\nWh
+ en: Occurs every Friday from 9:00 AM to 10:00 AM effective 5/12/2023 until
+  10/27/2023. (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vi
+ enna\nWhere: Microsoft Teams-Besprechung\n\n\n\nDear all\,\n\n \n\nthis th
+ e recurring meeting for ContiGPT as discussed. I hope I did not forget any
+ one – please feel free to forward!\n\n \n\nBest\,\n\nDavid\n\n__________
+ ______________________________________________________________________ \n\
+ nMicrosoft Teams-Besprechung \n\nNehmen Sie auf dem Computer\, in der mobi
+ len App oder im Raumgerät teil \n\nHier klicken\, um an der Besprechung t
+ eilzunehmen <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc0Nz
+ YwMDUtNTQxZC00MDQ4LTlmNWEtNjM3M2RiNzJmZTQ1%40thread.v2/0?context=%7b%22Tid
+ %22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225dbef54f
+ -f08f-4e49-9a8f-b364b297136b%22%7d>  \n\nBesprechungs-ID: 392 385 881 603 
+ \nPasscode: TrM6ho \n\nTeams herunterladen <https://www.microsoft.com/en-u
+ s/microsoft-teams/download-app>  | Im Web beitreten <https://www.microsoft
+ .com/microsoft-teams/join-a-meeting> \n\nWeitere Infos <https://aka.ms/Joi
+ nTeamsMeeting>  | Besprechungsoptionen <https://teams.microsoft.com/meetin
+ gOptions/?organizerId=5dbef54f-f08f-4e49-9a8f-b364b297136b&tenantId=8d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDc0NzYwMDUtNTQxZC00MDQ
+ 4LTlmNWEtNjM3M2RiNzJmZTQ1@thread.v2&messageId=0&language=de-DE>  | Rechtli
+ che Hinweise <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230605T083500
 DTEND;TZID="GMT 标准时间":20230605T092500
@@ -1372,6 +1578,60 @@ DTEND;TZID="GMT 标准时间":20230609T103000
 CLASS:PUBLIC
 DESCRIPTION: \n\n \n
 LOCATION:工厂大厅
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230609T150000
+DTEND;TZID="GMT 标准时间":20230609T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello everyone! This is a weekly meeting where we discuss the 
+ status of development of the ContiGPT initiative\, as well as the next ste
+ ps. We're now making it open for anyone who's interested and wants to join
+ . The meeting usually has the following structure: 5 min - kick-off and ne
+ w people present themselves in the chat 15 min - updates (eg. pull request
+ s\, research\, biggest news\, etc) 30 min - look into the tasks\, discuss 
+ and assign them 10 min - other topics/questions Sorry for the short notice
+  for tomorrow\, and no worries if you can't join this time\, we plan to wr
+ ite meeting notes. See you! \n \n________________________________\n\nFrom:
+  Koll\, David <david.koll@conti.de>\nSent: Friday\, May 5\, 2023 8:08:02 A
+ M (UTC) Coordinated Universal Time\nTo: Koll\, David <david.koll@conti.de>
+ \; Di Seri\, Francesco (uif41207) <francesco.di.seri@conti.de>\; Dolic\, D
+ ubravko <dubravko.dolic@conti.de>\; Oliveira\, Nuno (uif29913) <nuno.andre
+ .oliveira@conti.de>\; Castro\, Filipa (uie21490) <filipa.branco.castro@con
+ ti.de>\; Baer\, Daniel (uia65328) <daniel.baer@continental-corporation.com
+ >\; Ferreira\, Pedro Miguel (uie87530) <pedro.miguel.ferreira@conti-engine
+ ering.com>\; Braun\, Stefan (uie32594) <stefan.braun@conti.de>\; Ruehle\, 
+ Daniel (uia09444) <daniel01.ruehle@conti-engineering.com>\; Neuner\, Sabri
+ na (uig02352) <sabrina.neuner@conti-engineering.com>\; Honsberg\, Andre (u
+ ic99644) <andre.honsberg@contitech.de>\; Rajendran\, Vinod (uie49878) <vin
+ od.rajendran@continental-corporation.com>\; Issac Baby\, Febin (uie45456) 
+ <febin.issac.baby@continental-corporation.com>\; Cholakov\, Kostadin (uif7
+ 8526) <kostadin.cholakov@continental-corporation.com>\nCc: Grosskreutz\, H
+ olger <holger.grosskreutz@conti.de>\nSubject: ContiGPT Regular Meeting\nWh
+ en: Occurs every Friday from 9:00 AM to 10:00 AM effective 5/12/2023 until
+  10/27/2023. (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vi
+ enna\nWhere: Microsoft Teams-Besprechung\n\n\n\nDear all\,\n\n \n\nthis th
+ e recurring meeting for ContiGPT as discussed. I hope I did not forget any
+ one – please feel free to forward!\n\n \n\nBest\,\n\nDavid\n\n__________
+ ______________________________________________________________________ \n\
+ nMicrosoft Teams-Besprechung \n\nNehmen Sie auf dem Computer\, in der mobi
+ len App oder im Raumgerät teil \n\nHier klicken\, um an der Besprechung t
+ eilzunehmen <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDc0Nz
+ YwMDUtNTQxZC00MDQ4LTlmNWEtNjM3M2RiNzJmZTQ1%40thread.v2/0?context=%7b%22Tid
+ %22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225dbef54f
+ -f08f-4e49-9a8f-b364b297136b%22%7d>  \n\nBesprechungs-ID: 392 385 881 603 
+ \nPasscode: TrM6ho \n\nTeams herunterladen <https://www.microsoft.com/en-u
+ s/microsoft-teams/download-app>  | Im Web beitreten <https://www.microsoft
+ .com/microsoft-teams/join-a-meeting> \n\nWeitere Infos <https://aka.ms/Joi
+ nTeamsMeeting>  | Besprechungsoptionen <https://teams.microsoft.com/meetin
+ gOptions/?organizerId=5dbef54f-f08f-4e49-9a8f-b364b297136b&tenantId=8d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDc0NzYwMDUtNTQxZC00MDQ
+ 4LTlmNWEtNjM3M2RiNzJmZTQ1@thread.v2&messageId=0&language=de-DE>  | Rechtli
+ che Hinweise <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
