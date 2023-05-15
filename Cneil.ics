@@ -102,6 +102,32 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LT6替代品
+DTSTART;TZID="GMT 标准时间":20230516T090000
+DTEND;TZID="GMT 标准时间":20230516T093000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n附件为常熟LT157的相关信息，我
+ 们一起讨论下是否可以暂时借来BCZ使用。\n\n \n\n___________
+ _____________________________________________________________________ \n\n
+ Microsoft Teams 会议 \n\n使用电脑、移动应用或会议室设备
+ 加入 \n\n单击此处以加入会议 <https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_ODQ4YmNjYmMtZmMxNy00N2Y0LTkyNDYtZWRkNWRmNDNlNDZi%40th
+ read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
+ 2%2c%22Oid%22%3a%221f0dbcf7-ebb1-439d-b5d6-bf11ec4e1138%22%7d>  \n\n会议
+  ID: 352 457 555 630 \n密码: 6iS6ZW \n\n下载 Teams <https://www.micros
+ oft.com/en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://
+ www.microsoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https:
+ //aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/me
+ etingOptions/?organizerId=1f0dbcf7-ebb1-439d-b5d6-bf11ec4e1138&tenantId=8d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ODQ4YmNjYmMtZmMxNy0
+ 0N2Y0LTkyNDYtZWRkNWRmNDNlNDZi@thread.v2&messageId=0&language=zh-CN>  | 法
+ 律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n\n______________________________________________________________
+ __________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:退库色母粒后续问题解决
 DTSTART;TZID="GMT 标准时间":20230516T103000
 DTEND;TZID="GMT 标准时间":20230516T110000
@@ -392,7 +418,7 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:工厂站会+Gemba Walk
+SUMMARY:已取消: 工厂站会+Gemba Walk
 DTSTART;TZID="GMT 标准时间":20230519T100000
 DTEND;TZID="GMT 标准时间":20230519T103000
 CLASS:PUBLIC
