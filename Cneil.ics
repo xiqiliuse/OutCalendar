@@ -51,6 +51,15 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPO挤出析出刮伤线条问题
+DTSTART;TZID="GMT 标准时间":20230516T103000
+DTEND;TZID="GMT 标准时间":20230516T110000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TPO现场EM4对面
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:退库色母粒后续问题解决
 DTSTART;TZID="GMT 标准时间":20230516T103000
 DTEND;TZID="GMT 标准时间":20230516T110000
@@ -667,6 +676,30 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX2_3#压延辊采购讨论
+DTSTART;TZID="GMT 标准时间":20230524T100000
+DTEND;TZID="GMT 标准时间":20230524T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_M2VlYjJkZGMtMmZjMy00NzM5LT
+ hkZDctZGY5MTAxYjFhNzcx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2287c6bfd1-200c-4095-a907-9bab
+ 8a2caed2%22%7d>  \n\n会议 ID: 398 764 480 905 \n密码: s8f2AG \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=87c6bfd1-200c-4095-
+ a907-9bab8a2caed2&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_M2VlYjJkZGMtMmZjMy00NzM5LThkZDctZGY5MTAxYjFhNzcx@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议\; TPO早会区域
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TPO颜色梳理会
 DTSTART;TZID="GMT 标准时间":20230524T130000
 DTEND;TZID="GMT 标准时间":20230524T140000
@@ -729,6 +762,77 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Next Open Call May 25th 
+DTSTART;TZID="GMT 标准时间":20230525T143000
+DTEND;TZID="GMT 标准时间":20230525T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all \, \n\n \n\nPlease see the Innovation Open Call Invit
+ ation as below \, feel free to attend the meeting if you are interested in
+  .\n\n \n\nYou can also distribute the e-mail to your colleagues \, thank 
+ you .\n\n \n\n-----原始约会-----\n发件人: Mueller\, Viviane (uif702
+ 94) <viviane.mueller@continental.com <mailto:viviane.mueller@continental.c
+ om> > \n发送时间: 2023年5月16日 15:47\n收件人: Mueller\, Viviane
+  (uif70294)\; Appel\, Markus (uia05600)\; Aruchamy\, Shumitha (uib25171)\;
+  Arunachalam\, Subash (uic21607)\; Barho\, Erhard\; Berger\, Elena\; Letou
+ rneux\, Laurent\; Bolda\, Bogdan (uidn8484)\; Depari\, Leonardus\; Emmert\
+ , Pia\; Etzl\, Thomas\; Fanti\, Donatella (uib59865)\; Franke\, Martin\; G
+ eorge\, Jofin\; Grasse\, Timo\; Guo\, Yu\; Haarburger\, Tobias\; Hebbale\,
+  Veeresh Ravichand (uidn1550)\; Heider\, Michael02\; Heilfort\, Stefan (ui
+ a53506)\; Heller\, Michael\; Hildebrand\, Lasse (uic27635)\; Hoefer\, Sara
+ h\; Hwang\, Boon Hun (uif21494)\; Irro\, Karin\; James\, Akhil\; Klass\, M
+ ichaela\; Kolar\, Hannes\; Krone\, Karsten\; LANUZA PEREZ\, PASTOR FERNAND
+ O (uia71862)\; Lee\, Min-Sook\; Lu\, Xinhua\; Macias\, Daniel01\; Marcato\
+ , Rodrigo (uie34479)\; Marne\, Shubham (uif48492)\; Morley\, John\; Mundhe
+ nke\, Jens (uie55751)\; Nassauer\, Benjamin\; Ochotta-Drechsel\, Christian
+ \; Onica\, Marian\; Ortizvalero\, Carlos\; Plinke\, Steffen\; Priyadarshi\
+ , Devvrata\; Real Rojano\, Juan Francisco (uie55811)\; Reinholz\, Simon (r
+ einholzs)\; Renaud\, Michael (uic04586)\; Reusch\, Stefan\; Riehle\, Natas
+ cha\; Rizolu\, Cristian\; Roehrs\, Soenke (roehrss)\; Rothenberger\, Nikol
+ ai\; Scherba\, Kamil\; Schneider\, Jannes02 (schneiderj4)\; Schrader\, Wol
+ fgang\; Seibel\, Alexander\; Teixeira\, Carlos\; TORRES PEREZ\, LUIS FELIP
+ E (uic10295)\; Tote\, Matthias\; Wieland\, Simone\; Wolff\, Matthias02\; X
+ u\, Yanqiu\; Yazici\, Nihat\; Zwick\, Andre (uic56335)\; Monteiro\, Marcos
+ 03 (uie82484)\; Biris\, Cosmin\; Cram\, Joshua (cramj)\; Leipold\, Kevin\;
+  S\, Parthiban (uie24003)\; Bauer\, Alexander02 (uif41274)\; Patil\, Raman
+ agouda Shekhargouda (uib45598)\; Aytun\, Emre (uie55815)\; Winkler\, Jens\
+ n主题: Next Open Call May 25th \n时间: 2023年5月25日星期四 8:30-
+ 9:00(UTC+01:00) 阿姆斯特丹，柏林，伯尔尼，罗马，斯德哥
+ 尔摩，维也纳。\n地点: https://teams.microsoft.com/l/meetup-join/1
+ 9%3ameeting_ZDI0NWQ0YjEtMDJiZC00OWFiLThmNTEtNTNhYTQwNzliZWFh%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oi
+ d%22%3a%22551acd01-d195-4d2d-b720-6de26c6fa98e%22%7d\n\n \n\nDear innovati
+ on explorers\,\n\n \n\nwe will have our second Open Call on May 25th. The 
+ topic will be What can we offer for you?. For this we created a page on Sl
+ i.do <https://app.sli.do/event/3fENk2fKz44Gv5k8RQTzwz/live/questions>  whe
+ re you can ask questions you are interesting in before the meeting. This w
+ ill help us to prepare best prior the Q&A session at the end of the call. 
+ \nIf you aren’t able to take part in the morning\, we will also offer yo
+ u to take part in the evening from  04-04:30pm CEST. \n\n \n\nDuring the s
+ ession we will talk about:\n\n*	our Workshops\, \n*	the Explorer Community
+ \,\n*	Inspiration you get from our page on ConNext\,\n*	give you Informati
+ on about initiatives (Innovation Canteen\, Open Calls)\n*	and the Incubato
+ r\n\n \n\nClick here to be part of it:\n\nTEAMS LINK <https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_ZDI0NWQ0YjEtMDJiZC00OWFiLThmNTEtNTNhYTQ
+ wNzliZWFh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%22551acd01-d195-4d2d-b720-6de26c6fa98e%22%7
+ d> \n\n \n\nWe are looking forward to see many of you! \nIf you want to kn
+ ow more about our Open Calls\, check following pages on ConNext.\n\n*	Next
+  Open Call from the Innovation Management <https://connext.conti.de/blogs/
+ afac7cce-168d-469a-88c0-26d13faaa0c5/entry/Next_Open_Call_from_the_Innovat
+ ion_Management?lang=de> \n*	Future Events for the Open Call <https://conne
+ xt.conti.de/communities/service/html/communityview?communityUuid=afac7cce-
+ 168d-469a-88c0-26d13faaa0c5#fullpageWidgetId=W8ba1f9655a0a_45d3_87a5_41c1a
+ 2dad861> \n*	WIKI about Open Call Events <https://connext.conti.de/wikis/h
+ ome?lang=de#!/wiki/W5e1651b2fbe1_4550_a8a4_036c054472af/page/Open%20Calls>
+  \n\nBest regards\,\n\nViviane and the Innovation Management Team\n\n \n\n
+  \n\n \n\n \n
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDI0NWQ0Yj
+ EtMDJiZC00OWFiLThmNTEtNTNhYTQwNzliZWFh%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22551acd01-d19
+ 5-4d2d-b720-6de26c6fa98e%22%7d
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blocker CBS R&D Community Call - (Asia & Europe) - Save the date
 DTSTART;TZID="GMT 标准时间":20230525T150000
 DTEND;TZID="GMT 标准时间":20230525T154500
@@ -766,7 +870,7 @@ DTSTART;TZID="GMT 标准时间":20230525T160000
 DTEND;TZID="GMT 标准时间":20230525T163000
 CLASS:PUBLIC
 DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
