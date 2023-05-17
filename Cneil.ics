@@ -85,7 +85,7 @@ LOCATION:TPO Production
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TPO颜色梳理会
+SUMMARY:已取消: TPO颜色梳理会
 DTSTART;TZID="GMT 标准时间":20230517T130000
 DTEND;TZID="GMT 标准时间":20230517T140000
 CLASS:PUBLIC
@@ -1070,6 +1070,34 @@ DTEND;TZID="GMT 标准时间":20230531T140000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carino#5-Kick-Off AsiaPacific/Europe
+DTSTART;TZID="GMT 标准时间":20230531T150000
+DTEND;TZID="GMT 标准时间":20230531T160000
+CLASS:PUBLIC
+DESCRIPTION:You are welcome to join this kick-off session for the fifth ed
+ ition of the CARIÑO contest. During this session\, you will get familiar 
+ with the topic of the contest\, you will learn how to setup a working envi
+ ronment and you will find out how to request help throughout the contest.\
+ n\n\n\n\n_________________________________________________________________
+ _______________ \nMicrosoft Teams meeting \nJoin on your computer\, mobile
+  app or room device \nClick here to join the meeting <https://teams.micros
+ oft.com/l/meetup-join/19%3a5c929973dc854ae483bee997e83ef527%40thread.skype
+ /1684306568057?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e62
+ 65a%22%2c%22Oid%22%3a%226a4d99bb-f6f3-407c-9614-4be0d6cb287f%22%7d>  \nMee
+ ting ID: 311 031 204 898 \nPasscode: ReZckk \nDownload Teams <https://www.
+ microsoft.com/en-us/microsoft-teams/download-app>  | Join on the web <http
+ s://www.microsoft.com/microsoft-teams/join-a-meeting> \nLearn More <https:
+ //aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com
+ /meetingOptions/?organizerId=6a4d99bb-f6f3-407c-9614-4be0d6cb287f&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_5c929973dc854ae483bee997
+ e83ef527@thread.skype&messageId=1684306568057&language=en-US>  | Legal <ht
+ tps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> 
+  \n_______________________________________________________________________
+ _________ 
+LOCATION:
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
