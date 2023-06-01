@@ -5,8 +5,8 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230531T083500
-DTEND;TZID="GMT 标准时间":20230531T092500
+DTSTART;TZID="GMT 标准时间":20230601T083500
+DTEND;TZID="GMT 标准时间":20230601T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
@@ -25,173 +25,28 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TPO颜色梳理会
-DTSTART;TZID="GMT 标准时间":20230531T130000
-DTEND;TZID="GMT 标准时间":20230531T140000
+SUMMARY:锦湖EPDM粒径调整再试验
+DTSTART;TZID="GMT 标准时间":20230601T103000
+DTEND;TZID="GMT 标准时间":20230601T110000
 CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carino#5-Kick-Off AsiaPacific/Europe
-DTSTART;TZID="GMT 标准时间":20230531T150000
-DTEND;TZID="GMT 标准时间":20230531T160000
-CLASS:PUBLIC
-DESCRIPTION:You are welcome to join this kick-off session for the fifth ed
- ition of the CARIÑO contest. During this session\, you will get familiar 
- with the topic of the contest\, you will learn how to setup a working envi
- ronment and you will find out how to request help throughout the contest.\
- n\n\n\n\n_________________________________________________________________
- _______________ \nMicrosoft Teams meeting \nJoin on your computer\, mobile
-  app or room device \nClick here to join the meeting <https://teams.micros
- oft.com/l/meetup-join/19%3a5c929973dc854ae483bee997e83ef527%40thread.skype
- /1684306568057?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e62
- 65a%22%2c%22Oid%22%3a%226a4d99bb-f6f3-407c-9614-4be0d6cb287f%22%7d>  \nMee
- ting ID: 311 031 204 898 \nPasscode: ReZckk \nDownload Teams <https://www.
- microsoft.com/en-us/microsoft-teams/download-app>  | Join on the web <http
- s://www.microsoft.com/microsoft-teams/join-a-meeting> \nLearn More <https:
- //aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com
- /meetingOptions/?organizerId=6a4d99bb-f6f3-407c-9614-4be0d6cb287f&tenantId
- =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_5c929973dc854ae483bee997
- e83ef527@thread.skype&messageId=1684306568057&language=en-US>  | Legal <ht
- tps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> 
-  \n_______________________________________________________________________
- _________ 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monthly CBS Admin Call 2023 (Asia/Europe)
-DTSTART;TZID="GMT 标准时间":20230531T150000
-DTEND;TZID="GMT 标准时间":20230531T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Admin Community\,\n\n\n\n\n\nI am looking forward sha
- ring & learning with you in our monthly CBS Admin Calls.\n\n\n\n\n\nThe ag
- enda will be published one week prior to the call.\n\n\n\n\n\nPlease let m
- e know the topics you would like to share & invite colleagues if topics mi
- ght be interesting for them.\n\n\n\n\n\n​Looking forward talking to you\
- ,Julia\n\n\n\n\n\n________________________________________________________
- ________________________ \nMicrosoft Teams meeting \nJoin on your computer
- \, mobile app or room device \nClick here to join the meeting <https://tea
- ms.microsoft.com/l/meetup-join/19%3a74d6416fc98c4f53ba861baaad5f04ae%40thr
- ead.skype/1669713683000?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a%22%2c%22Oid%22%3a%22dfef8758-0d06-4144-8413-55a9776d136c%22%7
- d>  \nMeeting ID: 362 178 713 723 \nPasscode: 74Lj7G \nDownload Teams <htt
- ps://www.microsoft.com/en-us/microsoft-teams/download-app>  | Join on the 
- web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \nLearn Mor
- e <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.micr
- osoft.com/meetingOptions/?organizerId=dfef8758-0d06-4144-8413-55a9776d136c
- &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_74d6416fc98c4f5
- 3ba861baaad5f04ae@thread.skype&messageId=1669713683000&language=en-US>  | 
- Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684
- ab9ad7e>  \n______________________________________________________________
- __________________ 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WD/WK 90019颜色工业化验证
-DTSTART;TZID="GMT 标准时间":20230531T160000
-DTEND;TZID="GMT 标准时间":20230531T163000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:teams
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monthly CBS Admin Call 2023 (Europe/Americas)
-DTSTART;TZID="GMT 标准时间":20230531T210000
-DTEND;TZID="GMT 标准时间":20230531T220000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Admin Community\,\n\n\n\n\n\nI am looking forward sha
- ring & learning with you in our monthly CBS Admin Calls.\n\n\n\n\n\nThe ag
- enda will be published one week prior to the call.\n\n\n\n\n\nPlease let m
- e know the topics you would like to share & invite colleagues if topics mi
- ght be interesting for them.\n\n\n\n\n\n​Looking forward talking to you\
- ,Julia\n\n\n\n\n\n________________________________________________________
- ________________________ \nMicrosoft Teams meeting \nJoin on your computer
- \, mobile app or room device \nClick here to join the meeting <https://tea
- ms.microsoft.com/l/meetup-join/19%3a74d6416fc98c4f53ba861baaad5f04ae%40thr
- ead.skype/1669713854356?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a%22%2c%22Oid%22%3a%22dfef8758-0d06-4144-8413-55a9776d136c%22%7
- d>  \nMeeting ID: 321 078 132 76 \nPasscode: guiEF3 \nDownload Teams <http
- s://www.microsoft.com/en-us/microsoft-teams/download-app>  | Join on the w
- eb <https://www.microsoft.com/microsoft-teams/join-a-meeting> \nLearn More
-  <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.micro
- soft.com/meetingOptions/?organizerId=dfef8758-0d06-4144-8413-55a9776d136c&
- tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_74d6416fc98c4f53
- ba861baaad5f04ae@thread.skype&messageId=1669713854356&language=en-US>  | L
- egal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684a
- b9ad7e>  \n_______________________________________________________________
- _________________ 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARINO#5 - Kick-Off Europe/Americas
-DTSTART;TZID="GMT 标准时间":20230531T230000
-DTEND;TZID="GMT 标准时间":20230601T000000
-CLASS:PUBLIC
-DESCRIPTION:You are welcome to join this kick-off session for the fifth ed
- ition of the CARIÑO contest. \n\nDuring this session\, you will get famil
- iar with the topic of the contest\, you will learn how to setup a working 
- environment and you will find out how to request help throughout the conte
- st.\n\n\n\n\n_____________________________________________________________
- ___________________ \nMicrosoft Teams meeting \nJoin on your computer\, mo
- bile app or room device \nClick here to join the meeting <https://teams.mi
- crosoft.com/l/meetup-join/19%3a5c929973dc854ae483bee997e83ef527%40thread.s
- kype/1684319525056?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d7
- 9e6265a%22%2c%22Oid%22%3a%226a4d99bb-f6f3-407c-9614-4be0d6cb287f%22%7d>  \
- nMeeting ID: 342 805 807 984 \nPasscode: 4dDQWL \nDownload Teams <https://
- www.microsoft.com/en-us/microsoft-teams/download-app>  | Join on the web <
- https://www.microsoft.com/microsoft-teams/join-a-meeting> \nLearn More <ht
- tps://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft
- .com/meetingOptions/?organizerId=6a4d99bb-f6f3-407c-9614-4be0d6cb287f&tena
- ntId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_5c929973dc854ae483be
- e997e83ef527@thread.skype&messageId=1684319525056&language=en-US>  | Legal
-  <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad
- 7e>  \n___________________________________________________________________
- _____________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:儿童节
-DTSTART;TZID="GMT 标准时间":20230601T000000
-DTEND;TZID="GMT 标准时间":20230602T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:儿童节
-DTSTART;TZID="GMT 标准时间":20230601T000000
-DTEND;TZID="GMT 标准时间":20230602T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230601T083500
-DTEND;TZID="GMT 标准时间":20230601T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
+DESCRIPTION:Dear All\,\n\n我们简短沟通下测试锦湖EPDM隔离剂
+ 粒径变化对于刮伤的影响，谢谢大家的参与！\n\n__________
+ ______________________________________________________________________ \n\
+ nMicrosoft Teams 会议 \n\n使用电脑、移动应用或会议室设备
+ 加入 \n\n单击此处以加入会议 <https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_ODE1OGIxM2UtZTdkMy00NGM0LTlmYzAtMWNhNTZjMmU2YTEy%40th
+ read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
+ 2%2c%22Oid%22%3a%225095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议
+  ID: 316 795 033 574 \n密码: 6Ls4eG \n\n下载 Teams <https://www.micros
+ oft.com/en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://
+ www.microsoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https:
+ //aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/me
+ etingOptions/?organizerId=5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ODE1OGIxM2UtZTdkMy0
+ 0NGM0LTlmYzAtMWNhNTZjMmU2YTEy@thread.v2&messageId=0&language=zh-CN>  | 法
+ 律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n\n______________________________________________________________
+ __________________ \n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -1220,34 +1075,12 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blocker CBS R&D Community Call - (Asia & Europe) - Save the date
+SUMMARY:Abgesagt: Blocker CBS R&D Community Call - (Asia & Europe) - Save 
+ the date
 DTSTART;TZID="GMT 标准时间":20230622T150000
 DTEND;TZID="GMT 标准时间":20230622T154500
 CLASS:PUBLIC
-DESCRIPTION:Dear CBS Coach Community\,\n\n \n\nplease be invited for our C
- BS R&D Community Calls in 2023.\n\n \n\n*  Just accept this series of invi
- tations in Outlook to have all the events available in your Outlook calend
- er \n\n*  For each event (call) we will send 1 week before the updated age
- nda and related topics for your information\n\n*  If you are interested pl
- ease accept the update\, if not just ignore this specific event.\n\n \n\nL
- ooking forward to see you in the scheduled calls in 2023\n\nMany regards\n
- \nJoachim\n\n \n\n________________________________________________________
- ________________________ \n\nMicrosoft Teams-Besprechung \n\nNehmen Sie au
- f dem Computer oder in der mobilen App teil \n\nHier klicken\, um an der B
- esprechung teilzunehmen <https://teams.microsoft.com/l/meetup-join/19%3ame
- eting_ZDVlY2QyZTAtYWRmMC00MmU4LThlZmQtOWRhNmJjNGFmNTZi%40thread.v2/0?conte
- xt=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3
- a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d>  \n\nBesprechungs-ID: 350 
- 690 799 154 \nPasscode: Vqrfeq \n\nTeams herunterladen <https://www.micros
- oft.com/en-us/microsoft-teams/download-app>  | Im Web beitreten <https://w
- ww.microsoft.com/microsoft-teams/join-a-meeting> \n\nWeitere Infos <https:
- //aka.ms/JoinTeamsMeeting>  | Besprechungsoptionen <https://teams.microsof
- t.com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d&ten
- antId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDVlY2QyZTA
- tYWRmMC00MmU4LThlZmQtOWRhNmJjNGFmNTZi@thread.v2&messageId=0&language=de-DE
- >  | Rechtliche Hinweise <https://filehub.admiralcloud.com/dl/5/6501531f-d
- 1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
- _______________________________________ \n\n \n
+DESCRIPTION:Deleted to due moved Call to Jun 29\, 2023
 LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -1284,35 +1117,12 @@ LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blocker CBS R&D Community Call (Americas & Europe (optional)) - Sa
- fe the date
+SUMMARY:Abgesagt: Blocker CBS R&D Community Call (Americas & Europe (optio
+ nal)) - Safe the date
 DTSTART;TZID="GMT 标准时间":20230622T220000
 DTEND;TZID="GMT 标准时间":20230622T224500
 CLASS:PUBLIC
-DESCRIPTION:Dear CBS Coach Community\,\n\n \n\nplease be invited for our C
- BS R&D Community Calls in 2023.\n\n \n\n*  Just accept this series of invi
- tations in Outlook to have all the events available in your Outlook calend
- er \n\n*  For each event (call) we will send 1 week before the updated age
- nda and related topics for your information\n\n*  If you are interested pl
- ease accept the update\, if not just ignore this specific event.\n\n \n\nL
- ooking forward to see you in the scheduled calls in 2023\n\nMany regards\n
- \nJoachim\n\n \n\n________________________________________________________
- ________________________ \n\nMicrosoft Teams-Besprechung \n\nNehmen Sie au
- f dem Computer oder in der mobilen App teil \n\nHier klicken\, um an der B
- esprechung teilzunehmen <https://teams.microsoft.com/l/meetup-join/19%3ame
- eting_YWU3MDczOTktYTAwMC00YjMyLTliZGYtODFhNzA2ZjkwYTkz%40thread.v2/0?conte
- xt=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3
- a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d>  \n\nBesprechungs-ID: 368 
- 742 147 137 \nPasscode: Krinif \n\nTeams herunterladen <https://www.micros
- oft.com/en-us/microsoft-teams/download-app>  | Im Web beitreten <https://w
- ww.microsoft.com/microsoft-teams/join-a-meeting> \n\nWeitere Infos <https:
- //aka.ms/JoinTeamsMeeting>  | Besprechungsoptionen <https://teams.microsof
- t.com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d&ten
- antId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YWU3MDczOTk
- tYTAwMC00YjMyLTliZGYtODFhNzA2ZjkwYTkz@thread.v2&messageId=0&language=de-DE
- >  | Rechtliche Hinweise <https://filehub.admiralcloud.com/dl/5/6501531f-d
- 1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
- _______________________________________ \n\n \n
+DESCRIPTION:Deleted due to moved Call to Jun 29\, 2023
 LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -1627,6 +1437,220 @@ DESCRIPTION:CLASSROOM 129426 4/6/2022 05:53 PM Asia/Shanghai - CN_HQ Shang
  rebné urobiť priamo v systéme mySuccess Learning (LMS).
 LOCATION:Shanghai - No538\, Dalian Road\, Yangpu District\, Meeting Room (
  TBD)
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Updated Agenda - CBS R&D Community Call - (Asia & Europe)
+DTSTART;TZID="GMT 标准时间":20230629T150000
+DTEND;TZID="GMT 标准时间":20230629T154500
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________ \n\nMicrosoft Teams-Besprechung \n\nNehmen Sie auf 
+ dem Computer\, in der mobilen App oder im Raumgerät teil \n\nHier klicken
+ \, um an der Besprechung teilzunehmen <https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_ZDRlMjhhYTgtMDdjYi00ZjFmLTkwYzMtNjY0ZTEwNTZjMjdk%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
+ %2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d>  \n\nBesprec
+ hungs-ID: 382 749 701 433 \nPasscode: KfNWoj \n\nTeams herunterladen <http
+ s://www.microsoft.com/en-us/microsoft-teams/download-app>  | Im Web beitre
+ ten <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\nWeitere
+  Infos <https://aka.ms/JoinTeamsMeeting>  | Besprechungsoptionen <https://
+ teams.microsoft.com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03
+ c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeti
+ ng_ZDRlMjhhYTgtMDdjYi00ZjFmLTkwYzMtNjY0ZTEwNTZjMjdk@thread.v2&messageId=0&
+ language=de-DE>  | Rechtliche Hinweise <https://filehub.admiralcloud.com/d
+ l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
+ _____________________________________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Updated Agenda - CBS R&D Community Call (Americas & Europe (option
+ al)
+DTSTART;TZID="GMT 标准时间":20230629T220000
+DTEND;TZID="GMT 标准时间":20230629T224500
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________ \n\nMicrosoft Teams-Besprechung \n\nNehmen Sie auf 
+ dem Computer\, in der mobilen App oder im Raumgerät teil \n\nHier klicken
+ \, um an der Besprechung teilzunehmen <https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_MzQ2MmQ1MjAtODJlMC00NDc4LWFmZDQtZmQ1NGZiNmM3NzU1%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
+ %2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d>  \n\nBesprec
+ hungs-ID: 363 858 696 317 \nPasscode: 3grgFY \n\nTeams herunterladen <http
+ s://www.microsoft.com/en-us/microsoft-teams/download-app>  | Im Web beitre
+ ten <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\nWeitere
+  Infos <https://aka.ms/JoinTeamsMeeting>  | Besprechungsoptionen <https://
+ teams.microsoft.com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03
+ c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeti
+ ng_MzQ2MmQ1MjAtODJlMC00NDc4LWFmZDQtZmQ1NGZiNmM3NzU1@thread.v2&messageId=0&
+ language=de-DE>  | Rechtliche Hinweise <https://filehub.admiralcloud.com/d
+ l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
+ _____________________________________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20230630T083500
+DTEND;TZID="GMT 标准时间":20230630T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CN_HQ Shanghai: Communication Skill and Presentation Skill (CN)
+DTSTART;TZID="GMT 标准时间":20230630T093000
+DTEND;TZID="GMT 标准时间":20230630T173000
+CLASS:PUBLIC
+DESCRIPTION:CLASSROOM 129426 4/6/2022 05:53 PM Asia/Shanghai - CN_HQ Shang
+ hai: Communication Skill and Presentation Skill (CN) - Time Slot 2 \n\nEN 
+ - ATTENTION: Please do not forward this invitation! The registration for t
+ his item needs to be done in mySuccess Learning (LMS) directly.\n\nDE - AC
+ HTUNG: Bitte leiten Sie diese Einladung nicht weiter! Die Registrierung f
+ ür dieses Item muss direkt in der mySuccess Learning (LMS) erfolgen.\n\nM
+ X ES - ATENCIÓN: ¡Por favor no reenvíe esta invitación! El registro pa
+ ra este artículo debe realizarse directamente en mySuccess Learning (LMS)
+ .\n\nCN (Simplified) - 注意: 请不要转发此邀请! 该学习项目
+ 的注册需要直接在mySuccess Learning（LMS）中进行.\n\nRO - ATEN
+ ȚIE: Vă rugăm\, nu redirectionați această invitație! Înregistrarea 
+ pentru acest Item trebuie făcută direct în mySuccess Learning (LMS).\n\
+ nCZ - POZOR: Prosím\, neposílejte dále tuto pozvánku! Registraci tohot
+ o školení je třeba provést přímo v mySuccess Learning (LMS).\n\nFR -
+  ATTENTION: Merci de ne pas faire suivre cette invitation ! L’enregistre
+ ment à cette action de formation doit se faire uniquement et directement 
+ dans mySuccess Learning (LMS) pour être prise en compte.\n\nHU - Figyelem
+ ! Kérlek ne továbbítsd a meghívót! A képzésre regisztrálni közvet
+ lenül a MySuccess Képzés moduljában (LMS) lehetséges.\n\nSK -POZOR: T
+ úto pozvánku neposielajte ďalej! Registráciu pre túto položku je pot
+ rebné urobiť priamo v systéme mySuccess Learning (LMS).
+LOCATION:Shanghai - No538\, Dalian Road\, Yangpu District\, Meeting Room (
+ TBD)
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:工厂站会+Gemba Walk
+DTSTART;TZID="GMT 标准时间":20230630T100000
+DTEND;TZID="GMT 标准时间":20230630T103000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n
+LOCATION:工厂大厅
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI内部项目回顾会议
+DTSTART;TZID="GMT 标准时间":20230630T140000
+DTEND;TZID="GMT 标准时间":20230630T150000
+CLASS:PUBLIC
+DESCRIPTION:汇报各自项目：更新项目进度、风险、完成度
+ 、状态等信息。项目文件 链接 <https://continental.sharepoint.c
+ om/:x:/r/teams/team_10010014/Shared%20Documents/General/05%20Project%20Man
+ agement/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/%E9%A1%B9%E7%9B%AE%E8%BF%BD%E
+ 8%B8%AA%E8%A1%A8-2022.xlsx?d=we8bae9ac8ac04b039ca7b97d9322f73c&csf=1&web=1
+ &e=DDYS9T> \n\n项目要求：\n\n*  项目名称，中英文描述；\n\n
+ *  项目描述（KPI）、项目风险 、行动计划，要有具体内
+ 容。\n\n________________________________________________________________
+ _____\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230630T150000
+DTEND;TZID="GMT 标准时间":20230630T160000
+CLASS:PUBLIC
+DESCRIPTION:\n\n\n________________________________________________________
+ ________________________ \nMicrosoft Teams meeting \nJoin on your computer
+ \, mobile app or room device \nClick here to join the meeting <https://tea
+ ms.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbdedcbc080%40thr
+ ead.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f7c6777f%22%2
+ c%22MessageId%22%3a%221684409697969%22%7d>  \nMeeting ID: 348 788 967 848 
+ \nPasscode: rNY47K \nDownload Teams <https://www.microsoft.com/en-us/micro
+ soft-teams/download-app>  | Join on the web <https://www.microsoft.com/mic
+ rosoft-teams/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting
+ >  | Meeting options <https://teams.microsoft.com/meetingOptions/?organize
+ rId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbdedcbc080@thread.tacv2&mes
+ sageId=1683796715557&additionalMessageId=1684409697969&language=en-US>  | 
+ Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684
+ ab9ad7e>  \n______________________________________________________________
+ __________________ 
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:前期开发和客户项目回顾
+DTSTART;TZID="GMT 标准时间":20230630T150000
+DTEND;TZID="GMT 标准时间":20230630T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_OGQ2ZTZjZGYtYjUyMS00NmI1LTkwYjIt
+ MTk5ZTRmMDZhZWVi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8f92240
+ 84%22%7d>  \n\n会议 ID: 325 668 045 778 \n密码: 9Wu959 \n\nDownload Te
+ ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 
+ web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \
+ n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:/
+ /teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb1-2
+ 6d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
+ ing_OGQ2ZTZjZGYtYjUyMS00NmI1LTkwYjItMTk5ZTRmMDZhZWVi@thread.v2&messageId=0
+ &language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abgesagt: Abgesagt: ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230630T150000
+DTEND;TZID="GMT 标准时间":20230630T160000
+CLASS:PUBLIC
+DESCRIPTION:Please see the other option generated by teams which relieves 
+ us from the need of manual invitations
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plato e1ns -general user meeting in 2023
+DTSTART;TZID="GMT 标准时间":20230630T170000
+DTEND;TZID="GMT 标准时间":20230630T180000
+CLASS:PUBLIC
+DESCRIPTION:Dear FMEA user\n\n \n\nI have scheduled that monthly meeting t
+ o answer questions regarding the FMEA tool Plato e1ns. It is an option to 
+ ask questions regarding the tool\, providing feedback and share informatio
+ n with other FMEA tool users in the SSL.\n\nYou are of course free to part
+ icipate!\n\nRegards \n\n \n\nHenning\n\n \n\n \n\n________________________
+ ________________________________________________________ \n\nMicrosoft Tea
+ ms-Besprechung \n\nNehmen Sie von Ihrem Computer oder der mobilen App aus 
+ teil \n\nKlicken Sie hier\, um an der Besprechung teilzunehmen <https://te
+ ams.microsoft.com/l/meetup-join/19%3ameeting_MGFhYzcwYjYtYTI0ZC00MDQ3LTk4Z
+ mMtNDE1MGI1Y2E1NGE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-
+ 40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225fa49eff-e704-4687-be55-a4395f9
+ ad37e%22%7d>  \n\nWeitere Infos <https://aka.ms/JoinTeamsMeeting>  | Bespr
+ echungsoptionen <https://teams.microsoft.com/meetingOptions/?organizerId=5
+ fa49eff-e704-4687-be55-a4395f9ad37e&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d7
+ 9e6265a&threadId=19_meeting_MGFhYzcwYjYtYTI0ZC00MDQ3LTk4ZmMtNDE1MGI1Y2E1NG
+ E2@thread.v2&messageId=0&language=de-DE>  | Rechtliche Hinweise <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____ \n
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
