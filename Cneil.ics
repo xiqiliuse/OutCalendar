@@ -34,6 +34,15 @@ LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:量产报废异常问题讨论
+DTSTART;TZID="GMT 标准时间":20230607T140000
+DTEND;TZID="GMT 标准时间":20230607T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: CARIÑO #5 : Predicting Tires Sizes for Upcoming Vehicle
   Models - Starter notebook explained AsiaPacific/Europe
 DTSTART;TZID="GMT 标准时间":20230607T150000
@@ -642,6 +651,30 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6月工艺安全巡检
+DTSTART;TZID="GMT 标准时间":20230615T133000
+DTEND;TZID="GMT 标准时间":20230615T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ZDlhY2VjZDgtZDE3Mi00OGZlLW
+ I0YTEtY2U1ZGY1MmU3NWU0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12
+ f76925ee%22%7d>  \n\n会议 ID: 377 273 704 377 \n密码: LBZVRu \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-
+ af1c-fd12f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_ZDlhY2VjZDgtZDE3Mi00OGZlLWI0YTEtY2U1ZGY1MmU3NWU0@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:工厂大厅集合
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
