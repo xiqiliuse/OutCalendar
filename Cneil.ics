@@ -5,136 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230607T083500
-DTEND;TZID="GMT 标准时间":20230607T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO颜色梳理会
-DTSTART;TZID="GMT 标准时间":20230607T130000
-DTEND;TZID="GMT 标准时间":20230607T140000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:量产报废异常问题讨论
-DTSTART;TZID="GMT 标准时间":20230607T140000
-DTEND;TZID="GMT 标准时间":20230607T150000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: CARIÑO #5 : Predicting Tires Sizes for Upcoming Vehicle
-  Models - Starter notebook explained AsiaPacific/Europe
-DTSTART;TZID="GMT 标准时间":20230607T150000
-DTEND;TZID="GMT 标准时间":20230607T160000
-CLASS:PUBLIC
-DESCRIPTION:In this session\, we will take you through the starter noteboo
- k to help you make your first step with data loading\, data transformation
-  and help you build a simple predictive AI model.\n\n\n\n\n\n_____________
- ___________________________________________________________________ \n\nMi
- crosoft Teams meeting \n\nJoin on your computer\, mobile app or room devic
- e \n\nClick here to join the meeting <https://teams.microsoft.com/l/meetup
- -join/19%3a5c929973dc854ae483bee997e83ef527%40thread.skype/1685689230228?c
- ontext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%
- 22%3a%229477b33e-0d12-4827-b46a-ae87ac7e3b23%22%7d>  \n\nMeeting ID: 334 2
- 94 654 162 \nPasscode: F5dvY3 \n\nDownload Teams <https://www.microsoft.co
- m/en-us/microsoft-teams/download-app>  | Join on the web <https://www.micr
- osoft.com/microsoft-teams/join-a-meeting> \n\nOr call in (audio only) \n\n
- +33 1 73 24 03 90\,\,654870773# <tel:+33173240390\,\,654870773#>    France
- \, Beaumont-Sur-Oise \n\nPhone Conference ID: 654 870 773# \n\nFind a loca
- l number <https://dialin.teams.microsoft.com/97c37549-d499-4e63-9ec0-dc163
- 77f37d4?id=654870773>  | Reset PIN <https://dialin.teams.microsoft.com/usp
- /pstnconferencing>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Me
- eting options <https://teams.microsoft.com/meetingOptions/?organizerId=947
- 7b33e-0d12-4827-b46a-ae87ac7e3b23&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
- 6265a&threadId=19_5c929973dc854ae483bee997e83ef527@thread.skype&messageId=
- 1685689230228&language=en-US>  | Legal <https://filehub.admiralcloud.com/d
- l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
- _____________________________________________________ \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARIÑO #5 : Predicting Tires Sizes for Upcoming Vehicle Models 
- – Starter notebook explained AsiaPacific/Europe
-DTSTART;TZID="GMT 标准时间":20230607T150000
-DTEND;TZID="GMT 标准时间":20230607T160000
-CLASS:PUBLIC
-DESCRIPTION:In this session\, we will take you through the starter noteboo
- k to help you make your first step with data loading\, data transformation
-  and help you build a simple predictive AI model.\n\n\n\n\n_______________
- _________________________________________________________________ \nMicros
- oft Teams meeting \nJoin on your computer\, mobile app or room device \nCl
- ick here to join the meeting <https://teams.microsoft.com/l/meetup-join/19
- %3a5c929973dc854ae483bee997e83ef527%40thread.skype/1686047618054?context=%
- 7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22
- 6cc2aafb-f559-4fe9-8ceb-7f455d9a8957%22%7d>  \nMeeting ID: 396 932 069 242
-  \nPasscode: TqF8YY \nDownload Teams <https://www.microsoft.com/en-us/micr
- osoft-teams/download-app>  | Join on the web <https://www.microsoft.com/mi
- crosoft-teams/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeetin
- g>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organiz
- erId=6cc2aafb-f559-4fe9-8ceb-7f455d9a8957&tenantId=8d4b558f-7b2e-40ba-ad1f
- -e04d79e6265a&threadId=19_5c929973dc854ae483bee997e83ef527@thread.skype&me
- ssageId=1686047618054&language=en-US>  | Legal <https://filehub.admiralclo
- ud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_____________________
- ___________________________________________________________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARIÑO #5 : Predicting Tires Sizes for Upcoming Vehicle Models - 
- Starter notebook explained AsiaPacific/Europe
-DTSTART;TZID="GMT 标准时间":20230607T230000
-DTEND;TZID="GMT 标准时间":20230608T000000
-CLASS:PUBLIC
-DESCRIPTION:In this session\, we will take you through the starter noteboo
- k to help you make your first step with data loading\, data transformation
-  and help you build a simple predictive AI model.\n\n\n\n\n_______________
- _________________________________________________________________ \nMicros
- oft Teams meeting \nJoin on your computer\, mobile app or room device \nCl
- ick here to join the meeting <https://teams.microsoft.com/l/meetup-join/19
- %3a5c929973dc854ae483bee997e83ef527%40thread.skype/1685689294009?context=%
- 7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22
- 9477b33e-0d12-4827-b46a-ae87ac7e3b23%22%7d>  \nMeeting ID: 374 542 365 23 
- \nPasscode: Axao25 \nDownload Teams <https://www.microsoft.com/en-us/micro
- soft-teams/download-app>  | Join on the web <https://www.microsoft.com/mic
- rosoft-teams/join-a-meeting> \nOr call in (audio only) \n+33 1 73 24 03 90
- \,\,711794205# <tel:+33173240390\,\,711794205#>    France\, Beaumont-Sur-O
- ise \nPhone Conference ID: 711 794 205# \nFind a local number <https://dia
- lin.teams.microsoft.com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=711794205>
-   | Reset PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \
- nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://
- teams.microsoft.com/meetingOptions/?organizerId=9477b33e-0d12-4827-b46a-ae
- 87ac7e3b23&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_5c929
- 973dc854ae483bee997e83ef527@thread.skype&messageId=1685689294009&language=
- en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
- 832a-1d684ab9ad7e>  \n____________________________________________________
- ____________________________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230608T083500
 DTEND;TZID="GMT 标准时间":20230608T092500
 CLASS:PUBLIC
@@ -2051,6 +1921,113 @@ DTEND;TZID="GMT 标准时间":20230706T163000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:小暑
+DTSTART;TZID="GMT 标准时间":20230707T000000
+DTEND;TZID="GMT 标准时间":20230708T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:小暑
+DTSTART;TZID="GMT 标准时间":20230707T000000
+DTEND;TZID="GMT 标准时间":20230708T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20230707T083500
+DTEND;TZID="GMT 标准时间":20230707T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:工厂站会+Gemba Walk
+DTSTART;TZID="GMT 标准时间":20230707T100000
+DTEND;TZID="GMT 标准时间":20230707T103000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n
+LOCATION:工厂大厅
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abgesagt: Abgesagt: ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230707T150000
+DTEND;TZID="GMT 标准时间":20230707T160000
+CLASS:PUBLIC
+DESCRIPTION:Please see the other option generated by teams which relieves 
+ us from the need of manual invitations
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:前期开发和客户项目回顾
+DTSTART;TZID="GMT 标准时间":20230707T150000
+DTEND;TZID="GMT 标准时间":20230707T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_OGQ2ZTZjZGYtYjUyMS00NmI1LTkwYjIt
+ MTk5ZTRmMDZhZWVi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8f92240
+ 84%22%7d>  \n\n会议 ID: 325 668 045 778 \n密码: 9Wu959 \n\nDownload Te
+ ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 
+ web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \
+ n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:/
+ /teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb1-2
+ 6d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
+ ing_OGQ2ZTZjZGYtYjUyMS00NmI1LTkwYjItMTk5ZTRmMDZhZWVi@thread.v2&messageId=0
+ &language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20230707T150000
+DTEND;TZID="GMT 标准时间":20230707T160000
+CLASS:PUBLIC
+DESCRIPTION:\n\n\n________________________________________________________
+ ________________________ \nMicrosoft Teams meeting \nJoin on your computer
+ \, mobile app or room device \nClick here to join the meeting <https://tea
+ ms.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbdedcbc080%40thr
+ ead.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f7c6777f%22%2
+ c%22MessageId%22%3a%221684409697969%22%7d>  \nMeeting ID: 348 788 967 848 
+ \nPasscode: rNY47K \nDownload Teams <https://www.microsoft.com/en-us/micro
+ soft-teams/download-app>  | Join on the web <https://www.microsoft.com/mic
+ rosoft-teams/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting
+ >  | Meeting options <https://teams.microsoft.com/meetingOptions/?organize
+ rId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbdedcbc080@thread.tacv2&mes
+ sageId=1683796715557&additionalMessageId=1684409697969&language=en-US>  | 
+ Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684
+ ab9ad7e>  \n______________________________________________________________
+ __________________ 
+LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
