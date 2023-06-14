@@ -5,210 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230612T083500
-DTEND;TZID="GMT 标准时间":20230612T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:一起写挤出机析出的A3
-DTSTART;TZID="GMT 标准时间":20230612T130000
-DTEND;TZID="GMT 标准时间":20230612T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_MGVjYWY5MWEtZDQwOS00MDEzLT
- hhM2YtMmQ0MWY3YWNmZjM0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%220a951e7f-d2e8-41b2-af3e-09d6
- b8622148%22%7d>  \n\n会议 ID: 330 708 649 596 \n密码: RWFJpS \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=0a951e7f-d2e8-41b2-
- af3e-09d6b8622148&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_MGVjYWY5MWEtZDQwOS00MDEzLThhM2YtMmQ0MWY3YWNmZjM0@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID="GMT 标准时间":20230612T154500
-DTEND;TZID="GMT 标准时间":20230612T164500
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UiPath Developer Training (Fundamental + Advanced)
-DTSTART;TZID="GMT 标准时间":20230612T200000
-DTEND;TZID="GMT 标准时间":20230613T000000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams meeting \n\nJoin on your compu
- ter\, mobile app or room device \n\nClick here to join the meeting <https:
- //teams.microsoft.com/l/meetup-join/19%3ameeting_YWRlMGZjMWQtODQzYy00ZWQyL
- TlmMzktNmQwNDVkMjZmOTIw%40thread.v2/0?context=%7b%22Tid%22%3a%22e66e6532-9
- 20a-4ae8-88f7-5ab6014eea1c%22%2c%22Oid%22%3a%2299433822-af21-4782-a687-0d4
- ec22ba877%22%7d>  \n\nMeeting ID: 378 138 028 497 \nPasscode: 96N6Hv \n\nD
- ownload Teams <https://www.microsoft.com/en-us/microsoft-teams/download-ap
- p>  | Join on the web <https://www.microsoft.com/microsoft-teams/join-a-me
- eting> \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options
-  <https://teams.microsoft.com/meetingOptions/?organizerId=99433822-af21-47
- 82-a687-0d4ec22ba877&tenantId=e66e6532-920a-4ae8-88f7-5ab6014eea1c&threadI
- d=19_meeting_YWRlMGZjMWQtODQzYy00ZWQyLTlmMzktNmQwNDVkMjZmOTIw@thread.v2&me
- ssageId=0&language=en-US>  \n\n___________________________________________
- _____________________________________ \n\n \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230613T083500
-DTEND;TZID="GMT 标准时间":20230613T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZJG City Mayor’s Quality Award  Training 争创张家港市长
- 质量奖培训
-DTSTART;TZID="GMT 标准时间":20230613T090000
-DTEND;TZID="GMT 标准时间":20230613T170000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\n\n \n\nParticipants:  Please participate the trainin
- g on time\, the mandatory participants list as below\,\n\n \n\nS\n\n\n负
- 责团队类别\nResponsible team Category\n\n负责人（含团队组成
- 人员）\nResp.(including team members)\n\n协调人\nCoordinator\n\nRema
- rk\n\n1\n\n领导战略团队\nLeadership strategy\n\nKnerr Karsten\n\n(Er
- ic Yuan\, Melody Zhang)\n\nQu Haihua/ Linda \n\n　\n\n2\n\n市场营销
- 团队\nSale and Marketing\n\nEric Yuan\n(Xu Hua\nWang Xu)\n\nQu Haihua/ L
- inda\n\n　Gu Zhiqiang\n\n3\n\n技术研发团队\nR&D\n\nYao Ma \,Kenneth
-  Zhang\n\nXu Yanqiu\n\n　\n\n4\n\n基础设施团队\nFacility\n\nDayong 
- Teng\n(Lu Xiaohu)\n\nZhou Yang\nChen jiajun\n\n　\n\n5\n\n供应链团队
- (采购）\nSCM\n\nTerry Zhou（Nancy Ge)\n(Dimin Sun) \n\nZhu Lin\n\n　\
- n\n6\n\n生产团队、质量团队\nProd+ QM\n\nDayong Teng (Quick/Nick/J
- immy)\n\nLiu Jiawen/ Qiu xiaohan\nXu Yan\n\n　\n\n7\n\n财务团队\nFC\n
- \nEd Liu\n\nFan Xiaohua\n\n　\n\n8\n\n信息和知识团队 IT\n\nDayong 
- Teng\n(Wang Jianrui)\n\nCheng Dong\n\n　\n\n9\n\n人力资源团队 HR\n\
- nDayong Teng\n(Sun Juan/ Melody Zhang)\n\nXue Jialei\n\n　\n\n10\n\n安
- 全环保团队 ESH\n\nDayong Teng\n(Zhang Yong)\n\nChen Tingting\n\n　\n
- \n11\n\n绩效改进团队 CBS+All\n\nZachary Zhu \n\n(Ma Siyuan+ Al)\n\nH
- uang Qing\n\n　All MC\n\n \n\nTraining Material Here <https://teams.micro
- soft.com/l/channel/19%3a30ab6329e5d94c3eb73f3da3ec9b6bce%40thread.tacv2/Tr
- aining?groupId=d5e7a2e3-650d-4a07-9ce5-c16ad5890d65&tenantId=8d4b558f-7b2e
- -40ba-ad1f-e04d79e6265a> : \n\n \n\nOutline of Training Here: \n\n \n\n培
- 训主题\n\n卓越绩效评价准则Criteria for performance excellence
- 与实施指南培训\n\n培训时间\n\n日期:2023年6月13日（星期
- 二），时间:上午9:00-11:30，下午13:00-17:00\n\n2023年6月14日
- （星期三），时间:上午9:00-11:35，下午13:10-16:30\n\n培训地
- 点\n\n公司CBC地点421/422 培训室\n\n参加人员\n\n“创奖工作
- 小组”相关成员\n\n培训流程\n\n第一天\n\n讲解《GB/T 19580-
- 2012卓越绩效评价准则》、《GB/Z 19579-2012卓越绩效评价准
- 则实施指南》，详见附件1。\n\n（6月13日）\n\n第二天\n\n
- 实施一对一沟通与辅导，详见附件2。\n\n（6月14日）\n\n
- 备注\n\n1、请参会人员提前安排好工作，准时参加（由于
- 新冠疫情，必要时考虑戴口罩）；\n\n2、携带笔记本、笔
- ；\n\n3、公司实行每天签到；\n\n4、建议公司安排打印制
- 作书面培训教材（也可携带打印版电子培训教材，到外
- 面文印店打印、胶装）。\n\n \n\n \n\nThanks in advance!\n\nSarah
- \n\n______________________________________________________________ \n\nMic
- rosoft Teams 会议 \n\n使用电脑、移动应用或会议室设备加
- 入 \n\n单击此处以加入会议 <https://teams.microsoft.com/l/meetup-
- join/19%3ameeting_ODk3ODc0NjktYmZhMi00MDc3LWI4MDctNzRmYjI0NDBhYjkw%40threa
- d.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2
- c%22Oid%22%3a%223a801dff-1287-4f3c-b3fc-674cb9054efc%22%7d>  \n\n会议 ID
- : 342 905 550 68 \n密码: 49AxPc \n\n下载 Teams <https://www.microsoft.
- com/en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://www.
- microsoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://ak
- a.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetin
- gOptions/?organizerId=3a801dff-1287-4f3c-b3fc-674cb9054efc&tenantId=8d4b55
- 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ODk3ODc0NjktYmZhMi00MDc
- 3LWI4MDctNzRmYjI0NDBhYjkw@thread.v2&messageId=0&language=zh-CN>  | 法律 
- <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7
- e>  \n\n__________________________________________________________________
- ______________ \n\n \n
-LOCATION:TE_ZG_MR_HR_Training_Room421
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产问题每周回顾
-DTSTART;TZID="GMT 标准时间":20230613T103000
-DTEND;TZID="GMT 标准时间":20230613T110000
-CLASS:PUBLIC
-DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
- 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
- \n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPMS Database regular review meeting
-DTSTART;TZID="GMT 标准时间":20230613T150000
-DTEND;TZID="GMT 标准时间":20230613T160000
-CLASS:PUBLIC
-DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
- 管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
- 单记录模块\n\n4.        其他问题\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UiPath Developer Training (Fundamental + Advanced)
-DTSTART;TZID="GMT 标准时间":20230613T200000
-DTEND;TZID="GMT 标准时间":20230614T000000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams meeting \n\nJoin on your compu
- ter\, mobile app or room device \n\nClick here to join the meeting <https:
- //teams.microsoft.com/l/meetup-join/19%3ameeting_YWRlMGZjMWQtODQzYy00ZWQyL
- TlmMzktNmQwNDVkMjZmOTIw%40thread.v2/0?context=%7b%22Tid%22%3a%22e66e6532-9
- 20a-4ae8-88f7-5ab6014eea1c%22%2c%22Oid%22%3a%2299433822-af21-4782-a687-0d4
- ec22ba877%22%7d>  \n\nMeeting ID: 378 138 028 497 \nPasscode: 96N6Hv \n\nD
- ownload Teams <https://www.microsoft.com/en-us/microsoft-teams/download-ap
- p>  | Join on the web <https://www.microsoft.com/microsoft-teams/join-a-me
- eting> \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options
-  <https://teams.microsoft.com/meetingOptions/?organizerId=99433822-af21-47
- 82-a687-0d4ec22ba877&tenantId=e66e6532-920a-4ae8-88f7-5ab6014eea1c&threadI
- d=19_meeting_YWRlMGZjMWQtODQzYy00ZWQyLTlmMzktNmQwNDVkMjZmOTIw@thread.v2&me
- ssageId=0&language=en-US>  \n\n___________________________________________
- _____________________________________ \n\n \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230614T083500
 DTEND;TZID="GMT 标准时间":20230614T092500
 CLASS:PUBLIC
@@ -229,21 +25,21 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:mybooking
-DTSTART;TZID="GMT 标准时间":20230614T120000
-DTEND;TZID="GMT 标准时间":20230614T170000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TPO颜色梳理会
 DTSTART;TZID="GMT 标准时间":20230614T130000
 DTEND;TZID="GMT 标准时间":20230614T140000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20230614T133000
+DTEND;TZID="GMT 标准时间":20230614T143000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -438,6 +234,30 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:6月ESH安全宣讲及第2季度安全生产会议内容
+DTSTART;TZID="GMT 标准时间":20230615T120000
+DTEND;TZID="GMT 标准时间":20230615T133000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI5ZDkxZGUtNjhjZi00ZGMxLW
+ FmYzYtYWViZjNmZmViNGZj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12
+ f76925ee%22%7d>  \n\n会议 ID: 346 494 959 572 \n密码: vib4xL \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-
+ af1c-fd12f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_ZGI5ZDkxZGUtNjhjZi00ZGMxLWFmYzYtYWViZjNmZmViNGZj@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:6月工艺安全巡检
 DTSTART;TZID="GMT 标准时间":20230615T133000
 DTEND;TZID="GMT 标准时间":20230615T150000
@@ -483,73 +303,6 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Innovation Canteen: Sensor Level Control
-DTSTART;TZID="GMT 标准时间":20230615T190000
-DTEND;TZID="GMT 标准时间":20230615T200000
-CLASS:PUBLIC
-DESCRIPTION:Dear all，\n\n \n\nPlease attend the Innovation Canteen if yo
- u are interested in\, feel free to share the event to your colleagues .\n\
- n \n\nThe topic will be  :\n\n \n\nSensor Level Control presented by Leine
- mann\, Marc\n\n \n\n-----原始约会-----\n发件人: Mueller\, Viviane (
- uif70294) <viviane.mueller@continental.com <mailto:viviane.mueller@contine
- ntal.com> > \n发送时间: 2023年6月8日 15:51\n收件人: Mueller\, Vi
- viane (uif70294)\; Leinemann\, Marc\; Appel\, Markus (uia05600)\; Aruchamy
- \, Shumitha (uib25171)\; Arunachalam\, Subash (uic21607)\; Barho\, Erhard\
- ; Berger\, Elena\; Letourneux\, Laurent\; Bolda\, Bogdan\; Depari\, Leonar
- dus\; Emmert\, Pia\; Etzl\, Thomas\; Fanti\, Donatella (uib59865)\; Franke
- \, Martin\; 'George\, Jofin'\; Grasse\, Timo\; Guo\, Yu\; Haarburger\, Tob
- ias\; Hebbale\, Veeresh Ravichand (uidn1550)\; Heider\, Michael02\; Heilfo
- rt\, Stefan (uia53506)\; Heller\, Michael\; Hildebrand\, Lasse (uic27635)\
- ; Hoefer\, Sarah\; Hwang\, Boon Hun (uif21494)\; Irro\, Karin\; James\, Ak
- hil\; Klass\, Michaela\; 'Kolar\, Hannes'\; Krone\, Karsten\; LANUZA PEREZ
- \, PASTOR FERNANDO (uia71862)\; Lee\, Min-Sook\; Lu\, Xinhua\; Macias\, Da
- niel01\; Marcato\, Rodrigo (uie34479)\; Marne\, Shubham (uif48492)\; Morle
- y\, John\; Mundhenke\, Jens (uie55751)\; Nassauer\, Benjamin\; Ochotta-Dre
- chsel\, Christian\; Onica\, Marian\; Ortizvalero\, Carlos\; Plinke\, Steff
- en\; Priyadarshi\, Devvrata\; Real Rojano\, Juan Francisco (uie55811)\; Re
- inholz\, Simon (reinholzs)\; Renaud\, Michael (uic04586)\; Reusch\, Stefan
- \; Riehle\, Natascha\; Rizolu\, Cristian\; Roehrs\, Soenke (roehrss)\; Rot
- henberger\, Nikolai\; Scherba\, Kamil\; Schneider\, Jannes02 (schneiderj4)
- \; Schrader\, Wolfgang\; Seibel\, Alexander\; Teixeira\, Carlos\; TORRES P
- EREZ\, LUIS FELIPE (uic10295)\; Tote\, Matthias\; Wieland\, Simone\; Wolff
- \, Matthias02\; Xu\, Yanqiu\; Yazici\, Nihat\; Zwick\, Andre (uic56335)\; 
- Monteiro\, Marcos03 (uie82484)\; Biris\, Cosmin\; Cram\, Joshua (cramj)\; 
- Leipold\, Kevin\; S\, Parthiban (uie24003)\; Bauer\, Alexander02 (uif41274
- )\; Patil\, Ramanagouda Shekhargouda (uib45598)\; Aytun\, Emre (uie55815)\
- ; Winkler\, Jens\n主题: Innovation Canteen: Sensor Level Control\n时间
- : 2023年6月15日星期四 13:00-14:00(UTC+01:00) 阿姆斯特丹，柏
- 林，伯尔尼，罗马，斯德哥尔摩，维也纳。\n地点: https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_NWQyMGY2NjEtYWY1OC00MGQ1LT
- g0ZGUtZDFhMzRjNGJjMGNj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e45d1c70-293f-45de-b266-72ec
- c55d04df%22%7d\n\n \n\nDear Innovation Explorers\,\n\n \n\nhere is the inv
- itation for our next Innovation Canteen on June 15th via E-Mail.\n\n \n\nT
- his time in our Innovation Canteen we would like to introduce you the foll
- owing topic:\n\nSensor Level Control presented by @Leinemann\, Marc <mailt
- o:marc.leinemann@continental.com> .\n\n \n\nInnovation Canteen is a Food-f
- or-Thought-Event\, where you can:\n\n*	get to know the current innovation 
- projects\n*	be inspired and have interesting discussions\n*	share experien
- ces and meet other innovation enthusiasts\n\n \n\nClick here to be part of
-  it:\n\nTEAMS LINK <https://teams.microsoft.com/l/meetup-join/19%3ameeting
- _NWQyMGY2NjEtYWY1OC00MGQ1LTg0ZGUtZDFhMzRjNGJjMGNj%40thread.v2/0?context=%7
- b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e
- 45d1c70-293f-45de-b266-72ecc55d04df%22%7d> \n\n \n\nWe are looking forward
-  to see you!\n\n \n\nBest regards\,\n\nViviane and the Innovation Manageme
- nt Team\n\n \n\nPS: Some links you might be interested in:\n\n*	Future Eve
- nts for the Innovation Canteen <https://connext.conti.de/communities/servi
- ce/html/communitystart?communityUuid=afac7cce-168d-469a-88c0-26d13faaa0c5#
- fullpageWidgetId=W8ba1f9655a0a_45d3_87a5_41c1a2dad861> \n*	Innovation Cant
- een Recordings on Stream <https://web.microsoftstream.com/channel/0d441f2a
- -1ee4-4e00-ad4d-f05ef61206d4> \n*	WIKI about Past Innovation Canteen Event
- s <https://connext.conti.de/wikis/home?lang=en#!/wiki/W5e1651b2fbe1_4550_a
- 8a4_036c054472af/page/Innovation%20Canteen> \n\n \n\n \n\n \n
-LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWQyMGY2Nj
- EtYWY1OC00MGQ1LTg0ZGUtZDFhMzRjNGJjMGNj%40thread.v2/0?context=%7b%22Tid%22%
- 3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e45d1c70-293
- f-45de-b266-72ecc55d04df%22%7d
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1279,6 +1032,38 @@ DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
  管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
  单记录模块\n\n4.        其他问题\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Innovation Canteen: Sensor Level Control
+DTSTART;TZID="GMT 标准时间":20230627T170000
+DTEND;TZID="GMT 标准时间":20230627T180000
+CLASS:PUBLIC
+DESCRIPTION:Dear Innovation Explorers\,\n\n \n\ndue to organizational issu
+ es we will skip our Innovation Canteen onto Tuesday\, June 27th from 11:00
+  – 12:00 am CEST.\n\nHope to see you there. 😊\n\n \n\nThis time we wo
+ uld like to introduce you the following topic:\n\nSensor Level Control pre
+ sented by @Leinemann\, Marc <mailto:marc.leinemann@continental.com> .\n\n 
+ \n\nInnovation Canteen is a Food-for-Thought-Event\, where you can:\n\n*	g
+ et to know the current innovation projects\n*	be inspired and have interes
+ ting discussions\n*	share experiences and meet other innovation enthusiast
+ s\n\n \n\nClick here to be part of it:\n\nTEAMS LINK <https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_NWQyMGY2NjEtYWY1OC00MGQ1LTg0ZGUtZDFhMzR
+ jNGJjMGNj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%22e45d1c70-293f-45de-b266-72ecc55d04df%22%7
+ d> \n\n \n\nBest regards\,\n\nViviane and the Innovation Management Team\n
+ \n \n\nPS: Some links you might be interested in:\n\n*	Future Events for t
+ he Innovation Canteen <https://connext.conti.de/communities/service/html/c
+ ommunitystart?communityUuid=afac7cce-168d-469a-88c0-26d13faaa0c5#fullpageW
+ idgetId=W8ba1f9655a0a_45d3_87a5_41c1a2dad861> \n*	Innovation Canteen Recor
+ dings on Stream <https://web.microsoftstream.com/channel/0d441f2a-1ee4-4e0
+ 0-ad4d-f05ef61206d4> \n*	WIKI about Past Innovation Canteen Events <https:
+ //connext.conti.de/wikis/home?lang=en#!/wiki/W5e1651b2fbe1_4550_a8a4_036c0
+ 54472af/page/Innovation%20Canteen> \n\n \n\n \n\n \n
+LOCATION:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWQyMGY2Nj
+ EtYWY1OC00MGQ1LTg0ZGUtZDFhMzRjNGJjMGNj%40thread.v2/0?context=%7b%22Tid%22%
+ 3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e45d1c70-293
+ f-45de-b266-72ecc55d04df%22%7d
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -2158,6 +1943,88 @@ DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
  管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
  单记录模块\n\n4.        其他问题\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20230712T083500
+DTEND;TZID="GMT 标准时间":20230712T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CN_HQ Shanghai: Power BI Training: Visualization\, DAX\, Relations
+ hip(CN)
+DTSTART;TZID="GMT 标准时间":20230712T093000
+DTEND;TZID="GMT 标准时间":20230712T173000
+CLASS:PUBLIC
+DESCRIPTION:CLASSROOM 129420 4/6/2022 05:19 PM Asia/Shanghai - CN_HQ Shang
+ hai: Power BI Training: Visualization\, DAX\, Relationship(CN) - Time Slot
+  2 \n\nEN - ATTENTION: Please do not forward this invitation! The registra
+ tion for this item needs to be done in mySuccess Learning (LMS) directly.\
+ n\nDE - ACHTUNG: Bitte leiten Sie diese Einladung nicht weiter! Die Regist
+ rierung für dieses Item muss direkt in der mySuccess Learning (LMS) erfol
+ gen.\n\nMX ES - ATENCIÓN: ¡Por favor no reenvíe esta invitación! El re
+ gistro para este artículo debe realizarse directamente en mySuccess Learn
+ ing (LMS).\n\nCN (Simplified) - 注意: 请不要转发此邀请! 该学
+ 习项目的注册需要直接在mySuccess Learning（LMS）中进行.\n\n
+ RO - ATENȚIE: Vă rugăm\, nu redirectionați această invitație! Înreg
+ istrarea pentru acest Item trebuie făcută direct în mySuccess Learning 
+ (LMS).\n\nCZ - POZOR: Prosím\, neposílejte dále tuto pozvánku! Registr
+ aci tohoto školení je třeba provést přímo v mySuccess Learning (LMS)
+ .\n\nFR - ATTENTION: Merci de ne pas faire suivre cette invitation ! L’e
+ nregistrement à cette action de formation doit se faire uniquement et dir
+ ectement dans mySuccess Learning (LMS) pour être prise en compte.\n\nHU -
+  Figyelem! Kérlek ne továbbítsd a meghívót! A képzésre regisztráln
+ i közvetlenül a MySuccess Képzés moduljában (LMS) lehetséges.\n\nSK 
+ -POZOR: Túto pozvánku neposielajte ďalej! Registráciu pre túto polož
+ ku je potrebné urobiť priamo v systéme mySuccess Learning (LMS).
+LOCATION:China_Shanghai_DLR_3F Yangzhou Meeting Room (Shanghai - No538\, D
+ alian Road\, Yangpu District\, R&D Center\, 3F_Yangzhou(SHA_R&D_Yangzhou))
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO颜色梳理会
+DTSTART;TZID="GMT 标准时间":20230712T130000
+DTEND;TZID="GMT 标准时间":20230712T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20230713T083500
+DTEND;TZID="GMT 标准时间":20230713T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
