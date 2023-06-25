@@ -34,6 +34,34 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:锦湖拜访-讨论EPDM二代划痕问题
+DTSTART;TZID="GMT 标准时间":20230626T153000
+DTEND;TZID="GMT 标准时间":20230626T163000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n我们一起讨论下目前新的锦湖EPDM在
+ 生产过程中发现划痕的问题，谢谢大家的参与！\n\n \n\n@X
+ u\, Jinkai (uie99823) <mailto:jinkai.xu@benecke-changshun.com.cn>  供应
+ 商过来，帮忙带点瑕疵样让他们看下，谢谢！\n\n__________
+ ______________________________________________________________________ \n\
+ nMicrosoft Teams 会议 \n\n使用电脑、移动应用或会议室设备
+ 加入 \n\n单击此处以加入会议 <https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_NDg3ODg5MzktMWZlZC00MzIwLTk5ZjQtMTllM2NmYjFlNjYy%40th
+ read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
+ 2%2c%22Oid%22%3a%225095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议
+  ID: 376 768 284 166 \n密码: p7dd8f \n\n下载 Teams <https://www.micros
+ oft.com/en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://
+ www.microsoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https:
+ //aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/me
+ etingOptions/?organizerId=5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDg3ODg5MzktMWZlZC0
+ 0MzIwLTk5ZjQtMTllM2NmYjFlNjYy@thread.v2&messageId=0&language=zh-CN>  | 法
+ 律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n\n______________________________________________________________
+ __________________ \n\n \n
+LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Regular Meeting
 DTSTART;TZID="GMT 标准时间":20230626T203000
 DTEND;TZID="GMT 标准时间":20230626T210000
@@ -108,28 +136,6 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:色母粒生产问题每周回顾
-DTSTART;TZID="GMT 标准时间":20230627T103000
-DTEND;TZID="GMT 标准时间":20230627T110000
-CLASS:PUBLIC
-DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
- 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
- \n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPMS Database regular review meeting
-DTSTART;TZID="GMT 标准时间":20230627T150000
-DTEND;TZID="GMT 标准时间":20230627T160000
-CLASS:PUBLIC
-DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
- 管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
- 单记录模块\n\n4.        其他问题\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Innovation Canteen: Sensor Level Control
 DTSTART;TZID="GMT 标准时间":20230627T170000
 DTEND;TZID="GMT 标准时间":20230627T180000
@@ -179,6 +185,48 @@ DESCRIPTION: \n\n_________________________________________________________
  nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPMS Database regular review meeting
+DTSTART;TZID="GMT 标准时间":20230628T103000
+DTEND;TZID="GMT 标准时间":20230628T112000
+CLASS:PUBLIC
+DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
+ 管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
+ 单记录模块\n\n4.        其他问题\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“三高”科普
+DTSTART;TZID="GMT 标准时间":20230628T130000
+DTEND;TZID="GMT 标准时间":20230628T140000
+CLASS:PUBLIC
+DESCRIPTION:“三高”即通常所说的高血压、高血脂（血脂
+ 异常）和高血糖三种病症的总称\n\n是现代文明派生出来
+ 的“富贵病”，故又称之为“文明病”，属于高发慢性
+ 非传染性疾病。\n\n在我国，“三高”更是以其高患病率
+ 、高危险性、高医疗费用着称。\n\n如何才能远离“三高
+ ”，有效控制“三高”\n\n“三高”知识人人晓，健康生
+ 活日日长\n\n健康中心为此准备了“三高科普”线上小课
+ 堂，期待您的参与！\n\n___________________________________________
+ _____________________________________ \n\nMicrosoft Teams 会议 \n\n使
+ 用电脑、移动应用或会议室设备加入 \n\n单击此处以加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDM2MDM3NjY
+ tYWQzNS00NGVlLWEzOWEtMGE0YzMzMzA0MjU4%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22851dac70-0e45
+ -4c40-b2e3-1b88eb2c79ba%22%7d>  \n\n会议 ID: 361 713 853 116 \n密码: Q
+ uKbMH \n\n下载 Teams <https://www.microsoft.com/en-us/microsoft-teams/do
+ wnload-app>  | 在 web 上加入 <https://www.microsoft.com/microsoft-team
+ s/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 
+ 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=851d
+ ac70-0e45-4c40-b2e3-1b88eb2c79ba&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a&threadId=19_meeting_ZDM2MDM3NjYtYWQzNS00NGVlLWEzOWEtMGE0YzMzMzA0MjU4@
+ thread.v2&messageId=0&language=zh-CN>  | 法律 <https://filehub.admiralcl
+ oud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________________
+ ______________________________________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
