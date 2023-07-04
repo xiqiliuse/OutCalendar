@@ -110,17 +110,6 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPMS Database regular review meeting
-DTSTART;TZID="GMT 标准时间":20230704T150000
-DTEND;TZID="GMT 标准时间":20230704T160000
-CLASS:PUBLIC
-DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
- 管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
- 单记录模块\n\n4.        其他问题\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:问题库与大事件回顾会议
 DTSTART;TZID="GMT 标准时间":20230704T160000
 DTEND;TZID="GMT 标准时间":20230704T170000
@@ -271,12 +260,49 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Datacenter-PPMS 定期回顾（颜色相关）
-DTSTART;TZID="GMT 标准时间":20230706T160000
-DTEND;TZID="GMT 标准时间":20230706T163000
+SUMMARY:带去德国的问题讨论
+DTSTART;TZID="GMT 标准时间":20230706T130000
+DTEND;TZID="GMT 标准时间":20230706T140000
 CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+DESCRIPTION:邀请彭经理把我们部门提的一些问题提前沟通
+ 一下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datacenter-PPMS 定期回顾（颜色相关）
+DTSTART;TZID="GMT 标准时间":20230706T150000
+DTEND;TZID="GMT 标准时间":20230706T160000
+CLASS:PUBLIC
+DESCRIPTION:此次会议讨论下历史遗留点，及颜色模块上线
+ 运行相关
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:挤出调机表皮回收项目
+DTSTART;TZID="GMT 标准时间":20230706T163000
+DTEND;TZID="GMT 标准时间":20230706T170000
+CLASS:PUBLIC
+DESCRIPTION:由于之前选择的料号涉及到了510P粒子刮伤异常
+ ，特邀请大家重新选择一个项目。\n\n_________________________
+ _______________________________________________________ \n\nMicrosoft Team
+ s 会议 \n\n使用电脑、移动应用或会议室设备加入 \n\n单
+ 击此处以加入会议 <https://teams.microsoft.com/l/meetup-join/19%3am
+ eeting_ZWIyNDM0NDYtNWE2OC00MDcwLThiNmYtOTljNzliZmI4NDg5%40thread.v2/0?cont
+ ext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%
+ 3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb%22%7d>  \n\n会议 ID: 314 084 0
+ 05 830 \n密码: fHu9Md \n\n下载 Teams <https://www.microsoft.com/en-us/
+ microsoft-teams/download-app>  | 在 web 上加入 <https://www.microsoft.
+ com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinT
+ eamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOptions/?
+ organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&tenantId=8d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a&threadId=19_meeting_ZWIyNDM0NDYtNWE2OC00MDcwLThiNmYtO
+ TljNzliZmI4NDg5@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____ \n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -325,6 +351,17 @@ DTEND;TZID="GMT 标准时间":20230707T103000
 CLASS:PUBLIC
 DESCRIPTION: \n\n \n
 LOCATION:工厂大厅
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPMS Database regular review meeting
+DTSTART;TZID="GMT 标准时间":20230707T140000
+DTEND;TZID="GMT 标准时间":20230707T150000
+CLASS:PUBLIC
+DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
+ 管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
+ 单记录模块\n\n4.        其他问题\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -455,8 +492,8 @@ DESCRIPTION:CLASSROOM 129420 4/6/2022 05:19 PM Asia/Shanghai - CN_HQ Shang
  i közvetlenül a MySuccess Képzés moduljában (LMS) lehetséges.\n\nSK 
  -POZOR: Túto pozvánku neposielajte ďalej! Registráciu pre túto polož
  ku je potrebné urobiť priamo v systéme mySuccess Learning (LMS).
-LOCATION:China_Shanghai_DLR_3F Yangzhou Meeting Room (Shanghai - No538\, D
- alian Road\, Yangpu District\, R&D Center\, 3F_Yangzhou(SHA_R&D_Yangzhou))
+LOCATION:China_Shanghai (Shanghai - No538\, Dalian Road\, Yangpu District\
+ , R&D Center\, 21F_Hefei)
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -529,8 +566,8 @@ DESCRIPTION:CLASSROOM 129420 4/6/2022 05:19 PM Asia/Shanghai - CN_HQ Shang
  i közvetlenül a MySuccess Képzés moduljában (LMS) lehetséges.\n\nSK 
  -POZOR: Túto pozvánku neposielajte ďalej! Registráciu pre túto polož
  ku je potrebné urobiť priamo v systéme mySuccess Learning (LMS).
-LOCATION:China_Shanghai_DLR_3F Yangzhou Meeting Room (Shanghai - No538\, D
- alian Road\, Yangpu District\, R&D Center\, 3F_Yangzhou(SHA_R&D_Yangzhou))
+LOCATION:China_Shanghai (Shanghai - No538\, Dalian Road\, Yangpu District\
+ , R&D Center\, 21F_Hefei)
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
