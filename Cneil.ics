@@ -35,16 +35,6 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Datacenter-PPMS 定期回顾（颜色相关）
-DTSTART;TZID="GMT 标准时间":20230706T150000
-DTEND;TZID="GMT 标准时间":20230706T160000
-CLASS:PUBLIC
-DESCRIPTION:此次会议讨论下历史遗留点，及颜色模块上线
- 运行相关
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:挤出调机表皮回收项目
 DTSTART;TZID="GMT 标准时间":20230706T163000
 DTEND;TZID="GMT 标准时间":20230706T170000
@@ -110,12 +100,49 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:锦湖EPDM生产过程划伤问题讨论
+DTSTART;TZID="GMT 标准时间":20230707T093000
+DTEND;TZID="GMT 标准时间":20230707T100000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n和大家一起讨论下邮件中提到的问题
+ ，看有没有方向可以改善目前遇到的划伤问题，以保证
+ 锦湖EPDM能够顺利使用下去，谢谢！\n\n________________________
+ ________________________________________________________ \n\nMicrosoft Tea
+ ms 会议 \n\n使用电脑、移动应用或会议室设备加入 \n\n单
+ 击此处以加入会议 <https://teams.microsoft.com/l/meetup-join/19%3am
+ eeting_MDU0MjczYzEtODM0YS00OTZjLWE0MzItYzQ3ODlhYWJiODll%40thread.v2/0?cont
+ ext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%
+ 3a%225095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 349 729 8
+ 27 990 \n密码: vRvQkS \n\n下载 Teams <https://www.microsoft.com/en-us/
+ microsoft-teams/download-app>  | 在 web 上加入 <https://www.microsoft.
+ com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinT
+ eamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOptions/?
+ organizerId=5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a&threadId=19_meeting_MDU0MjczYzEtODM0YS00OTZjLWE0MzItY
+ zQ3ODlhYWJiODll@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:工厂站会+Gemba Walk
 DTSTART;TZID="GMT 标准时间":20230707T100000
 DTEND;TZID="GMT 标准时间":20230707T103000
 CLASS:PUBLIC
 DESCRIPTION: \n\n \n
 LOCATION:工厂大厅
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datacenter-PPMS 定期回顾（颜色相关）
+DTSTART;TZID="GMT 标准时间":20230707T130000
+DTEND;TZID="GMT 标准时间":20230707T140000
+CLASS:PUBLIC
+DESCRIPTION:此次会议讨论下历史遗留点，及颜色模块上线
+ 运行相关
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -363,6 +390,30 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI月会
+DTSTART;TZID="GMT 标准时间":20230713T140000
+DTEND;TZID="GMT 标准时间":20230713T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_YmUxNTkxMWQtOTc5Ni00MDc2LW
+ I2NGQtM2IwNjAxNGUwNDY0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
+ f9224084%22%7d>  \n\n会议 ID: 337 068 384 813 \n密码: r8RpoK \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
+ 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_YmUxNTkxMWQtOTc5Ni00MDc2LWI2NGQtM2IwNjAxNGUwNDY0@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
