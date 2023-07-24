@@ -25,6 +25,32 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:锦湖EPDM供应商拜访，讨论划痕事项
+DTSTART;TZID="GMT 标准时间":20230724T150000
+DTEND;TZID="GMT 标准时间":20230724T160000
+CLASS:PUBLIC
+DESCRIPTION:DOW析出物测试结果出来了，如我邮件分享\n\n供
+ 应商也过来了，我们一起看下后续的行动方案\n\n__________
+ ______________________________________________________________________ \n\
+ nMicrosoft Teams 会议 \n\n使用电脑、移动应用或会议室设备
+ 加入 \n\n单击此处以加入会议 <https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_ZWEzZDdhZGYtMDdhYS00NzAxLTk5MDYtN2E4ZTE4NmVkZWI2%40th
+ read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
+ 2%2c%22Oid%22%3a%225095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议
+  ID: 366 636 609 472 \n密码: xbs4vK \n\n下载 Teams <https://www.micros
+ oft.com/en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://
+ www.microsoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https:
+ //aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/me
+ etingOptions/?organizerId=5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZWEzZDdhZGYtMDdhYS0
+ 0NzAxLTk5MDYtN2E4ZTE4NmVkZWI2@thread.v2&messageId=0&language=zh-CN>  | 法
+ 律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n\n______________________________________________________________
+ __________________ \n\n \n
+LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Regular Meeting
 DTSTART;TZID="GMT 标准时间":20230724T203000
 DTEND;TZID="GMT 标准时间":20230724T210000
@@ -167,6 +193,30 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:R2R系统框架搭建
+DTSTART;TZID="GMT 标准时间":20230726T100000
+DTEND;TZID="GMT 标准时间":20230726T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_OTQ3NjZmNDItZTAyZC00Nzk0LW
+ E5MTMtZDkzOGY1ZmZkOGY1%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
+ 5713688c%22%7d>  \n\n会议 ID: 317 652 580 641 \n密码: WHzqqq \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
+ 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_OTQ3NjZmNDItZTAyZC00Nzk0LWE5MTMtZDkzOGY1ZmZkOGY1@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TPO颜色梳理会
 DTSTART;TZID="GMT 标准时间":20230726T130000
 DTEND;TZID="GMT 标准时间":20230726T140000
@@ -261,6 +311,17 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:挤出回收料在色母粒线造粒
+DTSTART;TZID="GMT 标准时间":20230727T131000
+DTEND;TZID="GMT 标准时间":20230727T150000
+CLASS:PUBLIC
+DESCRIPTION:大家好，邀请大家一起在色母粒现场确认挤出
+ 的调机切碎料在造粒过程的试验过程。\n\n项目为Z2300376A1
+ 500A1070 (D101 2YC  90386)。\n
+LOCATION:SP 色母生产线
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
