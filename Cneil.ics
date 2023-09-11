@@ -5,260 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230908T083500
-DTEND;TZID="GMT 标准时间":20230908T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒关键配件准备
-DTSTART;TZID="GMT 标准时间":20230908T100000
-DTEND;TZID="GMT 标准时间":20230908T103000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_YjNlMjc2MGItYjYwZS00NDQ2LT
- kwYWItOWRiNjkwMGQ2M2Ey%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2227cabe9d-b880-48dc-b6ef-b9fd
- e4a5234f%22%7d>  \n\n会议 ID: 318 833 154 882 \n密码: aKnMEr \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=27cabe9d-b880-48dc-
- b6ef-b9fde4a5234f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_YjNlMjc2MGItYjYwZS00NDQ2LTkwYWItOWRiNjkwMGQ2M2Ey@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1st QAM GP/LL Sharing Seminar 2023: FMEA
-DTSTART;TZID="GMT 标准时间":20230908T133000
-DTEND;TZID="GMT 标准时间":20230908T170000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n-----原始约会-----\n发件人: Wei\, Jue <jue.we
- i@continental-corporation.com> \n发送时间: 2023年8月31日 9:27\n收
- 件人: Wei\, Jue\; Pan\, Sheng\; Qin\, Minglei\; Huang\, Yuyang\; Zhao Ya
- n2\; Wang\, Xiaofeng\; Li\, Race\; Tan\, Paul\; Wang\, Chunguang02\; Liu\,
-  Chen04\; Liu\, Dennis\; Xiao\, Yuling\; Li\, Nicole\; Zhao\, Jing09\; Che
- n\, Qing02\; Cao\, Yuanling\; Shen\, Ting\; Zhang\, Yi04\; Zhang\, Fangfan
- g\; Hu\, Huimin\; Xie\, Fengjiao\; Li\, Yan08\; Jian Zha(查健)\; 孔嫣
- 然\; Chen\, Jiang\; Ge\, Hanshu\; Huang\, Wenfeng\; Chen\, Lan02\; Zhao\,
-  Liang\; Kaixing Quan(全开兴)\; Qian\, Qiubo\; Cheng\, Liang02\; Zhao\,
-  Min02\; 徐向京\; Xu\, Jianguo\; Chen\, Xia\; Chen\, Yan06\; Xu\, Yan01
- \; Qian\, Fengdan\; Zhang\, Qinghe\; Yang\, Mark Chao\; Shang\, Yuhua\; Zh
- ou\, Zoe\; Xu\, Lisa\; Dong\, Minx\n抄送: Liu\, Yan\; Wang\, Qingfei\; Z
- hang\, Shi\; Han\, Qiusheng\; Xia\, Boming\; Liu\, Shiju\; Yang\, Rong02\;
-  Liu\, Renliang\; Pan\, Qian\; Zhang\, Yin04\; Geng\, Qi\; Zhang\, Meredit
- h\; Yang\, Bin\; Hao\, Rui\; An\, Hua\; shaodong.wu@chbsc-cq.com\; Rohmann
- \, Manuel\; Xie\, Chao\; Zhang\, Yi\; Zhu\, Zachary\; Cao\, Lillian\; Zhan
- g\, Qiang\; Ma\, Mandy02\; Zhang\, Lei\; Liu\, Yangyang01\; meng\, li02\; 
- Chai\, Siwen\; Li\, Wenhao\; Yu\, Dajiang\; Gao\, Guoqiang03\; Dong\, Jiya
- n\; Xu\, Xiaoming02\; Hou\, Yuhua\; Li\, Hang04\; Liu\, Guilin\; Zhu\, Yon
- gxing\; Zhou\, Yu03\; Liu\, Bowen\; Teng\, Tao02\; Shen\, Haiou02\; Dai\, 
- Aiqin\; Wang\, Longhai02\; Tang\, Jiawei03\; Li\, Nan02\; Gu\, Wei06\; Wan
- g\, Yuzhou\; Chen\, Wenwen02\; Hu\, Beitao\; Zhu\, Jiajia02\; Zhang\, Jiat
- ian\; MAO\, Yuchen\; Chen\, Hening\; Yang\, Yuwei\; Huang\, Yong04\; Dan\,
-  Hongtao\; Chen\, Hikey\; Wu\, Feifei02\; Shen\, Jie\; Xu\, Yanqiu\; Liu\,
-  Kai05\; Ding\, Zhongxie\; Du\, Lijie\; Duan\, Haitao\; Huang\, Haitao02\;
-  Lian\, Chengbo02\; Liu\, Huanhuan02\; Lou\, Hangyu\; Lu\, Jiaqi\; Lu\, Zh
- ichao02\; Ma\, Yao\; Peng\, Shuping\; Qi\, Nicholas\; Qiu\, Jie03\; Shao\,
-  Lei02\; Shen\, Yecheng02\; Wang\, Tong\; Wang\, Wenming\; Xu\, Jinlong\; 
- Xu\, Kevin\; Xu\, Ming03\; Yang\, Jacob\; Zhang\, Meng05\; Zhou\, Lancheng
- \; Zhou\, Ying05\; Jiang\, Ping\; Chen\, Fei08\; Jia\, Huan\; Ke\, Jun\; L
- i\, Zhenhua02\; Liu\, Jiafa\; Tan\, Daimin\; Wu\, Huibin\; Zhang\, Keke\; 
- Zhao\, Min05\; Zhu\, Hao\; Zhang\, Tian\; Jiang\, Honggang02\; Tang\, Ying
- \; Liu\, Xiaochen\; Huang\, Zilong\; Yin\, Linting\; Gong\, Yu\; Zhang\, L
- iang13\; Li\, Jian\; Zhu\, mengmeng03\; Ge\, Guang Yan\; Yazhou Li(李亚
- 舟)\; Liang\, Fengzhu\; Fang\, Shitao\; Guo\, Kai02\; Jin\, Yunhua\; Wang
- \, Longbang\; Chen\, Zhiqiang02\; Wu\, Yanguo\; Piao\, Xin\; Zhao\, Meng\;
-  Jin\, Jing03\; Wang\, Dewei02\; Wang\, Jun02\; Cao\, Qun02\; Chen\, Siyua
- n02\; Chen\, Tao\; Cui\, Xiaohai\; Ding\, Caiyong\; Dong\, Jing\; Dong\, Z
- hibo\; Kang\, Bo\; Kong\, Da\; Li\, Chaoye02 (uif44035)\; Li\, Fang\; Li\,
-  Jian02\; Li\, Jian04\; Li\, Xue03\; Li\, Yue06\; Liu\, Yu05\; Mu\, Senlin
- 02\; Nan\, Weijie (uib25079)\; Pang\, Jiahui\; Qu\, Jingdong\; Sun\, Huany
- u02\; Sun\, Zhigang\; Tian\, Ye03\; Wang\, Jieru\; Wang\, Peng07\; Wang\, 
- Qiushi\; Wang-EXT\, Jiarui02\; Xie\, Tingting\; Xu\, Fang\; Zhang\, He\; Z
- hang\, Huanxin\; Zhang\, Jianrui\; Zhang\, Libo\; Zhang\, Yujia\; Zhao\, X
- iaoming\; Zhao\, Yang04 (uidu6134)\; Zhou\, Ming (uif42313)\; Zhu\, Mingch
- ao\; hongcheng.li@contitech-sd.cn\; 李东良\; 戚鹏\; 周会\; 李童\;
-  Gu\, Ye02\; Qin\, Jia\; Yu\, Zhenghu02\; Ji\, Ruipeng\; Zhang\, Pengcheng
- \; He\, Yalin\; Sun\, Bingyi\; Chen\, Wanlu\; su\, xiaochen\; he\, yeqing\
- ; zhenxu.huang@contitech-sd.cn\; shuang.lin@contitech-sd.cn\; yao.lin@cont
- itech-sd.cn\; '李存相' (cunxiang.li@contitech-sd.cn)\; hongwei.xu@conti
- tech-sd.cn\; zhao.zhu@contitech-sd.cn\; Shao\, Juan02\; Zhang\, Qing04\; Z
- hou\, Yulong\; Zhang\, Guoliang02\; Wang\, Yuanwen02\; AU_JD_MG_APP_RD_SYS
- \; Wu\, Shunnan\; Zhou\, Lei03\; Luo\, Shuyou\; Cui\, Yingyu\; Xu\, Hao02\
- ; Song\, Yang02\; Sun\, Jinglong\; Peng\, Junze\; Tao\, Xu03\; zhou\, Chao
- hui\; Zhou\, Benjamin\; He\, George\; Panlan\, Marcia\; Fu\, Loda\; Yan\, 
- Scott\; Duan\, Luyi\; Wei\, Jian-Jiang\; Zhou\, Jinbo\; Huan\, Hongsheng\;
-  Ding\, Ning02\; Xu\, Zhiwen\; Chen\, Ying03\; Zhang\, Ming02\; Cai\, Min\
- ; Ding\, Dayu\; Zeng\, Lingling\; Ji\, Yongbing\; Guo\, Qi\; Cheng\, Lei\;
-  Chen\, Cheng04\; Mei\, Yanhua\; Xie\, Songtao\; Zhang\, Le02\; Fang\, Lia
- ng03\; Liu\, Lei09\; Liu\, Pan\; Kang\, Yijia\; Sun\, Yong\; Wang\, Chuanf
- eng01\; Chen\, Shane\; luo\, peng\; Yin\, LingLing02\; Li\, Yuanhu\; Wang\
- , Fenghua\; Xu\, Yingyin\; Zhang\, Evan\; Wu\, Weilin\; Ling\, Apple\; Che
- n\, Lee\; Wu\, Tingxiao\; PPI BCZ\; Wang\, Fen\; Sun\, Xiaoyong\; Xu\, Gra
- ce02\; Ying\, Minkai\; Ge\, David\; Song\, Gang\; Zhou\, Aron\; Cai\, Xiao
- \; Fan\, Jessica\; Xue\, Jing\; Gong\, Miles\; Zhou\, Zhou02\; Du\, XiangF
- ei\; Xiang\, Jie\; Yin\, Janey\; Zhan\, Yijuan\; Zhou\, Fisher\; Fei\, Lul
- u\; Wang\, Haimei\; Xu\, Rachel\; Ma\, Xian\; Zhang\, Qinfen\; Zhou\, Yala
- n\; Xu\, Binbin\; Zhu\, MinYu\; zheng\, yuhua\; Wang\, Congyu\; kan\, qing
- \; Shen\, Jie\; Zhang\, Aileen\; Ju\, Joe\; Yu\, Andy02\; guo\, xin.3\; Da
- i\, Lun\; Peng\, Cheng\; qiao\, yanqing\; Li\, Yueting\; Li\, Xiaodong03\;
-  cheng\, yifei\; Zhuang\, Huadong\; Zhao\, Tianxin\; Hui\, Jiachen\; Tang\
- , Yufan\; Zheng\, Jinhu\; Yang\, Jiding\; Meng\, Fanwei\; Wang\, Jing09\; 
- Chen-EXT\, Chi02\n主题: 1st QAM GP/LL Sharing Seminar 2023: FMEA\n时间
- : 2023年9月8日星期五 13:30-17:00(UTC+08:00) 北京，重庆，香港
- 特别行政区，乌鲁木齐。\n地点: Microsoft Teams Meeting\n\n \n\
- n有兴趣的都可以参加\n\n \n\n \n\n \n\n-----原始约会-----\n发
- 件人: Wei\, Jue <jue.wei@continental-corporation.com <mailto:jue.wei@con
- tinental-corporation.com> > \n发送时间: 2023年8月22日 13:13\n收件
- 人: Wei\, Jue\; Wei\, Jue\; Zhao Yan2\; Wang\, Xiaofeng\; Li\, Race\; Tan
- \, Paul\; Wang\, Chunguang02\; Liu\, Chen04\; Liu\, Dennis\; Xiao\, Yuling
- \; Li\, Nicole\; Zhao\, Jing09\; Chen\, Qing02\; Cao\, Yuanling\; Shen\, T
- ing\; Zhang\, Yi04\; Zhang\, Fangfang\; Hu\, Huimin\; Xie\, Fengjiao\; Li\
- , Yan08\; Jian Zha(查健)\; 孔嫣然\; Chen\, Jiang\; Ge\, Hanshu\; Huan
- g\, Wenfeng\; Chen\, Lan02\; Zhao\, Liang\; Kaixing Quan(全开兴)\; Qian
- \, Qiubo\; Cheng\, Liang02\; Zhao\, Min02\; 徐向京\; Xu\, Jianguo\; Che
- n\, Xia\; Chen\, Yan06\; Xu\, Yan01\; Qian\, Fengdan\; Zhang\, Qinghe\; Ya
- ng\, Mark Chao\; Shang\, Yuhua\; Zhou\, Zoe\; Xu\, Lisa\; Dong\, Minx\n抄
- 送: Liu\, Yan\; Wang\, Qingfei\; Zhang\, Shi\; Han\, Qiusheng\; Xia\, Bom
- ing\; Liu\, Shiju\; Yang\, Rong02\; Liu\, Renliang\; Pan\, Qian\; Zhang\, 
- Yin04\; Geng\, Qi\; Zhang\, Meredith\; Yang\, Bin\; Hao\, Rui\; An\, Hua\;
-  shaodong.wu@chbsc-cq.com <mailto:shaodong.wu@chbsc-cq.com> \; Rohmann\, M
- anuel\; Xie\, Chao\; Zhang\, Yi\; Zhu\, Zachary\; Cao\, Lillian\; Zhang\, 
- Qiang\; Ma\, Mandy02\; Zhang\, Lei\; Liu\, Yangyang01\; meng\, li02\; Chai
- \, Siwen\; Li\, Wenhao\; Yu\, Dajiang\; Gao\, Guoqiang03\; Dong\, Jiyan\; 
- Xu\, Xiaoming02\; Hou\, Yuhua\; Li\, Hang04\; Liu\, Guilin\; Zhu\, Yongxin
- g\; Zhou\, Yu03\; Liu\, Bowen\; Teng\, Tao02\; Shen\, Haiou02\; Dai\, Aiqi
- n\; Wang\, Longhai02\; Tang\, Jiawei03\; Li\, Nan02\; Gu\, Wei06\; Wang\, 
- Yuzhou\; Chen\, Wenwen02\; Hu\, Beitao\; Zhu\, Jiajia02\; Zhang\, Jiatian\
- ; MAO\, Yuchen\; Chen\, Hening\; Yang\, Yuwei\; Huang\, Yong04\; Dan\, Hon
- gtao\; Chen\, Hikey\; Wu\, Feifei02\; Shen\, Jie\; Xu\, Yanqiu\; Liu\, Kai
- 05\; Ding\, Zhongxie\; Du\, Lijie\; Duan\, Haitao\; Huang\, Haitao02\; Lia
- n\, Chengbo02\; Liu\, Huanhuan02\; Lou\, Hangyu\; Lu\, Jiaqi\; Lu\, Zhicha
- o02\; Ma\, Yao\; Pan\, Sheng\; Peng\, Shuping\; Qi\, Nicholas\; Qin\, Ming
- lei\; Qiu\, Jie03\; Shao\, Lei02\; Shen\, Yecheng02\; Wang\, Tong\; Wang\,
-  Wenming\; Xu\, Jinlong\; Xu\, Kevin\; Xu\, Ming03\; Yang\, Jacob\; Zhang\
- , Meng05\; Zhou\, Lancheng\; Zhou\, Ying05\; Jiang\, Ping\; Chen\, Fei08\;
-  Jia\, Huan\; Ke\, Jun\; Li\, Zhenhua02\; Liu\, Jiafa\; Tan\, Daimin\; Wu\
- , Huibin\; Zhang\, Keke\; Zhao\, Min05\; Zhu\, Hao\; Zhang\, Tian\; Jiang\
- , Honggang02\; Tang\, Ying\; Liu\, Xiaochen\; Huang\, Zilong\; Yin\, Linti
- ng\; Gong\, Yu\; Zhang\, Liang13\; Li\, Jian\; Zhu\, mengmeng03\; Ge\, Gua
- ng Yan\; Yazhou Li(李亚舟)\; Liang\, Fengzhu\; Fang\, Shitao\; Guo\, Ka
- i02\; Jin\, Yunhua\; Wang\, Longbang\; Chen\, Zhiqiang02\; Wu\, Yanguo\; P
- iao\, Xin\; Zhao\, Meng\; Jin\, Jing03\; Wang\, Dewei02\; Wang\, Jun02\; C
- ao\, Qun02\; Chen\, Siyuan02\; Chen\, Tao\; Cui\, Xiaohai\; Ding\, Caiyong
- \; Dong\, Jing\; Dong\, Zhibo\; Kang\, Bo\; Kong\, Da\; Li\, Chaoye02 (uif
- 44035)\; Li\, Fang\; Li\, Jian02\; Li\, Jian04\; Li\, Xue03\; Li\, Yue06\;
-  Liu\, Yu05\; Mu\, Senlin02\; Nan\, Weijie (uib25079)\; Pang\, Jiahui\; Qu
- \, Jingdong\; Sun\, Huanyu02\; Sun\, Zhigang\; Tian\, Ye03\; Wang\, Jieru\
- ; Wang\, Peng07\; Wang\, Qiushi\; Wang-EXT\, Jiarui02\; Xie\, Tingting\; X
- u\, Fang\; Zhang\, He\; Zhang\, Huanxin\; Zhang\, Jianrui\; Zhang\, Libo\;
-  Zhang\, Yujia\; Zhao\, Xiaoming\; Zhao\, Yang04 (uidu6134)\; Zhou\, Ming 
- (uif42313)\; Zhu\, Mingchao\; hongcheng.li@contitech-sd.cn <mailto:hongche
- ng.li@contitech-sd.cn> \; 李东良\; 戚鹏\; 周会\; 李童\; Gu\, Ye02
- \; Qin\, Jia\; Yu\, Zhenghu02\; Ji\, Ruipeng\; Zhang\, Pengcheng\; He\, Ya
- lin\; Sun\, Bingyi\; Chen\, Wanlu\; su\, xiaochen\; he\, yeqing\; zhenxu.h
- uang@contitech-sd.cn <mailto:zhenxu.huang@contitech-sd.cn> \; shuang.lin@c
- ontitech-sd.cn <mailto:shuang.lin@contitech-sd.cn> \; yao.lin@contitech-sd
- .cn <mailto:yao.lin@contitech-sd.cn> \; '李存相' (cunxiang.li@contitech
- -sd.cn <mailto:cunxiang.li@contitech-sd.cn> )\; hongwei.xu@contitech-sd.cn
-  <mailto:hongwei.xu@contitech-sd.cn> \; zhao.zhu@contitech-sd.cn <mailto:z
- hao.zhu@contitech-sd.cn> \; Shao\, Juan02\; Zhang\, Qing04\; Zhou\, Yulong
- \; Zhang\, Guoliang02\; Wang\, Yuanwen02\; AU_JD_MG_APP_RD_SYS\; Wu\, Shun
- nan\; Zhou\, Lei03\; Luo\, Shuyou\; Cui\, Yingyu\; Xu\, Hao02\; Song\, Yan
- g02\; Sun\, Jinglong\; Peng\, Junze\; Tao\, Xu03\; zhou\, Chaohui\; Zhou\,
-  Benjamin\; He\, George\; Panlan\, Marcia\; Fu\, Loda\; Yan\, Scott\; Duan
- \, Luyi\; Wei\, Jian-Jiang\; Zhou\, Jinbo\; Huan\, Hongsheng\; Ding\, Ning
- 02\; Xu\, Zhiwen\; Chen\, Ying03\; Zhang\, Ming02\; Cai\, Min\; Ding\, Day
- u\; Zeng\, Lingling\; Ji\, Yongbing\; Guo\, Qi\; Cheng\, Lei\; Chen\, Chen
- g04\; Mei\, Yanhua\; Xie\, Songtao\; Zhang\, Le02\; Fang\, Liang03\; Liu\,
-  Lei09\; Liu\, Pan\; Kang\, Yijia\; Sun\, Yong\; Wang\, Chuanfeng01\; Chen
- \, Shane\; luo\, peng\; Yin\, LingLing02\; Li\, Yuanhu\; Wang\, Fenghua\; 
- Xu\, Yingyin\; Zhang\, Evan\; Wu\, Weilin\; Ling\, Apple\; Chen\, Lee\; Wu
- \, Tingxiao\; PPI BCZ\; Wang\, Fen\; Sun\, Xiaoyong\; Xu\, Grace02\; Ying\
- , Minkai\; Ge\, David\; Song\, Gang\; Zhou\, Aron\; Cai\, Xiao\; Fan\, Jes
- sica\; Xue\, Jing\; Gong\, Miles\; Zhou\, Zhou02\; Du\, XiangFei\; Xiang\,
-  Jie\; Yin\, Janey\; Zhan\, Yijuan\; Zhou\, Fisher\; Fei\, Lulu\; Wang\, H
- aimei\; Xu\, Rachel\; Ma\, Xian\; Zhang\, Qinfen\; Zhou\, Yalan\; Xu\, Bin
- bin\; Zhu\, MinYu\; zheng\, yuhua\; Wang\, Congyu\; kan\, qing\; Shen\, Ji
- e\; Zhang\, Aileen\; Ju\, Joe\; Yu\, Andy02\; Huang\, Yuyang\; guo\, xin.3
- \; Dai\, Lun\; Peng\, Cheng\; qiao\, yanqing\; Li\, Yueting\; Li\, Xiaodon
- g03\; cheng\, yifei\; Zhuang\, Huadong\; Zhao\, Tianxin\; Hui\, Jiachen\; 
- Tang\, Yufan\; Zheng\, Jinhu\; Yang\, Jiding\; Meng\, Fanwei\; Wang\, Jing
- 09\; Chen-EXT\, Chi02\n主题: 1st QAM GP/LL Sharing Seminar 2023: FMEA\n
- 时间: 2023年9月8日星期五 13:30-17:00(UTC+08:00) 北京，重庆，
- 香港特别行政区，乌鲁木齐。\n地点: Microsoft Teams Meeting\n
- \n \n\nDear all\,\n\n \n\nVia QAM audits in 2023\, some good practices and
-  lessons learned of FMEA are found in China locations.\n\nYou’re invited
-  to attend the seminar to share these good practices and lessons learned o
- nline. \n\n \n\n@QMS/AMR: Welcome to forward this invitation to other inte
- rested and relevant colleagues.\n\n \n\nVenue: Teams Meeting\n\nLanguage: 
- Chinese\n\n \n\n\n\n \n\nBest Regards\,\n\n \n\nJue (Judy) WEI 魏珏\n\nQ
- AM Auditor\, QMS & AMR SH HQ\n\nGF QCE QM QAM & Analytics\, Quality Automo
- tive China\nContinental Holding China Co.\, Ltd. | 大陆投资(中国)有
- 限公司\n8F\, NAP Building C\, 538\, Dalian Road\, Shanghai\, P.R.China 
- 200082 | 中国上海市大连路538号北美广场C座8层\n\nPhone : +86
-  21 6080 4521\n\nMobile: +86 13501777273\n\nFax:    +86 21 6080 4023\n\nE-
- Mail: jue.wei@continental-corporation.com <mailto:jue.wei@continental-corp
- oration.com> \n\n \n\n____________________________________________________
- ____________________________ \n\nMicrosoft Teams meeting \n\nJoin on your 
- computer\, mobile app or room device \n\nClick here to join the meeting <h
- ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGYzNWRmMDItMTQ2NC00
- M2EyLWJhYjQtNDg4YTI1NDYyOTNj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
- 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2222eb3bb9-f581-46f5-a5e
- f-74edeb62f44e%22%7d>  \n\nMeeting ID: 316 749 969 402 \nPasscode: hm7nA7 
- \n\nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/downlo
- ad-app>  | Join on the web <https://www.microsoft.com/microsoft-teams/join
- -a-meeting> \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting op
- tions <https://teams.microsoft.com/meetingOptions/?organizerId=22eb3bb9-f5
- 81-46f5-a5ef-74edeb62f44e&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&th
- readId=19_meeting_ZGYzNWRmMDItMTQ2NC00M2EyLWJhYjQtNDg4YTI1NDYyOTNj@thread.
- v2&messageId=0&language=en-US>  | Legal <https://filehub.admiralcloud.com/
- dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________________________
- ______________________________________________________ \n\n \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:教师节
-DTSTART;TZID="GMT 标准时间":20230910T000000
-DTEND;TZID="GMT 标准时间":20230911T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:教师节
-DTSTART;TZID="GMT 标准时间":20230910T000000
-DTEND;TZID="GMT 标准时间":20230911T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230911T083500
 DTEND;TZID="GMT 标准时间":20230911T092500
 CLASS:PUBLIC
@@ -1894,6 +1640,137 @@ DTEND;TZID="GMT 标准时间":20231008T000000
 CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:寒露
+DTSTART;TZID="GMT 标准时间":20231008T000000
+DTEND;TZID="GMT 标准时间":20231009T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:寒露
+DTSTART;TZID="GMT 标准时间":20231008T000000
+DTEND;TZID="GMT 标准时间":20231009T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20231009T083500
+DTEND;TZID="GMT 标准时间":20231009T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPMS Database regular review meeting
+DTSTART;TZID="GMT 标准时间":20231009T150000
+DTEND;TZID="GMT 标准时间":20231009T160000
+CLASS:PUBLIC
+DESCRIPTION:定期回顾database系统使用模块：\n\n1.        项目
+ 管理模块\n\n2.        工艺参数管理模块\n\n3.        现场表
+ 单记录模块\n\n4.        其他问题\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20231009T203000
+DTEND;TZID="GMT 标准时间":20231009T210000
+CLASS:PUBLIC
+DESCRIPTION:\n\n\n________________________________________________________
+ ________________________ \nMicrosoft Teams meeting \nJoin on your computer
+ \, mobile app or room device \nClick here to join the meeting <https://tea
+ ms.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbdedcbc080%40thr
+ ead.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f7c6777f%22%2
+ c%22MessageId%22%3a%221684409697969%22%7d>  \nMeeting ID: 348 788 967 848 
+ \nPasscode: rNY47K \nDownload Teams <https://www.microsoft.com/en-us/micro
+ soft-teams/download-app>  | Join on the web <https://www.microsoft.com/mic
+ rosoft-teams/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting
+ >  | Meeting options <https://teams.microsoft.com/meetingOptions/?organize
+ rId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbdedcbc080@thread.tacv2&mes
+ sageId=1683796715557&additionalMessageId=1684409697969&language=en-US>  | 
+ Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684
+ ab9ad7e>  \n______________________________________________________________
+ __________________ 
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20231010T083500
+DTEND;TZID="GMT 标准时间":20231010T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:色母粒生产问题每周回顾
+DTSTART;TZID="GMT 标准时间":20231010T103000
+DTEND;TZID="GMT 标准时间":20231010T110000
+CLASS:PUBLIC
+DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
+ 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
+ \n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:问题库与大事件回顾会议
+DTSTART;TZID="GMT 标准时间":20231010T160000
+DTEND;TZID="GMT 标准时间":20231010T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_MzNiZDBmMjItMTY4Ni00ZDAxLWFiN2Ut
+ YjM5NWI1MjVmODdm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8f92240
+ 84%22%7d>  \n\n会议 ID: 395 446 369 333 \n密码: 9aZ3TJ \n\nDownload Te
+ ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 
+ web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \
+ n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:/
+ /teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb1-2
+ 6d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
+ ing_MzNiZDBmMjItMTY4Ni00ZDAxLWFiN2UtYjM5NWI1MjVmODdm@thread.v2&messageId=0
+ &language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
