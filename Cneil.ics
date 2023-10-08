@@ -4,6 +4,33 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
+SUMMARY:TPO挤出废料再利用讨论
+DTSTART;TZID="GMT 标准时间":20231008T140000
+DTEND;TZID="GMT 标准时间":20231008T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n今天2点来自江苏博云塑业股份有限
+ 公司的销售经理吕经理会到访，我们一起讨论下我们TPO
+ 挤出废料回收再利用的话题，谢谢！\n\n______________________
+ __________________________________________________________ \n\nMicrosoft T
+ eams 会议 \n\n使用电脑、移动应用或会议室设备加入 \n\n
+ 单击此处以加入会议 <https://teams.microsoft.com/l/meetup-join/19%
+ 3ameeting_NDc0YjdlMTMtMzg4NC00YzU4LTllYWEtZTRhMjljYjAyYjc5%40thread.v2/0?c
+ ontext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%
+ 22%3a%225095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 364 53
+ 1 532 225 \n密码: QJwbBL \n\n下载 Teams <https://www.microsoft.com/en-
+ us/microsoft-teams/download-app>  | 在 web 上加入 <https://www.microso
+ ft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/Jo
+ inTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOption
+ s/?organizerId=5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e
+ -40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDc0YjdlMTMtMzg4NC00YzU4LTllYW
+ EtZTRhMjljYjAyYjc5@thread.v2&messageId=0&language=zh-CN>  | 法律 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______ \n\n \n
+LOCATION:TE_ZG_MR_CBC213_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:color 模块 Phase2 其他表单需求
 DTSTART;TZID="GMT 标准时间":20231008T150000
 DTEND;TZID="GMT 标准时间":20231008T163000
