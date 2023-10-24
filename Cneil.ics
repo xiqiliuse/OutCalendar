@@ -5,112 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20231023T083500
-DTEND;TZID="GMT 标准时间":20231023T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Communication
-DTSTART;TZID="GMT 标准时间":20231023T123000
-DTEND;TZID="GMT 标准时间":20231023T124500
-CLASS:PUBLIC
-DESCRIPTION:Dear ALL\,\n\n \n\nPlease DO make your time to attend this che
- ck-in communication.\n\n \n\n \n\n-----原始约会-----\n发件人: Yang\
- , Laraine <liping.yang@benecke-changshun.com.cn <mailto:liping.yang@beneck
- e-changshun.com.cn> > \n发送时间: 2023年10月21日 21:14\n收件人: 
- Yang\, Laraine\; Jia\, Xiaoge\n主题: Communication\n时间: 2023年10月
- 23日星期一 12:30-12:45(UTC+08:00) 北京，重庆，香港特别行政
- 区，乌鲁木齐。\n地点: Microsoft Teams Meeting\n重要性: 高\n\n
-  \n\nDear ALL\,\n\n \n\nPlease DO make your time to attend this check-in c
- ommunication.\n\n \n\n \n\nMit freundlichen Grüßen / Best regards\n\n \n
- \nLaraine YANG 杨丽萍\n\nHead of HR \n\n \n\nBCZ Surface Solutions\n\nG
- roup Sector ContiTech\n\n \n\nBesucheradresse / Visitor address:\n\nBeneck
- e Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克－长顺汽
- 车内饰材料（张家港）有限公司\n\nNo.8\,Changyang Rd.\,Nansha\
- , Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张
- 家港市金港镇南沙长阳路8号 215632\n\n \n\nPhone: +86 (0)512 583
- 76005\n\nMobile: +86 19962660211\n\nE-Mail: liping.yang@benecke-changshun.
- com.cn <mailto:liping.yang@benecke-changshun.com.cn> \n\nWebsite: www.cont
- inental-industry.com <http://www.continental-industry.com/> \n\n \n\n\n\n 
- \n\n \n\n_________________________________________________________________
- _______________ \n\nMicrosoft Teams meeting \n\nJoin on your computer\, mo
- bile app or room device \n\nClick here to join the meeting <https://teams.
- microsoft.com/l/meetup-join/19%3ameeting_YmMyNTQ1NGUtYzI5MS00MWM1LWIxYmEtM
- 2ZiMGRhMWM5OTM4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba
- -ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2210b6c72c-a55b-46cf-9dbf-b6d9320dbdc
- 2%22%7d>  \n\nMeeting ID: 360 134 809 22 \nPasscode: dpqFN3 \n\nDownload T
- eams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Joi
- n on the web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n
- \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https:/
- /teams.microsoft.com/meetingOptions/?organizerId=10b6c72c-a55b-46cf-9dbf-b
- 6d9320dbdc2&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
- ing_YmMyNTQ1NGUtYzI5MS00MWM1LWIxYmEtM2ZiMGRhMWM5OTM4@thread.v2&messageId=0
- &language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/6501531f-
- d1ca-436b-832a-1d684ab9ad7e>  \n\n________________________________________
- ________________________________________ \n\n \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ContiGPT Regular Meeting
-DTSTART;TZID="GMT 标准时间":20231023T203000
-DTEND;TZID="GMT 标准时间":20231023T210000
-CLASS:PUBLIC
-DESCRIPTION:\n\n\n________________________________________________________
- ________________________ \nMicrosoft Teams meeting \nJoin on your computer
- \, mobile app or room device \nClick here to join the meeting <https://tea
- ms.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbdedcbc080%40thr
- ead.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f7c6777f%22%2
- c%22MessageId%22%3a%221684409697969%22%7d>  \nMeeting ID: 348 788 967 848 
- \nPasscode: rNY47K \nDownload Teams <https://www.microsoft.com/en-us/micro
- soft-teams/download-app>  | Join on the web <https://www.microsoft.com/mic
- rosoft-teams/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting
- >  | Meeting options <https://teams.microsoft.com/meetingOptions/?organize
- rId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=8d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbdedcbc080@thread.tacv2&mes
- sageId=1683796715557&additionalMessageId=1684409697969&language=en-US>  | 
- Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684
- ab9ad7e>  \n______________________________________________________________
- __________________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:霜降
-DTSTART;TZID="GMT 标准时间":20231024T000000
-DTEND;TZID="GMT 标准时间":20231025T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:霜降
-DTSTART;TZID="GMT 标准时间":20231024T000000
-DTEND;TZID="GMT 标准时间":20231025T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20231024T083500
 DTEND;TZID="GMT 标准时间":20231024T092500
 CLASS:PUBLIC
@@ -882,6 +776,15 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2023 BA SSL Zhangjiagang Townhall Meeting 
+DTSTART;TZID="GMT 标准时间":20231109T100000
+DTEND;TZID="GMT 标准时间":20231109T110000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:CBC Lobby
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Database Color-lab数据模块定期回顾会议
 DTSTART;TZID="GMT 标准时间":20231109T150000
 DTEND;TZID="GMT 标准时间":20231109T160000
@@ -1316,6 +1219,63 @@ DESCRIPTION: \n\n_________________________________________________________
  -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
  _________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:小雪
+DTSTART;TZID="GMT 标准时间":20231122T000000
+DTEND;TZID="GMT 标准时间":20231123T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:小雪
+DTSTART;TZID="GMT 标准时间":20231122T000000
+DTEND;TZID="GMT 标准时间":20231123T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20231122T083500
+DTEND;TZID="GMT 标准时间":20231122T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO颜色梳理会
+DTSTART;TZID="GMT 标准时间":20231122T130000
+DTEND;TZID="GMT 标准时间":20231122T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OD & Plant  regularly review meeting[PVC&SP] 
+DTSTART;TZID="GMT 标准时间":20231122T150000
+DTEND;TZID="GMT 标准时间":20231122T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
