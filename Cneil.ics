@@ -5,63 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20231102T083500
-DTEND;TZID="GMT 标准时间":20231102T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XR67036 Mitsui 8035 NHC 断料预警
-DTSTART;TZID="GMT 标准时间":20231102T113000
-DTEND;TZID="GMT 标准时间":20231102T120000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\n目前我们在用的三井上海生产的TPV Mi
- tsui 8035 NHC 出现短期缺货，新的货要到18号才能到厂，但
- 是我们在7号就面临排产缺口，特邀请大家一起看下应急
- 对策，谢谢大家的参与！\n\n_____________________________________
- ___________________________________________ \n\nMicrosoft Teams 会议 \n\
- n使用电脑、移动应用或会议室设备加入 \n\n单击此处以
- 加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTE0M
- Tk1NTUtNjljOC00NTVkLTlmYzQtMzg1YTJiNWI5NDI5%40thread.v2/0?context=%7b%22Ti
- d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be1
- 3-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 323 115 170 293 \n密
- 码: JvCrXD \n\n下载 Teams <https://www.microsoft.com/en-us/microsoft-te
- ams/download-app>  | 在 web 上加入 <https://www.microsoft.com/microsof
- t-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>
-   | 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=
- 5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d
- 79e6265a&threadId=19_meeting_MTE0MTk1NTUtNjljOC00NTVkLTlmYzQtMzg1YTJiNWI5N
- DI5@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://filehub.admir
- alcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________
- __________________________________________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Database Color-lab数据模块定期回顾会议
-DTSTART;TZID="GMT 标准时间":20231102T150000
-DTEND;TZID="GMT 标准时间":20231102T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20231103T083500
 DTEND;TZID="GMT 标准时间":20231103T092500
 CLASS:PUBLIC
@@ -140,6 +83,44 @@ DESCRIPTION: \n\n_________________________________________________________
  nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S_07 Change Mgt Process and CMT Q/A
+DTSTART;TZID="GMT 标准时间":20231106T153000
+DTEND;TZID="GMT 标准时间":20231106T160000
+CLASS:PUBLIC
+DESCRIPTION:大家对变更管理流程或者用CMT工具的过程中遇
+ 到什么问题或者有疑问的话可以到这个例会上去咨询。\n
+ \n \n\n \n\n-----原始约会-----\n发件人: Chen\, Xia <xia.chen@beneck
+ e-changshun.com.cn <mailto:xia.chen@benecke-changshun.com.cn> > \n发送
+ 时间: 2023年11月2日 18:40\n收件人: Chen\, Xia\; Chen\, Yan06\; Wan
+ g\, Chuanfeng01\; Ma\, Mandy02\; Zhang\, Qiang\; Cheng\, Jia\; Xie\, Wei02
+ \; Chen\, Hongmei\; Zhang\, Cong\; Mao\, Dan\; Chen\, Angellee\; Sun\, Yon
+ g\; Shen\, Qi\; Li\, Yuanhu\; Bian\, Gordon\; Yang\, Jacob\; Lu\, Liubin\;
+  Xu\, Kevin\; Du\, Lijie\; Chen\, Yinkai02\; Xu\, Xiaoguo\; luo\, peng\; L
+ i\, Jiarun\; Yin\, LingLing02\; Yu\, Xiaoyu\; Liu\, Kai05\n主题: S_07 Ch
+ ange Mgt Process and CMT Q/A\n时间: 每 1 个月的 第一个星期一
+ 发生，生效时间: 2023/11/6 至 2024/11/6，从 15:30 到 16:00(UTC+0
+ 8:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n地点: M
+ icrosoft Teams 会议\n\n \n\nDear All\,\n\n \n\n\n\n \n\n________________
+ ________________________________________________________________ \n\nMicro
+ soft Teams 会议 \n\n使用电脑、移动应用或会议室设备加入 
+ \n\n单击此处以加入会议 <https://teams.microsoft.com/l/meetup-join
+ /19%3ameeting_NjY4NTM1OTQtZTMzMy00Y2Y2LTlkNDMtYTI2OGQxYjQ0NDE1%40thread.v2
+ /0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22
+ Oid%22%3a%223a801dff-1287-4f3c-b3fc-674cb9054efc%22%7d>  \n\n会议 ID: 31
+ 3 218 317 283 \n密码: 3yRHBy \n\n下载 Teams <https://www.microsoft.com
+ /en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://www.mic
+ rosoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.m
+ s/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=3a801dff-1287-4f3c-b3fc-674cb9054efc&tenantId=8d4b558f-
+ 7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NjY4NTM1OTQtZTMzMy00Y2Y2LT
+ lkNDMtYTI2OGQxYjQ0NDE1@thread.v2&messageId=0&language=zh-CN>  | 法律 <ht
+ tps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> 
+  \n\n_____________________________________________________________________
+ ___________ \n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
