@@ -97,6 +97,33 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EPDM切换后情况REVIEW
+DTSTART;TZID="GMT 标准时间":20231127T103000
+DTEND;TZID="GMT 标准时间":20231127T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n根据我们上次切换的讨论，11月底REVI
+ EW下切换以来的情况同时看下后续如何操作，麻烦大家积
+ 极参与反馈问题，为未来献言献策，谢谢！\n\n_____________
+ ___________________________________________________________________ \n\nMi
+ crosoft Teams 会议 \n\n使用电脑、移动应用或会议室设备加
+ 入 \n\n单击此处以加入会议 <https://teams.microsoft.com/l/meetup-
+ join/19%3ameeting_NTM2N2VlNzgtOWQyMy00Yjg4LThhYTktMWUwNGVjZDZhNDVk%40threa
+ d.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2
+ c%22Oid%22%3a%225095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID
+ : 362 019 500 376 \n密码: w4mTv8 \n\n下载 Teams <https://www.microsoft
+ .com/en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://www
+ .microsoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://a
+ ka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meeti
+ ngOptions/?organizerId=5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NTM2N2VlNzgtOWQyMy00Yj
+ g4LThhYTktMWUwNGVjZDZhNDVk@thread.v2&messageId=0&language=zh-CN>  | 法律
+  <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad
+ 7e>  \n\n_________________________________________________________________
+ _______________ \n\n \n
+LOCATION:TE_ZG_MR_CBC211_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPMS Database regular review meeting
 DTSTART;TZID="GMT 标准时间":20231127T150000
 DTEND;TZID="GMT 标准时间":20231127T160000
