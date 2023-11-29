@@ -5,104 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20231128T083500
-DTEND;TZID="GMT 标准时间":20231128T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产问题每周回顾
-DTSTART;TZID="GMT 标准时间":20231128T103000
-DTEND;TZID="GMT 标准时间":20231128T110000
-CLASS:PUBLIC
-DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
- 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
- \n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interview_Global Digitalization Engineer
-DTSTART;TZID="GMT 标准时间":20231128T140000
-DTEND;TZID="GMT 标准时间":20231128T150000
-CLASS:PUBLIC
-DESCRIPTION:Dear Mr. Li\,\n\n \n\nThanks for applying for the position of 
- [ Global Digitalization Engineer ] . We’re excited that you want to deve
- lop your career with Continental\, gain new experiences and perspectives a
- s you grow with us.\n\nWe have very good news for you – you made it to t
- he next round! We have already gained a great impression of you from your 
- application\, skills and experience. Next step: an online interview with u
- s.\n\nPlease reply to this email to confirm your attendance. We are lookin
- g forward to getting to know a little more about you and hope you’re as 
- excited as we are!\n\nKind regards and see you soon\,\n\nKatrina 彭丽容
- \n\nHuman Relations\n\n___________________________________________________
- _____________________________ \n\nMicrosoft Teams 会议 \n\n使用电脑
- 、移动应用或会议室设备加入 \n\n单击此处以加入会议 <h
- ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_MWU4ZDcyZDUtNjA1ZC00
- MzRjLWJlOTQtMzg2YWRlZDIzOTE1%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
- 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228186d07b-71ec-4fc0-87d
- 6-c3987a782728%22%7d>  \n\n会议 ID: 319 957 699 584 \n密码: 5WA3Qz \n\
- n下载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-ap
- p>  | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-
- meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=8186d07b-71ec
- -4fc0-87d6-c3987a782728&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_MWU4ZDcyZDUtNjA1ZC00MzRjLWJlOTQtMzg2YWRlZDIzOTE1@thread.v2
- &messageId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/d
- l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
- _____________________________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID="GMT 标准时间":20231128T140000
-DTEND;TZID="GMT 标准时间":20231128T150000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_CBC211_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:11月ESH安全宣讲
-DTSTART;TZID="GMT 标准时间":20231128T150000
-DTEND;TZID="GMT 标准时间":20231128T160000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_Y2JhYmFiMWUtZDY3YS00YzVlLT
- k3MzMtZTRjODA2MzM3M2Ew%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12
- f76925ee%22%7d>  \n\n会议 ID: 361 100 183 568 \n密码: eTUtu6 \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-
- af1c-fd12f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_Y2JhYmFiMWUtZDY3YS00YzVlLTk3MzMtZTRjODA2MzM3M2Ew@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20231129T083500
 DTEND;TZID="GMT 标准时间":20231129T092500
 CLASS:PUBLIC
@@ -177,7 +79,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:R2R定期回顾
+SUMMARY:已取消: R2R定期回顾
 DTSTART;TZID="GMT 标准时间":20231129T150000
 DTEND;TZID="GMT 标准时间":20231129T160000
 CLASS:PUBLIC
@@ -1435,6 +1337,47 @@ DTEND;TZID="GMT 标准时间":20231227T160000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20231228T083500
+DTEND;TZID="GMT 标准时间":20231228T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abgesagt: Blocker CBS R&D Community Call - (Asia & Europe) - Save 
+ the date
+DTSTART;TZID="GMT 标准时间":20231228T160000
+DTEND;TZID="GMT 标准时间":20231228T164500
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abgesagt: Blocker CBS R&D Community Call (Americas & Europe (optio
+ nal)) - Safe the date
+DTSTART;TZID="GMT 标准时间":20231228T230000
+DTEND;TZID="GMT 标准时间":20231228T234500
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
