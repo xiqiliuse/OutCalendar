@@ -5,66 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20231130T083500
-DTEND;TZID="GMT 标准时间":20231130T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SSL Risk Management App - Short Training - Participants
-DTSTART;TZID="GMT 标准时间":20231130T160000
-DTEND;TZID="GMT 标准时间":20231130T170000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\, \n\nTraining invitation for those who participate i
- n risk assessments. Please forward to relevant people.\n\n \n\n <https://c
- onnext.conti.de/communities/service/html/communityview?communityUuid=067bf
- cad-44fe-4735-b5f8-5f53aa265a0c#fullpageWidgetId=W0be8632de01d_4867_b87c_b
- 0eb5bb4e08f> \n\n \n\nAll training dates can also be found in ConNext <htt
- ps://connext.conti.de/communities/service/html/communityview?communityUuid
- =067bfcad-44fe-4735-b5f8-5f53aa265a0c#fullpageWidgetId=W0be8632de01d_4867_
- b87c_b0eb5bb4e08f> . Further trainings will be added there.\n\n___________
- _____________________________________________________________________ \n\n
- Microsoft Teams meeting \n\nJoin on your computer\, mobile app or room dev
- ice \n\nClick here to join the meeting <https://teams.microsoft.com/l/meet
- up-join/19%3ameeting_MTAzZjYyOWEtYzRmZi00OTkyLTlkMGYtNmY5ZWY1NTk4YWI5%40th
- read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
- 2%2c%22Oid%22%3a%227d04e83a-a343-46aa-a5d1-5ecc51b0415f%22%7d>  \n\nMeetin
- g ID: 338 232 482 22 \nPasscode: GuSPgP \n\nDownload Teams <https://www.mi
- crosoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https:
- //www.microsoft.com/microsoft-teams/join-a-meeting> \n\nLearn More <https:
- //aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com
- /meetingOptions/?organizerId=7d04e83a-a343-46aa-a5d1-5ecc51b0415f&tenantId
- =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTAzZjYyOWEtYzRm
- Zi00OTkyLTlkMGYtNmY5ZWY1NTk4YWI5@thread.v2&messageId=0&language=en-US>  | 
- Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684
- ab9ad7e>  \n\n____________________________________________________________
- ____________________ \n\n \n\nBest regards\,\n\nAnja\n\n------------------
- ------------------------------\n\nDr. Anja Bernecker\n\nTechnical and Proj
- ect Risk Manager\n\nQuality Management & Laboratories\n\nSurface Solutions
- \n\nContiTech\n\n \n\nMobile:     +34-651738955\nE-Mail:     anja.bernecke
- r@continental.com <mailto:anja.bernecker@continental.com> \n\nConNext: Ris
- k Management @ SSL <https://connext.conti.de/communities/service/html/comm
- unitystart?communityUuid=067bfcad-44fe-4735-b5f8-5f53aa265a0c> \n\n<$$005!
- >\n\n#GernePerDu #CallMeByMyFirstName\n\n \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20231201T083500
 DTEND;TZID="GMT 标准时间":20231201T092500
 CLASS:PUBLIC
@@ -935,6 +875,35 @@ DTEND;TZID="GMT 标准时间":20231220T140000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Common CBS Admin Call December 2023
+DTSTART;TZID="GMT 标准时间":20231220T203000
+DTEND;TZID="GMT 标准时间":20231220T213000
+CLASS:PUBLIC
+DESCRIPTION:Dear CBS Community\,\n\n \n\nLet's have the last call in 2023 
+ all together in the different time zones so we can all meet & connect.\n\n
+  \n\nHere is the agenda:\n\n- CBS News\n\n- CBS Strategic Project: Flow in
+  Admin - how to combine process improvement with automation\n\n- CBS Chris
+ tmas Tagging Party\n\n- Wishlist for 2024\n\n \n\nLooking forward meeting 
+ you ALL!\n\n \n\nJulia\n\n\n\n\n__________________________________________
+ ______________________________________ \nMicrosoft Teams meeting \nJoin on
+  your computer\, mobile app or room device \nClick here to join the meetin
+ g <https://teams.microsoft.com/l/meetup-join/19%3a74d6416fc98c4f53ba861baa
+ ad5f04ae%40thread.skype/1701339427674?context=%7b%22Tid%22%3a%228d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22dfef8758-0d06-4144-8413-55a
+ 9776d136c%22%7d>  \nMeeting ID: 367 432 588 445 \nPasscode: 6UaqbS \nDownl
+ oad Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | Join on the web <https://www.microsoft.com/microsoft-teams/join-a-meetin
+ g> \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=dfef8758-0d06-4144-841
+ 3-55a9776d136c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_7
+ 4d6416fc98c4f53ba861baaad5f04ae@thread.skype&messageId=1701339427674&langu
+ age=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________ 
+LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
