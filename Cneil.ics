@@ -249,6 +249,47 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Workshop: E-Gemba 
+DTSTART;TZID="GMT 标准时间":20231207T090000
+DTEND;TZID="GMT 标准时间":20231207T110000
+CLASS:PUBLIC
+DESCRIPTION:我周四出差了，晓东你去参加。\n\n \n\n \n\n-----
+ 原始约会-----\n发件人: Cheng\, Dong01 <dong01.cheng@benecke-changsh
+ un.com.cn <mailto:dong01.cheng@benecke-changshun.com.cn> > \n发送时间:
+  2023年12月5日 11:13\n收件人: Cheng\, Dong01\; Huang\, Qing\; Hou\, 
+ Xuewen\; Liu\, Kai05\; Zhang\, Qiang\; Chao Yuan\; Chen\, Miaoyan\; Zhu\, 
+ Jian\n主题: Workshop: E-Gemba \n时间: 2023年12月7日星期四 9:00-1
+ 1:00(UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\
+ n地点: TE_ZG_MR_PlantOffice301_Zhangjiagang\n\n \n\nDear all:\n\n \n\n  
+      根据Richard的提议，希望能在BCZ工厂建立起LEVEL1-3的e-G
+ emba，目标是能够方便现场每日每班次Gemba，并在现场实
+ 时展现各项关键参数等。\n\n邀请各位参加这次的workshop\,
+ 是为了初步确定：\n\n1， Gemba需要展示的主要数据及来源
+ \n\n2， 界面大致设计\n\n3， 展示工具和形式\n\n4， 所需
+ 资源（人/时间/费用）等...\n\n \n\n如果您不能亲自参加，
+ 请委派给熟悉本话题的同事参加。\n\n \n\n感谢您的参与
+ ！\n\n \n\n辛苦 @Huang\, Qing <mailto:Qing.Huang@benecke-changshun.com.
+ cn>  主持本次活动。\n\n \n\n \n\n \n\n_____________________________
+ ___________________________________________________ \n\nMicrosoft Teams me
+ eting \n\nJoin on your computer\, mobile app or room device \n\nClick here
+  to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeti
+ ng_ZDM2ODdmODMtMWVmNi00MTkyLWE4ZmYtOWI0MzYyYzJiZTQz%40thread.v2/0?context=
+ %7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2
+ 2b67c6f96-739d-41ce-a25a-69fd7abd4b2f%22%7d>  \n\nMeeting ID: 313 710 799 
+ 451 \nPasscode: W5UKFU \n\nDownload Teams <https://www.microsoft.com/en-us
+ /microsoft-teams/download-app>  | Join on the web <https://www.microsoft.c
+ om/microsoft-teams/join-a-meeting> \n\nLearn More <https://aka.ms/JoinTeam
+ sMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?
+ organizerId=b67c6f96-739d-41ce-a25a-69fd7abd4b2f&tenantId=8d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDM2ODdmODMtMWVmNi00MTkyLWE4ZmYtO
+ WI0MzYyYzJiZTQz@thread.v2&messageId=0&language=en-US>  | Legal <https://fi
+ lehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___
+ __________________________________________________________________________
+ ___ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS R&D Community Call (Asia & Europe)
 DTSTART;TZID="GMT 标准时间":20231207T160000
 DTEND;TZID="GMT 标准时间":20231207T164500
