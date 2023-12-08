@@ -138,6 +138,33 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Quality Day Invitation(15:00-16:00)
+DTSTART;TZID="GMT 标准时间":20231212T150000
+DTEND;TZID="GMT 标准时间":20231212T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello all\,\n\n邀请各位参加12月12日的质量日活动
+ 。\n\n本次活动以小组形式进行，请确认自己所在小组以
+ 及组员。\n\n活动组别和名单如下\, 请相互转告，并准时
+ 参加活动。\n\n \n\n@Jiang\, Miaoxia <mailto:miaoxia.jiang@benecke-cha
+ ngshun.com.cn> PVC同事麻烦帮忙转发通知一下。\n\n@Song\, Hao <
+ mailto:hao.song@benecke-changshun.com.cn>  工厂实验室同事麻烦帮
+ 忙转发通知一下。\n\n@Cao\, Haibing <mailto:haibing.cao@benecke-cha
+ ngshun.com.cn>  SP同事麻烦帮忙转发通知一下。\n\n谢谢！\n\n
+  \n\nA3\n\n郭巍\n\nPPI\n\n	B3\n\n李晨晨\n\nPVC\n\n	C3\n\n张新领\n\
+ nQM\n\n严伟\n\nsp\n\n	李晓东\n\nppi\n\n	陆燕\n\nSCM\n\n朱妍妍\n\
+ nlab \n\n	田茂乾\n\nME\n\n	王梦瑶\n\nQM\n\n周国强\n\nSP\n\n	孙
+ 冰\n\nSCM\n\n	李小龙\n\nPVC\n\n李飞\n\nTPO\n\n	曹海兵\n\nSP\n\n	
+ 程海东\n\nPVC\n\n											\nD3\n\n姚萍\n\nSCM\n\n	E3\n\n邬丽惠\n
+ \nSCM\n\n	F3\n\n侯雪雯\n\nME\n\n刘楷\n\nPPI\n\n	汪春梅\n\nSCM\n\n	
+ 孙强\n\nPPI\n\n吴啸天\n\nSP\n\n	李骏\n\nPVC\n\n	王文明\n\n研发
+ \n\n何山波\n\nPVC\n\n	邵磊\n\nR&D\n\n	孙飞宇\n\nPVC\n\n陆敬学\n
+ \nPVC\n\n	王燕\n\npvc\n\n	顾海勇\n\nPVC\n\n											\nG3\n\n陈剑
+ 虎\n\nSP\n\n								\n蒋松\n\nSP\n\n								\n黄英\n\nPvc\n\n								
+ \n方倩彬\n\nPVC\n\n								\n蒋国庆\n\nPVC\n\n								\n\n \n
+LOCATION:篮球场
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20231213T083500
 DTEND;TZID="GMT 标准时间":20231213T092500
