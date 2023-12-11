@@ -194,8 +194,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:年会排练
-DTSTART;TZID="GMT 标准时间":20231214T160000
-DTEND;TZID="GMT 标准时间":20231214T170000
+DTSTART;TZID="GMT 标准时间":20231214T150000
+DTEND;TZID="GMT 标准时间":20231214T160000
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
@@ -534,8 +534,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:年会排练
-DTSTART;TZID="GMT 标准时间":20231221T160000
-DTEND;TZID="GMT 标准时间":20231221T170000
+DTSTART;TZID="GMT 标准时间":20231221T150000
+DTEND;TZID="GMT 标准时间":20231221T160000
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
@@ -803,8 +803,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:年会排练
-DTSTART;TZID="GMT 标准时间":20231228T160000
-DTEND;TZID="GMT 标准时间":20231228T170000
+DTSTART;TZID="GMT 标准时间":20231228T150000
+DTEND;TZID="GMT 标准时间":20231228T160000
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
@@ -1108,8 +1108,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:年会排练
-DTSTART;TZID="GMT 标准时间":20240104T160000
-DTEND;TZID="GMT 标准时间":20240104T170000
+DTSTART;TZID="GMT 标准时间":20240104T150000
+DTEND;TZID="GMT 标准时间":20240104T160000
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
