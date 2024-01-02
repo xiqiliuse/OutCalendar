@@ -98,6 +98,30 @@ LOCATION:五楼健身房
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PPI部门会议
+DTSTART;TZID="GMT 标准时间":20240103T083500
+DTEND;TZID="GMT 标准时间":20240103T093000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGM2NzdkMWEtN2YzMi00NzliLW
+ ExYTYtYTc2ODk3ZGE2NjI5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
+ 5713688c%22%7d>  \n\n会议 ID: 314 274 927 187 \n密码: WEysKC \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
+ 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_ZGM2NzdkMWEtN2YzMi00NzliLWExYTYtYTc2ODk3ZGE2NjI5@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240103T083500
 DTEND;TZID="GMT 标准时间":20240103T092500
@@ -143,6 +167,32 @@ LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:色母粒&色度&油漆房留样讨论
+DTSTART;TZID="GMT 标准时间":20240103T130000
+DTEND;TZID="GMT 标准时间":20240103T140000
+CLASS:PUBLIC
+DESCRIPTION:Hello all:\n\n       SP目前三个区域的留样都没有定
+ 义标准，现邀请大家一起讨论协商下，定义一个标准。
+ 谢谢\n\n________________________________________________________________
+ ________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动应
+ 用或会议室设备加入 \n\n单击此处以加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_ZmM2NjFhZTMtMTUxMC00MjI3LWE4NTYt
+ YWU3ZjNjODYzNzdi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22ddf6e0c3-e8d8-4d65-99a7-3a49155ae7
+ f1%22%7d>  \n\n会议 ID: 367 247 118 019 \n密码: PS2una \n\n下载 Team
+ s <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 we
+ b 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\
+ n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://t
+ eams.microsoft.com/meetingOptions/?organizerId=ddf6e0c3-e8d8-4d65-99a7-3a4
+ 9155ae7f1&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meetin
+ g_ZmM2NjFhZTMtMTUxMC00MjI3LWE4NTYtYWU3ZjNjODYzNzdi@thread.v2&messageId=0&l
+ anguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
+ _______________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240104T083500
 DTEND;TZID="GMT 标准时间":20240104T092500
@@ -161,57 +211,6 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:车间测厚仪报警功能改善
-DTSTART;TZID="GMT 标准时间":20240104T100000
-DTEND;TZID="GMT 标准时间":20240104T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\n\n \n\n   Let us have a small meeting to collect som
- e information. Then we will invite our supplier to upgrade this system.tha
- nks\n\n___________________________________________________________________
- _____________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动应用
- 或会议室设备加入 \n\n单击此处以加入会议 <https://teams.mi
- crosoft.com/l/meetup-join/19%3ameeting_MTcyZWZmOTUtMTg3Ni00Nzc3LWJjZjUtMjI
- wY2EyMjFkYjUx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-a
- d1f-e04d79e6265a%22%2c%22Oid%22%3a%22de3ab01c-f0ae-49cd-961b-424a4e2dd48c%
- 22%7d>  \n\n会议 ID: 339 787 558 196 \n密码: jEUSvM \n\n下载 Teams <
- https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 web 
- 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=de3ab01c-f0ae-49cd-961b-424a
- 4e2dd48c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _MTcyZWZmOTUtMTg3Ni00Nzc3LWJjZjUtMjIwY2EyMjFkYjUx@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n\n \n\n_____________________
- ________________________\n发件人: Zhu\, Jian \n发送时间: 2023年12
- 月6日 16:13\n收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun
- .com.cn>\; Sun\, Qiang <qiang.sun@benecke-changshun.com.cn>\; Guo\, Wei02 
- <wei.2.guo@benecke-changshun.com.cn>\; Liu\, Kai05 <kai.5.liu@benecke-chan
- gshun.com.cn>\; Qiu\, Xiaohan <xiaohan.qiu@benecke-changshun.com.cn>\; Liu
- \, Jiawen02 <jiawen.2.liu@benecke-changshun.com.cn>\n抄送: Lu\, Patrick 
- <patrick.lu@benecke-changshun.com.cn>\; Qian\, Quick <zhengkai.qian@beneck
- e-changshun.com.cn>\; Wang\, Nick <nick.wang@benecke-changshun.com.cn>\; l
- in\, xiaoqing <xiaoqing.lin@benecke-changshun.com.cn>\; Zhang\, Xiaorong <
- xiaorong.zhang@benecke-changshun.com.cn>\n主题: 车间测厚仪报警功
- 能改善\n\n \n\nDear all\n\n \n\n客户审核时经常会提问，测厚
- 仪是如何及时提醒产线同事？目前的状况是测厚仪画面
- 有提醒，但是没有声光报警，为了将来不再被挑战这个
- 话题，建议针对这些测厚仪全部接入声光报警。\n\n为了
- 一次性解决这个问题，请大家想一下具体要求，一周后
- 邀请大家开会，我统计要求后，联系厂商升级。\n\n \n\nBe
- st regards\, \n\nZhu Jian\n\nHead of Maintenance department\n\nContiTech S
- urface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Cha
- ngshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克－长顺汽车内
- 饰材料（张家港）有限公司\n\nNo.8\,Changyang Rd.\,Nansha\, Jing
- ang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港
- 市金港镇南沙长阳路8号 215632\n\n \n\nMobile: +86 17351283605\n\n
- E-mail: jian.zhu@benecke-changshun.com.cn <mailto:jian.zhu@benecke-changsh
- un.com.cn> \n\nWebsite: www.continental-industry.com <http://www.continent
- al-industry.com/> \n\n \n\n\n\n \n\n \n\n \n\n\nInternal\n\n
-LOCATION:Maintenance meeting room
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -257,6 +256,64 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:车间测厚仪报警功能改善
+DTSTART;TZID="GMT 标准时间":20240105T100000
+DTEND;TZID="GMT 标准时间":20240105T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\n\n \n\n   Let us have a small meeting to collect som
+ e information. Then we will invite our supplier to upgrade this system.tha
+ nks\n\n___________________________________________________________________
+ _____________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动应用
+ 或会议室设备加入 \n\n单击此处以加入会议 <https://teams.mi
+ crosoft.com/l/meetup-join/19%3ameeting_MTcyZWZmOTUtMTg3Ni00Nzc3LWJjZjUtMjI
+ wY2EyMjFkYjUx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-a
+ d1f-e04d79e6265a%22%2c%22Oid%22%3a%22de3ab01c-f0ae-49cd-961b-424a4e2dd48c%
+ 22%7d>  \n\n会议 ID: 339 787 558 196 \n密码: jEUSvM \n\n下载 Teams <
+ https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 web 
+ 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=de3ab01c-f0ae-49cd-961b-424a
+ 4e2dd48c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _MTcyZWZmOTUtMTg3Ni00Nzc3LWJjZjUtMjIwY2EyMjFkYjUx@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n\n \n\n_____________________
+ ________________________\n发件人: Zhu\, Jian \n发送时间: 2023年12
+ 月6日 16:13\n收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun
+ .com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Sun\, Qiang <q
+ iang.sun@benecke-changshun.com.cn <mailto:qiang.sun@benecke-changshun.com.
+ cn> >\; Guo\, Wei02 <wei.2.guo@benecke-changshun.com.cn <mailto:wei.2.guo@
+ benecke-changshun.com.cn> >\; Liu\, Kai05 <kai.5.liu@benecke-changshun.com
+ .cn <mailto:kai.5.liu@benecke-changshun.com.cn> >\; Qiu\, Xiaohan <xiaohan
+ .qiu@benecke-changshun.com.cn <mailto:xiaohan.qiu@benecke-changshun.com.cn
+ > >\; Liu\, Jiawen02 <jiawen.2.liu@benecke-changshun.com.cn <mailto:jiawen
+ .2.liu@benecke-changshun.com.cn> >\n抄送: Lu\, Patrick <patrick.lu@benec
+ ke-changshun.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\; Qian\
+ , Quick <zhengkai.qian@benecke-changshun.com.cn <mailto:zhengkai.qian@bene
+ cke-changshun.com.cn> >\; Wang\, Nick <nick.wang@benecke-changshun.com.cn 
+ <mailto:nick.wang@benecke-changshun.com.cn> >\; lin\, xiaoqing <xiaoqing.l
+ in@benecke-changshun.com.cn <mailto:xiaoqing.lin@benecke-changshun.com.cn>
+  >\; Zhang\, Xiaorong <xiaorong.zhang@benecke-changshun.com.cn <mailto:xia
+ orong.zhang@benecke-changshun.com.cn> >\n主题: 车间测厚仪报警功
+ 能改善\n\n \n\nDear all\n\n \n\n客户审核时经常会提问，测厚
+ 仪是如何及时提醒产线同事？目前的状况是测厚仪画面
+ 有提醒，但是没有声光报警，为了将来不再被挑战这个
+ 话题，建议针对这些测厚仪全部接入声光报警。\n\n为了
+ 一次性解决这个问题，请大家想一下具体要求，一周后
+ 邀请大家开会，我统计要求后，联系厂商升级。\n\n \n\nBe
+ st regards\, \n\nZhu Jian\n\nHead of Maintenance department\n\nContiTech S
+ urface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Cha
+ ngshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克－长顺汽车内
+ 饰材料（张家港）有限公司\n\nNo.8\,Changyang Rd.\,Nansha\, Jing
+ ang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港
+ 市金港镇南沙长阳路8号 215632\n\n \n\nMobile: +86 17351283605\n\n
+ E-mail: jian.zhu@benecke-changshun.com.cn <mailto:jian.zhu@benecke-changsh
+ un.com.cn> \n\nWebsite: www.continental-industry.com <http://www.continent
+ al-industry.com/> \n\n \n\n\n\n \n\n \n\n \n\n\nInternal\n\n
+LOCATION:Maintenance meeting room
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
