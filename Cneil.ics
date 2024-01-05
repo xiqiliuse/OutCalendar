@@ -4,76 +4,7 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240104T083500
-DTEND;TZID="GMT 标准时间":20240104T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PVC内审
-DTSTART;TZID="GMT 标准时间":20240104T130000
-DTEND;TZID="GMT 标准时间":20240104T150000
-CLASS:PUBLIC
-DESCRIPTION:\n\n\n________________________________________________________
- ________________________ \nMicrosoft Teams 会议 \n使用电脑、移动
- 应用或会议室设备加入 \n单击此处以加入会议 <https://team
- s.microsoft.com/l/meetup-join/19%3ameeting_MjJmZjQ0MmItYmZhNC00YWQ4LTgxNGE
- tYjViOWEyN2E1MDNh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
- ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f6
- 3a0%22%7d>  \n会议 ID: 343 560 774 179 \n密码: QR886A \n下载 Teams <
- https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 web 
- 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n了
- 解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619
- f63a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Mj
- JmZjQ0MmItYmZhNC00YWQ4LTgxNGEtYjViOWEyN2E1MDNh@thread.v2&messageId=0&langu
- age=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
- 436b-832a-1d684ab9ad7e>  \n_______________________________________________
- _________________________________ 
-LOCATION:PVC车间
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:年会排练
-DTSTART;TZID="GMT 标准时间":20240104T150000
-DTEND;TZID="GMT 标准时间":20240104T160000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_MGU4YmEwZDEtMTZkYi00YWRjLT
- k1Y2UtMGViZTg1ZGJjNDZh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
- 5713688c%22%7d>  \n\n会议 ID: 351 073 493 655 \n密码: M9Z3AN \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
- 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_MGU4YmEwZDEtMTZkYi00YWRjLTk1Y2UtMGViZTg1ZGJjNDZh@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:CBC五楼健身房
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240105T083500
 DTEND;TZID="GMT 标准时间":20240105T092500
 CLASS:PUBLIC
@@ -181,6 +112,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240108T083500
+DTEND;TZID="GMT 标准时间":20240108T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240108T083500
 DTEND;TZID="GMT 标准时间":20240108T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
@@ -271,7 +214,7 @@ LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240109T083500
 DTEND;TZID="GMT 标准时间":20240109T092500
 CLASS:PUBLIC
@@ -289,6 +232,18 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240109T083500
+DTEND;TZID="GMT 标准时间":20240109T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -422,6 +377,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240110T083500
+DTEND;TZID="GMT 标准时间":20240110T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240110T083500
 DTEND;TZID="GMT 标准时间":20240110T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
@@ -492,7 +459,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240111T083500
 DTEND;TZID="GMT 标准时间":20240111T092500
 CLASS:PUBLIC
@@ -510,6 +477,18 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240111T083500
+DTEND;TZID="GMT 标准时间":20240111T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -539,7 +518,40 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240112T083500
+DTEND;TZID="GMT 标准时间":20240112T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240112T083500
 DTEND;TZID="GMT 标准时间":20240112T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240115T083500
+DTEND;TZID="GMT 标准时间":20240115T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
@@ -560,22 +572,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240115T083500
-DTEND;TZID="GMT 标准时间":20240115T092500
+DTEND;TZID="GMT 标准时间":20240115T091500
 CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -608,6 +611,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240116T083500
+DTEND;TZID="GMT 标准时间":20240116T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240116T083500
 DTEND;TZID="GMT 标准时间":20240116T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
@@ -638,7 +653,47 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:LearningBite 29: App Gallery
+DTSTART;TZID="GMT 标准时间":20240116T200000
+DTEND;TZID="GMT 标准时间":20240116T203000
+CLASS:PUBLIC
+DESCRIPTION:Dear CLAP Community\,\n\nIt has been a while since we had last
+  learning bite! Now with fresh start in 2024\, we are glad to introduce th
+ e new app developed by CLAP team last year: AppGallery (https://appgallery
+ .clap.conti.de/). \n\nThe orginal idea of the app is to demonstrate apps d
+ eveloped within Conti and give inspirations to other apps\, also to avoid 
+ "re-invent the wheel". Along the development\, we also add additional feat
+ ures that help CLAP team checking some governance topics\, e.g. the mendix
+  version\, module versions\, etc.  You will hear more and see how it looks
+  like in this session from our new team member Hülya Ates.\n\nWe are look
+ ing foreward to hearing your feedback of the app and also encourage you to
+  fill out information of your apps!\n\nBest regards\,\n\nYour CLAP Team 
+ 👏\n\n \n\n_____________________________________________________________
+ ___________________ \n\nMicrosoft Teams meeting \n\nJoin on your computer\
+ , mobile app or room device \n\nClick here to join the meeting <https://te
+ ams.microsoft.com/l/meetup-join/19%3ameeting_M2MyNGVjZGItMWZmMC00YzgyLWE1Z
+ TctOGExMzg3YzQxMTFh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-
+ 40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2225a95ac9-69ae-4694-9dee-b87c585
+ 1ae61%22%7d>  \n\nMeeting ID: 348 179 458 210 \nPasscode: iPtT6T \n\nDownl
+ oad Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | Join on the web <https://www.microsoft.com/microsoft-teams/join-a-meetin
+ g> \n\nOr call in (audio only) \n\n+49 69 365057961\,\,11275921# <tel:+496
+ 9365057961\,\,11275921#>    Germany\, Frankfurt am Main \n\nPhone Conferen
+ ce ID: 112 759 21# \n\nFind a local number <https://dialin.teams.microsoft
+ .com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=11275921>  | Reset PIN <https
+ ://dialin.teams.microsoft.com/usp/pstnconferencing>  \n\nLearn More <https
+ ://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.co
+ m/meetingOptions/?organizerId=25a95ac9-69ae-4694-9dee-b87c5851ae61&tenantI
+ d=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_M2MyNGVjZGItMWZ
+ mMC00YzgyLWE1ZTctOGExMzg3YzQxMTFh@thread.v2&messageId=0&language=en-US>  |
+  Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
+ 4ab9ad7e>  \n\n___________________________________________________________
+ _____________________ \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240117T083500
 DTEND;TZID="GMT 标准时间":20240117T092500
 CLASS:PUBLIC
@@ -656,6 +711,18 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240117T083500
+DTEND;TZID="GMT 标准时间":20240117T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -757,6 +824,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240118T083500
+DTEND;TZID="GMT 标准时间":20240118T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240118T083500
 DTEND;TZID="GMT 标准时间":20240118T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
@@ -851,7 +930,7 @@ LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240119T083500
 DTEND;TZID="GMT 标准时间":20240119T092500
 CLASS:PUBLIC
@@ -872,6 +951,18 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240119T083500
+DTEND;TZID="GMT 标准时间":20240119T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:大寒
 DTSTART;TZID="GMT 标准时间":20240120T000000
 DTEND;TZID="GMT 标准时间":20240121T000000
@@ -891,6 +982,18 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240122T083500
+DTEND;TZID="GMT 标准时间":20240122T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240122T083500
 DTEND;TZID="GMT 标准时间":20240122T092500
 CLASS:PUBLIC
@@ -947,7 +1050,7 @@ LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240123T083500
 DTEND;TZID="GMT 标准时间":20240123T092500
 CLASS:PUBLIC
@@ -968,6 +1071,18 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240123T083500
+DTEND;TZID="GMT 标准时间":20240123T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:色母粒生产问题每周回顾
 DTSTART;TZID="GMT 标准时间":20240123T103000
 DTEND;TZID="GMT 标准时间":20240123T110000
@@ -980,6 +1095,18 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240124T083500
+DTEND;TZID="GMT 标准时间":20240124T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240124T083500
 DTEND;TZID="GMT 标准时间":20240124T092500
 CLASS:PUBLIC
@@ -1042,7 +1169,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240125T083500
 DTEND;TZID="GMT 标准时间":20240125T092500
 CLASS:PUBLIC
@@ -1060,6 +1187,18 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240125T083500
+DTEND;TZID="GMT 标准时间":20240125T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1109,6 +1248,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240126T083500
+DTEND;TZID="GMT 标准时间":20240126T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240126T083500
 DTEND;TZID="GMT 标准时间":20240126T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
@@ -1155,7 +1306,7 @@ LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240129T083500
 DTEND;TZID="GMT 标准时间":20240129T092500
 CLASS:PUBLIC
@@ -1173,6 +1324,18 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240129T083500
+DTEND;TZID="GMT 标准时间":20240129T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1202,6 +1365,18 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240130T083500
+DTEND;TZID="GMT 标准时间":20240130T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240130T083500
 DTEND;TZID="GMT 标准时间":20240130T092500
 CLASS:PUBLIC
@@ -1233,7 +1408,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI早会
+SUMMARY:已取消: 已取消: PPI早会
 DTSTART;TZID="GMT 标准时间":20240131T083500
 DTEND;TZID="GMT 标准时间":20240131T092500
 CLASS:PUBLIC
@@ -1251,6 +1426,18 @@ DESCRIPTION: \n\n_________________________________________________________
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240131T083500
+DTEND;TZID="GMT 标准时间":20240131T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1280,7 +1467,40 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240201T083500
+DTEND;TZID="GMT 标准时间":20240201T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240201T083500
 DTEND;TZID="GMT 标准时间":20240201T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: PPI早会
+DTSTART;TZID="GMT 标准时间":20240202T083500
+DTEND;TZID="GMT 标准时间":20240202T092500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
@@ -1301,22 +1521,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240202T083500
-DTEND;TZID="GMT 标准时间":20240202T092500
+DTEND;TZID="GMT 标准时间":20240202T091500
 CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
