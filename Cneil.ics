@@ -97,6 +97,31 @@ LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sprint 账号申请及2024年项目Review
+DTSTART;TZID="GMT 标准时间":20240204T130000
+DTEND;TZID="GMT 标准时间":20240204T150000
+CLASS:PUBLIC
+DESCRIPTION:Sprint 账号申请及2024年项目Review\n\n_________________
+ _______________________________________________________________ \n\nMicros
+ oft Teams 会议 \n\n使用电脑、移动应用或会议室设备加入 \
+ n\n单击此处以加入会议 <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_YTUyZWU2N2ItOGY3My00MjE5LWI4ZjctMDdhYzNmMDg2YzRm%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%2269ef76cd-e844-4954-941f-a3341d37dc86%22%7d>  \n\n会议 ID: 386
+  679 788 172 \n密码: pHUwVX \n\n下载 Teams <https://www.microsoft.com/
+ en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://www.micr
+ osoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms
+ /JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=69ef76cd-e844-4954-941f-a3341d37dc86&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTUyZWU2N2ItOGY3My00MjE5LWI
+ 4ZjctMDdhYzNmMDg2YzRm@thread.v2&messageId=0&language=zh-CN>  | 法律 <htt
+ ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
+ \n\n______________________________________________________________________
+ __________ \n\n \n
+LOCATION:Plant 303\; TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240205T083500
 DTEND;TZID="GMT 标准时间":20240205T091500
