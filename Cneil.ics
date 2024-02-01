@@ -43,6 +43,18 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:E-gemba（safety data）
+DTSTART;TZID="GMT 标准时间":20240201T150000
+DTEND;TZID="GMT 标准时间":20240201T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear Richard Ge\,\n\n \n\n请提前准备好E-gemba中想要
+ 展示的safety相关信息的呈现方式，数据来源以及计算逻
+ 辑，会议上我们讨论细节，谢谢！\n\n \n\nBest Regards\,\n\nFi
+ ona Huang\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240202T083500
 DTEND;TZID="GMT 标准时间":20240202T091500
@@ -51,6 +63,18 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  在301开，地方后面有调整再改。\n\n早会会议纪要存放在
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E-gemba(delivery data)
+DTSTART;TZID="GMT 标准时间":20240202T100000
+DTEND;TZID="GMT 标准时间":20240202T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\n请提前准备以下数据的呈现方式
+ ，数据来源，计算逻辑：\n\n \n\nPerformance board\n\n\n\n\n\nPro
+ cess Control board\n\n1.     准备时间/order\n\n \n\nBest Regards，\n\
+ nFiona Huang\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
