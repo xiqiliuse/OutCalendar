@@ -4,99 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240201T083500
-DTEND;TZID="GMT 标准时间":20240201T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-gemba(订单差异数据）
-DTSTART;TZID="GMT 标准时间":20240201T100000
-DTEND;TZID="GMT 标准时间":20240201T103000
-CLASS:PUBLIC
-DESCRIPTION:Dear Ada\,\n\n \n\n请提前准备以下数据的呈现方式
- ，数据来源，计算逻辑：\n\n \n\n@Lu\, Bingfeng <mailto:Bingfeng.
- Lu@benecke-changshun.com.cn> @Yin\, Meng <mailto:meng.yin@benecke-changshu
- n.com.cn> @Zhang\, Yan05 <mailto:yan.5.zhang@benecke-changshun.com.cn> \,\
- n\n \n\n需要三位协助订单差异数据的抓取。\n\n \n\n\n\n \n\n
- Best Regards\,\n\nFiona Huang\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-gemba(PCB board)
-DTSTART;TZID="GMT 标准时间":20240201T130000
-DTEND;TZID="GMT 标准时间":20240201T133000
-CLASS:PUBLIC
-DESCRIPTION:Dear Kevin\,\n\n \n\n请提前准备好process control board
- 中以下数据的呈现方式，数据来源，计算逻辑：\n\n \n\n1.
-      速度（target vs actual）低于中心值用黄色，低于下限
- 用红色\n\n2.     关键工艺参数（target vs actual）\n\n \n\nBest 
- Regards\,\n\nFiona Huang\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-gemba（safety data）
-DTSTART;TZID="GMT 标准时间":20240201T150000
-DTEND;TZID="GMT 标准时间":20240201T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear Richard Ge\,\n\n \n\n请提前准备好E-gemba中想要
- 展示的safety相关信息的呈现方式，数据来源以及计算逻
- 辑，会议上我们讨论细节，谢谢！\n\n \n\nBest Regards\,\n\nFi
- ona Huang\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240202T083500
-DTEND;TZID="GMT 标准时间":20240202T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-gemba(delivery data)
-DTSTART;TZID="GMT 标准时间":20240202T100000
-DTEND;TZID="GMT 标准时间":20240202T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear all:\n\n \n\n请提前准备以下数据的呈现方式
- ，数据来源，计算逻辑：\n\n \n\nPerformance board\n\n\n\n\n\nPro
- cess Control board\n\n1.     准备时间/order\n\n \n\nBest Regards，\n\
- nFiona Huang\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:立春
-DTSTART;TZID="GMT 标准时间":20240204T000000
-DTEND;TZID="GMT 标准时间":20240205T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:立春
-DTSTART;TZID="GMT 标准时间":20240204T000000
-DTEND;TZID="GMT 标准时间":20240205T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sprint 账号申请及2024年项目Review
 DTSTART;TZID="GMT 标准时间":20240204T130000
 DTEND;TZID="GMT 标准时间":20240204T150000
@@ -229,7 +136,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:R2R定期回顾
+SUMMARY:已取消: R2R定期回顾
 DTSTART;TZID="GMT 标准时间":20240207T100000
 DTEND;TZID="GMT 标准时间":20240207T110000
 CLASS:PUBLIC
@@ -274,15 +181,6 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Database Color-lab数据模块定期回顾会议
-DTSTART;TZID="GMT 标准时间":20240207T140000
-DTEND;TZID="GMT 标准时间":20240207T150000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -673,15 +571,6 @@ LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Database Color-lab数据模块定期回顾会议
-DTSTART;TZID="GMT 标准时间":20240221T140000
-DTEND;TZID="GMT 标准时间":20240221T150000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Asia & Europe
 DTSTART;TZID="GMT 标准时间":20240221T160000
 DTEND;TZID="GMT 标准时间":20240221T170000
@@ -952,15 +841,6 @@ LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OD & Plant  regularly review meeting[TPO&SP] 
-DTSTART;TZID="GMT 标准时间":20240228T150000
-DTEND;TZID="GMT 标准时间":20240228T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CBS Admin Call (Asia/Europe)
 DTSTART;TZID="GMT 标准时间":20240228T160000
 DTEND;TZID="GMT 标准时间":20240228T170000
@@ -1116,6 +996,78 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240304T083500
+DTEND;TZID="GMT 标准时间":20240304T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S_07 Change Mgt Process and CMT Q/A
+DTSTART;TZID="GMT 标准时间":20240304T153000
+DTEND;TZID="GMT 标准时间":20240304T163000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n \n\nI’d like invite you participate S07 ChM p
+ rocess <https://ctcqweb01.tiretech2.contiwan.com/beneke.prod.html?CQDocume
+ ntNumber=DOC-097021-EN> \, change requestor and change manager  who alread
+ y used CMT <https://ssl-change-management.clap.conti.de/login.html>  tools
+ .\, To make sure use CMT <https://ssl-change-management.clap.conti.de/logi
+ n.html>  tools smoothly and efficiency.\n\n \n\nPLS forward to your team r
+ elated people. All the people can share the experience each other.\n\n \n\
+ n\n\n \n\nCCB member:\n\n\n\nCOMPLY - Change Management  COMPLY Learning B
+ ite Videos (conti.de) <https://intranet.conti.de/home/organizational-units
+ /group-sectors/contitech/comply-learning-bite-videos-1995308?keep-language
+ =true> \n\n \n\n \n\nThanks!\n\nSarah\n\n_________________________________
+ _______________________________________________ \n\nMicrosoft Teams 会议
+  \n\n使用电脑、移动应用或会议室设备加入 \n\n单击此处
+ 以加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nj
+ Y4NTM1OTQtZTMzMy00Y2Y2LTlkNDMtYTI2OGQxYjQ0NDE1%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223a80
+ 1dff-1287-4f3c-b3fc-674cb9054efc%22%7d>  \n\n会议 ID: 313 218 317 283 \n
+ 密码: 3yRHBy \n\n下载 Teams <https://www.microsoft.com/en-us/microsoft
+ -teams/download-app>  | 在 web 上加入 <https://www.microsoft.com/micro
+ soft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeti
+ ng>  | 会议选项 <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=3a801dff-1287-4f3c-b3fc-674cb9054efc&tenantId=8d4b558f-7b2e-40ba-ad1f-e
+ 04d79e6265a&threadId=19_meeting_NjY4NTM1OTQtZTMzMy00Y2Y2LTlkNDMtYTI2OGQxYj
+ Q0NDE1@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://filehub.ad
+ miralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________
+ _____________________________________________________________________ \n\n
+  \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20240304T213000
+DTEND;TZID="GMT 标准时间":20240304T220000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n\n_______________________________________________
+ _________________________________\n\nMicrosoft Teams meeting\n\nJoin on yo
+ ur computer\, mobile app or room device\n\nClick here to join the meeting 
+ <https://teams.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbded
+ cbc080%40thread.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2
+ e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f
+ 7c6777f%22%2c%22MessageId%22%3a%221684409697969%22%7d> \n\nMeeting ID: 348
+  788 967 848 \n\n \n\nPasscode: rNY47K \n\nDownload Teams <https://www.mic
+ rosoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https:/
+ /www.microsoft.com/microsoft-teams/join-a-meeting> \n\nLearn More <https:/
+ /aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/
+ meetingOptions/?organizerId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=
+ 8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbde
+ dcbc080@thread.tacv2&messageId=1683796715557&additionalMessageId=168440969
+ 7969&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/65015
+ 31f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n \n\n_____________________________
+ ___________________________________________________\n\n 
+LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
