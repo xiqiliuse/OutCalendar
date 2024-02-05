@@ -4,31 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:Sprint 账号申请及2024年项目Review
-DTSTART;TZID="GMT 标准时间":20240204T130000
-DTEND;TZID="GMT 标准时间":20240204T150000
-CLASS:PUBLIC
-DESCRIPTION:Sprint 账号申请及2024年项目Review\n\n_________________
- _______________________________________________________________ \n\nMicros
- oft Teams 会议 \n\n使用电脑、移动应用或会议室设备加入 \
- n\n单击此处以加入会议 <https://teams.microsoft.com/l/meetup-join/
- 19%3ameeting_YTUyZWU2N2ItOGY3My00MjE5LWI4ZjctMDdhYzNmMDg2YzRm%40thread.v2/
- 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
- id%22%3a%2269ef76cd-e844-4954-941f-a3341d37dc86%22%7d>  \n\n会议 ID: 386
-  679 788 172 \n密码: pHUwVX \n\n下载 Teams <https://www.microsoft.com/
- en-us/microsoft-teams/download-app>  | 在 web 上加入 <https://www.micr
- osoft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms
- /JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=69ef76cd-e844-4954-941f-a3341d37dc86&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTUyZWU2N2ItOGY3My00MjE5LWI
- 4ZjctMDdhYzNmMDg2YzRm@thread.v2&messageId=0&language=zh-CN>  | 法律 <htt
- ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
- \n\n______________________________________________________________________
- __________ \n\n \n
-LOCATION:Plant 303\; TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240205T083500
 DTEND;TZID="GMT 标准时间":20240205T091500
@@ -109,6 +84,64 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  在301开，地方后面有调整再改。\n\n早会会议纪要存放在
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E-gemba(HR data）
+DTSTART;TZID="GMT 标准时间":20240206T093000
+DTEND;TZID="GMT 标准时间":20240206T100000
+CLASS:PUBLIC
+DESCRIPTION:Hello Jiaxin\,\n\n \n\n我们现在正在做E-gemba项目，
+ 想要展示一下人员出勤状况，目前需要抓取人员实际考
+ 勤信息，需要你那边帮忙演示一下如何操作，详情请看
+ 以下邮件，如有问题，请和我联系，谢谢！\n\n \n\n________
+ _____________________________________\n发件人: Yang\, Laraine <liping.y
+ ang@benecke-changshun.com.cn> \n发送时间: 2024年2月3日 19:44\n收
+ 件人: Huang\, Qing <Qing.Huang@benecke-changshun.com.cn>\n抄送: Cheng\
+ , Dong01 <dong01.cheng@benecke-changshun.com.cn>\n主题: Re: E-gemba(HR d
+ ata）\n\n \n\nHi Fiona\,\n\n \n\n好的，这些建议的数据信息可
+ 根据实际需求看是否需要展示，HR这块的考勤和员工主数
+ 据管理目前是Lin Jiaxin负责，谢谢！\n\n \n\nLaraine\n\n \n\n获
+ 取 Outlook for iOS <https://aka.ms/o0ukef> \n\n \n\nInternal\n\n_________
+ _______________________\n\n发件人: Huang\, Qing <Qing.Huang@benecke-cha
+ ngshun.com.cn <mailto:Qing.Huang@benecke-changshun.com.cn> >\n发送时间
+ : Friday\, February 2\, 2024 2:11:24 PM\n收件人: Yang\, Laraine <liping
+ .yang@benecke-changshun.com.cn <mailto:liping.yang@benecke-changshun.com.c
+ n> >\n抄送: Cheng\, Dong01 <dong01.cheng@benecke-changshun.com.cn <mailt
+ o:dong01.cheng@benecke-changshun.com.cn> >\n主题: 回复: E-gemba(HR dat
+ a） \n\n \n\nDear Laraine\,\n\n \n\n关于昨天你提的几个放在E-ge
+ mba里的HR 数据，经过和SCM和PPI的同事确认，目前我们可
+ 以把实际出勤人员数和计划出勤人员数体现在L2\,L3层级
+ 的看板。由于L1层级的人员安排比较机动灵活，目前很难
+ 抓取到数据，暂不考虑L1。\n\n \n\n目前需要抓取这些数据
+ ，需要HR做考勤的同事告知如何在现在的考勤系统中读取
+ 实际出勤人员数，请指派一名HR的同事，后续我们会直接
+ 和她对接数据的抓取，我们先做一版出来看效果，后续
+ 可以在此基础上做优化和改进，谢谢！\n\n \n\n关于你提
+ 到的这些数据，我也和田总提了一下，他说他之后会再
+ 找你具体聊一下。\n\n \n\nBest Regards，\n\nFiona Huang\n\n \n\n \
+ n\nInternal\n\n-----原始约会-----\n发件人: Huang\, Qing \n发送时
+ 间: 2024年1月31日 13:21\n收件人: Huang\, Qing\; Yang\, Laraine\; Ch
+ eng\, Dong01\; Yang\, Laraine\; Cheng\, Dong01\n主题: E-gemba(HR data）
+ \n时间: 2024年2月1日星期四 16:30-17:00(UTC+08:00) 北京，重庆
+ ，香港特别行政区，乌鲁木齐。\n地点: Microsoft Teams 会议
+  \n\n \n\n \n\n___________________________________________________________
+ _____________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动
+ 应用或会议室设备加入 \n\n单击此处以加入会议 <https://te
+ ams.microsoft.com/l/meetup-join/19%3ameeting_MTlkOTkzZTUtNmE1Yi00MTcxLTgyZ
+ jYtMDQ0ZjllMzQ4MGE3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-
+ 40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223fe2fb72-52ac-49a5-8f64-4394442
+ a585d%22%7d>  \n\n会议 ID: 357 095 410 003 \n密码: NwjxVF \n\n下载 T
+ eams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在
+  web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> 
+ \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:
+ //teams.microsoft.com/meetingOptions/?organizerId=3fe2fb72-52ac-49a5-8f64-
+ 4394442a585d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
+ ting_MTlkOTkzZTUtNmE1Yi00MTcxLTgyZjYtMDQ0ZjllMzQ4MGE3@thread.v2&messageId=
+ 0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531
+ f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________________________
+ __________________________________________ \n\n \n\n\nInternal\n\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -1068,6 +1101,47 @@ DESCRIPTION: \n\n \n\n \n\n_______________________________________________
  31f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n \n\n_____________________________
  ___________________________________________________\n\n 
 LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:惊蛰
+DTSTART;TZID="GMT 标准时间":20240305T000000
+DTEND;TZID="GMT 标准时间":20240306T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:惊蛰
+DTSTART;TZID="GMT 标准时间":20240305T000000
+DTEND;TZID="GMT 标准时间":20240306T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240305T083500
+DTEND;TZID="GMT 标准时间":20240305T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:色母粒生产问题每周回顾
+DTSTART;TZID="GMT 标准时间":20240305T103000
+DTEND;TZID="GMT 标准时间":20240305T110000
+CLASS:PUBLIC
+DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
+ 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
+ \n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
