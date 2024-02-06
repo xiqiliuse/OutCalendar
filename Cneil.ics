@@ -5,78 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240205T083500
-DTEND;TZID="GMT 标准时间":20240205T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S_07 Change Mgt Process and CMT Q/A
-DTSTART;TZID="GMT 标准时间":20240205T153000
-DTEND;TZID="GMT 标准时间":20240205T163000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\n \n\nI’d like invite you participate S07 ChM p
- rocess <https://ctcqweb01.tiretech2.contiwan.com/beneke.prod.html?CQDocume
- ntNumber=DOC-097021-EN> \, change requestor and change manager  who alread
- y used CMT <https://ssl-change-management.clap.conti.de/login.html>  tools
- .\, To make sure use CMT <https://ssl-change-management.clap.conti.de/logi
- n.html>  tools smoothly and efficiency.\n\n \n\nPLS forward to your team r
- elated people. All the people can share the experience each other.\n\n \n\
- n\n\n \n\nCCB member:\n\n\n\nCOMPLY - Change Management  COMPLY Learning B
- ite Videos (conti.de) <https://intranet.conti.de/home/organizational-units
- /group-sectors/contitech/comply-learning-bite-videos-1995308?keep-language
- =true> \n\n \n\n \n\nThanks!\n\nSarah\n\n_________________________________
- _______________________________________________ \n\nMicrosoft Teams 会议
-  \n\n使用电脑、移动应用或会议室设备加入 \n\n单击此处
- 以加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nj
- Y4NTM1OTQtZTMzMy00Y2Y2LTlkNDMtYTI2OGQxYjQ0NDE1%40thread.v2/0?context=%7b%2
- 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223a80
- 1dff-1287-4f3c-b3fc-674cb9054efc%22%7d>  \n\n会议 ID: 313 218 317 283 \n
- 密码: 3yRHBy \n\n下载 Teams <https://www.microsoft.com/en-us/microsoft
- -teams/download-app>  | 在 web 上加入 <https://www.microsoft.com/micro
- soft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeti
- ng>  | 会议选项 <https://teams.microsoft.com/meetingOptions/?organizer
- Id=3a801dff-1287-4f3c-b3fc-674cb9054efc&tenantId=8d4b558f-7b2e-40ba-ad1f-e
- 04d79e6265a&threadId=19_meeting_NjY4NTM1OTQtZTMzMy00Y2Y2LTlkNDMtYTI2OGQxYj
- Q0NDE1@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://filehub.ad
- miralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________
- _____________________________________________________________________ \n\n
-  \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ContiGPT Regular Meeting
-DTSTART;TZID="GMT 标准时间":20240205T213000
-DTEND;TZID="GMT 标准时间":20240205T220000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n\n_______________________________________________
- _________________________________\n\nMicrosoft Teams meeting\n\nJoin on yo
- ur computer\, mobile app or room device\n\nClick here to join the meeting 
- <https://teams.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbded
- cbc080%40thread.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2
- e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f
- 7c6777f%22%2c%22MessageId%22%3a%221684409697969%22%7d> \n\nMeeting ID: 348
-  788 967 848 \n\n \n\nPasscode: rNY47K \n\nDownload Teams <https://www.mic
- rosoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https:/
- /www.microsoft.com/microsoft-teams/join-a-meeting> \n\nLearn More <https:/
- /aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/
- meetingOptions/?organizerId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=
- 8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbde
- dcbc080@thread.tacv2&messageId=1683796715557&additionalMessageId=168440969
- 7969&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/65015
- 31f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n \n\n_____________________________
- ___________________________________________________\n\n 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240206T083500
 DTEND;TZID="GMT 标准时间":20240206T091500
 CLASS:PUBLIC
@@ -193,7 +121,7 @@ LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TPO 颜色梳理会
+SUMMARY:已取消: TPO 颜色梳理会
 DTSTART;TZID="GMT 标准时间":20240207T130000
 DTEND;TZID="GMT 标准时间":20240207T140000
 CLASS:PUBLIC
@@ -259,7 +187,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Project review
+SUMMARY:已取消: Project review
 DTSTART;TZID="GMT 标准时间":20240209T150000
 DTEND;TZID="GMT 标准时间":20240209T160000
 CLASS:PUBLIC
@@ -874,6 +802,42 @@ LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Volvo p417 DP 浅色产品黑点改善Review
+DTSTART;TZID="GMT 标准时间":20240228T140000
+DTEND;TZID="GMT 标准时间":20240228T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n-----原始约会-----\n发件人: Sun\, Xiaoyong \n
+ 发送时间: 2024年2月2日 10:58\n收件人: Sun\, Xiaoyong\; Chen\, Ho
+ ngmei\; Lu\, Patrick\; Kang\, Bill\; Zhang\, Qiang\; Liu\, Jiawen02\; Qian
+ \, Chunlei\; Pan\, Sheng\; Xu\, Jinkai\; Chao Yuan\n抄送: Ji\, Yongming\
+ n主题: Volvo p417 DP 浅色产品黑点改善Review\n时间: 2024年2月
+ 28日星期三 14:00-15:00(UTC+08:00) 北京，重庆，香港特别行政
+ 区，乌鲁木齐。\n地点: TE_ZG_MR_PlantOffice301_Zhangjiagang\n\n \n
+ \nHello all，\n\nVolvo p417 DP 浅色产品黑点改善我们会定期进
+ 行Review，如果有不能参加的，可以指派代表参加，感谢
+ 大家的支持，如有问题请及时联系我。\n\n其他分享：\n\n
+ 关于#2504辊子使用寿命问题：\n\n压花2/#2504  一共使用了5
+ 根，平均使用米数24000米左右，最少一根使用了650m\n\n\n\n
+  \n\n \n\n________________________________________________________________
+ ________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动应
+ 用或会议室设备加入 \n\n单击此处以加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_MzMzNGE0ODgtY2RiOS00ZTMyLWJkYWEt
+ NTU3ZmU3MThlOThj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-12d5-49c0-ad71-0c261a14b4
+ 7c%22%7d>  \n\n会议 ID: 332 282 554 036 \n密码: RY7KQn \n\n下载 Team
+ s <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 we
+ b 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\
+ n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://t
+ eams.microsoft.com/meetingOptions/?organizerId=8cf36416-12d5-49c0-ad71-0c2
+ 61a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meetin
+ g_MzMzNGE0ODgtY2RiOS00ZTMyLWJkYWEtNTU3ZmU3MThlOThj@thread.v2&messageId=0&l
+ anguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
+ _______________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS Admin Call (Asia/Europe)
 DTSTART;TZID="GMT 标准时间":20240228T160000
 DTEND;TZID="GMT 标准时间":20240228T170000
@@ -1141,6 +1105,75 @@ CLASS:PUBLIC
 DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
  我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
  \n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240306T083500
+DTEND;TZID="GMT 标准时间":20240306T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R2R定期回顾
+DTSTART;TZID="GMT 标准时间":20240306T100000
+DTEND;TZID="GMT 标准时间":20240306T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_NDM5YjI2OGQtZTQxMi00NGZjLW
+ E3N2EtNzJmZGYzZWIxMTY5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
+ 5713688c%22%7d>  \n\n会议 ID: 390 406 415 261 \n密码: ykwaJ2 \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
+ 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_NDM5YjI2OGQtZTQxMi00NGZjLWE3N2EtNzJmZGYzZWIxMTY5@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO 颜色梳理会
+DTSTART;TZID="GMT 标准时间":20240306T130000
+DTEND;TZID="GMT 标准时间":20240306T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGE5NDkzNDktNjA5MC00ZTRhLW
+ I0ZDMtMWMwZGZiOTY2YjM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
+ f9224084%22%7d>  \n\n会议 ID: 365 677 298 211 \n密码: 9PUiuP \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
+ 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_ZGE5NDkzNDktNjA5MC00ZTRhLWI0ZDMtMWMwZGZiOTY2YjM5@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Database Color-lab数据模块定期回顾会议
+DTSTART;TZID="GMT 标准时间":20240306T140000
+DTEND;TZID="GMT 标准时间":20240306T150000
+CLASS:PUBLIC
+DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
