@@ -5,38 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240227T083500
-DTEND;TZID="GMT 标准时间":20240227T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产问题每周回顾
-DTSTART;TZID="GMT 标准时间":20240227T103000
-DTEND;TZID="GMT 标准时间":20240227T110000
-CLASS:PUBLIC
-DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
- 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
- \n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1000-2000米挤出报废率降低
-DTSTART;TZID="GMT 标准时间":20240227T110000
-DTEND;TZID="GMT 标准时间":20240227T113000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:PPI 经理办公室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240228T083500
 DTEND;TZID="GMT 标准时间":20240228T091500
 CLASS:PUBLIC
@@ -311,6 +279,61 @@ DTEND;TZID="GMT 标准时间":20240301T110000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:可持续发展_CMB色母粒调机料回收再利用_可行性分
+ 析
+DTSTART;TZID="GMT 标准时间":20240301T130000
+DTEND;TZID="GMT 标准时间":20240301T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V214 90483 颜色析出应对
+DTSTART;TZID="GMT 标准时间":20240301T140000
+DTEND;TZID="GMT 标准时间":20240301T150000
+CLASS:PUBLIC
+DESCRIPTION:90483炭黑配方的试单已经结束，颜色都还可以。
+ 讨论下下一步行动方案。\n\n \n\n \n\n___________________________
+ __________________\n发件人: Li\, Xiaodong03 \n发送时间: 2024年1月
+ 23日 14:56\n收件人: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com
+ .cn>\; Liu\, Jiawen02 <jiawen.2.liu@benecke-changshun.com.cn>\; Sun\, Xiao
+ yong <xiaoyong.sun@benecke-changshun.com.cn>\; Xu\, Jinlong <jinlong.4.xu@
+ benecke-changshun.com.cn>\; Pan\, Sheng <sheng.pan@benecke-changshun.com.c
+ n>\n抄送: Huang\, Haitao02 <haitao.2.huang@benecke-changshun.com.cn>\; X
+ u\, Jinkai <jinkai.xu@benecke-changshun.com.cn>\n主题: 回复: V214 9048
+ 3 颜色析出应对\n\n \n\n今天的会议纪要如下：\n\nNo.\n\n措
+ 施\n\n责任人\n\n时间\n\n状态\n\nRemark\n\n1\n\n新项目二代配
+ 方评估\n\n孙晓勇&TE\n\nTBD\n\n Ongoing\n\n Inform\n\n2\n\n对比色
+ 母粒SPC原料批次\n\n李晓东\n\n2024-1-19\n\nDone\n\n无明显差异
+ \n\n3\n\n模唇挂料留样，析出留样，刮伤物质留样\n\n生产\
+ n\nTBD\n\nDone\n\n2024-1-22析出样已留\n\n4\n\n挤出熔体流动状
+ 况对析出的影响。一批次首中尾MFR\n\n李晓东&实验室\n\nTB
+ D\n\nOngoing\n\n样已经取了，需要切成很小的碎片，然后再
+ 测MFR值。\n\n5\n\n对比挤出不同批次工艺过程差异性\n\n李
+ 晓东\n\n2024-1-19\n\nDone\n\n析出后会升温，稍微有一点效果
+ ，2000米后还是会析出。\n\n6\n\n下一次色母粒配方调整验
+ 证一缸，3000米订单验证。\n\n徐金龙&李晓东&SCM\n\n2024-1-30
+ \n\nDone\n\nFailure\n\n实际是1000米开始析出，1400停机。验证
+ 结果失败\n\n7\n\n持续开发含酸性炭黑的SPC。\n\n徐金龙\n\n
+ 2024-12-30\n\n Ongoing\n\n \n\n8\n\n酸性炭黑&极限黑混合配方开
+ 发（颜色，确认原材料）->PPI拉试单\n\n徐金龙&孙晓勇\n\n
+ 2024-1-30\n\nOngoing\n\n试制料号已经在建，SPC原材料在2月初
+ 到司。\n\n9\n\nED30 换ED31配方\n\n黄海涛\n\nTBD\n\n \n\n讨论下
+ \n\n10\n\n开发一种外润滑剂，增加到配方中。\n\n黄海涛\n\
+ n2024-12-30\n\n \n\n配方开发\n\n \n\n \n\n-----原始约会-----\n发
+ 件人: Li\, Xiaodong03 \n发送时间: 2024年1月23日 12:58\n收件人:
+  Li\, Xiaodong03\; Chen\, Hongmei\; Liu\, Jiawen02\; Sun\, Xiaoyong\; Xu\,
+  Jinlong\; Pan\, Sheng\n抄送: Huang\, Haitao02\n主题: V214 90483 颜
+ 色析出应对\n时间: 2024年1月23日星期二 14:00-14:30(UTC+08:00) 
+ 北京，重庆，香港特别行政区，乌鲁木齐。\n地点: TE_ZG_M
+ R_PlantOffice303_Zhangjiagang\n\n \n\n8248736 3000米配方优化的订单
+ ，在挤出机1400米时出现了析出。\n\n我们讨论下一步行动
+ 措施\n
+LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1180,6 +1203,115 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240328T083500
+DTEND;TZID="GMT 标准时间":20240328T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Update - Agenda defined - CBS R&D Community Call March 2024 (Asia 
+ & Europe)
+DTSTART;TZID="GMT 标准时间":20240328T160000
+DTEND;TZID="GMT 标准时间":20240328T164500
+CLASS:PUBLIC
+DESCRIPTION:\n\n \n\n \n\n \n\n                                           
+                                                                           
+                    \n_____________________________________________________
+ ___________________________ \n\nMicrosoft Teams meeting \n\nJoin on your c
+ omputer\, mobile app or room device \n\nClick here to join the meeting <ht
+ tps://teams.microsoft.com/l/meetup-join/19%3ameeting_MTg1OGFkZDctOTVjMy00Z
+ jZlLWE1ZTEtMDdjYWUzYWJjZTI3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6
+ -03c0cf2a0e2d%22%7d>  \n\nMeeting ID: 315 688 408 685 \nPasscode: 6sL3Ur \
+ n\nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/downloa
+ d-app>  | Join on the web <https://www.microsoft.com/microsoft-teams/join-
+ a-meeting> \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting opt
+ ions <https://teams.microsoft.com/meetingOptions/?organizerId=55c4b7f4-5b9
+ 9-4af5-94d6-03c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thr
+ eadId=19_meeting_MTg1OGFkZDctOTVjMy00ZjZlLWE1ZTEtMDdjYWUzYWJjZTI3@thread.v
+ 2&messageId=0&language=de-DE>  | Legal <https://filehub.admiralcloud.com/d
+ l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
+ _____________________________________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abgesagt: Blocker - CBS R&D Community Call (Asia & Europe)
+DTSTART;TZID="GMT 标准时间":20240328T160000
+DTEND;TZID="GMT 标准时间":20240328T164500
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Update - Agenda defined - CBS R&D Community Call March 2024 (Ameri
+ cas & Europe)
+DTSTART;TZID="GMT 标准时间":20240328T230000
+DTEND;TZID="GMT 标准时间":20240328T234500
+CLASS:PUBLIC
+DESCRIPTION:\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n
+ \n \n\n \n\n______________________________________________________________
+ ______________ \n\nMicrosoft Teams meeting \n\nJoin on your computer\, mob
+ ile app or room device \n\nClick here to join the meeting <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NGRmM2ZmNzMtNmU3Yi00YjMzLThlNjYtND
+ g2MmYzM2Q1MTEx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d
+ %22%7d>  \n\nMeeting ID: 349 293 486 85 \nPasscode: LvG9oU \n\nDownload Te
+ ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Join
+  on the web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\
+ nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://
+ teams.microsoft.com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03
+ c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeti
+ ng_NGRmM2ZmNzMtNmU3Yi00YjMzLThlNjYtNDg2MmYzM2Q1MTEx@thread.v2&messageId=0&
+ language=de-DE>  | Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
+ _______________________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abgesagt: Blocker - CBS R&D Community Call (Ameriaca & Europe (opt
+ inal))
+DTSTART;TZID="GMT 标准时间":20240328T230000
+DTEND;TZID="GMT 标准时间":20240328T234500
+CLASS:PUBLIC
+DESCRIPTION:Dear CBS Coach Community\,\n\n \n\nplease find here a time blo
+ cker for the upcoming CBS R&D Community Calls in 2024 (Americas & Europe (
+ optional)).\n\n                            \n\nWe opened the CBS R&D calls
+  to the entire CBS coach community\, because R&D principles are also appli
+ cable in other domains. \n\nIf you are interested please accept this time 
+ blocker and participate in this call\, if not please ignore this specific 
+ event.\n\nThere will be an update including the final agenda latest 1 week
+  before this call will take place.\n\n \n\nLooking forward to see you in o
+ ur CBS R&D Community Call in 2024 and beyond\n\nMany regards\n\nJoachim\n\
+ n_________________________________________________________________________
+ _______ \n\nMicrosoft Teams-Besprechung \n\nNehmen Sie auf dem Computer\, 
+ in der mobilen App oder im Raumgerät teil \n\nHier klicken\, um an der Be
+ sprechung teilzunehmen <https://teams.microsoft.com/l/meetup-join/19%3amee
+ ting_Y2M2MDljNGUtN2QyZS00ZDcxLThlZGMtMjFlN2UxZWEwMjVl%40thread.v2/0?contex
+ t=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a
+ %2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d>  \n\nBesprechungs-ID: 311 4
+ 15 820 724 \nPasscode: VyzNxZ \n\nTeams herunterladen <https://www.microso
+ ft.com/en-us/microsoft-teams/download-app>  | Im Web beitreten <https://ww
+ w.microsoft.com/microsoft-teams/join-a-meeting> \n\nWeitere Infos <https:/
+ /aka.ms/JoinTeamsMeeting>  | Besprechungsoptionen <https://teams.microsoft
+ .com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d&tena
+ ntId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Y2M2MDljNGUt
+ N2QyZS00ZDcxLThlZGMtMjFlN2UxZWEwMjVl@thread.v2&messageId=0&language=de-DE>
+   | Rechtliche Hinweise <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
