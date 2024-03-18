@@ -5,59 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240315T083500
-DTEND;TZID="GMT 标准时间":20240315T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V214 90483 颜色析出及 80432析出
-DTSTART;TZID="GMT 标准时间":20240315T140000
-DTEND;TZID="GMT 标准时间":20240315T150000
-CLASS:PUBLIC
-DESCRIPTION:8250844 U2100213L1560 90483 3000米试制结束，邀请大家
- 讨论下下一步行动方案，及80432棕色的析出异常。\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Review customer project. 
-DTSTART;TZID="GMT 标准时间":20240315T150000
-DTEND;TZID="GMT 标准时间":20240315T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POE DF810 back up_SK 891工业化试制
-DTSTART;TZID="GMT 标准时间":20240315T163000
-DTEND;TZID="GMT 标准时间":20240315T170000
-CLASS:PUBLIC
-DESCRIPTION:Hello 各位：\n\nPOE DF810 back up_SK 891的试制、表皮
- 性能测试、应用加工、零件测试均已完成，与大家一起
- 分享下试制及测试结果，并讨论下一步工业化试制计划
- 。\n
-LOCATION:TE_ZG_MR_CBC223_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI Team building
-DTSTART;TZID="GMT 标准时间":20240315T173000
-DTEND;TZID="GMT 标准时间":20240315T203000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:梅海家宴饭店二楼208包厢（张家港市金港镇金桥
- 路106号）
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240318T083500
 DTEND;TZID="GMT 标准时间":20240318T091500
 CLASS:PUBLIC
@@ -204,6 +151,18 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POE DF810 back up_SK 891工业化试制
+DTSTART;TZID="GMT 标准时间":20240320T150000
+DTEND;TZID="GMT 标准时间":20240320T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位：\n\nPOE DF810 back up_SK 891的试制、表皮
+ 性能测试、应用加工、零件测试均已完成，与大家一起
+ 分享下试制及测试结果，并讨论下一步工业化试制计划
+ 。\n
+LOCATION:TE_ZG_MR_CBC223_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Asia & Europe
 DTSTART;TZID="GMT 标准时间":20240320T160000
 DTEND;TZID="GMT 标准时间":20240320T170000
@@ -328,6 +287,41 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Booking to BCC
+DTSTART;TZID="GMT 标准时间":20240321T090000
+DTEND;TZID="GMT 标准时间":20240321T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plato E1ns FMEA
+DTSTART;TZID="GMT 标准时间":20240321T113000
+DTEND;TZID="GMT 标准时间":20240321T120000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n \n\nWe will discuss again for this topic to fin
+ s the solution for it. \n\n \n\nThanks! \n\n______________________________
+ __________________________________________________ \n\nMicrosoft Teams 会
+ 议 \n\n使用电脑、移动应用或会议室设备加入 \n\n单击此
+ 处以加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _OTNlZjZhYjItZDhiYi00NjliLTg5NmQtOThlMmY5NjYwMTZj%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223
+ a801dff-1287-4f3c-b3fc-674cb9054efc%22%7d>  \n\n会议 ID: 349 262 735 803
+  \n密码: 8SgAaK \n\n下载 Teams <https://www.microsoft.com/en-us/micros
+ oft-teams/download-app>  | 在 web 上加入 <https://www.microsoft.com/mi
+ crosoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMe
+ eting>  | 会议选项 <https://teams.microsoft.com/meetingOptions/?organi
+ zerId=3a801dff-1287-4f3c-b3fc-674cb9054efc&tenantId=8d4b558f-7b2e-40ba-ad1
+ f-e04d79e6265a&threadId=19_meeting_OTNlZjZhYjItZDhiYi00NjliLTg5NmQtOThlMmY
+ 5NjYwMTZj@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://filehub
+ .admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________
+ ________________________________________________________________________ \
+ n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240322T083500
 DTEND;TZID="GMT 标准时间":20240322T091500
@@ -358,6 +352,16 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:锦湖EPDM 510P 天热方案讨论
+DTSTART;TZID="GMT 标准时间":20240325T100000
+DTEND;TZID="GMT 标准时间":20240325T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n天气要转暖了，510P的发粘问题又要
+ 再次提起了，我们一起讨论下后续的措施，谢谢！\n
+LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -999,6 +1003,93 @@ DTEND;TZID="GMT 标准时间":20240412T160000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240415T083500
+DTEND;TZID="GMT 标准时间":20240415T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20240415T203000
+DTEND;TZID="GMT 标准时间":20240415T210000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n\n_______________________________________________
+ _________________________________\n\nMicrosoft Teams meeting\n\nJoin on yo
+ ur computer\, mobile app or room device\n\nClick here to join the meeting 
+ <https://teams.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbded
+ cbc080%40thread.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2
+ e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f
+ 7c6777f%22%2c%22MessageId%22%3a%221684409697969%22%7d> \n\nMeeting ID: 348
+  788 967 848 \n\n \n\nPasscode: rNY47K \n\nDownload Teams <https://www.mic
+ rosoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https:/
+ /www.microsoft.com/microsoft-teams/join-a-meeting> \n\nLearn More <https:/
+ /aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/
+ meetingOptions/?organizerId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=
+ 8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbde
+ dcbc080@thread.tacv2&messageId=1683796715557&additionalMessageId=168440969
+ 7969&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/65015
+ 31f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n \n\n_____________________________
+ ___________________________________________________\n\n 
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240416T083500
+DTEND;TZID="GMT 标准时间":20240416T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:色母粒生产问题每周回顾
+DTSTART;TZID="GMT 标准时间":20240416T103000
+DTEND;TZID="GMT 标准时间":20240416T110000
+CLASS:PUBLIC
+DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
+ 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
+ \n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual CBS Convention (April 16th & 17th) - Agenda Block
+DTSTART;TZID="GMT 标准时间":20240416T150000
+DTEND;TZID="GMT 标准时间":20240417T000000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n\n\nWe are very happy to invite you to our 
+ virtual CBS Convention: “Striving for excellence - elevating CBS to the 
+ next level”. This convention will take place from April 16th to 17th\, 2
+ 024.\n\n \n\n \n\nWe are stablishing a program showing good practices & ne
+ w available lean/CI solutions  of how striving for excellence maximizes bu
+ siness value and what is the next evolution step for CBS within Conti. All
+  the sessions on day 1 and 2 will be repeated twice per day to cover all d
+ ifferent time zones around the globe.\n\n \n\n \n\nDay 1 and 2 also includ
+ e a two hours block with keynotes\, impulse speeches and panel discussions
+  – with our leaders and external lean and leadership experts to inspire\
+ , give food for thought and inviting to drive your own excellence journey 
+ right away.\n\n \n\n \n\n \n\n \n\n \n\nYou will be able to find more info
+ rmation on ConNext – more details will follow soon (page under construct
+ ion):\n\n \n\nCBS Convention 2024 - Wiki CBS Community (conti.de) <https:/
+ /connext.conti.de/wikis/home?lang=de-de#!/wiki/Wa9fda5a2cd25_4ed8_86f0_16b
+ 34b1c8d99/page/CBS%20Convention%202024> \n\n \n\nWe are looking forward me
+ eting you.\n\nGRATO/BEST REGARDS/SALUDOS/MIT FREUNDLICHEN GRÜßEN \n\nJul
+ ia Flug & Enrique Robledo\n\n \n
+LOCATION:https://connext.conti.de/wikis/home?lang=de-de#!/wiki/Wa9fda5a2cd
+ 25_4ed8_86f0_16b34b1c8d99/page/CBS%20Convention%202024
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
