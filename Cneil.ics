@@ -5,47 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240319T083500
-DTEND;TZID="GMT 标准时间":20240319T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产问题每周回顾
-DTSTART;TZID="GMT 标准时间":20240319T103000
-DTEND;TZID="GMT 标准时间":20240319T110000
-CLASS:PUBLIC
-DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
- 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
- \n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:春分
-DTSTART;TZID="GMT 标准时间":20240320T000000
-DTEND;TZID="GMT 标准时间":20240321T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:春分
-DTSTART;TZID="GMT 标准时间":20240320T000000
-DTEND;TZID="GMT 标准时间":20240321T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240320T083500
 DTEND;TZID="GMT 标准时间":20240320T091500
 CLASS:PUBLIC
@@ -89,6 +48,50 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:国家级绿色工厂申报项目 kick-off meeting
+DTSTART;TZID="GMT 标准时间":20240320T110000
+DTEND;TZID="GMT 标准时间":20240320T113000
+CLASS:PUBLIC
+DESCRIPTION:Hello Xiaodong：\n\n \n\n请帮忙参加，谢谢！\n\n \n\n
+ Sophia  3/20\n\n \n\n-----原始约会-----\n发件人: Zou\, Yang <yang.z
+ ou@benecke-changshun.com.cn <mailto:yang.zou@benecke-changshun.com.cn> > \
+ n发送时间: 2024年3月20日 9:46\n收件人: Zou\, Yang\; Kang\, Bill\
+ ; Ge\, Yiqiang\; Peng\, Shuping\; Wang\, Nick\; Hou\, Xuewen\; jiang\, son
+ g03\; Zhang\, Qiang\; Sun\, Dimin\; Geng\, Juan\; Gao\, Juan01\; Chen\, Ho
+ ngmei\n抄送: Lu\, Patrick\; Ma\, Yao\; Ge\, Jianfen\; Ma\, Siyuan\; Tian
+ \, Richard\; Sun\, Qiang\n主题: 国家级绿色工厂申报项目 kick-o
+ ff meeting\n时间: 2024年3月20日星期三 11:00-11:30(UTC+08:00) 北
+ 京，重庆，香港特别行政区，乌鲁木齐。\n地点: TE_ZG_MR_P
+ lantOffice301_Zhangjiagang\n\n \n\nDear all\,\n\n \n\n继2021年申报并
+ 拿得省级绿色工厂称号之后，经2年的积累与沉淀；现经
+ 管理层决定，张家港工厂计划于今年启动国家级绿色工
+ 厂的申报，同时田总也任命本人来作为该项目对接人。\n
+ \n \n\n现邀请各相关职能部门负责人参加此次的项目启动
+ 会！\n\n由于给我们的资料准备时间比较紧迫，届时还请
+ 各部门积极配合，谢谢\n\n \n\nKick-off 会议大致议程：\n\n*
+   解读政府对于项目申报的通知\n\n*  第三方咨询服务和
+ 内部Feasibility check 初步结果review\n\n*  需各部门经理提名
+ 一名部门协调员作为此项目成员，便于后续工作协调和
+ 落实\n\n________________________________________________________________
+ ________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动应
+ 用或会议室设备加入 \n\n单击此处以加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_MjEwMzQ3MDgtMzk1NS00NDU0LTg4NjIt
+ MmE1MTg4OGNlMzMw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2242d5212e-d240-4e88-8f06-8595f8f07c
+ 16%22%7d>  \n\n会议 ID: 361 532 694 836 \n密码: R3Cppr \n\n下载 Team
+ s <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 we
+ b 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\
+ n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://t
+ eams.microsoft.com/meetingOptions/?organizerId=42d5212e-d240-4e88-8f06-859
+ 5f8f07c16&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meetin
+ g_MjEwMzQ3MDgtMzk1NS00NDU0LTg4NjItMmE1MTg4OGNlMzMw@thread.v2&messageId=0&l
+ anguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
+ _______________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -261,15 +264,6 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Booking to BCC
-DTSTART;TZID="GMT 标准时间":20240321T090000
-DTEND;TZID="GMT 标准时间":20240321T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Plato E1ns FMEA
 DTSTART;TZID="GMT 标准时间":20240321T113000
 DTEND;TZID="GMT 标准时间":20240321T120000
@@ -339,6 +333,16 @@ LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PP XR67005 backup industrialize
+DTSTART;TZID="GMT 标准时间":20240325T130000
+DTEND;TZID="GMT 标准时间":20240325T133000
+CLASS:PUBLIC
+DESCRIPTION:Dear All，\n\n与大家一起讨论下关于PP Backup项目
+ 的工业化事项，感谢支持。\n
+LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Regular Meeting
 DTSTART;TZID="GMT 标准时间":20240325T213000
 DTEND;TZID="GMT 标准时间":20240325T220000
@@ -373,6 +377,15 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20240326T090000
+DTEND;TZID="GMT 标准时间":20240326T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1158,6 +1171,42 @@ DESCRIPTION:Dear all\,\n\n \n\n\n\nWe are very happy to invite you to our
  34b1c8d99/page/CBS%20Convention%202024> \n\n \n\nWe are looking forward me
  eting you.\n\nGRATO/BEST REGARDS/SALUDOS/MIT FREUNDLICHEN GRÜßEN \n\nJul
  ia Flug & Enrique Robledo\n\n \n
+LOCATION:https://connext.conti.de/wikis/home?lang=de-de#!/wiki/Wa9fda5a2cd
+ 25_4ed8_86f0_16b34b1c8d99/page/CBS%20Convention%202024
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240418T083500
+DTEND;TZID="GMT 标准时间":20240418T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBS Convention (April 18th) - Deep Dive and Upskilling Day- (Targe
+ t Group CBS Coaches and Specialists)
+DTSTART;TZID="GMT 标准时间":20240418T150000
+DTEND;TZID="GMT 标准时间":20240419T000000
+CLASS:PUBLIC
+DESCRIPTION:Dear CBS Coaches/Specialists\,\n\n \n\nWe would like to invite
+  you exclusively to a third day (April 18th\, 2024) of the CBS Convention 
+ under the headline “Deep Dive and Upskilling” where we would like to d
+ eepen topics around Automation/Digitalization\, the CBS maturity models an
+ d more.\n\n \n\nPlease block your agenda. (Later on you could decide in wh
+ ich sessions you would like to participate). You will be able to find more
+  information on ConNext – more details will follow soon (page under cons
+ truction):\n\n \n\n \n\n📍 CBS Convention 2024 - Wiki CBS Community (con
+ ti.de) <https://connext.conti.de/wikis/home?lang=de-de&utm_source=NICE&utm
+ _medium=email&utm_campaign=2024-02-08_19471_CBS+Convention+Invitation&utm_
+ content=link_1#!/wiki/Wa9fda5a2cd25_4ed8_86f0_16b34b1c8d99/page/CBS%20Conv
+ ention%202024> \n\n \n\n \n\nWe’re looking forward to our virtual get-to
+ gether!\n\n \n\nGRATO/BEST REGARDS/SALUDOS/MIT FREUNDLICHEN GRÜßEN \n\nJ
+ ulia Flug & Enrique Robledo\n\n \n\n \n
 LOCATION:https://connext.conti.de/wikis/home?lang=de-de#!/wiki/Wa9fda5a2cd
  25_4ed8_86f0_16b34b1c8d99/page/CBS%20Convention%202024
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
