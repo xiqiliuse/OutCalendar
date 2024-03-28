@@ -34,8 +34,8 @@ LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Update - Agenda defined - CBS R&D Community Call March 2024 (Asia 
- & Europe)
+SUMMARY:Abgesagt: Abgesagt: Update - Agenda defined - CBS R&D Community Ca
+ ll March 2024 (Asia & Europe)
 DTSTART;TZID="GMT 标准时间":20240328T160000
 DTEND;TZID="GMT 标准时间":20240328T164500
 CLASS:PUBLIC
@@ -61,6 +61,30 @@ LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Update CBS R&D Community Call - March 2024 - Asia & Europe
+DTSTART;TZID="GMT 标准时间":20240328T160000
+DTEND;TZID="GMT 标准时间":20240328T164500
+CLASS:PUBLIC
+DESCRIPTION:\n\n \n\n \n\n________________________________________________
+ ________________________________\n\nMicrosoft Teams Benötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  \n\nJetzt an der Besprechung
+  teilnehmen <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE3Nj
+ k5OGMtNDNmMC00MGJiLTk2YTEtOTIxZDM0YjBmODI4%40thread.v2/0?context=%7b%22Tid
+ %22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2255c4b7f4
+ -5b99-4af5-94d6-03c0cf2a0e2d%22%7d>  \n\nBesprechungs-ID: 318 263 492 424 
+ \n\nKennung: 6wVxJz \n\n________________________________\n\nFür Organisat
+ oren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?or
+ ganizerId=55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba
+ -ad1f-e04d79e6265a&threadId=19_meeting_NWE3Njk5OGMtNDNmMC00MGJiLTk2YTEtOTI
+ xZDM0YjBmODI4@thread.v2&messageId=0&language=de-DE>  | Einwahl-PIN zurück
+ setzen <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n\nDate
+ nschutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1c
+ a-436b-832a-1d684ab9ad7e>  \n\n___________________________________________
+ _____________________________________\n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Abgesagt: Blocker - CBS R&D Community Call (Asia & Europe)
 DTSTART;TZID="GMT 标准时间":20240328T160000
 DTEND;TZID="GMT 标准时间":20240328T164500
@@ -70,8 +94,8 @@ LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Update - Agenda defined - CBS R&D Community Call March 2024 (Ameri
- cas & Europe)
+SUMMARY:Abgesagt: Abgesagt: Update - Agenda defined - CBS R&D Community Ca
+ ll March 2024 (Americas & Europe)
 DTSTART;TZID="GMT 标准时间":20240328T230000
 DTEND;TZID="GMT 标准时间":20240328T234500
 CLASS:PUBLIC
@@ -92,6 +116,31 @@ DESCRIPTION:\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n
  language=de-DE>  | Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d
  1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
  _______________________________________ \n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Update CBS R&D Community Call - March 2024 - Americas & Europe (op
+ tional)
+DTSTART;TZID="GMT 标准时间":20240328T230000
+DTEND;TZID="GMT 标准时间":20240328T234500
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________\n\nMicrosoft Teams Benötigen Sie Hilfe? <https://a
+ ka.ms/JoinTeamsMeeting?omkt=de-DE>  \n\nJetzt an der Besprechung teilnehme
+ n <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ4MzcyYTgtMzk1
+ Ni00ZjE5LWEwZWQtNmJhZjA1MDMyOWVl%40thread.v2/0?context=%7b%22Tid%22%3a%228
+ d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2255c4b7f4-5b99-4af5
+ -94d6-03c0cf2a0e2d%22%7d>  \n\nBesprechungs-ID: 382 745 093 311 \n\nKennun
+ g: uneXLK \n\n________________________________\n\nFür Organisatoren: Besp
+ rechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizerId=
+ 55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d
+ 79e6265a&threadId=19_meeting_NzQ4MzcyYTgtMzk1Ni00ZjE5LWEwZWQtNmJhZjA1MDMyO
+ WVl@thread.v2&messageId=0&language=de-DE>  | Einwahl-PIN zurücksetzen <ht
+ tps://dialin.teams.microsoft.com/usp/pstnconferencing>  \n\nDatenschutz un
+ d Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________\n\n \n
 LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -165,6 +214,15 @@ DESCRIPTION:Dear all：\n\n \n\n我们需要讨论上述话题的背景，
  6b-832a-1d684ab9ad7e>  \n\n_______________________________________________
  _________________________________\n\n \n
 LOCATION:Microsoft Teams 会议\; MY OFFICE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EM4 data integration-1st meeting
+DTSTART;TZID="GMT 标准时间":20240329T140000
+DTEND;TZID="GMT 标准时间":20240329T150000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
