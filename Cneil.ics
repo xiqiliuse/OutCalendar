@@ -49,8 +49,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:讨论TPO 原材料对成本影响
-DTSTART;TZID="GMT 标准时间":20240401T150000
-DTEND;TZID="GMT 标准时间":20240401T160000
+DTSTART;TZID="GMT 标准时间":20240401T153000
+DTEND;TZID="GMT 标准时间":20240401T163000
 CLASS:PUBLIC
 DESCRIPTION:Hello Xiaoyong:\n\n \n\n如邮件，请帮忙提前确认一
  下原材料对各个时间段成本的影响，并讨论改善对策。\n
@@ -289,15 +289,6 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Project review
-DTSTART;TZID="GMT 标准时间":20240405T150000
-DTEND;TZID="GMT 标准时间":20240405T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240408T083500
 DTEND;TZID="GMT 标准时间":20240408T091500
@@ -358,6 +349,15 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Project review
+DTSTART;TZID="GMT 标准时间":20240409T130000
+DTEND;TZID="GMT 标准时间":20240409T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240410T083500
 DTEND;TZID="GMT 标准时间":20240410T091500
@@ -394,39 +394,14 @@ LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CBS@Operations community - Monthly phone-call - Asia & Europe
-DTSTART;TZID="GMT 标准时间":20240410T150000
-DTEND;TZID="GMT 标准时间":20240410T160000
+SUMMARY:Database-PPMS 后期Overview及图表展示分析
+DTSTART;TZID="GMT 标准时间":20240410T140000
+DTEND;TZID="GMT 标准时间":20240410T153000
 CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\nHere are the events for our CBS@Operations Commu
- nity Monthly Phone-Calls in 2022.\n\nThere are 2 slots for the same day:\n
- \n*	One in the morning (European time) for Asia & Europe (this one)\,\n*	O
- ne in the afternoon (European time) for Americas & Europe.\n\nTo have a lo
- ok on the agenda\, click on this link <https://connext.conti.de/wikis/home
- ?lang=fr-fr#!/wiki/Wd1b4b99e971c_4cc4_ab6b_cead42265fa6/page/2022a> .\n\nY
- ou have there a wiki folder 2022a which contains as "daughter" pages the a
- genda of each call which will be updated step by step as soon as the topic
- s will be identified and defined.\n\nThanks in advance for your contributi
- on and participation.\n\nBest Regards\n\nChristophe Escourrou\n\n\n\n\n___
- __________________________________________________________________________
- ___ \nR閡nion Microsoft Teams \nRejoindre sur votre ordinateur ou applica
- tion mobile \nCliquez ici pour participer ?la r閡nion <https://teams.micr
- osoft.com/l/meetup-join/19%3a4234432bb4f44338bfdf69d59b3fc4b5%40thread.sky
- pe/1634723407805?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e
- 6265a%22%2c%22Oid%22%3a%22991b7884-66b4-4145-9ede-53c04283a38d%22%7d>  \nO
- u composer le num閞o (audio seulement) \n+33 1 73 24 03 90\,\,112499908# 
- <tel:+33173240390\,\,112499908#>  France\, Beaumont-Sur-Oise \nID Conf閞e
- nce T閘閜hone: 112 499 908# \nRechercher un num閞o local <https://diali
- n.teams.microsoft.com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=112499908>  
- | R閕nitialiser le code confidentiel <https://mysettings.lync.com/pstncon
- ferencing>  \nPour en savoir plus <https://aka.ms/JoinTeamsMeeting>  | Opt
- ions de r閡nion <https://teams.microsoft.com/meetingOptions/?organizerId=
- 991b7884-66b4-4145-9ede-53c04283a38d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d
- 79e6265a&threadId=19_4234432bb4f44338bfdf69d59b3fc4b5@thread.skype&message
- Id=1634723407805&language=fr-FR>  | L間al <https://filehub.admiralcloud.c
- om/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_________________________
- _______________________________________________________ 
-LOCATION:
+DESCRIPTION:讨论以下话题：\n\n*  BCC数据系统的分享\n\n*  项
+ 目Overview 图表展示\n\n*  过程数据分析图表\n\n*  Color loops 
+ 展示，按项目/颜色等\n\n*  其他\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
