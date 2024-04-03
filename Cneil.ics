@@ -5,29 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240402T083500
-DTEND;TZID="GMT 标准时间":20240402T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产问题每周回顾
-DTSTART;TZID="GMT 标准时间":20240402T103000
-DTEND;TZID="GMT 标准时间":20240402T110000
-CLASS:PUBLIC
-DESCRIPTION:大家好，为了解决色母粒生产过程中得问题，
- 我们每周回顾一次，特邀请大家一起商讨，感谢参与。\n
- \n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240403T083500
 DTEND;TZID="GMT 标准时间":20240403T091500
 CLASS:PUBLIC
@@ -110,15 +87,6 @@ LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Database Color-lab数据模块定期回顾会议
-DTSTART;TZID="GMT 标准时间":20240403T140000
-DTEND;TZID="GMT 标准时间":20240403T150000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:清明节
 DTSTART;TZID="GMT 标准时间":20240404T000000
 DTEND;TZID="GMT 标准时间":20240405T000000
@@ -195,6 +163,51 @@ DESCRIPTION: \n\n \n\n \n\n_______________________________________________
  31f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n \n\n_____________________________
  ___________________________________________________\n\n 
 LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QMS Cross-site audit-TPO / SP Production
+DTSTART;TZID="GMT 标准时间":20240409T080000
+DTEND;TZID="GMT 标准时间":20240409T110000
+CLASS:PUBLIC
+DESCRIPTION:Fyi\n\n \n\n-----原始约会-----\n发件人: Xu\, Yan01 <yan
+ 01.xu@benecke-changshun.com.cn <mailto:yan01.xu@benecke-changshun.com.cn> 
+ > \n发送时间: 2024年4月2日 17:01\n收件人: Xu\, Yan01\; Qian\, Fe
+ ngdan\; Jing\, Longxia02\; Guo\, Wei02\; Hou\, Xuewen\; Liu\, Jiawen02\; j
+ iang\, song03\; Chen\, Hongmei\n主题: QMS Cross-site audit-TPO / SP Prod
+ uction\n时间: 2024年4月9日星期二 8:00-11:00(UTC+08:00) 北京，
+ 重庆，香港特别行政区，乌鲁木齐。\n地点: TPO/SP Productio
+ n\n\n \n\nHello all\,\n\nBook your time for TPO/SP Production audit.\n\n \
+ n\n@Hou\, Xuewen <mailto:xuewen.hou@benecke-changshun.com.cn> @jiang\, son
+ g03 <mailto:Song.3.Jiang@benecke-changshun.com.cn> @Chen\, Hongmei <mailto
+ :Hongmei.Chen@benecke-changshun.com.cn> \n\nPlease see schedule as below a
+ nd forward it to the auditee if necessary.\n\n \n\nDate / Time\n\nSubject 
+ / Process\n\nReference\n\nUnit / Dept. / Process Owner\n\nAuditors \n\nIAT
+ F\n\nCTSSL QMS\n\n2nd  Day April 9th\n\n08:00-11:00\n\nR_05 Production\, S
+ _18 Problem solving and corrective actions\, S_19 Control of non_conformin
+ g products\n\nTraining\, FIFO\, Identification and Traceability\, WIP\, Re
+ work\, reprocess management\n\n(Change shift: 8:30) \n\nRemark：\n\n8：0
+ 0-8：30 CMB\n\n8：30-9：30 Extrusion\n\n9：30-10：30 Printing\n\n10:3
+ 0-11:00 Cutting/Slitting\n\n8.5\n\n7.1\n\nS_08\n\nS_09\n\nS_14\n\nProducti
+ on-TPO\n\nSnow Hou\n\nProduction-SP\n\nJason Jiang\n\nSP\n\nJason Jiang\n\
+ nSCM-PL\n\nChao Yuan\n\nPPI\n\nSophia Chen\n\nQM\n\nJimmy Zhang\n\n \n\nTe
+ am 1\n\nJessie\n\nRachel \n\nWei Guo\n\n__________________________________
+ ______________________________________________\n\nMicrosoft Teams 是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
+ 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDY0NDE5
+ NmItN2Q3Ny00NDhkLWFmYzAtMGM1Zjk1ZjkyZmVi%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aad39012-f
+ ff5-4951-99a6-68c6adc1a5e6%22%7d>  \n\n会议 ID: 388 767 422 490 \n\n密
+ 码: HmKeBz \n\n________________________________\n\n对于组织者: 会
+ 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=aad3901
+ 2-fff5-4951-99a6-68c6adc1a5e6&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
+ a&threadId=19_meeting_ZDY0NDE5NmItN2Q3Ny00NDhkLWFmYzAtMGM1Zjk1ZjkyZmVi@thr
+ ead.v2&messageId=0&language=zh-CN>  | 重置拨入 PIN <https://dialin.tea
+ ms.microsoft.com/usp/pstnconferencing>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:TPO/SP Production
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -277,6 +290,21 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX1产品转移至EX2生产评估分析
+DTSTART;TZID="GMT 标准时间":20240410T160000
+DTEND;TZID="GMT 标准时间":20240410T170000
+CLASS:PUBLIC
+DESCRIPTION:物料\n\nsemi\n\nFC TSQM\n\nZ2300359A0620A1630\n\nZ2300359A06
+ 20A1630\n\n177 \n\nZ2300210A0520A\n\nZ2300210A0520A\n\n29 \n\nZ2300386A050
+ 0A\n\nZ2300386A0500A\n\n31 \n\nZ2200099A0795A1750\n\nU2200046A1680\n\n26 \
+ n\nZ2200074A0590A\n\nU2200028A1250\n\n24 \n\nZ2400035A1500A\n\nZ2400035A15
+ 00A\n\n20 \n\nZ2300366A0620A1630\n\nZ2300366A0620A1630\n\n30 \n\nZ2100215Y
+ 0535A0920\n\nU2100215L1605\n\n16 \n\nZ2100143Y0810A\n\nU2100143L1620\n\n11
+  \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
 DTSTART;TZID="GMT 标准时间":20240410T220000
 DTEND;TZID="GMT 标准时间":20240410T230000
@@ -321,6 +349,15 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  在301开，地方后面有调整再改。\n\n早会会议纪要存放在
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Database Color-lab数据模块定期回顾会议
+DTSTART;TZID="GMT 标准时间":20240411T100000
+DTEND;TZID="GMT 标准时间":20240411T110000
+CLASS:PUBLIC
+DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -1043,6 +1080,18 @@ DTSTART;TZID="GMT 标准时间":20240501T140000
 DTEND;TZID="GMT 标准时间":20240501T150000
 CLASS:PUBLIC
 DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240502T083500
+DTEND;TZID="GMT 标准时间":20240502T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
