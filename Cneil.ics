@@ -5,54 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240517T083500
-DTEND;TZID="GMT 标准时间":20240517T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project review
-DTSTART;TZID="GMT 标准时间":20240517T140000
-DTEND;TZID="GMT 标准时间":20240517T150000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V214 90483 颜色析出讨论
-DTSTART;TZID="GMT 标准时间":20240517T150000
-DTEND;TZID="GMT 标准时间":20240517T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:小满
-DTSTART;TZID="GMT 标准时间":20240520T000000
-DTEND;TZID="GMT 标准时间":20240521T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:小满
-DTSTART;TZID="GMT 标准时间":20240520T000000
-DTEND;TZID="GMT 标准时间":20240521T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240520T083500
 DTEND;TZID="GMT 标准时间":20240520T091500
 CLASS:PUBLIC
@@ -1150,6 +1102,55 @@ DTSTART;TZID="GMT 标准时间":20240614T150000
 DTEND;TZID="GMT 标准时间":20240614T160000
 CLASS:PUBLIC
 DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240617T083500
+DTEND;TZID="GMT 标准时间":20240617T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20240617T203000
+DTEND;TZID="GMT 标准时间":20240617T210000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n\n_______________________________________________
+ _________________________________\n\nMicrosoft Teams meeting\n\nJoin on yo
+ ur computer\, mobile app or room device\n\nClick here to join the meeting 
+ <https://teams.microsoft.com/l/meetup-join/19%3a56fa358dda644e9b90f35fbded
+ cbc080%40thread.tacv2/1683796715557?context=%7b%22Tid%22%3a%228d4b558f-7b2
+ e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225a935502-1e76-46ab-9133-e7c8f
+ 7c6777f%22%2c%22MessageId%22%3a%221684409697969%22%7d> \n\nMeeting ID: 348
+  788 967 848 \n\n \n\nPasscode: rNY47K \n\nDownload Teams <https://www.mic
+ rosoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https:/
+ /www.microsoft.com/microsoft-teams/join-a-meeting> \n\nLearn More <https:/
+ /aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/
+ meetingOptions/?organizerId=5a935502-1e76-46ab-9133-e7c8f7c6777f&tenantId=
+ 8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_56fa358dda644e9b90f35fbde
+ dcbc080@thread.tacv2&messageId=1683796715557&additionalMessageId=168440969
+ 7969&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/65015
+ 31f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n \n\n_____________________________
+ ___________________________________________________\n\n 
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240618T083500
+DTEND;TZID="GMT 标准时间":20240618T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
