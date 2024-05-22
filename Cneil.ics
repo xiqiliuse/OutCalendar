@@ -5,42 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240521T083500
-DTEND;TZID="GMT 标准时间":20240521T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PUD Sprint training
-DTSTART;TZID="GMT 标准时间":20240521T103000
-DTEND;TZID="GMT 标准时间":20240521T113000
-CLASS:PUBLIC
-DESCRIPTION:Dears，\n\n会议上BCZ 会分享一些关于sprint 的信息
- 和操作，谢谢~\n\n \n\n \n\nAda\n\n__________________________________
- ______________________________________________\n\nMicrosoft Teams 是否
- 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
- 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDE3YTAw
- NmEtZTE2Yi00MjljLWEyODEtOWNlYWExYmFmMDI2%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221730040d-9
- 59c-442b-bd39-71f054685ee3%22%7d>  \n\n会议 ID: 353 687 737 660 \n\n密
- 码: Pn4iLo \n\n________________________________\n\n对于组织者: 会
- 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=1730040
- d-959c-442b-bd39-71f054685ee3&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_meeting_MDE3YTAwNmEtZTE2Yi00MjljLWEyODEtOWNlYWExYmFmMDI2@thr
- ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
- dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
- ______________________________________________________________________\n\n
-  \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240522T083500
 DTEND;TZID="GMT 标准时间":20240522T091500
 CLASS:PUBLIC
@@ -49,6 +13,30 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 budget review
+DTSTART;TZID="GMT 标准时间":20240522T100000
+DTEND;TZID="GMT 标准时间":20240522T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们需要讨论一下2025 budget的基
+ 础数据的设定，谢谢！\n\n \n\n \n\nSophia   5/21\n\n \n\n________
+ ________________________________________________________________________\n
+ \nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omk
+ t=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_ZWY4NWIzYzktYWM4My00OTVkLWJlYTQtNTJmNDJkM2IyZGJl%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%2
+ 2Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 3
+ 33 150 196 787 \n\n密码: tTfAEk \n\n________________________________\n\n
+ 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
+ ?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-4
+ 0ba-ad1f-e04d79e6265a&threadId=19_meeting_ZWY4NWIzYzktYWM4My00OTVkLWJlYTQt
+ NTJmNDJkM2IyZGJl@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n\n______________________________________________________________
+ __________________\n\n \n
+LOCATION:my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -81,8 +69,21 @@ DTSTART;TZID="GMT 标准时间":20240522T140000
 DTEND;TZID="GMT 标准时间":20240522T150000
 CLASS:PUBLIC
 DESCRIPTION:有个色母粒批次号 导出的问题，\n\n花花的几个
- 问题\n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+ 问题\n\n________________________________________________________________
+ ________________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/Jo
+ inTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsof
+ t.com/l/meetup-join/19%3ameeting_MTljM2QwNGEtNTg5Ni00NmVkLTkxYjAtZTdiYTk0M
+ 2EzZDdj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb%22%7d>
+   \n\n会议 ID: 336 968 313 009 \n\n密码: Ldn5DS \n\n__________________
+ ______________\n\n对于组织者: 会议选项 <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&tenant
+ Id=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTljM2QwNGEtNT
+ g5Ni00NmVkLTkxYjAtZTdiYTk0M2EzZDdj@thread.v2&messageId=0&language=zh-CN>  
+ \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n\n______________________________________________
+ __________________________________\n\n \n
+LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -240,12 +241,12 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Review customer project. 
-DTSTART;TZID="GMT 标准时间":20240524T150000
-DTEND;TZID="GMT 标准时间":20240524T160000
+SUMMARY:Review scrap in 2025 budget
+DTSTART;TZID="GMT 标准时间":20240524T153000
+DTEND;TZID="GMT 标准时间":20240524T163000
 CLASS:PUBLIC
 DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+LOCATION:my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -378,6 +379,28 @@ DESCRIPTION:\n\n \n\n_____________________________________________________
  b-832a-1d684ab9ad7e>  \n\n________________________________________________
  ________________________________\n\n \n
 LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 2025 budget（ 拉伸系数，速度和相关数据）
+DTSTART;TZID="GMT 标准时间":20240528T160000
+DTEND;TZID="GMT 标准时间":20240528T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZTdhZDI1ZTUtMjBjNS00ODczLTkyN2QtNW
+ VlMjk0MzQxOWJk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 395 778 824 790 \n\n密码: dic7Wo \n\n___________
+ _____________________\n\n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZTdhZDI
+ 1ZTUtMjBjNS00ODczLTkyN2QtNWVlMjk0MzQxOWJk@thread.v2&messageId=0&language=z
+ h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________\n\n \n
+LOCATION:my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -618,7 +641,7 @@ DESCRIPTION:Dear all\,\n\n \n\nI’d like to invite you to attend our CBS
  ase kindly update your size in the table and give me feedback before the e
  nd of today.\n\n \n\nLook forward to meeting all of you in the workshop! T
  hank you!\n\n \n\nBest Regards\,\n\nFiona Huang\n\n \n
-LOCATION:TBD
+LOCATION:张家港黄泗浦生态公园-花海麦田
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -873,6 +896,15 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:回顾SP部门色母粒WI
+DTSTART;TZID="GMT 标准时间":20240606T133000
+DTEND;TZID="GMT 标准时间":20240606T150000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:色母粒二楼
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1272,6 +1304,18 @@ DESCRIPTION:Dear CBS Community\,\n\n \n\nI would like to invite you to ano
  6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_________________________________
  _______________________________________________ 
 LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240620T083500
+DTEND;TZID="GMT 标准时间":20240620T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
