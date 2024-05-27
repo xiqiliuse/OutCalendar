@@ -20,14 +20,28 @@ SUMMARY:BCZ工厂各工序工艺流程图纸更新、补充项目 Kick off
 DTSTART;TZID="GMT 标准时间":20240527T100000
 DTEND;TZID="GMT 标准时间":20240527T110000
 CLASS:PUBLIC
-DESCRIPTION:Hello all\n\n1.      背景:\n\n针对BCZ工厂部分机台工
- 艺流程资料不完整（缺失或者长时间未更新），我们将
- 在今年重新进行梳理、补充，因此需要大家的大力支持
- 。\n\n2.      目标:\n\nBCZ各工序建立完整的工艺流程图纸\n\
- n3.      范围\n\nCM1，EX1/EX2，LM2/LM3，EM1/2/3/4\n\n4.      内容\n
- \n各工序流程图+连锁条件整理\n\n如有问题请及时联系我
- 。\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+DESCRIPTION:会议室装修，改Teams会议\n\nHello all\n\n1.      背
+ 景:\n\n针对BCZ工厂部分机台工艺流程资料不完整（缺失或
+ 者长时间未更新），我们将在今年重新进行梳理、补充
+ ，因此需要大家的大力支持。\n\n2.      目标:\n\nBCZ各工序
+ 建立完整的工艺流程图纸\n\n3.      范围\n\nCM1，EX1/EX2，LM2
+ /LM3，EM1/2/3/4\n\n4.      内容\n\n各工序流程图+连锁条件整
+ 理\n\n如有问题请及时联系我。\n\n \n\n_________________________
+ _______________________________________________________\n\nMicrosoft Teams
+  是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
+ 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MD
+ g2NzYzOGMtNGRmMy00MWM5LTk5N2QtZTFlODJlNThlNTUw%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf3
+ 6416-12d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 354 108 483 826 \n
+ \n密码: ueydf8 \n\n________________________________\n\n对于组织者: 
+ 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf3
+ 6416-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a&threadId=19_meeting_MDg2NzYzOGMtNGRmMy00MWM5LTk5N2QtZTFlODJlNThlNTUw@
+ thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
+ b.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______
+ _________________________________________________________________________\
+ n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -293,6 +307,30 @@ LOCATION:TPO Workshop
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Simulation for Twin Screw Extrusion mixing process
+DTSTART;TZID="GMT 标准时间":20240529T160000
+DTEND;TZID="GMT 标准时间":20240529T170000
+CLASS:PUBLIC
+DESCRIPTION:张经理，您好！\n\n \n\n麻烦约你们技术人员一
+ 起，讨论前期数据的准备工作和实验流程，谢谢！\n\n \n\
+ n \n\nSophia   5/27\n\n \n\n______________________________________________
+ __________________________________\n\nMicrosoft Teams 是否需要帮助? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <http
+ s://teams.microsoft.com/l/meetup-join/19%3ameeting_MzdiNWQwMzQtZDdlMC00ODA
+ 5LTgxMzgtNWEzOWQ3ZTI0NDQz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f
+ -7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0
+ d07ade1664a%22%7d>  \n\n会议 ID: 357 549 269 513 \n\n密码: pJPJEq \n\n
+ ________________________________\n\n对于组织者: 会议选项 <https:/
+ /teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0
+ d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
+ ing_MzdiNWQwMzQtZDdlMC00ODA5LTgxMzgtNWEzOWQ3ZTI0NDQz@thread.v2&messageId=0
+ &language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl
+ /5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n____________________________
+ ____________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS Admin Call (Europe /Americas)
 DTSTART;TZID="GMT 标准时间":20240529T210000
 DTEND;TZID="GMT 标准时间":20240529T220000
@@ -461,6 +499,28 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:车间空调管理会议
+DTSTART;TZID="GMT 标准时间":20240603T100000
+DTEND;TZID="GMT 标准时间":20240603T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OWU4MDIwZGMtYzdiNC00N2M4LTllMTQtM2
+ MxZmM1NTIwN2Iz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%224d5e1cea-2ca2-4582-b48b-b674e2625c0e
+ %22%7d>  \n\n会议 ID: 335 631 132 527 \n\n密码: 2JCoVu \n\n___________
+ _____________________\n\n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=4d5e1cea-2ca2-4582-b48b-b674e2625c0e
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWU4MDI
+ wZGMtYzdiNC00N2M4LTllMTQtM2MxZmM1NTIwN2Iz@thread.v2&messageId=0&language=z
+ h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________\n\n \n
+LOCATION:维修会议室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
