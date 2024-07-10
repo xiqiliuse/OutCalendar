@@ -16,30 +16,6 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:锦湖EPDM改善结果讨论
-DTSTART;TZID="GMT 标准时间":20240710T093000
-DTEND;TZID="GMT 标准时间":20240710T100000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\n我们一起REVIEW下锦湖新料AMD拉伸强度
- 结果并看下下一步的方案，谢谢！\n\n_________________________
- _______________________________________________________\n\nMicrosoft Teams
-  是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
- 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MW
- ZhZmEwNGItN2M4ZS00ZTFmLWExYTMtZjRhMGYyNzJiZmMz%40thread.v2/0?context=%7b%2
- 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095
- be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 327 347 866 642 \n
- \n密码: Bx4Cfg \n\n________________________________\n\n对于组织者: 
- 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=5095
- be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a&threadId=19_meeting_MWZhZmEwNGItN2M4ZS00ZTFmLWExYTMtZjRhMGYyNzJiZmMz@
- thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
- b.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______
- _________________________________________________________________________\
- n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:下周EX RIE 准备会议
 DTSTART;TZID="GMT 标准时间":20240710T100000
 DTEND;TZID="GMT 标准时间":20240710T110000
@@ -85,6 +61,30 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:锦湖EPDM改善结果讨论
+DTSTART;TZID="GMT 标准时间":20240710T153000
+DTEND;TZID="GMT 标准时间":20240710T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n我们一起REVIEW下锦湖新料AMD拉伸强度
+ 结果并看下下一步的方案，谢谢！\n\n_________________________
+ _______________________________________________________\n\nMicrosoft Teams
+  是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
+ 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MW
+ ZhZmEwNGItN2M4ZS00ZTFmLWExYTMtZjRhMGYyNzJiZmMz%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095
+ be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 327 347 866 642 \n
+ \n密码: Bx4Cfg \n\n________________________________\n\n对于组织者: 
+ 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=5095
+ be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a&threadId=19_meeting_MWZhZmEwNGItN2M4ZS00ZTFmLWExYTMtZjRhMGYyNzJiZmMz@
+ thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
+ b.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______
+ _________________________________________________________________________\
+ n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -315,8 +315,8 @@ SUMMARY:苏州异连模流分析现场讨论
 DTSTART;TZID="GMT 标准时间":20240718T140000
 DTEND;TZID="GMT 标准时间":20240718T160000
 CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
+DESCRIPTION: \n
+LOCATION:PPI  Office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
