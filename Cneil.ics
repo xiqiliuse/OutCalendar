@@ -5,97 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240717T083500
-DTEND;TZID="GMT 标准时间":20240717T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO 颜色梳理会
-DTSTART;TZID="GMT 标准时间":20240717T130000
-DTEND;TZID="GMT 标准时间":20240717T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGE5NDkzNDktNjA5MC00ZTRhLW
- I0ZDMtMWMwZGZiOTY2YjM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
- f9224084%22%7d>  \n\n会议 ID: 365 677 298 211 \n密码: 9PUiuP \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
- 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_ZGE5NDkzNDktNjA5MC00ZTRhLWI0ZDMtMWMwZGZiOTY2YjM5@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
-DTSTART;TZID="GMT 标准时间":20240717T220000
-DTEND;TZID="GMT 标准时间":20240717T230000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240718T083500
-DTEND;TZID="GMT 标准时间":20240718T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tesla纵向条痕问题讨论
-DTSTART;TZID="GMT 标准时间":20240718T113000
-DTEND;TZID="GMT 标准时间":20240718T130000
-CLASS:PUBLIC
-DESCRIPTION:很抱歉约这么个时间段和大家讨论，目前特斯
- 拉产品因条痕问题导致库存上锁的数量越来越大，急需
- 大家讨论下下一步的行动方案。\n\n____________________________
- ____________________________________________________\n\nMicrosoft Teams 
- 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
- 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NT
- A3NjM2NWEtMmRiNC00YWYyLTk4ZTItODFhZDVkYWNlOWRi%40thread.v2/0?context=%7b%2
- 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af
- 8068-3227-497c-a212-46a9619f63a0%22%7d>  \n\n会议 ID: 334 202 551 603 \n
- \n密码: ESS8LJ \n\n________________________________\n\n对于组织者: 
- 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=51af
- 8068-3227-497c-a212-46a9619f63a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a&threadId=19_meeting_NTA3NjM2NWEtMmRiNC00YWYyLTk4ZTItODFhZDVkYWNlOWRi@
- thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
- b.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______
- _________________________________________________________________________\
- n\n \n
-LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:苏州异连模流分析现场讨论
-DTSTART;TZID="GMT 标准时间":20240718T140000
-DTEND;TZID="GMT 标准时间":20240718T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:PPI  Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240719T083500
 DTEND;TZID="GMT 标准时间":20240719T091500
 CLASS:PUBLIC
@@ -104,6 +13,17 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX2拆模状态回顾
+DTSTART;TZID="GMT 标准时间":20240719T100000
+DTEND;TZID="GMT 标准时间":20240719T103000
+CLASS:PUBLIC
+DESCRIPTION:7月15号EX2拆模时，在合模阶段发现模头的定位
+ 存在异常导致模头漏料等问题。\n\n现邀请大家回顾和评
+ 估。\n\n \n\nThanks\,\n\nLeo\n
+LOCATION:TPO早会小花园
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -274,6 +194,30 @@ DESCRIPTION:请把my success中自评完成，谢谢！\n\n \n\nSophia  7/
  436b-832a-1d684ab9ad7e>  \n\n_____________________________________________
  ___________________________________\n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dashboard - EM4 REVIEW
+DTSTART;TZID="GMT 标准时间":20240723T130000
+DTEND;TZID="GMT 标准时间":20240723T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n       TPO现在能提供更多EM4的实时数据
+ ，并对L1的界面提出了更多想法，我们会上再深入讨论。
+ \n\n谢谢！\n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams Need help? <https://aka.ms/Join
+ TeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https://teams.microsof
+ t.com/l/meetup-join/19%3ameeting_OGQwNzMwZjMtNjRmMC00YjYxLWE5YTgtYmY0ZGRjN
+ zJkNTlm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a%22%2c%22Oid%22%3a%22b67c6f96-739d-41ce-a25a-69fd7abd4b2f%22%7d>
+   \n\nMeeting ID: 379 910 480 689 \n\nPasscode: zd2KA8 \n\n_______________
+ _________________\n\nFor organizers: Meeting options <https://teams.micros
+ oft.com/meetingOptions/?organizerId=b67c6f96-739d-41ce-a25a-69fd7abd4b2f&t
+ enantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OGQwNzMwZ
+ jMtNjRmMC00YjYxLWE5YTgtYmY0ZGRjNzJkNTlm@thread.v2&messageId=0&language=en-
+ US>  \n\nPrivacy and security <https://filehub.admiralcloud.com/dl/5/65015
+ 31f-d1ca-436b-832a-1d684ab9ad7e>  \n\n____________________________________
+ ____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -577,6 +521,32 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO2024年7月设备review
+DTSTART;TZID="GMT 标准时间":20240729T140000
+DTEND;TZID="GMT 标准时间":20240729T153000
+CLASS:PUBLIC
+DESCRIPTION:@Zhou\, Ye02 <mailto:ye.2.zhou@benecke-changshun.com.cn> 麻
+ 烦准备一下7月份重大故障的原因分析和措施，谢谢！\n\n
+ 所有人都可以登记“TPO机台慢性病”到teams，我们会上回
+ 顾（如果找不到文件夹的，可以单独和我联系）\n\n\n\n___
+ __________________________________________________________________________
+ ___\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeetin
+ g?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_ODIwNTNhODYtZWIxMi00MjZkLTgzM2QtYTk1NmY5NzdlMTc4%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
+ %2c%22Oid%22%3a%22046a6ed9-d14d-4454-9dd9-43d48f52f03b%22%7d>  \n\n会议 
+ ID: 344 024 045 846 \n\n密码: a49XCS \n\n_______________________________
+ _\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=046a6ed9-d14d-4454-9dd9-43d48f52f03b&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ODIwNTNhODYtZWIxMi00MjZkLTg
+ zM2QtYTk1NmY5NzdlMTc4@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
+ 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
+ 4ab9ad7e>  \n\n___________________________________________________________
+ _____________________\n\n \n
+LOCATION:维修办公室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1112,6 +1082,27 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  在301开，地方后面有调整再改。\n\n早会会议纪要存放在
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240816T083500
+DTEND;TZID="GMT 标准时间":20240816T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review customer project. 
+DTSTART;TZID="GMT 标准时间":20240816T150000
+DTEND;TZID="GMT 标准时间":20240816T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
