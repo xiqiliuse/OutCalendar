@@ -5,8 +5,8 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240808T083500
-DTEND;TZID="GMT 标准时间":20240808T091500
+DTSTART;TZID="GMT 标准时间":20240812T083500
+DTEND;TZID="GMT 标准时间":20240812T091500
 CLASS:PUBLIC
 DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  在301开，地方后面有调整再改。\n\n早会会议纪要存放在
@@ -17,115 +17,16 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Database项目模块的持续优化
-DTSTART;TZID="GMT 标准时间":20240808T130000
-DTEND;TZID="GMT 标准时间":20240808T133000
+DTSTART;TZID="GMT 标准时间":20240812T130000
+DTEND;TZID="GMT 标准时间":20240812T133000
 CLASS:PUBLIC
 DESCRIPTION:*  试制试单填写流开发；\n*  试制试单所有工序
  （过程异常+厚度重量+外观）记录并图表汇总（细化）\n*
-   BDE压花数据自动导入
-LOCATION:(3楼质量办公室 )\; TE_ZG_MR_Plant312_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ex2国产冷却辊上机验证预沟通
-DTSTART;TZID="GMT 标准时间":20240808T143000
-DTEND;TZID="GMT 标准时间":20240808T150000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\n\n根据中午ME和PPI的沟通，需要尽快落实
- 国产冷却辊上机产品测试验证，特邀大家碰头再次商量
- 下后续的步骤。\n\n\n\n\n\n\n\n_____________________________________
- ___________________________________________\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议
-  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmRiOWU0M2YtMWRmY
- y00Y2NmLTk5MjctMTRlNWY4MDFhOTg3%40thread.v2/0?context=%7b%22Tid%22%3a%228d
- 4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223213188f-7330-486b-
- aa50-c1ab197afb63%22%7d>  \n会议 ID: 390 030 789 252 \n密码: aTnva2 \n
- ________________________________\n\n对于组织者: 会议选项 <https:/
- /teams.microsoft.com/meetingOptions/?organizerId=3213188f-7330-486b-aa50-c
- 1ab197afb63&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
- ing_ZmRiOWU0M2YtMWRmYy00Y2NmLTk5MjctMTRlNWY4MDFhOTg3@thread.v2&messageId=0
- &language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5
- /6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n________________________________
- ________________________________________________
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project review
-DTSTART;TZID="GMT 标准时间":20240808T150000
-DTEND;TZID="GMT 标准时间":20240808T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n1.     项目回顾前，请大家在proje
- ct list中更新项目进度。\n\n2.     每个月，需要review PVC/TPO
-  产品的Top 5产品过程能力。\n\n@Chen chenglong <mailto:chenglong.
- chen@benecke-changshun.com.cn> @Wang congyu <mailto:congyu.wang@benecke-ch
- angshun.com.cn> ，请提前准备各产品Cpk的分析数据。(如果有
- 涉及涂布，印刷，挤出的数据，请提前通知义飞/晓勇/晓
- 东准备)\n\n \n\n \n\n谢谢！\n\n \n\nSophia   7/15\n\n \n\n__________
- ______________________________________________________________________\n\n
- Microsoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=
- zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/
- 19%3ameeting_Njg4Nzc0MjktNTgzZC00ODQwLTgzOGQtNjRmMjA5MjQ1ZDhk%40thread.v2/
- 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
- id%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 344
-  787 016 739 \n\n密码: Hce5Jt \n\n________________________________\n\n
- 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
- ?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-4
- 0ba-ad1f-e04d79e6265a&threadId=19_meeting_Njg4Nzc0MjktNTgzZC00ODQwLTgzOGQt
- NjRmMjA5MjQ1ZDhk@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
- 9ad7e>  \n\n______________________________________________________________
- __________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240809T083500
-DTEND;TZID="GMT 标准时间":20240809T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2nd loop Ludovic挤出螺杆仿真培训
-DTSTART;TZID="GMT 标准时间":20240809T130000
-DTEND;TZID="GMT 标准时间":20240809T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n供应商到BCZ 进行二轮培训：\n\n 
- \n\n1.     上次提到的温度匹配问题。\n\n2.     挤出仿真具
- 体案例分享。\n\n \n\n谢谢！\n\n \n\nSophia   8/6\n\n_____________
- ___________________________________________________________________\n\nMic
- rosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-
- CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%
- 3ameeting_NjhmNWM2MzYtODczOS00NmU1LTlhYWQtOTYyMWE4MWQ4MmI2%40thread.v2/0?c
- ontext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%
- 22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 321 20
- 3 636 952 \n\n密码: r62xvg \n\n________________________________\n\n对
- 于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?or
- ganizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba
- -ad1f-e04d79e6265a&threadId=19_meeting_NjhmNWM2MzYtODczOS00NmU1LTlhYWQtOTY
- yMWE4MWQ4MmI2@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <
- https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e
- >  \n\n___________________________________________________________________
- _____________\n\n \n
-LOCATION:维修会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240812T083500
-DTEND;TZID="GMT 标准时间":20240812T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+   BDE压花数据自动导入\n*  2024/8/9增加：客户项目D3，增加
+ 一列刷选项（是否是新材料）：是/否，是的话增加备注
+ 信息。\n_______________________________________________________________
+ _________________
+LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -180,6 +81,19 @@ DTEND;TZID="GMT 标准时间":20240813T153000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_Plant312_Zhangjiagang\; (3楼质量办公室 )
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:看下各工序检验信息
+DTSTART;TZID="GMT 标准时间":20240813T163000
+DTEND;TZID="GMT 标准时间":20240813T170000
+CLASS:PUBLIC
+DESCRIPTION: 各工序产品检验项.xlsx <https://continental.sharepoint
+ .com/:x:/r/teams/team_10010014/Shared%20Documents/General/02%20Process%20E
+ ngineering/07%20%E4%BA%A7%E5%93%81%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%90%84%E5
+ %B7%A5%E5%BA%8F%E4%BA%A7%E5%93%81%E6%A3%80%E9%AA%8C%E9%A1%B9.xlsx?d=w634b1
+ 4b69b0446a4b359dee3be93c0d0&csf=1&web=1&e=zbb0Lk> \n\n \n
+LOCATION:PPI office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -258,6 +172,17 @@ DESCRIPTION:Dear All\,\n\n \n\nThanks a lot for this project implementatio
  n_________________________________________________________________________
  _______\n\n \n
 LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC223_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LSW for PPI
+DTSTART;TZID="GMT 标准时间":20240815T130000
+DTEND;TZID="GMT 标准时间":20240815T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\n\n邀大家一起学习一下LSW。\n\n本次主要
+ 是跟大家一起LSW是怎么做的，以及给我们部门的LSW开个
+ 头。\n
+LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -458,60 +383,6 @@ DESCRIPTION: \n\n_________________________________________________________
  ecurity <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d6
  84ab9ad7e>  \n\n__________________________________________________________
  ______________________\n\n \n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Call - RPA Developers Worldwide Option 2
-DTSTART;TZID="GMT 标准时间":20240822T220000
-DTEND;TZID="GMT 标准时间":20240822T230000
-CLASS:PUBLIC
-DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
- mat (MS Teams meeting) on voluntary basis to exchange on certain topics. T
- he RPA Developers Worldwide Open Calls are open to all RPA developers with
- in our company. You can find them in our Teams Channel <https://teams.micr
- osoft.com/l/team/19%3a9191061964d64edb9545595010c7695b%40thread.skype/conv
- ersations?groupId=4a4577f4-67aa-4da6-95fa-d3e4fec19f4f&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a>  or on the Events <https://connext.conti.de/co
- mmunities/service/html/communityoverview?communityUuid=a1ba9e40-8068-4b42-
- bbf8-a637e36fa236#fullpageWidgetId=We9e88e6afcf8_43df_8d1f_55634a5e422b>  
- page of this community.\n\nThe idea of the call is to facilitate knowledge
-  sharing across all organizations related to technical RPA subjects.\n\nBy
-  RPA developers for RPA developers.\n\n \n\n\n🤝 What is in for you?  ->
-  Our promise:\n\n\n💡          you will hear about technical updates\n\n
- 🚀         learn about RPA developers best practices\n\n🌎         sha
- ring of RPA approach and projects in different locations\n\n👨‍👨‍
- 👦        meet RPA developers all around the globe \n\n \n\n\n👨‍
- 👦‍👦 Audience\n\n\nAll enthusiastic RPA developers in Continental f
- rom all around the world\, from different functions and different Group Se
- ctors or Business Areas. \n\n \n\n\n👄 Language\n\n\nEnglish\n\n \n\n\n
- ⏰ Time\n\n\n*	every fourth Wednesday/Thursday of the month\n*	1 hour ful
- l of valuable content\n*	Option 1: 9:30 - 10:30 am CET (Wednesday)\n*	Opti
- on 2: 4:00 - 5:00 pm CET  (Thursday)\n\n\n📋 Basic Agenda\n\n\n1.	Microl
- earning (max. 5 min) What is a Microlearning? 🔗 <https://connext.conti.
- de/wikis/home?lang=en#!/wiki/W965feafa2312_41f6_b6c9_63bbc7c9a59b/page/NWS
- %20Microlearning> \n\n	1.	e.g. Watch '💡 How to integrate 🤖 UiPath St
- udio with GitHub 🔄' | Microsoft Stream (Classic) <https://web.microsoft
- stream.com/video/a1397497-d688-4f70-9694-adf09798cf08?list=user&userId=e3c
- 22986-c061-4329-b5a7-1727ea5a346e> \n\n2.	Updates of Platform & Infrastruc
- ture Topics\n\n	1.	e.g. Watch 'RPA Basic Platform Training 06_2022_Part_1'
-  | Microsoft Stream (Classic) <https://web.microsoftstream.com/video/e33a0
- d9d-d464-446f-ac3f-3530248c3343> \n\n3.	RPA solutions and projects sharing
- \n4.	Best practices\n5.	Q&A\n\n\n\n\n_____________________________________
- ___________________________________________\nMicrosoft Teams Need help? <h
- ttps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https:
- //teams.microsoft.com/l/meetup-join/19%3a0a53d13422fa4c21a703569ee88cc19b%
- 40thread.skype/1715063448155?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aab3a36c-5006-4b10-837e-26662ef60823
- %22%7d>  \nMeeting ID: 329 844 894 596 \nPasscode: bURHgQ \n______________
- __________________\n\nFor organizers: Meeting options <https://teams.micro
- soft.com/meetingOptions/?organizerId=aab3a36c-5006-4b10-837e-26662ef60823&
- tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21
- a703569ee88cc19b@thread.skype&messageId=1715063448155&language=en-US>  | R
- eset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>
-   \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501531f-d
- 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
- _____________________________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -816,6 +687,60 @@ LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID="GMT 标准时间":20240829T220000
+DTEND;TZID="GMT 标准时间":20240829T230000
+CLASS:PUBLIC
+DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
+ mat (MS Teams meeting) on voluntary basis to exchange on certain topics. T
+ he RPA Developers Worldwide Open Calls are open to all RPA developers with
+ in our company. You can find them in our Teams Channel <https://teams.micr
+ osoft.com/l/team/19%3a9191061964d64edb9545595010c7695b%40thread.skype/conv
+ ersations?groupId=4a4577f4-67aa-4da6-95fa-d3e4fec19f4f&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a>  or on the Events <https://connext.conti.de/co
+ mmunities/service/html/communityoverview?communityUuid=a1ba9e40-8068-4b42-
+ bbf8-a637e36fa236#fullpageWidgetId=We9e88e6afcf8_43df_8d1f_55634a5e422b>  
+ page of this community.\n\nThe idea of the call is to facilitate knowledge
+  sharing across all organizations related to technical RPA subjects.\n\nBy
+  RPA developers for RPA developers.\n\n \n\n\n🤝 What is in for you?  ->
+  Our promise:\n\n\n💡          you will hear about technical updates\n\n
+ 🚀         learn about RPA developers best practices\n\n🌎         sha
+ ring of RPA approach and projects in different locations\n\n👨‍👨‍
+ 👦        meet RPA developers all around the globe \n\n \n\n\n👨‍
+ 👦‍👦 Audience\n\n\nAll enthusiastic RPA developers in Continental f
+ rom all around the world\, from different functions and different Group Se
+ ctors or Business Areas. \n\n \n\n\n👄 Language\n\n\nEnglish\n\n \n\n\n
+ ⏰ Time\n\n\n*	every fourth Wednesday/Thursday of the month\n*	1 hour ful
+ l of valuable content\n*	Option 1: 9:30 - 10:30 am CET (Wednesday)\n*	Opti
+ on 2: 4:00 - 5:00 pm CET  (Thursday)\n\n\n📋 Basic Agenda\n\n\n1.	Microl
+ earning (max. 5 min) What is a Microlearning? 🔗 <https://connext.conti.
+ de/wikis/home?lang=en#!/wiki/W965feafa2312_41f6_b6c9_63bbc7c9a59b/page/NWS
+ %20Microlearning>  \n\n	1.	e.g. Watch '💡 How to integrate 🤖 UiPath S
+ tudio with GitHub 🔄' | Microsoft Stream (Classic) <https://web.microsof
+ tstream.com/video/a1397497-d688-4f70-9694-adf09798cf08?list=user&userId=e3
+ c22986-c061-4329-b5a7-1727ea5a346e> \n\n2.	Updates of Platform & Infrastru
+ cture Topics \n\n	1.	e.g. Watch 'RPA Basic Platform Training 06_2022_Part_
+ 1' | Microsoft Stream (Classic) <https://web.microsoftstream.com/video/e33
+ a0d9d-d464-446f-ac3f-3530248c3343> \n\n3.	RPA solutions and projects shari
+ ng\n4.	Best practices\n5.	Q&A\n\n\n\n\n___________________________________
+ _____________________________________________\nMicrosoft Teams Need help? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <http
+ s://teams.microsoft.com/l/meetup-join/19%3a0a53d13422fa4c21a703569ee88cc19
+ b%40thread.skype/1715063448155?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aab3a36c-5006-4b10-837e-26662ef608
+ 23%22%7d>  \nMeeting ID: 329 844 894 596 \nPasscode: bURHgQ \n____________
+ ____________________\n\nFor organizers: Meeting options <https://teams.mic
+ rosoft.com/meetingOptions/?organizerId=aab3a36c-5006-4b10-837e-26662ef6082
+ 3&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c
+ 21a703569ee88cc19b@thread.skype&messageId=1715063448155&language=en-US>  |
+  Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencin
+ g>  \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n_________________________________________
+ _______________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240830T083500
 DTEND;TZID="GMT 标准时间":20240830T091500
@@ -1020,6 +945,75 @@ DESCRIPTION:Dear all：\n\n \n\n1.     项目回顾前，请大家在proje
  9ad7e>  \n\n______________________________________________________________
  __________________\n\n \n
 LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白露
+DTSTART;TZID="GMT 标准时间":20240907T000000
+DTEND;TZID="GMT 标准时间":20240908T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白露
+DTSTART;TZID="GMT 标准时间":20240907T000000
+DTEND;TZID="GMT 标准时间":20240908T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240909T083500
+DTEND;TZID="GMT 标准时间":20240909T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:教师节
+DTSTART;TZID="GMT 标准时间":20240910T000000
+DTEND;TZID="GMT 标准时间":20240911T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:教师节
+DTSTART;TZID="GMT 标准时间":20240910T000000
+DTEND;TZID="GMT 标准时间":20240911T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240910T083500
+DTEND;TZID="GMT 标准时间":20240910T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Color Lab模块持续优化
+DTSTART;TZID="GMT 标准时间":20240910T150000
+DTEND;TZID="GMT 标准时间":20240910T153000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_Plant312_Zhangjiagang\; (3楼质量办公室 )
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
