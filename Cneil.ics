@@ -16,28 +16,6 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ludovic 挤出仿真软件购买
-DTSTART;TZID="GMT 标准时间":20240813T093000
-DTEND;TZID="GMT 标准时间":20240813T100000
-CLASS:PUBLIC
-DESCRIPTION: \n\n\n\n\n___________________________________________________
- _____________________________\nMicrosoft Teams 是否需要帮助? <https:
- //aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams
- .microsoft.com/l/meetup-join/19%3ameeting_YmQ3MGUxMmQtOGZhMi00ZGQ2LTlkMGIt
- Yzg5Njk3Zjg4N2I0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
- a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680
- eb%22%7d>  \n会议 ID: 315 338 432 092 \n密码: cTdT3g \n_______________
- _________________\n\n对于组织者: 会议选项 <https://teams.microsof
- t.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&ten
- antId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YmQ3MGUxMmQ
- tOGZhMi00ZGQ2LTlkMGItYzg5Njk3Zjg4N2I0@thread.v2&messageId=0&language=zh-CN
- >  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
- 436b-832a-1d684ab9ad7e>  \n_______________________________________________
- _________________________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:色母粒生产每周回顾会
 DTSTART;TZID="GMT 标准时间":20240813T103000
 DTEND;TZID="GMT 标准时间":20240813T110000
@@ -102,6 +80,29 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:锦湖EPDM改善追踪
+DTSTART;TZID="GMT 标准时间":20240814T093000
+DTEND;TZID="GMT 标准时间":20240814T100000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n我们一起看下第二次乙烯含量提高的
+ EPDM做的结果，谢谢！\n\n__________________________________________
+ ______________________________________\n\nMicrosoft Teams 是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
+ <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzlhNGU0OTMtZTI4NC
+ 00OGJjLWIyYTgtZjZjYzkxMzRiZDgz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be13-420b-4c9f-b
+ 01d-2db82cea817c%22%7d>  \n\n会议 ID: 314 106 930 345 \n\n密码: 2H9H9w
+  \n\n________________________________\n\n对于组织者: 会议选项 <ht
+ tps://teams.microsoft.com/meetingOptions/?organizerId=5095be13-420b-4c9f-b
+ 01d-2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19
+ _meeting_YzlhNGU0OTMtZTI4NC00OGJjLWIyYTgtZjZjYzkxMzRiZDgz@thread.v2&messag
+ eId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.c
+ om/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________
+ _________________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -200,6 +201,15 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludovic 螺杆仿真软件购买
+DTSTART;TZID="GMT 标准时间":20240814T150000
+DTEND;TZID="GMT 标准时间":20240814T153000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -507,6 +517,15 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESH 8月安全宣讲
+DTSTART;TZID="GMT 标准时间":20240826T140000
+DTEND;TZID="GMT 标准时间":20240826T150000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:PPI 老板办公室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
