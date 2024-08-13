@@ -5,32 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240812T083500
-DTEND;TZID="GMT 标准时间":20240812T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Database项目模块的持续优化
-DTSTART;TZID="GMT 标准时间":20240812T130000
-DTEND;TZID="GMT 标准时间":20240812T133000
-CLASS:PUBLIC
-DESCRIPTION:*  试制试单填写流开发；\n*  试制试单所有工序
- （过程异常+厚度重量+外观）记录并图表汇总（细化）\n*
-   BDE压花数据自动导入\n*  2024/8/9增加：客户项目D3，增加
- 一列刷选项（是否是新材料）：是/否，是的话增加备注
- 信息。\n_______________________________________________________________
- _________________
-LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240813T083500
 DTEND;TZID="GMT 标准时间":20240813T091500
 CLASS:PUBLIC
@@ -39,6 +13,28 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludovic 挤出仿真软件购买
+DTSTART;TZID="GMT 标准时间":20240813T093000
+DTEND;TZID="GMT 标准时间":20240813T100000
+CLASS:PUBLIC
+DESCRIPTION: \n\n\n\n\n___________________________________________________
+ _____________________________\nMicrosoft Teams 是否需要帮助? <https:
+ //aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_YmQ3MGUxMmQtOGZhMi00ZGQ2LTlkMGIt
+ Yzg5Njk3Zjg4N2I0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680
+ eb%22%7d>  \n会议 ID: 315 338 432 092 \n密码: cTdT3g \n_______________
+ _________________\n\n对于组织者: 会议选项 <https://teams.microsof
+ t.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&ten
+ antId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YmQ3MGUxMmQ
+ tOGZhMi00ZGQ2LTlkMGItYzg5Njk3Zjg4N2I0@thread.v2&messageId=0&language=zh-CN
+ >  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
+ 436b-832a-1d684ab9ad7e>  \n_______________________________________________
+ _________________________________
+LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -109,6 +105,80 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:各工序检验信息
+DTSTART;TZID="GMT 标准时间":20240814T102000
+DTEND;TZID="GMT 标准时间":20240814T110000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBS APAC Best Practice Sharing - CBS Methods
+DTSTART;TZID="GMT 标准时间":20240814T130000
+DTEND;TZID="GMT 标准时间":20240814T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear managers and CBS specialists\,\n\n \n\nBelow you can find
+  CBS APAC Best Practice Sharing - CBS Methods session\, detail topics you 
+ can see below email.\n\n \n\nYou can share this meeting invitation to peop
+ le in your department who are interested in. \n\n \n\nThank you!\n\n \n\nR
+ emark: the language used in the meeting is English\n\n \n\nBest Regards\,\
+ n\nFiona Huang\n\n \n\n-----原始约会-----\n发件人: Shi\, Junfei <ju
+ nfei.shi@continental.com> \n发送时间: 2024年7月29日 13:26\n收件
+ 人: Shi\, Junfei\; Shi\, Junfei\; Li\, Min05\; Chumiat\, Mohd Faizal bin\
+ ; Dasgupta\, Rajottam\; Gupta\, Rajiv\; hengyu.wu@contitech-sd.cn\; Huang\
+ , Qing\; Lee\, Seongmin\; Lei\, Liaokai\; lin\, likun02\; Liu\, Guangyuan\
+ ; Ma\, Guangyao\; Mayus\, Justin\; Nakade\, Sonali\; Park\, Sanghun\; Qu\,
+  Wenjin\; Wu-EXT\, Hengyu (C010005)\; Yang\, Li08\; Zhan\, Lei\; Zhang\, D
+ apeng02\; Yuan\, Tao\; Yu\, Wei01\; Chen\, Jiang\; G\, Nagarajan\; Wu\, Ju
+ nhua\; Cao\, Haibing\; wang\, weiyuan02\; Wang\, Weiyuan\n抄送: JJ_All\;
+  Choi\, Andy\; Lee\, Haseo\; Oh\, JongChun\; Chen\, Hikey\; Chen\, Jingyi0
+ 2\; Chen\, Wenshu\; Chen\, Yuxiao02\; Chen\, Zhijian\; Cheng\, Jia\; Cheng
+ \, Yuanjian\; Ding\, Zhongxie\; Feng\, Iris\; Gao\, Qiang03\; Gu\, Aries\;
+  Gu\, Menghuan\; Ji\, Xiaowei\; ji\, xinyi\; Jiang\, Tao06\; Li\, Xiaopian
+ \; Liang\, Meng\; Long\, Jane\; Ma\, Mandy02\; Qian\, Fengdan\; Qian\, Qui
+ ck\; Shen\, Sylvia\; Wang\, Muxue\; Wu\, Feifei02\; Wu\, Meihua\; Wu\, Wen
+ bin\; Wu\, Xingheng\; Xiao\, Yunfeng\; Xie\, Wei02\; Xu\, Zhigang\; Xue\, 
+ Gloria\; Yang\, Jiawei\; Yao\, Tomi\; Yongming Qian\; Zhang\, Suli\; Zhang
+ \, Wei29\; Zheng\, Chengwei\; Zhou\, John\; Zhu\, Jian\; Zhu\, Linfei\; Zh
+ u\, Yanli02\; Jeon\, JongHun\; Yuk\, Seunghwan\; Kim\, Daegeun02\; Yuan\, 
+ Xianzhang\; Yan\, Anran\; Cha\, JongHoon\; Choi\, Sungil\; Choi\, Seungwoo
+ k\; Lee\, HongJu2\; Baek\, Lucia\; Ko\, Kyeongil\; Hong\, Hyunpyo\; lee\, 
+ suseong03\; li\, kexue\; Zhang\, Yonghao\; wang\, Zhengang\; Chen\, Hongbi
+ n\; Jin\, Xuliang02\; Jia\, Huangzhu\; Cheng\, Xiangyang\; Li\, Yubing\; W
+ ang\, Yunfeng01\; Shi\, Jian06\; Lu\, Zhaobin\; Luo\, Xiangyang\; Kong\, S
+ huangshuang\; Ji\, Jianhua02\; Yan\, Bill\; Shi\, Hardy\; Tao\, Libing\; w
+ u\, ryan\; Jiang\, Feng02\; Cheng\, Alex\; Song\, Hui\n主题: CBS APAC Be
+ st Practice Sharing - CBS Methods\n时间: 2024年8月14日星期三 13:00
+ -14:30(UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+ 。\n地点: Microsoft Teams Meeting\n\n \n\nDear APAC CBS community\,\n\n
+  \n\nHonored to invite you to CBS APAC Best Practice Sharing - CBS Methods
+  session. Please find the topics below and welcome to share with people wi
+ th interest.\n\n \n\nSee you soon!\n\n \n\nTime (GMT+8)\n\nMethod\n\nTitle
+ \n\nContents\n\nBA\n\nPlant\n\n13:00-13:30\n\nRIE\n\nCoating Process start
+ up rejection reduction\n\nStartup rejection reduction from 8 M to 3 M\n\nS
+ SL\n\nCSSI-Pune\n\n13:30-14:00\n\nDLPA\n\nDLPA \n\nProductivity improvemen
+ t/ HC reduction through line balancing\n\nOESL\n\nCCN\n\n14:00-14:30\n\nTP
+ M\n\nTPM Process in Ninghai\n\nTPM Process in Ninghai\, planning\, process
+ \, results...\n\nIAPAC\n\nNinghai\n\n \n\n \n\n___________________________
+ _____________________________________________________\n\nMicrosoft Teams N
+ eed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeti
+ ng now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTcxMDUzYmM
+ tZGVlNC00OWFkLWI5ZDYtYjdiNGE5Y2FkN2Ez%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22f2ed7fe4-b703
+ -4bd1-9b2c-32cc1e9dd077%22%7d>  \n\nMeeting ID: 395 661 283 536 \n\nPassco
+ de: qNbBh8 \n\n________________________________\n\nFor organizers: Meeting
+  options <https://teams.microsoft.com/meetingOptions/?organizerId=f2ed7fe4
+ -b703-4bd1-9b2c-32cc1e9dd077&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a
+ &threadId=19_meeting_ZTcxMDUzYmMtZGVlNC00OWFkLWI5ZDYtYjdiNGE5Y2FkN2Ez@thre
+ ad.v2&messageId=0&language=en-US>  \n\nPrivacy and security <https://fileh
+ ub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TPO 颜色梳理会
 DTSTART;TZID="GMT 标准时间":20240814T130000
 DTEND;TZID="GMT 标准时间":20240814T140000
@@ -142,36 +212,6 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Waste water Project Close Meeting
-DTSTART;TZID="GMT 标准时间":20240815T100000
-DTEND;TZID="GMT 标准时间":20240815T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\n \n\nThanks a lot for this project implementatio
- n. Despite we have lots of challenges during this project. But finally we 
- achieved the target\, the system running to benefited for BCZ regarding su
- stainability and cost saving.\n\nTherefor I’d like to invite you for pro
- ject close meeting to review what we achieved and how we going to learning
-  from this project\n\n@Zou\, Yang <mailto:yang.zou@benecke-changshun.com.c
- n> \, would you please prepare project close documents (project presentati
- on) since former project manager left company.\n\n \n\n___________________
- _____________________________________________________________\n\nMicrosoft
-  Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \
- n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameet
- ing_NDNjODQ4MGUtODM5Yy00NWQ3LTkwMjgtN2U2YTU3ZjY3ZTBm%40thread.v2/0?context
- =%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%
- 22e1f9ba33-c14a-43d4-b1f3-2636424ccafb%22%7d>  \n\n会议 ID: 376 609 795 
- 821 \n\n密码: jwaMpD \n\n________________________________\n\n对于组
- 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
- rId=e1f9ba33-c14a-43d4-b1f3-2636424ccafb&tenantId=8d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a&threadId=19_meeting_NDNjODQ4MGUtODM5Yy00NWQ3LTkwMjgtN2U2YTU3Z
- jY3ZTBm@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
- //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
- n_________________________________________________________________________
- _______\n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC223_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -348,6 +388,36 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waste water Project Close Meeting
+DTSTART;TZID="GMT 标准时间":20240822T100000
+DTEND;TZID="GMT 标准时间":20240822T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n \n\nThanks a lot for this project implementatio
+ n. Despite we have lots of challenges during this project. But finally we 
+ achieved the target\, the system running to benefited for BCZ regarding su
+ stainability and cost saving.\n\nTherefor I’d like to invite you for pro
+ ject close meeting to review what we achieved and how we going to learning
+  from this project\n\n@Zou\, Yang <mailto:yang.zou@benecke-changshun.com.c
+ n> \, would you please prepare project close documents (project presentati
+ on) since former project manager left company.\n\n \n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \
+ n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameet
+ ing_NDNjODQ4MGUtODM5Yy00NWQ3LTkwMjgtN2U2YTU3ZjY3ZTBm%40thread.v2/0?context
+ =%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%
+ 22e1f9ba33-c14a-43d4-b1f3-2636424ccafb%22%7d>  \n\n会议 ID: 376 609 795 
+ 821 \n\n密码: jwaMpD \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=e1f9ba33-c14a-43d4-b1f3-2636424ccafb&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_NDNjODQ4MGUtODM5Yy00NWQ3LTkwMjgtN2U2YTU3Z
+ jY3ZTBm@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC223_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1014,6 +1084,42 @@ DTEND;TZID="GMT 标准时间":20240910T153000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_Plant312_Zhangjiagang\; (3楼质量办公室 )
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240911T083500
+DTEND;TZID="GMT 标准时间":20240911T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO 颜色梳理会
+DTSTART;TZID="GMT 标准时间":20240911T130000
+DTEND;TZID="GMT 标准时间":20240911T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGE5NDkzNDktNjA5MC00ZTRhLW
+ I0ZDMtMWMwZGZiOTY2YjM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
+ f9224084%22%7d>  \n\n会议 ID: 365 677 298 211 \n密码: 9PUiuP \n\n下
+ 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
+ | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
+ ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
+ 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_ZGE5NDkzNDktNjA5MC00ZTRhLWI0ZDMtMWMwZGZiOTY2YjM5@thread.v2&messa
+ geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
