@@ -5,73 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240813T083500
-DTEND;TZID="GMT 标准时间":20240813T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产每周回顾会
-DTSTART;TZID="GMT 标准时间":20240813T103000
-DTEND;TZID="GMT 标准时间":20240813T110000
-CLASS:PUBLIC
-DESCRIPTION:Hello，因工厂301会议室在装修，这3个月的周会
- 暂时约在色母粒二楼，麻烦准时参加(未能参加的请指派
- 代表)，谢谢！\n
-LOCATION:色母粒二楼
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:挤出碎片回收造粒项目
-DTSTART;TZID="GMT 标准时间":20240813T140000
-DTEND;TZID="GMT 标准时间":20240813T150000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_M2ZmZjEwODgtODE3ZS00MTU4LWFmNTctNj
- ViZGNkMjhjMTdj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
- %22%7d>  \n\n会议 ID: 324 608 546 300 \n\n密码: 5tiQzd \n\n___________
- _____________________\n\n对于组织者: 会议选项 <https://teams.micr
- osoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb
- &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_M2ZmZjE
- wODgtODE3ZS00MTU4LWFmNTctNjViZGNkMjhjMTdj@thread.v2&messageId=0&language=z
- h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
- -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
- _________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Color Lab模块持续优化
-DTSTART;TZID="GMT 标准时间":20240813T150000
-DTEND;TZID="GMT 标准时间":20240813T153000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_Plant312_Zhangjiagang\; (3楼质量办公室 )
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:看下各工序检验信息
-DTSTART;TZID="GMT 标准时间":20240813T163000
-DTEND;TZID="GMT 标准时间":20240813T170000
-CLASS:PUBLIC
-DESCRIPTION: 各工序产品检验项.xlsx <https://continental.sharepoint
- .com/:x:/r/teams/team_10010014/Shared%20Documents/General/02%20Process%20E
- ngineering/07%20%E4%BA%A7%E5%93%81%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%90%84%E5
- %B7%A5%E5%BA%8F%E4%BA%A7%E5%93%81%E6%A3%80%E9%AA%8C%E9%A1%B9.xlsx?d=w634b1
- 4b69b0446a4b359dee3be93c0d0&csf=1&web=1&e=zbb0Lk> \n\n \n
-LOCATION:PPI office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240814T083500
 DTEND;TZID="GMT 标准时间":20240814T091500
 CLASS:PUBLIC
@@ -103,15 +36,6 @@ DESCRIPTION:Dear All\,\n\n我们一起看下第二次乙烯含量提高的
  om/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________
  _________________________________________________________\n\n \n
 LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:各工序检验信息
-DTSTART;TZID="GMT 标准时间":20240814T102000
-DTEND;TZID="GMT 标准时间":20240814T110000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1139,6 +1063,18 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20240912T083500
+DTEND;TZID="GMT 标准时间":20240912T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
