@@ -5,216 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20240925T083500
-DTEND;TZID="GMT 标准时间":20240925T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: R2R定期回顾
-DTSTART;TZID="GMT 标准时间":20240925T100000
-DTEND;TZID="GMT 标准时间":20240925T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_NDM5YjI2OGQtZTQxMi00NGZjLW
- E3N2EtNzJmZGYzZWIxMTY5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
- 5713688c%22%7d>  \n\n会议 ID: 390 406 415 261 \n密码: ykwaJ2 \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
- 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_NDM5YjI2OGQtZTQxMi00NGZjLWE3N2EtNzJmZGYzZWIxMTY5@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:办公室颈椎腰椎保护指南
-DTSTART;TZID="GMT 标准时间":20240925T130000
-DTEND;TZID="GMT 标准时间":20240925T140000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\n\n现如今颈椎病、腰椎病已经成为久坐
- 一族的“头号公敌”。\n\n您是否有这样的状态：\n\n稍微
- 一久坐脖子就开始酸疼；后背肩膀总是发僵发紧；手臂
- 发麻，头晕头痛；\n\n劳累，久坐、久站腰部或者臀部就
- 会酸疼；\n\n严重者下肢麻木，向下一直延伸到脚的外侧
- 或脚底；\n\n针对在办公室和生活中怎么合理的使用腰部
- ，更好的保护颈椎\n\n健康中心为此准备了“办公室颈椎
- 腰椎保护指南”线上小课堂，期待您的参与！ \n\n \n\n \n\
- n_________________________________________________________________________
- _______\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMe
- eting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/m
- eetup-join/19%3ameeting_NThmMDFmN2MtODRjZi00NDA4LTk1MWEtOTE0NDFkYjQ5Nzgx%4
- 0thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a%22%2c%22Oid%22%3a%22851dac70-0e45-4c40-b2e3-1b88eb2c79ba%22%7d>  \n\n会
- 议 ID: 368 445 693 017 \n\n密码: KCSmED \n\n___________________________
- _____\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetin
- gOptions/?organizerId=851dac70-0e45-4c40-b2e3-1b88eb2c79ba&tenantId=8d4b55
- 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NThmMDFmN2MtODRjZi00NDA
- 4LTk1MWEtOTE0NDFkYjQ5Nzgx@thread.v2&messageId=0&language=zh-CN>  \n\n隐
- 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e>  \n\n_____________________________________________________
- ___________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO 颜色梳理会
-DTSTART;TZID="GMT 标准时间":20240925T130000
-DTEND;TZID="GMT 标准时间":20240925T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGE5NDkzNDktNjA5MC00ZTRhLW
- I0ZDMtMWMwZGZiOTY2YjM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
- f9224084%22%7d>  \n\n会议 ID: 365 677 298 211 \n密码: 9PUiuP \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
- 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_ZGE5NDkzNDktNjA5MC00ZTRhLWI0ZDMtMWMwZGZiOTY2YjM5@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS Admin Call (Asia/Europe)
-DTSTART;TZID="GMT 标准时间":20240925T150000
-DTEND;TZID="GMT 标准时间":20240925T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Community\,\n\n \n\nI would like to invite you to ano
- ther series of good practices around CBS@Admin\, refreshers and lot's of e
- xchange in the monthly CBS Admin Community Calls.\n\n \n\nAs a novelty we 
- implemented last year a topic wishlist - please leave your comments if you
-  are looking for a specific topic or would like to offer one.\n\nCBS Admin
-  Call Topic Wishlist 2024 - Wiki CBS@Admin Community (conti.de) <https://c
- onnext.conti.de/wikis/home?lang=de-de#!/wiki/W27f5718b1bbb_46df_bcb3_f31c0
- 4abb495/page/CBS%20Admin%20Call%20Topic%20Wishlist%202024> \n\n \n\nAs usu
- al\, the agenda will be published one week prior to the call.\n\n \n\nLook
- ing forward talking to you\,\n\nJulia\n\n\n\n\n___________________________
- _____________________________________________________ \nMicrosoft Teams me
- eting \nJoin on your computer\, mobile app or room device \nClick here to 
- join the meeting <https://teams.microsoft.com/l/meetup-join/19%3a74d6416fc
- 98c4f53ba861baaad5f04ae%40thread.skype/1705400225007?context=%7b%22Tid%22%
- 3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22dfef8758-0d0
- 6-4144-8413-55a9776d136c%22%7d>  \nMeeting ID: 354 088 796 986 \nPasscode:
-  DJvvXN \nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/
- download-app>  | Join on the web <https://www.microsoft.com/microsoft-team
- s/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meetin
- g options <https://teams.microsoft.com/meetingOptions/?organizerId=dfef875
- 8-0d06-4144-8413-55a9776d136c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_74d6416fc98c4f53ba861baaad5f04ae@thread.skype&messageId=1705
- 400225007&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_________________________________
- _______________________________________________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Call - RPA Developers Worldwide Option 1
-DTSTART;TZID="GMT 标准时间":20240925T153000
-DTEND;TZID="GMT 标准时间":20240925T163000
-CLASS:PUBLIC
-DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
- mat (MS Teams meeting) on voluntary basis to exchange on certain topics. T
- he RPA Developers Worldwide Open Calls are open to all RPA developers with
- in our company. You can find them in our Teams Channel <https://teams.micr
- osoft.com/l/team/19%3a9191061964d64edb9545595010c7695b%40thread.skype/conv
- ersations?groupId=4a4577f4-67aa-4da6-95fa-d3e4fec19f4f&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a>  or on the Events <https://connext.conti.de/co
- mmunities/service/html/communityoverview?communityUuid=a1ba9e40-8068-4b42-
- bbf8-a637e36fa236#fullpageWidgetId=We9e88e6afcf8_43df_8d1f_55634a5e422b>  
- page of this community.\n\nThe idea of the call is to facilitate knowledge
-  sharing across all organizations related to technical RPA subjects.\n\nBy
-  RPA developers for RPA developers.\n\n \n\n\n🤝 What is in for you?  ->
-  Our promise:\n\n\n💡          you will hear about technical updates\n\n
- 🚀         learn about RPA developers best practices\n\n🌎         sha
- ring of RPA approach and projects in different locations\n\n👨‍👨‍
- 👦        meet RPA developers all around the globe \n\n \n\n\n👨‍
- 👦‍👦 Audience\n\n\nAll enthusiastic RPA developers in Continental f
- rom all around the world\, from different functions and different Group Se
- ctors or Business Areas. \n\n \n\n\n👄 Language\n\n\nEnglish\n\n \n\n\n
- ⏰ Time\n\n\n*	every fourth Wednesday/Thursday of the month\n*	1 hour ful
- l of valuable content\n*	Option 1: 9:30 - 10:30 am CET (Wednesday)\n*	Opti
- on 2: 4:00 - 5:00 pm CET  (Thursday)\n\n\n📋 Basic Agenda\n\n\n1.	Microl
- earning (max. 5 min) What is a Microlearning? 🔗 <https://connext.conti.
- de/wikis/home?lang=en#!/wiki/W965feafa2312_41f6_b6c9_63bbc7c9a59b/page/NWS
- %20Microlearning> \n\n	1.	e.g. Watch '💡 How to integrate 🤖 UiPath St
- udio with GitHub 🔄' | Microsoft Stream (Classic) <https://web.microsoft
- stream.com/video/a1397497-d688-4f70-9694-adf09798cf08?list=user&userId=e3c
- 22986-c061-4329-b5a7-1727ea5a346e> \n\n2.	Updates of Platform & Infrastruc
- ture Topics\n\n	1.	e.g. Watch 'RPA Basic Platform Training 06_2022_Part_1'
-  | Microsoft Stream (Classic) <https://web.microsoftstream.com/video/e33a0
- d9d-d464-446f-ac3f-3530248c3343> \n\n3.	RPA solutions and projects sharing
- \n4.	Best practices\n5.	Q&A\n\n\n\n\n_____________________________________
- ___________________________________________\nMicrosoft Teams Need help? <h
- ttps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https:
- //teams.microsoft.com/l/meetup-join/19%3a0a53d13422fa4c21a703569ee88cc19b%
- 40thread.skype/1715063115837?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aab3a36c-5006-4b10-837e-26662ef60823
- %22%7d>  \nMeeting ID: 372 086 914 606 \nPasscode: v8te2n \n______________
- __________________\n\nFor organizers: Meeting options <https://teams.micro
- soft.com/meetingOptions/?organizerId=aab3a36c-5006-4b10-837e-26662ef60823&
- tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21
- a703569ee88cc19b@thread.skype&messageId=1715063115837&language=en-US>  | R
- eset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>
-   \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501531f-d
- 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
- _____________________________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS Admin Call (Europe /Americas)
-DTSTART;TZID="GMT 标准时间":20240925T210000
-DTEND;TZID="GMT 标准时间":20240925T220000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Community\,\n\n \n\nI would like to invite you to ano
- ther series of good practices around CBS@Admin\, refreshers and lot's of e
- xchange in the monthly CBS Admin Community Calls.\n\n \n\nAs a novelty we 
- implemented last year a topic wishlist - please leave your comments if you
-  are looking for a specific topic or would like to offer one.\n\nCBS Admin
-  Call Topic Wishlist 2024 - Wiki CBS@Admin Community (conti.de) <https://c
- onnext.conti.de/wikis/home?lang=de-de#!/wiki/W27f5718b1bbb_46df_bcb3_f31c0
- 4abb495/page/CBS%20Admin%20Call%20Topic%20Wishlist%202024> \n\n \n\nAs usu
- al\, the agenda will be published one week prior to the call.\n\n \n\nLook
- ing forward talking to you\,\n\nJulia\n\n\n\n\n___________________________
- _____________________________________________________ \nMicrosoft Teams me
- eting \nJoin on your computer\, mobile app or room device \nClick here to 
- join the meeting <https://teams.microsoft.com/l/meetup-join/19%3a74d6416fc
- 98c4f53ba861baaad5f04ae%40thread.skype/1705400275740?context=%7b%22Tid%22%
- 3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22dfef8758-0d0
- 6-4144-8413-55a9776d136c%22%7d>  \nMeeting ID: 392 229 138 869 \nPasscode:
-  kmZZ9L \nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/
- download-app>  | Join on the web <https://www.microsoft.com/microsoft-team
- s/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meetin
- g options <https://teams.microsoft.com/meetingOptions/?organizerId=dfef875
- 8-0d06-4144-8413-55a9776d136c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_74d6416fc98c4f53ba861baaad5f04ae@thread.skype&messageId=1705
- 400275740&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_________________________________
- _______________________________________________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20240926T083500
 DTEND;TZID="GMT 标准时间":20240926T091500
 CLASS:PUBLIC
@@ -223,6 +13,305 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:锦湖EPDM改善追踪
+DTSTART;TZID="GMT 标准时间":20240926T093000
+DTEND;TZID="GMT 标准时间":20240926T100000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\nPls help to attend the meeting to make the discu
+ ssion\, I will switch the responsibility of EPDM to new guy based on below
+  OC\, if 510P can’t be used \, there is only one EPDM\, DOW 4820P \, whi
+ ch can be used in SSL \, I need a clear picture before the hand over\,  th
+ anks ! \n\n \n\n \n\n\n\nMicrosoft Teams 是否需要帮助? <https://aka.
+ ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.mic
+ rosoft.com/l/meetup-join/19%3ameeting_YzlhNGU0OTMtZTI4NC00OGJjLWIyYTgtZjZj
+ YzkxMzRiZDgz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be13-420b-4c9f-b01d-2db82cea817c%2
+ 2%7d>  \n\n会议 ID: 314 106 930 345 \n\n密码: 2H9H9w \n\n \n\n________
+ _____________________________________\n发件人: Xu\, Jinkai <jinkai.xu@b
+ enecke-changshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> > \n
+ 发送时间: 2024年9月25日 17:03\n收件人: Zhou\, Yunyun <Yunyun.Zho
+ u@benecke-changshun.com.cn <mailto:Yunyun.Zhou@benecke-changshun.com.cn> >
+ \; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@benec
+ ke-changshun.com.cn> >\; Lin\, Weiying <Weiying.Lin@benecke-changshun.com.
+ cn <mailto:Weiying.Lin@benecke-changshun.com.cn> >\; Huang\, Haitao02 <hai
+ tao.2.huang@benecke-changshun.com.cn <mailto:haitao.2.huang@benecke-changs
+ hun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <m
+ ailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Xu\, Jie02 <jie02.xu@ben
+ ecke-changshun.com.cn <mailto:jie02.xu@benecke-changshun.com.cn> >\; Lu\, 
+ Zhichao02 <zhichao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@bene
+ cke-changshun.com.cn> >\n抄送: Liu\, Jiawen02 <jiawen.2.liu@benecke-chan
+ gshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\; Chen\, Hon
+ gmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-c
+ hangshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-changshun.com.cn
+  <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Sun\, Xiaoyong <xiaoyo
+ ng.sun@benecke-changshun.com.cn <mailto:xiaoyong.sun@benecke-changshun.com
+ .cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sheng.pan
+ @benecke-changshun.com.cn> >\n主题: 回复: 锦湖EPDM改善追踪\n\n \
+ n\n我们之前的讨论措施是鉴于拉伸强度的数据高于下限
+ 且处在较为安全的区间，但是最新的数据已经踩着下限
+ 了，风险程度很高。目前工厂端对于性能类产品是不予
+ 评审，所以咱们得考虑到内部报废，客户停线等等问题
+ ，而不是边做边看。\n\n \n\n \n\nInternal\n\n发件人: Zhou\, Yun
+ yun <Yunyun.Zhou@benecke-changshun.com.cn <mailto:Yunyun.Zhou@benecke-chan
+ gshun.com.cn> > \n发送时间: 2024年9月25日 16:59\n收件人: Xu\, Ji
+ nkai <jinkai.xu@benecke-changshun.com.cn <mailto:jinkai.xu@benecke-changsh
+ un.com.cn> >\; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:dim
+ in.sun@benecke-changshun.com.cn> >\; Lin\, Weiying <Weiying.Lin@benecke-ch
+ angshun.com.cn <mailto:Weiying.Lin@benecke-changshun.com.cn> >\; Huang\, H
+ aitao02 <haitao.2.huang@benecke-changshun.com.cn <mailto:haitao.2.huang@be
+ necke-changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changsh
+ un.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Xu\, Jie02 <
+ jie02.xu@benecke-changshun.com.cn <mailto:jie02.xu@benecke-changshun.com.c
+ n> >\; Lu\, Zhichao02 <zhichao.2.lu@benecke-changshun.com.cn <mailto:zhich
+ ao.2.lu@benecke-changshun.com.cn> >\n抄送: Liu\, Jiawen02 <jiawen.2.liu@
+ benecke-changshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\
+ ; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Ch
+ en@benecke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-chan
+ gshun.com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Sun\, Xiao
+ yong <xiaoyong.sun@benecke-changshun.com.cn <mailto:xiaoyong.sun@benecke-c
+ hangshun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mail
+ to:sheng.pan@benecke-changshun.com.cn> >\n主题: 回复: 锦湖EPDM改善
+ 追踪\n\n \n\n@Xu\, Jinkai <mailto:jinkai.xu@benecke-changshun.com.cn>   
+  我们目前已经做了三批了，我建议按照上次会议讨论的
+ ，2000M做下来没有问题就完成切换，这个事情已经拖了几
+ 个月了，我个人觉得没有意义再等了，边做边看吧，没
+ 有可能什么事情是完全无风险的，谢谢支持！\n\n \n\nMit f
+ reundlichen Grüßen / Best Regards\n\n \n\n周云云/Joy Zhou\n\nRegional
+  Category Manager - Cluster Thermoplastics\n\nPurchasing\n\nSurface Soluti
+ ons\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto T
+ rim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张
+ 家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\,
+  Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港
+ 镇南沙长阳路8号 215632\n\n \n\nMobil: +86 189 5113 6280\n\nE-Mail: 
+ yunyun.zhou@benecke-changshun.com.cn <mailto:yunyun.zhou@benecke-changshun
+ .com.cn> \n\nWebsite: www.continental-industry.com <http://www.continental
+ -industry.com/> \n\n \n\n \n\n \n\nInternal\n\n发件人: Xu\, Jinkai <jin
+ kai.xu@benecke-changshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn
+ > > \n发送时间: 2024年9月25日 16:50\n收件人: Sun\, Dimin <dimin.
+ sun@benecke-changshun.com.cn <mailto:dimin.sun@benecke-changshun.com.cn> >
+ \; Zhou\, Yunyun <Yunyun.Zhou@benecke-changshun.com.cn <mailto:Yunyun.Zhou
+ @benecke-changshun.com.cn> >\; Lin\, Weiying <Weiying.Lin@benecke-changshu
+ n.com.cn <mailto:Weiying.Lin@benecke-changshun.com.cn> >\; Huang\, Haitao0
+ 2 <haitao.2.huang@benecke-changshun.com.cn <mailto:haitao.2.huang@benecke-
+ changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com
+ .cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Xu\, Jie02 <jie02.
+ xu@benecke-changshun.com.cn <mailto:jie02.xu@benecke-changshun.com.cn> >\;
+  Lu\, Zhichao02 <zhichao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.l
+ u@benecke-changshun.com.cn> >\n抄送: Liu\, Jiawen02 <jiawen.2.liu@beneck
+ e-changshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\; Chen
+ \, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@ben
+ ecke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-changshun.
+ com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Sun\, Xiaoyong <
+ xiaoyong.sun@benecke-changshun.com.cn <mailto:xiaoyong.sun@benecke-changsh
+ un.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:she
+ ng.pan@benecke-changshun.com.cn> >\n主题: 回复: 锦湖EPDM改善追踪
+ \n\n \n\nHi Yunyun，\n\n \n\n从数据上看，虽然都合格，但是
+ 已经非常靠近下限，鉴于目前工厂端对技术合规的重视
+ 程度，我建议先在试单验证的料号上再跟踪3个批次，看
+ 下趋势。\n\n当然如果大家有不同的意见，我们再另行讨
+ 论。\n\n \n\nBest Regards\n\n \n\n \n\nInternal\n\n发件人: Sun\, Dimi
+ n <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@benecke-changshun.
+ com.cn> > \n发送时间: 2024年9月25日 11:05\n收件人: Zhou\, Yunyun
+  <Yunyun.Zhou@benecke-changshun.com.cn <mailto:Yunyun.Zhou@benecke-changsh
+ un.com.cn> >\; Lin\, Weiying <Weiying.Lin@benecke-changshun.com.cn <mailto
+ :Weiying.Lin@benecke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-
+ changshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> >\; Huang\, H
+ aitao02 <haitao.2.huang@benecke-changshun.com.cn <mailto:haitao.2.huang@be
+ necke-changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changsh
+ un.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Xu\, Jie02 <
+ jie02.xu@benecke-changshun.com.cn <mailto:jie02.xu@benecke-changshun.com.c
+ n> >\; Lu\, Zhichao02 <zhichao.2.lu@benecke-changshun.com.cn <mailto:zhich
+ ao.2.lu@benecke-changshun.com.cn> >\n抄送: Liu\, Jiawen02 <jiawen.2.liu@
+ benecke-changshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\
+ ; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Ch
+ en@benecke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-chan
+ gshun.com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Sun\, Xiao
+ yong <xiaoyong.sun@benecke-changshun.com.cn <mailto:xiaoyong.sun@benecke-c
+ hangshun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mail
+ to:sheng.pan@benecke-changshun.com.cn> >\n主题: 回复: 锦湖EPDM改善
+ 追踪\n\n \n\n@Xu\, Jinkai <mailto:jinkai.xu@benecke-changshun.com.cn> \n
+ \n \n\n下面邮件的切换是否有问题？\n\n \n\n@Zhou\, Yunyun <mai
+ lto:Yunyun.Zhou@benecke-changshun.com.cn> \n\n \n\n涉及的料号发我
+ 下\n\n \n\n顺颂商祺 / Mit freundlichen Grüßen / Best regards\, \n\n
+  \n\nDimin Sun / 孙棣民\n\nHead of Supply Chain Management (SCM) Plant 
+ BCZ\n\nBCZ Plant Supply Chain Management\n\nContiTech Surface Solutions\n\
+ n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Z
+ hangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港
+ ）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zha
+ ngjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南
+ 沙江海南路108号 215632\n\n \n\nMobile: +86 18951136501\n\nE-mail: di
+ min.sun@benecke-changshun.com.cn <mailto:dimin.sun@benecke-changshun.com.c
+ n> \n\n\n\n \n\n \n\nInternal\n\n发件人: Zhou\, Yunyun <Yunyun.Zhou@ben
+ ecke-changshun.com.cn <mailto:Yunyun.Zhou@benecke-changshun.com.cn> > \n
+ 发送时间: 2024年9月25日 9:45\n收件人: Lin\, Weiying <Weiying.Lin
+ @benecke-changshun.com.cn <mailto:Weiying.Lin@benecke-changshun.com.cn> >\
+ ; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn <mailto:jinkai.xu@beneck
+ e-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benecke-changshun
+ .com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\; Li\, Xiaodong
+ 03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-c
+ hangshun.com.cn> >\; Xu\, Jie02 <jie02.xu@benecke-changshun.com.cn <mailto
+ :jie02.xu@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <zhichao.2.lu@benec
+ ke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshun.com.cn> >\; Sun
+ \, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@benecke-cha
+ ngshun.com.cn> >\n抄送: Liu\, Jiawen02 <jiawen.2.liu@benecke-changshun.c
+ om.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\; Chen\, Hongmei <H
+ ongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshu
+ n.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-changshun.com.cn <mailt
+ o:xingxing.cai@benecke-changshun.com.cn> >\; Sun\, Xiaoyong <xiaoyong.sun@
+ benecke-changshun.com.cn <mailto:xiaoyong.sun@benecke-changshun.com.cn> >\
+ ; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sheng.pan@beneck
+ e-changshun.com.cn> >\n主题: 回复: 锦湖EPDM改善追踪\n\n \n\nDear
+  All\,\n\n如下是这次做的2000M的产品的拉伸测试结果，请
+ 查收，都高于我们的合格标准25，鉴于以前的沟通，我们
+ 在所有VOLVO项目上完成临时切换的回切，如有问题请告知
+ ，谢谢！\n\n\n\n \n\n@Sun\, Dimin <mailto:dimin.sun@benecke-changshun.
+ com.cn>   帮忙完成EPDM，在VOLVO项目上的回切，谢谢！\n\n \n
+ \n \n\nMit freundlichen Grüßen / Best Regards\n\n \n\n周云云/Joy Zhou
+ \n\nRegional Category Manager - Cluster Thermoplastics\n\nPurchasing\n\nSu
+ rface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Chan
+ gshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰
+ 材料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Ji
+ ngang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家
+ 港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +86 189 5113 6280
+ \n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:yunyun.zhou@benec
+ ke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www
+ .continental-industry.com/> \n\n \n\n \n\n \n\nInternal\n\n发件人: Zhou
+ \, Yunyun \n发送时间: 2024年9月2日 11:14\n收件人: Lin\, Weiying 
+ <Weiying.Lin@benecke-changshun.com.cn <mailto:Weiying.Lin@benecke-changshu
+ n.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn <mailto:jink
+ ai.xu@benecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benec
+ ke-changshun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\; L
+ i\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.
+ li@benecke-changshun.com.cn> >\; Xu\, Jie02 <jie02.xu@benecke-changshun.co
+ m.cn <mailto:jie02.xu@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <zhicha
+ o.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshun.com
+ .cn> >\n抄送: Liu\, Jiawen02 <jiawen.2.liu@benecke-changshun.com.cn <mai
+ lto:jiawen.2.liu@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Che
+ n@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> 
+ >\; Cai\, Xingxing <xingxing.cai@benecke-changshun.com.cn <mailto:xingxing
+ .cai@benecke-changshun.com.cn> >\; Sun\, Xiaoyong <xiaoyong.sun@benecke-ch
+ angshun.com.cn <mailto:xiaoyong.sun@benecke-changshun.com.cn> >\; Pan\, Sh
+ eng <sheng.pan@benecke-changshun.com.cn <mailto:sheng.pan@benecke-changshu
+ n.com.cn> >\n主题: 回复: 锦湖EPDM改善追踪\n\n \n\n@Xu\, Jinkai <
+ mailto:jinkai.xu@benecke-changshun.com.cn>     帮忙看下，客户有质
+ 量投诉吗？我们前面发的货客户应该已经都用完了，谢
+ 谢确认！\n\n \n\n@Li\, Xiaodong03 <mailto:xiaodong.3.li@benecke-changs
+ hun.com.cn>   新的货9月4日会到公司，帮忙按照如下会议纪
+ 要沟通的，手动变更现场做2000M再看下，如果没有问题，
+ 我们就在所有VOLVO项目上都切回去了，谢谢确认！\n\n \n\n
+ @Lu\, Zhichao02 <mailto:zhichao.2.lu@benecke-changshun.com.cn>   你那边
+ 麻烦和供应商重新确认下需要更新的文件，如有问题请
+ 告知，谢谢！\n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \n
+ \n周云云/Joy Zhou\n\nRegional Category Manager - Cluster Thermoplastics
+ \n\nPurchasing\n\nSurface Solutions\n\n \n\nBesucheradresse / Visitor addr
+ ess:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克
+ 长顺汽车内饰材料（张家港）有限公司\n\nNo.1\,Jianghai Sout
+ h Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \
+ n江苏省张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +
+ 86 189 5113 6280\n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:y
+ unyun.zhou@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry
+ .com <http://www.continental-industry.com/> \n\n \n\n \n\n发件人: Zhou\
+ , Yunyun \n发送时间: 2024年8月15日 14:28\n收件人: Lin\, Weiying 
+ <Weiying.Lin@benecke-changshun.com.cn <mailto:Weiying.Lin@benecke-changshu
+ n.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn <mailto:jink
+ ai.xu@benecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benec
+ ke-changshun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\; L
+ i\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.
+ li@benecke-changshun.com.cn> >\n抄送: Liu\, Jiawen02 <jiawen.2.liu@benec
+ ke-changshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\; Che
+ n\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@be
+ necke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-changshun
+ .com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Sun\, Xiaoyong 
+ <xiaoyong.sun@benecke-changshun.com.cn <mailto:xiaoyong.sun@benecke-changs
+ hun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sh
+ eng.pan@benecke-changshun.com.cn> >\; Xu\, Jie02 <jie02.xu@benecke-changsh
+ un.com.cn <mailto:jie02.xu@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <z
+ hichao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshu
+ n.com.cn> >\n主题: 回复: 锦湖EPDM改善追踪\n\n \n\n@Lin\, Weiying
+  <mailto:Weiying.Lin@benecke-changshun.com.cn>   VOLVO试制的ZT480062Y08
+ 10A测试没有问题，内部讨论可以转成量产料号Z2100142Y0810A
+ 发货，总数量1249M，两个批次都安排发掉，谢谢！\n\n \n\n
+ @Huang\, Haitao02 <mailto:haitao.2.huang@benecke-changshun.com.cn> @Li\, X
+ iaodong03 <mailto:xiaodong.3.li@benecke-changshun.com.cn> @Xu\, Jinkai <ma
+ ilto:jinkai.xu@benecke-changshun.com.cn>    和SCM确认了，下次发货
+ 时间是8月22日，这批货会随这个时间发出去，我们下次
+ 给客户发货是8月26日，所以理论8月底客户没有反馈就是
+ 无问题，我们就可以在9月初的生产订单中批次内修改再
+ 做2000M，谢谢！\n\n \n\n@Li\, Xiaodong03 <mailto:xiaodong.3.li@beneck
+ e-changshun.com.cn>   如有9月初的量产排单时间帮忙告知下，
+ 以便SCM提前通知供应商安排货，谢谢！\n\n\n\nMit freundliche
+ n Grüßen / Best Regards\n\n \n\n周云云/Joy Zhou\n\nRegional Category 
+ Manager - Cluster Thermoplastics\n\nPurchasing\n\nSurface Solutions\n\n \n
+ \nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhang
+ jiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有
+ 限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagan
+ g\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙长
+ 阳路8号 215632\n\n \n\nMobil: +86 189 5113 6280\n\nE-Mail: yunyun.zhou@
+ benecke-changshun.com.cn <mailto:yunyun.zhou@benecke-changshun.com.cn> \n\
+ nWebsite: www.continental-industry.com <http://www.continental-industry.co
+ m/> \n\n \n\n \n\n发件人: Zhou\, Yunyun \n发送时间: 2024年8月14
+ 日 9:58\n收件人: Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn <mail
+ to:jinkai.xu@benecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huan
+ g@benecke-changshun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn
+ > >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiao
+ dong.3.li@benecke-changshun.com.cn> >\; Liu\, Jiawen02 <jiawen.2.liu@benec
+ ke-changshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\; Che
+ n\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@be
+ necke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-changshun
+ .com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Sun\, Xiaoyong 
+ <xiaoyong.sun@benecke-changshun.com.cn <mailto:xiaoyong.sun@benecke-changs
+ hun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sh
+ eng.pan@benecke-changshun.com.cn> >\; Xu\, Jie02 <jie02.xu@benecke-changsh
+ un.com.cn <mailto:jie02.xu@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <z
+ hichao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshu
+ n.com.cn> >\n主题: 回复: 锦湖EPDM改善追踪\n\n \n\nDear All\,\n\n
+ 感谢大家参与今天的讨论，如下会议纪要请查收：\n\n1，
+ 关于以前试制的两个批次，如下数量，对应的成品料号Z2
+ 100142Y0810A，通知SCM发货---------------------海涛\n\n\n\n \n\n2，
+ 和SCM确认，这1200多米的材料发到客户处多久可以用完----
+ ---------------------Joy Zhou\n\n3\,   客户使用没有问题的情况
+ 下，量产料号走批次内变更验证2000M-----------------------晓
+ 东/金凯/海涛\n\n4，通知供应商以改善中间值管控，下单
+ 购买2托产品供以上第三点验证-------------------------Joy/徐
+ 洁\n\n5\,   乙烯含量增加会改变熔融指数，最后根据所有
+ 验证更新SPEC---------------------------------智超\n\n6，第三点
+ 内部生产完成皮革测试合格且过程无问题直接结束510P到4
+ 820P的临时变更，恢复原样\n\n \n\n以上请知悉，如有问题
+ 请告知，谢谢！\n\n \n\nMit freundlichen Grüßen / Best Regards\n\n
+  \n\n周云云/Joy Zhou\n\nRegional Category Manager - Cluster Thermoplast
+ ics\n\nPurchasing\n\nSurface Solutions\n\n \n\nBesucheradresse / Visitor a
+ ddress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
+ 克长顺汽车内饰材料（张家港）有限公司\n\nNo.1\,Jianghai S
+ outh Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.Chin
+ a \n江苏省张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobil
+ : +86 189 5113 6280\n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailt
+ o:yunyun.zhou@benecke-changshun.com.cn> \n\nWebsite: www.continental-indus
+ try.com <http://www.continental-industry.com/> \n\n \n\n \n\n-----原始
+ 约会-----\n发件人: Zhou\, Yunyun \n发送时间: 2024年8月13日 9:5
+ 0\n收件人: Zhou\, Yunyun\; Xu\, Jinkai\; Huang\, Haitao02\; Li\, Xiaodo
+ ng03\; Liu\, Jiawen02\; Chen\, Hongmei\; Cai\, Xingxing\; Sun\, Xiaoyong\;
+  Pan\, Sheng\; Xu\, Jie02\; Lu\, Zhichao02\n主题: 锦湖EPDM改善追踪
+ \n时间: 2024年8月14日星期三 9:30-10:00(UTC+08:00) 北京，重庆
+ ，香港特别行政区，乌鲁木齐。\n地点: Microsoft Teams 会议
+ \n\n \n\nDear All\,\n\n我们一起看下第二次乙烯含量提高的EPD
+ M做的结果，谢谢！\n\n_____________________________________________
+ ___________________________________\n\nMicrosoft Teams 是否需要帮助?
+  <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <htt
+ ps://teams.microsoft.com/l/meetup-join/19%3ameeting_YzlhNGU0OTMtZTI4NC00OG
+ JjLWIyYTgtZjZjYzkxMzRiZDgz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558
+ f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be13-420b-4c9f-b01d-
+ 2db82cea817c%22%7d>  \n\n会议 ID: 314 106 930 345 \n\n密码: 2H9H9w \n\
+ n________________________________\n\n对于组织者: 会议选项 <https:
+ //teams.microsoft.com/meetingOptions/?organizerId=5095be13-420b-4c9f-b01d-
+ 2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
+ ting_YzlhNGU0OTMtZTI4NC00OGJjLWIyYTgtZjZjYzkxMzRiZDgz@thread.v2&messageId=
+ 0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/d
+ l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
+ _____________________________________________________\n\n \n
+LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1831,6 +1920,75 @@ DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
  1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
  _____________________________________
 LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20241025T083500
+DTEND;TZID="GMT 标准时间":20241025T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internal Training-IT 工具系列
+DTSTART;TZID="GMT 标准时间":20241025T130000
+DTEND;TZID="GMT 标准时间":20241025T133000
+CLASS:PUBLIC
+DESCRIPTION:各位同事好！\n\n \n\n为大家带来IT工具系列培训
+ ，30分钟带你解锁更多隐藏功能，助你工作更顺畅高效！
+ \n\n \n\n*  讲师：IT 卞保祥 \n\n*  地点：在线teams\n\n*  分享
+ 频率：每两周一次，每次半小时\n\n*  内容：\n\n主题\n\n
+ 工具\n\n用途\n\n时间\n\nDS11\n\nDS11实用功能\n\nWin11的实用
+ 功能分享，更高效使用电脑\n\n2024.9.27\n\nM365\n\nPlanner\n\n
+ 计划任务与实时提醒\n\n2024.10.11\n\nM365新功能\n\n365新功能
+ 分享\n\n2024.10.25\n\nWhiteboard\n\n可视化协作画布，可实现灵
+ 活工作和学习\n\n2024.11.8\n\nOneDrive\n\n办公用的个人网盘，
+ 实时备份数据\n\n2024.11.22\n\nLists\n\n跟踪信息，组织工作
+ ，针对团队定制\n\n2024.12.6\n\nTeams\n\nTeams & SharePoint\n\nTeams
+  和SharePoint中常用功能\n\n2024.12.20\n\nVPN\n\nAuthenticator\n\nMFA
+ 验证器应用，除了电话验证身份的另一个选择\n\n2025.1.3\n
+ \n \n\n___________________________________________________________________
+ _____________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinT
+ eamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_ZGZkNTMzYjItYzk4Zi00ZmFmLTgwNjItNmQ4M2U4NTA4
+ MWJh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d7
+ 9e6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55%22%7d>  \
+ n\n会议 ID: 336 631 611 093 \n\n密码: k78J8A \n\n_____________________
+ ___________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/
+ meetingOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&tenantId=
+ 8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZGZkNTMzYjItYzk4Z
+ i00ZmFmLTgwNjItNmQ4M2U4NTA4MWJh@thread.v2&messageId=0&language=zh-CN>  \n\
+ n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b
+ -832a-1d684ab9ad7e>  \n\n_________________________________________________
+ _______________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:customer project review
+DTSTART;TZID="GMT 标准时间":20241025T150000
+DTEND;TZID="GMT 标准时间":20241025T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MTFhNjMxNTQtYzlhOS00MTBlLWE0MzAtOT
+ JhMmY1YmIxODQy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 356 596 776 558 \n\n密码: UsGaST \n\n___________
+ _____________________\n\n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTFhNjM
+ xNTQtYzlhOS00MTBlLWE0MzAtOTJhMmY1YmIxODQy@thread.v2&messageId=0&language=z
+ h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
