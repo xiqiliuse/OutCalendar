@@ -68,13 +68,16 @@ LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:大师课堂，小组同行-商业财经
+SUMMARY:已取消: 已取消: 大师课堂，小组同行-商业财经
 DTSTART;TZID="GMT 标准时间":20241024T150000
 DTEND;TZID="GMT 标准时间":20241024T160000
 CLASS:PUBLIC
-DESCRIPTION:因培训室装修，地点改至CBC 401 阶梯室\n\n \n\n \n
- \n大家好！\n\n \n\n欢迎报名”商业财经“学习小组，约大
- 家时间在CBC 421进行学习分享。到时见~\n\n \n
+DESCRIPTION:因报名人员实际参与率极低，取消本话题的例
+ 行分享。如有其他学习话题需求，欢迎随时单聊~\n\n------
+ --------------------------------------------------------------------------
+ -\n\n \n\n \n\n因培训室装修，地点改至CBC 401 阶梯室\n\n \n\n
+  \n\n大家好！\n\n \n\n欢迎报名”商业财经“学习小组，约
+ 大家时间在CBC 421进行学习分享。到时见~\n\n \n
 LOCATION:TE_ZG_MR_CBC401_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -305,6 +308,40 @@ DESCRIPTION:Dear all team\,\n\nFollow last meeting minutes\, organize this
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________\n\n \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tesla&C84批量白点问题分析
+DTSTART;TZID="GMT 标准时间":20241028T160000
+DTEND;TZID="GMT 标准时间":20241028T170000
+CLASS:PUBLIC
+DESCRIPTION:缺陷样件都已经拿回来了，大家有空可以到我
+ 这边先来看下。\n\nTesla白点批次8260963，C84白点批次8259790
+ .\n\n_____________________________________________________________________
+ ___________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTea
+ msMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com
+ /l/meetup-join/19%3ameeting_MTNkZTYwOTgtNzRiNC00NTcyLTkxNzEtYTU4ZmFhYzEwZD
+ Nl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0%22%7d>  \n\
+ n会议 ID: 388 333 515 582 \n\n密码: ixUpEU \n\n_______________________
+ _________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/me
+ etingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63a0&tenantId=8d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTNkZTYwOTgtNzRiNC0
+ 0NTcyLTkxNzEtYTU4ZmFhYzEwZDNl@thread.v2&messageId=0&language=zh-CN>  \n\n
+ 隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
+ 832a-1d684ab9ad7e>  \n\n__________________________________________________
+ ______________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Team Dinner with CBS@Operations Specialist 
+DTSTART;TZID="GMT 标准时间":20241028T180000
+DTEND;TZID="GMT 标准时间":20241028T200000
+CLASS:PUBLIC
+DESCRIPTION:张家港中联粤海国际酒店\n\n地址：沙洲西路235
+ 号\n
+LOCATION:张家港中联粤海国际酒店 2楼-2007，2008，2009
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -859,14 +896,33 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:大师课堂，小组同行-商业财经
+SUMMARY:已取消: 已取消: 大师课堂，小组同行-商业财经
 DTSTART;TZID="GMT 标准时间":20241107T150000
 DTEND;TZID="GMT 标准时间":20241107T160000
 CLASS:PUBLIC
-DESCRIPTION:因培训室装修，地点改至CBC 401 阶梯室\n\n \n\n \n
- \n大家好！\n\n \n\n欢迎报名”商业财经“学习小组，约大
- 家时间在CBC 421进行学习分享。到时见~\n\n \n
+DESCRIPTION:因报名人员实际参与率极低，取消本话题的例
+ 行分享。如有其他学习话题需求，欢迎随时单聊~\n\n------
+ --------------------------------------------------------------------------
+ -\n\n \n\n \n\n因培训室装修，地点改至CBC 401 阶梯室\n\n \n\n
+  \n\n大家好！\n\n \n\n欢迎报名”商业财经“学习小组，约
+ 大家时间在CBC 421进行学习分享。到时见~\n\n \n
 LOCATION:TE_ZG_MR_CBC401_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shopfloor Training System Improvement Tracking-TPO
+DTSTART;TZID="GMT 标准时间":20241107T153000
+DTEND;TZID="GMT 标准时间":20241107T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello all，\n\n \n\n约大家quick tracking，本次会议主
+ 要内容：\n\n \n\n1.     培训表更新进展\n\n2.     考核表完
+ 成进度\n\n \n\n@Li\, Xiaodong03 <mailto:xiaodong.3.li@benecke-changshun
+ .com.cn> @Xu\, Jinkai <mailto:jinkai.xu@benecke-changshun.com.cn> @Chen\, 
+ Tingting02 <mailto:tingting.2.chen@benecke-changshun.com.cn> 三位也参
+ 加一下，看看进军这边是否需要提供帮助及建议。\n\n \n\
+ n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Training Specilist\n\nCon
+ tiTech Surface Solutions\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
