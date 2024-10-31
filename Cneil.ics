@@ -5,108 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20241030T083500
-DTEND;TZID="GMT 标准时间":20241030T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO 颜色梳理会
-DTSTART;TZID="GMT 标准时间":20241030T130000
-DTEND;TZID="GMT 标准时间":20241030T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGE5NDkzNDktNjA5MC00ZTRhLW
- I0ZDMtMWMwZGZiOTY2YjM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
- f9224084%22%7d>  \n\n会议 ID: 365 677 298 211 \n密码: 9PUiuP \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
- 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_ZGE5NDkzNDktNjA5MC00ZTRhLWI0ZDMtMWMwZGZiOTY2YjM5@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS Admin Call (Asia/Europe)
-DTSTART;TZID="GMT 标准时间":20241030T160000
-DTEND;TZID="GMT 标准时间":20241030T170000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Community\,\n\n \n\nI would like to invite you to ano
- ther series of good practices around CBS@Admin\, refreshers and lot's of e
- xchange in the monthly CBS Admin Community Calls.\n\n \n\nAs a novelty we 
- implemented last year a topic wishlist - please leave your comments if you
-  are looking for a specific topic or would like to offer one.\n\nCBS Admin
-  Call Topic Wishlist 2024 - Wiki CBS@Admin Community (conti.de) <https://c
- onnext.conti.de/wikis/home?lang=de-de#!/wiki/W27f5718b1bbb_46df_bcb3_f31c0
- 4abb495/page/CBS%20Admin%20Call%20Topic%20Wishlist%202024> \n\n \n\nAs usu
- al\, the agenda will be published one week prior to the call.\n\n \n\nLook
- ing forward talking to you\,\n\nJulia\n\n\n\n\n___________________________
- _____________________________________________________ \nMicrosoft Teams me
- eting \nJoin on your computer\, mobile app or room device \nClick here to 
- join the meeting <https://teams.microsoft.com/l/meetup-join/19%3a74d6416fc
- 98c4f53ba861baaad5f04ae%40thread.skype/1705400225007?context=%7b%22Tid%22%
- 3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22dfef8758-0d0
- 6-4144-8413-55a9776d136c%22%7d>  \nMeeting ID: 354 088 796 986 \nPasscode:
-  DJvvXN \nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/
- download-app>  | Join on the web <https://www.microsoft.com/microsoft-team
- s/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meetin
- g options <https://teams.microsoft.com/meetingOptions/?organizerId=dfef875
- 8-0d06-4144-8413-55a9776d136c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_74d6416fc98c4f53ba861baaad5f04ae@thread.skype&messageId=1705
- 400225007&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_________________________________
- _______________________________________________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS Admin Call (Europe /Americas)
-DTSTART;TZID="GMT 标准时间":20241030T220000
-DTEND;TZID="GMT 标准时间":20241030T230000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Community\,\n\n \n\nI would like to invite you to ano
- ther series of good practices around CBS@Admin\, refreshers and lot's of e
- xchange in the monthly CBS Admin Community Calls.\n\n \n\nAs a novelty we 
- implemented last year a topic wishlist - please leave your comments if you
-  are looking for a specific topic or would like to offer one.\n\nCBS Admin
-  Call Topic Wishlist 2024 - Wiki CBS@Admin Community (conti.de) <https://c
- onnext.conti.de/wikis/home?lang=de-de#!/wiki/W27f5718b1bbb_46df_bcb3_f31c0
- 4abb495/page/CBS%20Admin%20Call%20Topic%20Wishlist%202024> \n\n \n\nAs usu
- al\, the agenda will be published one week prior to the call.\n\n \n\nLook
- ing forward talking to you\,\n\nJulia\n\n\n\n\n___________________________
- _____________________________________________________ \nMicrosoft Teams me
- eting \nJoin on your computer\, mobile app or room device \nClick here to 
- join the meeting <https://teams.microsoft.com/l/meetup-join/19%3a74d6416fc
- 98c4f53ba861baaad5f04ae%40thread.skype/1705400275740?context=%7b%22Tid%22%
- 3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22dfef8758-0d0
- 6-4144-8413-55a9776d136c%22%7d>  \nMeeting ID: 392 229 138 869 \nPasscode:
-  kmZZ9L \nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/
- download-app>  | Join on the web <https://www.microsoft.com/microsoft-team
- s/join-a-meeting> \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meetin
- g options <https://teams.microsoft.com/meetingOptions/?organizerId=dfef875
- 8-0d06-4144-8413-55a9776d136c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_74d6416fc98c4f53ba861baaad5f04ae@thread.skype&messageId=1705
- 400275740&language=en-US>  | Legal <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_________________________________
- _______________________________________________ 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20241031T083500
 DTEND;TZID="GMT 标准时间":20241031T091500
 CLASS:PUBLIC
@@ -276,15 +174,6 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:专注:
-DTSTART;TZID="GMT 标准时间":20241101T090000
-DTEND;TZID="GMT 标准时间":20241101T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Project review
 DTSTART;TZID="GMT 标准时间":20241101T160000
 DTEND;TZID="GMT 标准时间":20241101T170000
@@ -316,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:book
 DTSTART;TZID="GMT 标准时间":20241104T080000
-DTEND;TZID="GMT 标准时间":20241104T153000
+DTEND;TZID="GMT 标准时间":20241104T170000
 CLASS:PUBLIC
 DESCRIPTION: 
 LOCATION:
@@ -1602,6 +1491,47 @@ DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
  1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
  _____________________________________
 LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20241129T083500
+DTEND;TZID="GMT 标准时间":20241129T091500
+CLASS:PUBLIC
+DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
+ 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
+ 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
+ 夹下。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project review
+DTSTART;TZID="GMT 标准时间":20241129T150000
+DTEND;TZID="GMT 标准时间":20241129T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n1.     项目回顾前，请大家在proje
+ ct list中更新项目进度。\n\n2.     每个月，需要review PVC/TPO
+  产品的Top 5产品过程能力。\n\n@Chen chenglong <mailto:chenglong.
+ chen@benecke-changshun.com.cn> @Wang congyu <mailto:congyu.wang@benecke-ch
+ angshun.com.cn> ，请提前准备各产品Cpk的分析数据。(如果有
+ 涉及涂布，印刷，挤出的数据，请提前通知义飞/晓勇/晓
+ 东准备)\n\n \n\n \n\n谢谢！\n\n \n\nSophia   7/15\n\n \n\n__________
+ ______________________________________________________________________\n\n
+ Microsoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=
+ zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_Njg4Nzc0MjktNTgzZC00ODQwLTgzOGQtNjRmMjA5MjQ1ZDhk%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 344
+  787 016 739 \n\n密码: Hce5Jt \n\n________________________________\n\n
+ 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
+ ?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-4
+ 0ba-ad1f-e04d79e6265a&threadId=19_meeting_Njg4Nzc0MjktNTgzZC00ODQwLTgzOGQt
+ NjRmMjA5MjQ1ZDhk@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n\n______________________________________________________________
+ __________________\n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
