@@ -5,60 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20241121T083500
-DTEND;TZID="GMT 标准时间":20241121T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:R2R定期回顾
-DTSTART;TZID="GMT 标准时间":20241121T100000
-DTEND;TZID="GMT 标准时间":20241121T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_NDM5YjI2OGQtZTQxMi00NGZjLW
- E3N2EtNzJmZGYzZWIxMTY5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
- 5713688c%22%7d>  \n\n会议 ID: 390 406 415 261 \n密码: ykwaJ2 \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
- 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_NDM5YjI2OGQtZTQxMi00NGZjLWE3N2EtNzJmZGYzZWIxMTY5@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:小雪
-DTSTART;TZID="GMT 标准时间":20241122T000000
-DTEND;TZID="GMT 标准时间":20241123T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:小雪
-DTSTART;TZID="GMT 标准时间":20241122T000000
-DTEND;TZID="GMT 标准时间":20241123T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20241122T083500
 DTEND;TZID="GMT 标准时间":20241122T091500
 CLASS:PUBLIC
@@ -166,26 +112,34 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:锦湖粒子XR67082 结块问题讨论
+SUMMARY:databasecenter 生产记录表涂布
 DTSTART;TZID="GMT 标准时间":20241125T100000
 DTEND;TZID="GMT 标准时间":20241125T110000
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
  a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_NDAzNjdhM2MtMjJmNS00YjRjLTk3M2ItMG
- MyZGNmMDliMDJi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22babedd67-677b-41ae-8576-5fb00576a8e3
- %22%7d>  \n\n会议 ID: 325 504 188 303 \n\n密码: GKkR4X \n\n___________
- _____________________\n\n对于组织者: 会议选项 <https://teams.micr
- osoft.com/meetingOptions/?organizerId=babedd67-677b-41ae-8576-5fb00576a8e3
- &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDAzNjd
- hM2MtMjJmNS00YjRjLTk3M2ItMGMyZGNmMDliMDJi@thread.v2&messageId=0&language=z
- h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
- -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
- _________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang\; TE_ZG_MR_PlantOffice301_Zh
- angjiagang
+ icrosoft.com/l/meetup-join/19%3ameeting_NDAxYTkwYjUtYjFkYS00OGU2LWIxMjktMT
+ E2OWU5NzI2MDY2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a7bde065-9cba-4baf-9008-e784c70a6829
+ %22%7d>  \n\n会议 ID: 369 611 049 306 \n\n密码: ZT7ZZ7Zx \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=a7bde065-9cba-4baf-9008-e784c70a68
+ 29&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDAxY
+ TkwYjUtYjFkYS00OGU2LWIxMjktMTE2OWU5NzI2MDY2@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:510P 挤出过程刮伤异常review
+DTSTART;TZID="GMT 标准时间":20241125T150000
+DTEND;TZID="GMT 标准时间":20241125T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -248,6 +202,28 @@ DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
  m/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__________________________
  ______________________________________________________
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:R2R新项目参考确认
+DTSTART;TZID="GMT 标准时间":20241126T150000
+DTEND;TZID="GMT 标准时间":20241126T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YTEzNmVmNzktNWQ3Ni00MTJmLTkyNWItZT
+ Y3MmMxN2VmZTk5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a5713688c
+ %22%7d>  \n\n会议 ID: 332 548 631 500 \n\n密码: r5CF7Wn3 \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-9d06-b06a571368
+ 8c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTEzN
+ mVmNzktNWQ3Ni00MTJmLTkyNWItZTY3MmMxN2VmZTk5@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -464,6 +440,28 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:锦湖粒子XR67082 结块问题讨论
+DTSTART;TZID="GMT 标准时间":20241128T100000
+DTEND;TZID="GMT 标准时间":20241128T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NDAzNjdhM2MtMjJmNS00YjRjLTk3M2ItMG
+ MyZGNmMDliMDJi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22babedd67-677b-41ae-8576-5fb00576a8e3
+ %22%7d>  \n\n会议 ID: 325 504 188 303 \n\n密码: GKkR4X \n\n___________
+ _____________________\n\n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=babedd67-677b-41ae-8576-5fb00576a8e3
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDAzNjd
+ hM2MtMjJmNS00YjRjLTk3M2ItMGMyZGNmMDliMDJi@thread.v2&messageId=0&language=z
+ h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Database项目模块的持续优化
 DTSTART;TZID="GMT 标准时间":20241128T130000
 DTEND;TZID="GMT 标准时间":20241128T133000
@@ -645,6 +643,54 @@ DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
  我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
  夹下。\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Weekly Meeting
+DTSTART;TZID="GMT 标准时间":20241202T210000
+DTEND;TZID="GMT 标准时间":20241202T213000
+CLASS:PUBLIC
+DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
+ xplore Generative AI topics\, share insights\, and showcase exciting proje
+ cts!\nTopic for this Week:\n\n*	\n	This week\, exceptionally\, we start at
+  14:00 CET\n*	\n	Title & Speaker: @Kirchner\, Marcel <mailto:marcel.kirchn
+ er@conti.de>  presenting AI at Work - Role Model Communicators Info Hub\n\
+ n💡 Want to present or suggest a topic?\nReach out directly to Catarina 
+ Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innovate tog
+ ether. See you there!\n\nQuick Links\n\n*	\n	Everything you need to know a
+ bout the ContiGPT Community: ContiGPT Community (sharepoint.com) <https://
+ continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-Communit
+ y.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting - add i
+ t to your calendar <https://teams.microsoft.com/l/message/19:56fa358dda644
+ e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b2e-40ba
+ -ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&parentMess
+ ageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&created
+ Time=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetings - Ag
+ enda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly Meeting
+ s - recordings <https://continental.sharepoint.com/:f:/r/teams/team_100658
+ 07/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20recordings?
+ csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://continental.s
+ harepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organizatio
+ n/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlist forma
+ t: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/teams/team_
+ 10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Continental:
+  ConNext AI Community <https://connext.conti.de/communities/service/html/c
+ ommunitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \n\n\n\n
+ \n________________________________________________________________________
+ ________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt
+ =en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID: 360 0
+ 32 415 185 \nPasscode: CL9t2H5t \n________________________________\n\nFor 
+ organisers: Meeting options <https://teams.microsoft.com/meetingOptions/?o
+ rganizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMj
+ g5YWQwNGQxYTE0@thread.v2&messageId=0&language=en-GB> \nPrivacy and securit
+ y <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9a
+ d7e> \n___________________________________________________________________
+ _____________
+LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -901,6 +947,52 @@ LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ContiGPT Weekly Meeting
+DTSTART;TZID="GMT 标准时间":20241209T213000
+DTEND;TZID="GMT 标准时间":20241209T220000
+CLASS:PUBLIC
+DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
+ xplore Generative AI topics\, share insights\, and showcase exciting proje
+ cts!\nTopic for this Week:\n\n*	\n	Title & Speaker: TBD \n\n\n💡 Want to
+  present or suggest a topic?\nReach out directly to Catarina Rodrigues wit
+ h your ideas!\nLet’s collaborate\, learn\, and innovate together. See yo
+ u there!\n\nQuick Links\n\n*	\n	Everything you need to know about the Cont
+ iGPT Community: ContiGPT Community (sharepoint.com) <https://continental.s
+ harepoint.com/teams/team_10065807/SitePages/ContiGPT-Community.aspx> \n*	\
+ n	Add these meetings to your calendar: Weekly Meeting - add it to your cal
+ endar <https://teams.microsoft.com/l/message/19:56fa358dda644e9b90f35fbded
+ cbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&parentMessageId=1693830
+ 314815&teamName=ContiGPT&channelName=1%20Organization&createdTime=16938303
+ 14815> \n*	Agenda for upcoming meetings: Weekly Meetings - Agenda\n*	Recor
+ dings and slides from previous meetings:\n\n	*	Weekly Meetings - recording
+ s <https://continental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20D
+ ocuments/1%20Organization/Weekly%20Meetings%20-%20recordings?csf=1&web=1&e
+ =4VnAfU> \n	*	Weekly Meetings - slides <https://continental.sharepoint.com
+ /:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/Weekly%20Me
+ etings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlist format: ContiGPT S
+ essions <https://continental.sharepoint.com/:l:/r/teams/team_10065807/List
+ s/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Continental: ConNext AI C
+ ommunity <https://connext.conti.de/communities/service/html/communitystart
+ ?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \n\n\n\n\n___________
+ _____________________________________________________________________\nMic
+ rosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-GB>  \nJo
+ in the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229
+ dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d>  \nMeeting ID: 360 032 415 185 
+ \nPasscode: CL9t2H5t \n________________________________\n\nFor organisers:
+  Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=
+ 9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d
+ 79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxY
+ TE0@thread.v2&messageId=0&language=en-GB>  \nPrivacy and security <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20241210T083500
 DTEND;TZID="GMT 标准时间":20241210T091500
@@ -1141,6 +1233,52 @@ DESCRIPTION: \n\n_________________________________________________________
  ecurity <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d6
  84ab9ad7e>  \n\n__________________________________________________________
  ______________________\n\n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Weekly Meeting
+DTSTART;TZID="GMT 标准时间":20241216T213000
+DTEND;TZID="GMT 标准时间":20241216T220000
+CLASS:PUBLIC
+DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
+ xplore Generative AI topics\, share insights\, and showcase exciting proje
+ cts!\nTopic for this Week:\n\n*	\n	Title & Speaker: TBD \n\n\n💡 Want to
+  present or suggest a topic?\nReach out directly to Catarina Rodrigues wit
+ h your ideas!\nLet’s collaborate\, learn\, and innovate together. See yo
+ u there!\n\nQuick Links\n\n*	\n	Everything you need to know about the Cont
+ iGPT Community: ContiGPT Community (sharepoint.com) <https://continental.s
+ harepoint.com/teams/team_10065807/SitePages/ContiGPT-Community.aspx> \n*	\
+ n	Add these meetings to your calendar: Weekly Meeting - add it to your cal
+ endar <https://teams.microsoft.com/l/message/19:56fa358dda644e9b90f35fbded
+ cbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&parentMessageId=1693830
+ 314815&teamName=ContiGPT&channelName=1%20Organization&createdTime=16938303
+ 14815> \n*	Agenda for upcoming meetings: Weekly Meetings - Agenda\n*	Recor
+ dings and slides from previous meetings:\n\n	*	Weekly Meetings - recording
+ s <https://continental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20D
+ ocuments/1%20Organization/Weekly%20Meetings%20-%20recordings?csf=1&web=1&e
+ =4VnAfU> \n	*	Weekly Meetings - slides <https://continental.sharepoint.com
+ /:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/Weekly%20Me
+ etings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlist format: ContiGPT S
+ essions <https://continental.sharepoint.com/:l:/r/teams/team_10065807/List
+ s/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Continental: ConNext AI C
+ ommunity <https://connext.conti.de/communities/service/html/communitystart
+ ?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \n\n\n\n\n___________
+ _____________________________________________________________________\nMic
+ rosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-GB>  \nJo
+ in the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229
+ dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d>  \nMeeting ID: 360 032 415 185 
+ \nPasscode: CL9t2H5t \n________________________________\n\nFor organisers:
+  Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=
+ 9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d
+ 79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxY
+ TE0@thread.v2&messageId=0&language=en-GB>  \nPrivacy and security <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -1408,6 +1546,24 @@ DESCRIPTION: \n\n_________________________________________________________
  -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
  _________________________________________\n\n \n
 LOCATION:Microsoft Teams 会议\; my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:冬至
+DTSTART;TZID="GMT 标准时间":20241221T000000
+DTEND;TZID="GMT 标准时间":20241222T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:冬至
+DTSTART;TZID="GMT 标准时间":20241221T000000
+DTEND;TZID="GMT 标准时间":20241222T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
