@@ -160,6 +160,34 @@ LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Discuss mixing simulation 
+DTSTART;TZID="GMT 标准时间":20241203T160000
+DTEND;TZID="GMT 标准时间":20241203T170000
+CLASS:PUBLIC
+DESCRIPTION:Hello Krishnappa:\n\n \n\nHow are you!\n\n \n\nAs discussed in
+  April.\, we are very interest about simulation process from your introduc
+ tion. \n\nCurrent we meet surface white dots problem from PVC mixing proce
+ ss for PVC SEV product. As I remember\, you had trial run some simulation 
+ process in mixing process.\n\nSo we want to discuss with you if can trial 
+ run by Ansys software to help us find root cause.\n\n \n\n \n\nThanks!\n\n
+  \n\nSophia  12/2\n\n \n\n \n\n___________________________________________
+ _____________________________________\n\nMicrosoft Teams 是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
+ <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGQ2YTE3MmYtMTc5Zi
+ 00YjEyLTg3NGItNDMxZjFiYzllY2Qz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-8
+ 8bb-0d07ade1664a%22%7d>  \n\n会议 ID: 353 064 198 469 \n\n密码: E4DW2E
+ v6 \n\n________________________________\n\n对于组织者: 会议选项 <
+ https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e
+ -88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=
+ 19_meeting_OGQ2YTE3MmYtMTc5Zi00YjEyLTg3NGItNDMxZjFiYzllY2Qz@thread.v2&mess
+ ageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud
+ .com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________
+ ___________________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20241204T083500
 DTEND;TZID="GMT 标准时间":20241204T091500
