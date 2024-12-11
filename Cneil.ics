@@ -5,86 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20241210T083500
-DTEND;TZID="GMT 标准时间":20241210T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO L2 Weekly Review
-DTSTART;TZID="GMT 标准时间":20241210T093000
-DTEND;TZID="GMT 标准时间":20241210T100000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:维修会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产每周回顾会
-DTSTART;TZID="GMT 标准时间":20241210T103000
-DTEND;TZID="GMT 标准时间":20241210T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPDM切换 BBAC项目零件试制结果讨论
-DTSTART;TZID="GMT 标准时间":20241210T140000
-DTEND;TZID="GMT 标准时间":20241210T150000
-CLASS:PUBLIC
-DESCRIPTION:Hello 各位：\n\nBBAC切换EPDM试制的零件拿到了，
- 大家一起对比一下三个方案（510P 25KGY、510P 60KGY、570P）
- 零件的实际情况，决定后续用哪种方案进行实际切换\n\n_
- __________________________________________________________________________
- _____\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeet
- ing?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/mee
- tup-join/19%3ameeting_ZmNiZWQ3ZTMtYzEzMC00ZWExLTkxMDgtMzg2ZDgwOTAxNzJl%40t
- hread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%
- 22%2c%22Oid%22%3a%227c604b22-261c-427c-ac76-7247982d3dce%22%7d>  \n\n会
- 议 ID: 327 494 967 384 \n\n密码: Cd376rr2 \n\n_________________________
- _______\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meet
- ingOptions/?organizerId=7c604b22-261c-427c-ac76-7247982d3dce&tenantId=8d4b
- 558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZmNiZWQ3ZTMtYzEzMC00Z
- WExLTkxMDgtMzg2ZDgwOTAxNzJl@thread.v2&messageId=0&language=zh-CN>  \n\n隐
- 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e>  \n\n_____________________________________________________
- ___________________________\n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC222_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agenda - CBS R&D Community Call (Asia & Europe)
-DTSTART;TZID="GMT 标准时间":20241210T160000
-DTEND;TZID="GMT 标准时间":20241210T164500
-CLASS:PUBLIC
-DESCRIPTION: \n\nDear all – I send an update due to technical issues wit
- h distribution list for invitation – I will define new group distributio
- n lists in 2025 – BR Joachim\n\n \n\n\n\n_______________________________
- _________________________________________________\n\nMicrosoft Teams Benö
- tigen Sie Hilfe? <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  \n\nJetzt a
- n der Besprechung teilnehmen <https://teams.microsoft.com/l/meetup-join/19
- %3ameeting_MTIwNTlmZTYtMDQ0MC00Nzg2LTg0MzgtMjRjNTJlOWFiYWEw%40thread.v2/0?
- context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid
- %22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d>  \n\nBesprechungs-ID:
-  327 085 833 618 \n\nKennung: eR3WT68e \n\n_______________________________
- _\n\nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.com
- /meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d&tenantId
- =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTIwNTlmZTYtMDQ0
- MC00Nzg2LTg0MzgtMjRjNTJlOWFiYWEw@thread.v2&messageId=0&language=de-DE>  \n
- \nDatenschutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
- ___________________________________________\n\n \n
-LOCATION:Microsoft Teams-Besprechung
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20241211T083500
 DTEND;TZID="GMT 标准时间":20241211T091500
 CLASS:PUBLIC
@@ -297,17 +217,6 @@ DESCRIPTION:Hello all，\n\n \n\n都说数字化转型是大势所趋，
  ud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________
  _____________________________________________________________\n\n \n
 LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Database项目模块的持续优化
-DTSTART;TZID="GMT 标准时间":20241213T140000
-DTEND;TZID="GMT 标准时间":20241213T143000
-CLASS:PUBLIC
-DESCRIPTION:@Cheng\, Lei04 <mailto:lei.4.cheng@benecke-changshun.com.cn>  
- 一起看下标签打印的事情
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang\; TE_ZG_MR_Plant312_Zhangjia
- gang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -538,6 +447,17 @@ DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
  m/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__________________________
  ______________________________________________________
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Database项目模块的持续优化
+DTSTART;TZID="GMT 标准时间":20241217T153000
+DTEND;TZID="GMT 标准时间":20241217T160000
+CLASS:PUBLIC
+DESCRIPTION:@Cheng\, Lei04 <mailto:lei.4.cheng@benecke-changshun.com.cn>  
+ 一起看下标签打印的事情
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang\; TE_ZG_MR_Plant312_Zhangjia
+ gang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
