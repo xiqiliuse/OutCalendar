@@ -5,104 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20241218T083500
-DTEND;TZID="GMT 标准时间":20241218T091500
-CLASS:PUBLIC
-DESCRIPTION:目前没有合适的会议室，我们部门早会还是先
- 在301开，地方后面有调整再改。\n\n早会会议纪要存放在
- 我们部门公共盘PPI BCZ - General\\06 Meeting\\04-PPI早会的文件
- 夹下。\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:R2R定期回顾
-DTSTART;TZID="GMT 标准时间":20241218T100000
-DTEND;TZID="GMT 标准时间":20241218T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_NDM5YjI2OGQtZTQxMi00NGZjLW
- E3N2EtNzJmZGYzZWIxMTY5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a
- 5713688c%22%7d>  \n\n会议 ID: 390 406 415 261 \n密码: ykwaJ2 \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-
- 9d06-b06a5713688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_NDM5YjI2OGQtZTQxMi00NGZjLWE3N2EtNzJmZGYzZWIxMTY5@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_Plant312_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:内训-产品知识基础了解 Internal Training-Product Basics_ 
- 基布
-DTSTART;TZID="GMT 标准时间":20241218T130000
-DTEND;TZID="GMT 标准时间":20241218T140000
-CLASS:PUBLIC
-DESCRIPTION:因讲师工作协调不开，修改内训时间，同时本
- 内训改为线上培训\n\n----------------------------------------------
- -----\n\n \n\nHello all\,\n\n \n\n向您推出内训之产品知识基础
- 了解-基布，任何感兴趣的同事都欢迎参加：\n\n \n\n-讲师
- ：R&D 杜立杰\n\n-主要涉及内容：从原材料到基布/基布性
- 能与产品性能的关系/现有基布的优缺点\n\n-适用对象：
- 全员，无基础亦可。\n\n \n\n______________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZTk1OWEzNTMtYmI5NS00OWUwLWI3YzMtNW
- IyMjIxZDliNDY3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55
- %22%7d>  \n\n会议 ID: 330 371 110 688 \n\n密码: qbJx3b \n\n___________
- _____________________\n\n对于组织者: 会议选项 <https://teams.micr
- osoft.com/meetingOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55
- &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZTk1OWE
- zNTMtYmI5NS00OWUwLWI3YzMtNWIyMjIxZDliNDY3@thread.v2&messageId=0&language=z
- h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
- -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
- _________________________________________\n\n \n
-LOCATION:teams meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO 颜色梳理会
-DTSTART;TZID="GMT 标准时间":20241218T130000
-DTEND;TZID="GMT 标准时间":20241218T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或会议室设备加入 \n\n单击此处以加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_ZGE5NDkzNDktNjA5MC00ZTRhLW
- I0ZDMtMWMwZGZiOTY2YjM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8
- f9224084%22%7d>  \n\n会议 ID: 365 677 298 211 \n密码: 9PUiuP \n\n下
- 载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  
- | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meet
- ing> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-
- 9bb1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
- 9_meeting_ZGE5NDkzNDktNjA5MC00ZTRhLWI0ZDMtMWMwZGZiOTY2YjM5@thread.v2&messa
- geId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/65
- 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
- _______________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
-DTSTART;TZID="GMT 标准时间":20241218T230000
-DTEND;TZID="GMT 标准时间":20241219T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20241219T083500
 DTEND;TZID="GMT 标准时间":20241219T091500
 CLASS:PUBLIC
@@ -120,6 +22,53 @@ DTEND;TZID="GMT 标准时间":20241219T170000
 CLASS:PUBLIC
 DESCRIPTION: 
 LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:锦湖510P原材料进货检验标准制定讨论
+DTSTART;TZID="GMT 标准时间":20241219T090000
+DTEND;TZID="GMT 标准时间":20241219T100000
+CLASS:PUBLIC
+DESCRIPTION:Hi All\,\n\n \n\n鉴于切换成510P后连续多个批次拉
+ 伸样出现大量亮点的情况，我们一起讨论下在前端进料
+ 检验的控制手段。麻烦转发给相应的负责人，谢谢！\n\n_
+ __________________________________________________________________________
+ _____\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeet
+ ing?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/mee
+ tup-join/19%3ameeting_YTc3OGQ3OWMtOWI0OS00MmRjLWFjMjEtZTZmMGY1MDVlOThh%40t
+ hread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%
+ 22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0%22%7d>  \n\n会
+ 议 ID: 390 179 821 698 \n\n密码: xd9sB6Q7 \n\n_________________________
+ _______\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meet
+ ingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63a0&tenantId=8d4b
+ 558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTc3OGQ3OWMtOWI0OS00M
+ mRjLWFjMjEtZTZmMGY1MDVlOThh@thread.v2&messageId=0&language=zh-CN>  \n\n隐
+ 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI Hilight
+DTSTART;TZID="GMT 标准时间":20241219T103000
+DTEND;TZID="GMT 标准时间":20241219T113000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams Need help? <https://aka.ms/Join
+ TeamsMeeting?omkt=zh-CN>  \n\nJoin the meeting now <https://teams.microsof
+ t.com/l/meetup-join/19%3ameeting_NDg4MGI2NDktMmZhMS00YjYwLTk2YTItNGM3Yzk1N
+ mExMTU0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a%22%2c%22Oid%22%3a%220a951e7f-d2e8-41b2-af3e-09d6b8622148%22%7d>
+   \n\nMeeting ID: 355 504 262 57 \n\nPasscode: Dz7gy2w6 \n\n______________
+ __________________\n\nFor organizers: Meeting options <https://teams.micro
+ soft.com/meetingOptions/?organizerId=0a951e7f-d2e8-41b2-af3e-09d6b8622148&
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDg4MGI2
+ NDktMmZhMS00YjYwLTk2YTItNGM3Yzk1NmExMTU0@thread.v2&messageId=0&language=zh
+ -CN>  \n\nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:经理办公室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -147,31 +96,6 @@ DESCRIPTION:Hello all\,\n\n \n\n向您推出内训之产品知识基础了
  -832a-1d684ab9ad7e>  \n\n_________________________________________________
  _______________________________\n\n \n
 LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:锦湖510P原材料进货检验标准制定讨论
-DTSTART;TZID="GMT 标准时间":20241219T140000
-DTEND;TZID="GMT 标准时间":20241219T150000
-CLASS:PUBLIC
-DESCRIPTION:Hi All\,\n\n \n\n鉴于切换成510P后连续多个批次拉
- 伸样出现大量亮点的情况，我们一起讨论下在前端进料
- 检验的控制手段。麻烦转发给相应的负责人，谢谢！\n\n_
- __________________________________________________________________________
- _____\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeet
- ing?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/mee
- tup-join/19%3ameeting_YTc3OGQ3OWMtOWI0OS00MmRjLWFjMjEtZTZmMGY1MDVlOThh%40t
- hread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%
- 22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0%22%7d>  \n\n会
- 议 ID: 390 179 821 698 \n\n密码: xd9sB6Q7 \n\n_________________________
- _______\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meet
- ingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63a0&tenantId=8d4b
- 558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTc3OGQ3OWMtOWI0OS00M
- mRjLWFjMjEtZTZmMGY1MDVlOThh@thread.v2&messageId=0&language=zh-CN>  \n\n隐
- 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e>  \n\n_____________________________________________________
- ___________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
