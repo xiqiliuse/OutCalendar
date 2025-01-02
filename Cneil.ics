@@ -36,6 +36,28 @@ LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:压延辊现场维修进度回顾
+DTSTART;TZID="GMT 标准时间":20250102T150000
+DTEND;TZID="GMT 标准时间":20250102T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MWE3ZTNlYjYtN2JkZC00ODlmLTkwMzQtZj
+ I3NzU0YTY2MmEz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2287c6bfd1-200c-4095-a907-9bab8a2caed2
+ %22%7d>  \n\n会议 ID: 323 022 543 896 \n\n密码: Tz2Rv6fo \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=87c6bfd1-200c-4095-a907-9bab8a2cae
+ d2&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MWE3Z
+ TNlYjYtN2JkZC00ODlmLTkwMzQtZjI3NzU0YTY2MmEz@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250103T083500
 DTEND;TZID="GMT 标准时间":20250103T090500
@@ -154,28 +176,6 @@ DESCRIPTION:Dear all：\n\n \n\nUpdate project situation，thanks!\n\n \n\
  /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________
  _______________________________________________________\n\n \n
 LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:春节休假排班
-DTSTART;TZID="GMT 标准时间":20250103T160000
-DTEND;TZID="GMT 标准时间":20250103T163000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_MTViODdhYTktYmNhNS00Y2Q0LWE5MGYtY2
- NhZDBlMjE4ZDdi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a5713688c
- %22%7d>  \n\n会议 ID: 362 759 166 199 \n\n密码: aF9TG6MS \n\n_________
- _______________________\n\n对于组织者: 会议选项 <https://teams.mi
- crosoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-9d06-b06a571368
- 8c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTViO
- DdhYTktYmNhNS00Y2Q0LWE5MGYtY2NhZDBlMjE4ZDdi@thread.v2&messageId=0&language
- =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
- ___________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -335,6 +335,19 @@ DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
  m/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__________________________
  ______________________________________________________
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2024 BCZ Plant Town Hall Meeting
+DTSTART;TZID="GMT 标准时间":20250107T150000
+DTEND;TZID="GMT 标准时间":20250107T163000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n新年好！邀请您参加2024年度员工大
+ 会，请各部门负责人转告没有邮箱的同事，并提前安排
+ 好手头工作准时参加。\n\n您也可以提前扫码提交关心的
+ 问题，现场或者会后将给予给大家回复，谢谢！\n\n\n\n \n
+ \nBR\n\nLuna Yang\n
+LOCATION:TPO车间
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -657,6 +670,28 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
  ________________________________________________________________\n\n \n
 LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:春节休假排班
+DTSTART;TZID="GMT 标准时间":20250115T143000
+DTEND;TZID="GMT 标准时间":20250115T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MTViODdhYTktYmNhNS00Y2Q0LWE5MGYtY2
+ NhZDBlMjE4ZDdi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a5713688c
+ %22%7d>  \n\n会议 ID: 362 759 166 199 \n\n密码: aF9TG6MS \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-9d06-b06a571368
+ 8c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTViO
+ DdhYTktYmNhNS00Y2Q0LWE5MGYtY2NhZDBlMjE4ZDdi@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
