@@ -5,698 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250106T083500
-DTEND;TZID="GMT 标准时间":20250106T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 Project review 
-DTSTART;TZID="GMT 标准时间":20250106T130000
-DTEND;TZID="GMT 标准时间":20250106T140000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\nUpdate project situation，thanks!\n\n \n\
- nSophia   12/31\n\n \n\n \n\n_____________________________________________
- ___________________________________\n\nMicrosoft Teams 是否需要帮助?
-  <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <htt
- ps://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRlZWVkYjctZTNlMS00YT
- czLTk2MzgtODhlYjk1MGFmYTE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558
- f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-
- 0d07ade1664a%22%7d>  \n\n会议 ID: 386 240 733 551 \n\n密码: sM3ve6hp \
- n\n________________________________\n\n对于组织者: 会议选项 <http
- s://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88b
- b-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
- eeting_NGRlZWVkYjctZTNlMS00YTczLTk2MzgtODhlYjk1MGFmYTE2@thread.v2&messageI
- d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________
- _______________________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: ContiGPT Weekly Meeting
-DTSTART;TZID="GMT 标准时间":20250106T213000
-DTEND;TZID="GMT 标准时间":20250106T220000
-CLASS:PUBLIC
-DESCRIPTION:Hi everyone\,\n\nWe’re canceling Monday’s session as no pr
- esentation is currently scheduled.\n\nThank you for understanding!\n\nBest
-  regards\,\n\n\nCatarina Rodrigues\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: ContiGPT Weekly Meeting
-DTSTART;TZID="GMT 标准时间":20250106T213000
-DTEND;TZID="GMT 标准时间":20250106T220000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: ContiGPT Regular Meeting
-DTSTART;TZID="GMT 标准时间":20250106T213000
-DTEND;TZID="GMT 标准时间":20250106T220000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250107T083500
-DTEND;TZID="GMT 标准时间":20250107T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒生产每周回顾会
-DTSTART;TZID="GMT 标准时间":20250107T103000
-DTEND;TZID="GMT 标准时间":20250107T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Task froce of EPDM
-DTSTART;TZID="GMT 标准时间":20250107T110000
-DTEND;TZID="GMT 标准时间":20250107T113000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\n关于POLESTAR和POLESTAR CN项目，项目组
- 当时的输入不准确，我们需要进一步讨论下后续这个项
- 目怎么切换，提前谢谢大家的参与！\n\n\n\n \n\n \n\nMicrosof
- t Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  
- \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3amee
- ting_YWU2OTBmODMtNzkzYi00NzMzLWFiN2EtNDc1NDc5Yjc3YjFk%40thread.v2/0?contex
- t=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a
- %225095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 311 158 256
-  358 \n\n密码: hUpTqU \n\n________________________________\n发件人: Z
- hou\, Yunyun \n发送时间: 2025年1月3日 14:15\n收件人: Cai\, Xingx
- ing <xingxing.cai@benecke-changshun.com.cn>\; Chen\, Yinkai02 <yinkai.2.ch
- en@benecke-changshun.com.cn>\n抄送: Sun\, Dimin <dimin.sun@benecke-chang
- shun.com.cn>\; Huang\, Haitao02 <haitao.2.huang@benecke-changshun.com.cn>\
- n主题: 回复: Task froce of EPDM\n\n \n\n@Chen\, Yinkai02 <mailto:yinka
- i.2.chen@benecke-changshun.com.cn> \n\n \n\n如下清单是预测拉出来
- 的还在使用DOW EPDM的料号，帮忙看下是这些都没有需求了
- 还是没有进行系统切换吗？我在整理信息要给老袁汇报
- 进展呢，赶紧确认下，谢谢！\n\n \n\nMaterial\n\nComponent\n\nQ
- uantity\n\nBase Unit\n\nTotal FC 2025\n\nMATLIST\n\nModel\n\nApplication\n
- \nEOP date\n\nZ2100143Y0810A\n\nXR67007\n\n15.654\n\nKG\n\n1370.88\n\nVOLV
- O CN\n\nXC60SPAChi/K426(2018\n\nupper side panel\n\n2029/12/31\n\nZ2100174
- Y0810A\n\nXR67007\n\n16.415\n\nKG\n\n3719.31\n\nPOLESTAR CN\n\nP319\,E-Veh
- icle(2019)\n\ndoor panel\n\n2026/4/1\n\nZ2100215Y0535A0920\n\nXR67007\n\n1
- 0.020\n\nKG\n\n0.00\n\nPOLESTAR CN\n\nP519 (2022)\n\nconsole lid\n\n2028/1
- 2/31\n\nZ2100220Y1200A\n\nXR67007\n\n20.139\n\nKG\n\n8658.02\n\nPOLESTAR C
- N\n\nP417 (2024)\n\ndoor panel\n\n2029/12/31\n\nZ2100221Y1200A\n\nXR67007\
- n\n24.443\n\nKG\n\n2891.77\n\nPOLESTAR CN\n\nP417 (2024)\n\ndoor panel\n\n
- 2029/12/31\n\nZ2100222Y1200A\n\nXR67007\n\n24.115\n\nKG\n\n3288.32\n\nPOLE
- STAR CN\n\nP417 (2024)\n\ndoor panel\n\n2029/12/31\n\nZ2100224Y0590A\n\nXR
- 67007\n\n11.605\n\nKG\n\n1950.18\n\nPOLESTAR CN\n\nP417 (2024)\n\nB-pillar
- \n\n2029/12/31\n\nZ2100228Y0830A\n\nXR67007\n\n14.628\n\nKG\n\n1904.08\n\n
- POLESTAR CN\n\nP519 (2022)\n\ndoor panel\n\n2028/12/31\n\nZ2100229Y0590A\n
- \nXR67007\n\n11.518\n\nKG\n\n656.60\n\nPOLESTAR CN\n\nP417 (2024)\n\ninstr
- ument panel\n\n2029/12/31\n\nZ2100230Y0590A\n\nXR67007\n\n11.675\n\nKG\n\n
- 573.13\n\nPOLESTAR CN\n\nP417 (2024)\n\ninstrument panel\n\n2029/12/31\n\n
- Z2100231Y0840A\n\nXR67007\n\n16.557\n\nKG\n\n100.72\n\nPOLESTAR CN\n\nP417
-  (2024)\n\ninstrument panel\n\n2029/12/31\n\nZ2100232Y0840A\n\nXR67007\n\n
- 16.782\n\nKG\n\n213.77\n\nPOLESTAR CN\n\nP417 (2024)\n\ninstrument panel\n
- \n2029/12/31\n\nZ2100233Y0840A\n\nXR67007\n\n16.768\n\nKG\n\n968.35\n\nPOL
- ESTAR CN\n\nP417 (2024)\n\ninstrument panel\n\n2029/12/31\n\nZ2100245W0750
- A\n\nXR67007\n\n11.705\n\nKG\n\n3509.63\n\nLynk&Co\n\nBX11 (2019)\n\ndoor 
- panel\n\n2029/12/31\n\nZT400241Y0560A\n\nXR67007\n\n10.372\n\nKG\n\n1761.3
- 0\n\nPOLESTAR CN\n\nP519(US)/Poles3(2023\n\nconsole\n\n2029/12/31\n\nZT460
- 322Y0840A\n\nXR67007\n\n16.691\n\nKG\n\n322.22\n\nVOLVO\n\nXC90 (SPA2) / V
- 536\n\ndisplay lid\n\n2028/12/31\n\nZT460323Y0840A\n\nXR67007\n\n16.467\n\
- nKG\n\n317.90\n\nVOLVO\n\nXC90 (SPA2) / V536\n\ndisplay lid\n\n2028/12/31\
- n\nZT460329Y1045A\n\nXR67007\n\n18.239\n\nKG\n\n3490.71\n\nVOLVO\n\nXC90 (
- SPA2) / V536\n\ndoor panel\n\n2028/12/31\n\nZT460330Y1045A\n\nXR67007\n\n2
- 1.450\n\nKG\n\n1026.32\n\nVOLVO\n\nXC90 (SPA2) / V536\n\ndoor panel\n\n202
- 8/12/31\n\nZT460331Y1045A\n\nXR67007\n\n21.340\n\nKG\n\n1021.06\n\nVOLVO\n
- \nXC90 (SPA2) / V536\n\ntop roll\n\n2028/12/31\n\nZT460375Y1160A\n\nXR6700
- 7\n\n24.113\n\nKG\n\n4941.87\n\nPOLESTAR CN\n\nP519 (2022)\n\ndoor panel\n
- \n2029/12/31\n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \n\n周
- 云云/Joy Zhou\n\nRegional Category Buyer – Polymers & Softeners \n\nPu
- rchasing\n\nContiTech\n\n \n\nBesucheradresse / Visitor address:\n\nBeneck
- e Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车
- 内饰材料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansh
- a\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省
- 张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +86 189 511
- 3 6280\n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:yunyun.zhou
- @benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http
- ://www.continental-industry.com/> \n\n \n\nDear Suppliers\, please read th
- e following documents and comply with ContiTech requirements: Continental 
- Suppliers Portal <https://www.continental.com/en/company/suppliers/supplie
- r-information/>  \n\n \n\n发件人: Zhou\, Yunyun \n发送时间: 2024年
- 12月12日 11:16\n收件人: Cai\, Xingxing <xingxing.cai@benecke-changshu
- n.com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Chen\, Yinkai0
- 2 <yinkai.2.chen@benecke-changshun.com.cn <mailto:yinkai.2.chen@benecke-ch
- angshun.com.cn> >\n抄送: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshu
- n.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Tian\, Richar
- d <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-changshun.
- com.cn> >\; Wang\, Xu <Xu.Wang@benecke-changshun.com.cn <mailto:Xu.Wang@be
- necke-changshun.com.cn> >\; Tao\, Xiebin <xiebin.tao@benecke-changshun.com
- .cn <mailto:xiebin.tao@benecke-changshun.com.cn> >\; Ge\, Jianfen <jianfen
- .ge@benecke-changshun.com.cn <mailto:jianfen.ge@benecke-changshun.com.cn> 
- >\; Huang\, Yuyang <yuyang.huang@benecke-changshun.com.cn <mailto:yuyang.h
- uang@benecke-changshun.com.cn> >\; Jin\, Lei <lei.jin@benecke-changshun.co
- m.cn <mailto:lei.jin@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.ho
- u@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\
- ; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@beneck
- e-changshun.com.cn> >\; Jiang\, Nan02 <nan02.jiang@benecke-changshun.com.c
- n <mailto:nan02.jiang@benecke-changshun.com.cn> >\; Zhang\, Weiyi <weiyi.z
- hang@benecke-changshun.com.cn <mailto:weiyi.zhang@benecke-changshun.com.cn
- > >\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn <mailto:jinkai.xu@be
- necke-changshun.com.cn> >\; Liu\, Jiawen02 <jiawen.2.liu@benecke-changshun
- .com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\; Lu\, Zhichao02 
- <zhichao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changs
- hun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sh
- eng.pan@benecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@ben
- ecke-changshun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\;
-  Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Che
- n@benecke-changshun.com.cn> >\n主题: 回复: Task froce of EPDM\n\n \n\n
- @Cai\, Xingxing <mailto:xingxing.cai@benecke-changshun.com.cn>  @Chen\, Yi
- nkai02 <mailto:yinkai.2.chen@benecke-changshun.com.cn>   \n\n有什么更
- 新吗？谢谢！\n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \n
- \n周云云/Joy Zhou\n\nRegional Category Buyer – Polymers & Softeners \
- n\nPurchasing\n\nContiTech\n\n \n\nBesucheradresse / Visitor address:\n\nB
- enecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽
- 车内饰材料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Na
- nsha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏
- 省张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +86 189 
- 5113 6280\n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:yunyun.z
- hou@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <h
- ttp://www.continental-industry.com/> \n\n \n\nDear Suppliers\, please read
-  the following documents and comply with ContiTech requirements: Continent
- al Suppliers Portal <https://www.continental.com/en/company/suppliers/supp
- lier-information/>  \n\n \n\n发件人: Zhou\, Yunyun \n发送时间: 2024
- 年12月6日 16:59\n收件人: Cai\, Xingxing <xingxing.cai@benecke-changs
- hun.com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Chen\, Yinka
- i02 <yinkai.2.chen@benecke-changshun.com.cn <mailto:yinkai.2.chen@benecke-
- changshun.com.cn> >\n抄送: Li\, Xiaodong03 <xiaodong.3.li@benecke-changs
- hun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Tian\, Rich
- ard <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-changshu
- n.com.cn> >\; Wang\, Xu <Xu.Wang@benecke-changshun.com.cn <mailto:Xu.Wang@
- benecke-changshun.com.cn> >\; Tao\, Xiebin <xiebin.tao@benecke-changshun.c
- om.cn <mailto:xiebin.tao@benecke-changshun.com.cn> >\; Ge\, Jianfen <jianf
- en.ge@benecke-changshun.com.cn <mailto:jianfen.ge@benecke-changshun.com.cn
- > >\; Huang\, Yuyang <yuyang.huang@benecke-changshun.com.cn <mailto:yuyang
- .huang@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-
- changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Jin\, 
- Lei <lei.jin@benecke-changshun.com.cn <mailto:lei.jin@benecke-changshun.co
- m.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen
- .hou@benecke-changshun.com.cn> >\; Sun\, Dimin <dimin.sun@benecke-changshu
- n.com.cn <mailto:dimin.sun@benecke-changshun.com.cn> >\; Jiang\, Nan02 <na
- n02.jiang@benecke-changshun.com.cn <mailto:nan02.jiang@benecke-changshun.c
- om.cn> >\; Zhang\, Weiyi <weiyi.zhang@benecke-changshun.com.cn <mailto:wei
- yi.zhang@benecke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-chan
- gshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> >\; Liu\, Jiawen0
- 2 <jiawen.2.liu@benecke-changshun.com.cn <mailto:jiawen.2.liu@benecke-chan
- gshun.com.cn> >\; Lu\, Zhichao02 <zhichao.2.lu@benecke-changshun.com.cn <m
- ailto:zhichao.2.lu@benecke-changshun.com.cn> >\; Pan\, Sheng <sheng.pan@be
- necke-changshun.com.cn <mailto:sheng.pan@benecke-changshun.com.cn> >\; Hua
- ng\, Haitao02 <haitao.2.huang@benecke-changshun.com.cn <mailto:haitao.2.hu
- ang@benecke-changshun.com.cn> >\n主题: 回复: Task froce of EPDM\n\n \n
- \n@Chen\, Yinkai02 <mailto:yinkai.2.chen@benecke-changshun.com.cn> @Cai\, 
- Xingxing <mailto:xingxing.cai@benecke-changshun.com.cn> \n\n \n\n从如下
- 排单情况看，你们的TASK FORCE还没有完成，帮忙更新进展
- ，谢谢！\n\n \n\n\n\n \n\n行标签\n\n负责人\n\n结论及行动\n\
- n最新进展\n\nBBAC\n\n潘胜\n\n给出详细计划，目标一个月的
- 时间完成花纹保持度改善\n\n样品本周已经送客户应用加
- 工验证，等待客户端应用加工反馈   20241205\n\nCHRYSLER\n\n
- 周云云/陈寅凯\n\nJOY两天内申请CMT\, 同时，项目组拉一个
- 单子和海绵改善一起带去泰国客户\n\nDONE\n\nCITROEN\n\n陈寅
- 凯/周云云\n\nC84ML 确认是否是出口？是，做客户应用加工
- ，不是，常规配方，可以直接切换，走CMT\n\nCMT批准中   2
- 0241210\n\nDPCA\n\n陈寅凯/周云云\n\n参考上一条\n\nCMT批准中 
-   20241210\n\nLynk&Co\n\n潘胜\n\n项目料号Z2100245W0750A，评估直
- 接切换\n\nDONE\n\nPOLESTAR\n\n陈寅凯/孙棣民\n\n使用510P生产
- 的产品获客户认可，项目组看下以前对应料号且重新释
- 放，直接替代\n\n等待项目组提供对应料号   20241125\n\nPOLE
- STAR CN\n\n陈寅凯/孙棣民\n\n使用510P生产的产品获客户认可
- ，项目组看下以前对应料号且重新释放，直接替代\n\n等
- 待项目组提供对应料号   20241125\n\nVOLVO\n\n孙棣民/李晓东\
- n\n挤出二结果很好，PPI分享测试数据给质量，今天切掉
- ，挤出二生产\n\nDONE\n\nVOLVO CN\n\n孙棣民/李晓东\n\n挤出二
- 结果很好，PPI分享测试数据给质量，今天切掉，挤出二
- 生产\n\nDONE\n\n \n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \
- n\n周云云/Joy Zhou\n\nRegional Category Buyer – Polymers & Softeners 
- \n\nPurchasing\n\nContiTech\n\n \n\nBesucheradresse / Visitor address:\n\n
- Benecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺
- 汽车内饰材料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\
- ,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江
- 苏省张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +86 1
- 89 5113 6280\n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:yunyu
- n.zhou@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com
-  <http://www.continental-industry.com/> \n\n \n\nDear Suppliers\, please r
- ead the following documents and comply with ContiTech requirements: Contin
- ental Suppliers Portal <https://www.continental.com/en/company/suppliers/s
- upplier-information/>  \n\n \n\n发件人: Zhou\, Yunyun \n发送时间: 2
- 024年11月22日 14:47\n收件人: Tian\, Richard <ming.tian@benecke-chang
- shun.com.cn <mailto:ming.tian@benecke-changshun.com.cn> >\; Wang\, Xu <Xu.
- Wang@benecke-changshun.com.cn <mailto:Xu.Wang@benecke-changshun.com.cn> >\
- ; Tao\, Xiebin <xiebin.tao@benecke-changshun.com.cn <mailto:xiebin.tao@ben
- ecke-changshun.com.cn> >\; Ge\, Jianfen <jianfen.ge@benecke-changshun.com.
- cn <mailto:jianfen.ge@benecke-changshun.com.cn> >\; Huang\, Yuyang <yuyang
- .huang@benecke-changshun.com.cn <mailto:yuyang.huang@benecke-changshun.com
- .cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hon
- gmei.Chen@benecke-changshun.com.cn> >\; Jin\, Lei <lei.jin@benecke-changsh
- un.com.cn <mailto:lei.jin@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuew
- en.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.c
- n> >\; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@b
- enecke-changshun.com.cn> >\; Jiang\, Nan02 <nan02.jiang@benecke-changshun.
- com.cn <mailto:nan02.jiang@benecke-changshun.com.cn> >\; Cai\, Xingxing <x
- ingxing.cai@benecke-changshun.com.cn <mailto:xingxing.cai@benecke-changshu
- n.com.cn> >\; Zhang\, Weiyi <weiyi.zhang@benecke-changshun.com.cn <mailto:
- weiyi.zhang@benecke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-c
- hangshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> >\; Liu\, Jiaw
- en02 <jiawen.2.liu@benecke-changshun.com.cn <mailto:jiawen.2.liu@benecke-c
- hangshun.com.cn> >\; Chen\, Yinkai02 <yinkai.2.chen@benecke-changshun.com.
- cn <mailto:yinkai.2.chen@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <zhi
- chao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshun.
- com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sheng.
- pan@benecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benecke
- -changshun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\n抄
- 送: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaod
- ong.3.li@benecke-changshun.com.cn> >\n主题: 回复: Task froce of EPDM\n
- \n \n\nDear All\n\n最新进展请查收，谢谢！\n\n行标签\n\n负
- 责人\n\n结论及行动\n\n最新进展\n\nBBAC\n\n潘胜\n\n给出详
- 细计划，目标一个月的时间完成花纹保持度改善\n\n样品
- 本周已经送客户应用加工验证，等待客户端应用加工反
- 馈   20241205\n\nCHRYSLER\n\n周云云/陈寅凯\n\nJOY两天内申请CMT
- \, 同时，项目组拉一个单子和海绵改善一起带去泰国客
- 户\n\nCMT审批中， 20241130\n\nCITROEN\n\n陈寅凯/周云云\n\nC84ML
-  确认是否是出口？是，做客户应用加工，不是，常规配
- 方，可以直接切换，走CMT\n\n项目组确认出口不需要验证
- ，准备CMT   20241210\n\nDPCA\n\n陈寅凯/周云云\n\n参考上一条\
- n\n项目组确认出口不需要验证，准备CMT   20241210\n\nLynk&Co\
- n\n潘胜\n\n项目料号Z2100245W0750A，评估直接切换\n\n潘盛评
- 估可直接切换，等待系统变更，20241126 \n\nPOLESTAR\n\n陈寅
- 凯/孙棣民\n\n使用510P生产的产品获客户认可，项目组看
- 下以前对应料号且重新释放，直接替代\n\n等待项目组提
- 供对应料号   20241125\n\nPOLESTAR CN\n\n陈寅凯/孙棣民\n\n使用
- 510P生产的产品获客户认可，项目组看下以前对应料号且
- 重新释放，直接替代\n\n等待项目组提供对应料号   2024112
- 5\n\nVOLVO\n\n孙棣民/李晓东\n\n挤出二结果很好，PPI分享测
- 试数据给质量，今天切掉，挤出二生产\n\nDONE\n\nVOLVO CN\n\
- n孙棣民/李晓东\n\n挤出二结果很好，PPI分享测试数据给
- 质量，今天切掉，挤出二生产\n\nDONE\n\n@Chen\, Yinkai02 <mailt
- o:yinkai.2.chen@benecke-changshun.com.cn> \n\n如下这项我们沟通上
- 周五前完成的，到目前还没有完成，麻烦11月25日务必完
- 成！\n\n行标签\n\n负责人\n\n结论及行动\n\n最新进展\n\nPOL
- ESTAR\n\n陈寅凯/孙棣民\n\n使用510P生产的产品获客户认可
- ，项目组看下以前对应料号且重新释放，直接替代\n\n等
- 待项目组提供对应料号\n\nPOLESTAR CN\n\n陈寅凯/孙棣民\n\n
- 使用510P生产的产品获客户认可，项目组看下以前对应料
- 号且重新释放，直接替代\n\n等待项目组提供对应料号\n\n
- @Cai\, Xingxing <mailto:xingxing.cai@benecke-changshun.com.cn> @Chen\, Yin
- kai02 <mailto:yinkai.2.chen@benecke-changshun.com.cn>   \n\n如下是最
- 新系统拉出来的仍然使用DOW EPDM的有预测的试制料号，麻
- 烦11月29日前麻烦完成评估切换，谢谢！\n\nMaterial\n\nCompon
- ent\n\nQuantity\n\nBase Unit\n\n2025 FCST\n\nMATLIST\n\nModel\n\nApplicati
- on\n\nEOP date\n\nZT400241Y0560A\n\nXR67007\n\n10.372\n\nKG\n\n1761.95\n\n
- VOLVO\n\nnot to use\n\nconsole\n\n2029/12/31\n\nZT460248Y0590A\n\nXR67007\
- n\n12.782\n\nKG\n\n867.44\n\nDPCA\n\nC84R\, C5 Aircross\n\nconsole\n\n2027
- /12/31\n\nZT460314Y0585A\n\nXR67007\n\n9.738\n\nKG\n\n2399.71\n\nVOLVO\n\n
- XC90 (SPA2) / V536\n\nbottom part\n\n2028/12/31\n\nZT460322Y0840A\n\nXR670
- 07\n\n16.691\n\nKG\n\n322.09\n\nVOLVO\n\nXC90 (SPA2) / V536\n\ndisplay lid
- \n\n2028/12/31\n\nZT460323Y0840A\n\nXR67007\n\n16.467\n\nKG\n\n317.76\n\nV
- OLVO\n\nXC90 (SPA2) / V536\n\ndisplay lid\n\n2028/12/31\n\nZT460329Y1045A\
- n\nXR67007\n\n18.239\n\nKG\n\n7264.52\n\nVOLVO\n\nXC90 (SPA2) / V536\n\ndo
- or panel\n\n2028/12/31\n\nZT460330Y1045A\n\nXR67007\n\n21.45\n\nKG\n\n1830
- .76\n\nVOLVO\n\nXC90 (SPA2) / V536\n\ndoor panel\n\n2028/12/31\n\nZT460331
- Y1045A\n\nXR67007\n\n21.34\n\nKG\n\n1821.32\n\nVOLVO\n\nXC90 (SPA2) / V536
- \n\ntop roll\n\n2028/12/31\n\nZT460332Y0880A\n\nXR67007\n\n17.276\n\nKG\n\
- n5086.8\n\nVOLVO CN\n\nS90G2China/K521(2024\n\nbottom part\n\n2028/12/31\n
- \nZT460333Y0710A\n\nXR67007\n\n12.057\n\nKG\n\n2514.31\n\nVOLVO CN\n\nS90G
- 2China/K521(2024\n\nbottom part\n\n2028/12/31\n\nZT460334Y0880A\n\nXR67007
- \n\n14.603\n\nKG\n\n1228.16\n\nVOLVO CN\n\nS90G2China/K521(2024\n\nbottom 
- part\n\n2028/12/31\n\nZT460337Y0880A\n\nXR67007\n\n14.692\n\nKG\n\n618.05\
- n\nVOLVO CN\n\nS90G2China/K521(2024\n\nbottom part\n\n2028/12/31\n\nZT4603
- 38Y0640A\n\nXR67007\n\n10.975\n\nKG\n\n1983.56\n\nVOLVO CN\n\nS90G2China/K
- 521(2024\n\nbottom part\n\n2028/12/31\n\nZT460339Y0520A\n\nXR67007\n\n10.3
- 06\n\nKG\n\n7335.48\n\nVOLVO CN\n\nS90G2China/K521(2024\n\nbottom part\n\n
- 2028/12/31\n\nZT460340Y0710A\n\nXR67007\n\n11.99\n\nKG\n\n625.17\n\nVOLVO 
- CN\n\nS90G2China/K521(2024\n\nbottom part\n\n2028/12/31\n\nZT460341Y0520A\
- n\nXR67007\n\n8.711\n\nKG\n\n1550.22\n\nVOLVO CN\n\nS90G2China/K521(2024\n
- \nbottom part\n\n2028/12/31\n\nZT460360Y0560A0920\n\nXR67007\n\n10.191\n\n
- KG\n\n593.4\n\nPOLESTAR\n\nP519 (2022)\n\nconsole\n\n2029/12/31\n\nZT46036
- 1Y0570A0780\n\nXR67007\n\n8.641\n\nKG\n\n583.1\n\nPOLESTAR\n\nP519 (2022)\
- n\nconsole\n\n2029/12/31\n\nZT460368Y0890A\n\nXR67007\n\n14.872\n\nKG\n\n0
- \n\nVOLVO\n\nnot to use\n\ndoor panel\n\n2029/12/31\n\nZT460375Y1160A\n\nX
- R67007\n\n24.113\n\nKG\n\n4941.73\n\nPOLESTAR CN\n\nP519 (2022)\n\ndoor pa
- nel\n\n2029/12/31\n\nZT460381Y1200A\n\nXR67007\n\n20.403\n\nKG\n\n11425.67
- \n\nVOLVO CN\n\nV446 / EV60 (2025)\n\ndoor panel\n\n2029/12/31\n\nZT460382
- Y1200A\n\nXR67007\n\n20.29\n\nKG\n\n2840.59\n\nVOLVO CN\n\nV446 / EV60 (20
- 25)\n\ndoor panel\n\n2029/12/31\n\nZT460384Y0880A\n\nXR67007\n\n17.621\n\n
- KG\n\n4805.73\n\nVOLVO CN\n\nV446 / EV60 (2025)\n\ninstrument panel\n\n202
- 9/12/31\n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \n\n周云云
- /Joy Zhou\n\nRegional Category Buyer – Polymers & Softeners \n\nPurchasi
- ng\n\nContiTech\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Chan
- gshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰
- 材料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Ji
- ngang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家
- 港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +86 189 5113 6280
- \n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:yunyun.zhou@benec
- ke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www
- .continental-industry.com/> \n\n \n\nDear Suppliers\, please read the foll
- owing documents and comply with ContiTech requirements: Continental Suppli
- ers Portal <https://www.continental.com/en/company/suppliers/supplier-info
- rmation/>  \n\n \n\n发件人: Tian\, Richard <ming.tian@benecke-changshun
- .com.cn <mailto:ming.tian@benecke-changshun.com.cn> > \n发送时间: 2024
- 年11月12日 8:44\n收件人: Zhou\, Yunyun <Yunyun.Zhou@benecke-changshu
- n.com.cn <mailto:Yunyun.Zhou@benecke-changshun.com.cn> >\; Wang\, Xu <Xu.W
- ang@benecke-changshun.com.cn <mailto:Xu.Wang@benecke-changshun.com.cn> >\;
-  Tao\, Xiebin <xiebin.tao@benecke-changshun.com.cn <mailto:xiebin.tao@bene
- cke-changshun.com.cn> >\; Ge\, Jianfen <jianfen.ge@benecke-changshun.com.c
- n <mailto:jianfen.ge@benecke-changshun.com.cn> >\; Huang\, Yuyang <yuyang.
- huang@benecke-changshun.com.cn <mailto:yuyang.huang@benecke-changshun.com.
- cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hong
- mei.Chen@benecke-changshun.com.cn> >\; Jin\, Lei <lei.jin@benecke-changshu
- n.com.cn <mailto:lei.jin@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewe
- n.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn
- > >\; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@be
- necke-changshun.com.cn> >\; Jiang\, Nan02 <nan02.jiang@benecke-changshun.c
- om.cn <mailto:nan02.jiang@benecke-changshun.com.cn> >\; Cai\, Xingxing <xi
- ngxing.cai@benecke-changshun.com.cn <mailto:xingxing.cai@benecke-changshun
- .com.cn> >\; Zhang\, Weiyi <weiyi.zhang@benecke-changshun.com.cn <mailto:w
- eiyi.zhang@benecke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-ch
- angshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> >\; Liu\, Jiawe
- n02 <jiawen.2.liu@benecke-changshun.com.cn <mailto:jiawen.2.liu@benecke-ch
- angshun.com.cn> >\; Chen\, Yinkai02 <yinkai.2.chen@benecke-changshun.com.c
- n <mailto:yinkai.2.chen@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <zhic
- hao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshun.c
- om.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sheng.p
- an@benecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benecke-
- changshun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\n抄
- 送: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaod
- ong.3.li@benecke-changshun.com.cn> >\n主题: 回复: Task froce of EPDM\n
- \n \n\n云云， \n\n \n\nThanks for your updating.\n\n \n\nFor all items 
- please put the deadline in it\, so that we can track easily.\n\n \n\n顺
- 颂商祺 / Best Regards\n\n                                \n\n \n\nRicha
- rd Tian/田 明\n\nHead of Plant Management SSL BCZ\n\n \n\nSurface Soluti
- ons\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto T
- rim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张
- 家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town
- \, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港
- 镇南沙江海南路108号 215632\n\n \n\nMobile: +86 18951136533\n\nE-ma
- il: ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-changshun
- .com.cn> \n\nWebsite: www.continental-industry.com <http://www.continental
- -industry.com/> \n\n \n\n\n\n                                             
-                                        \n\nProprietary and confidential. D
- istribution only by express authority of Continental AG or its subsidiarie
- s. \n\n \n\n \n\nInternal\n\n发件人: Zhou\, Yunyun <Yunyun.Zhou@benecke
- -changshun.com.cn <mailto:Yunyun.Zhou@benecke-changshun.com.cn> > \n发送
- 时间: 2024年11月11日 14:06\n收件人: Tian\, Richard <ming.tian@bene
- cke-changshun.com.cn <mailto:ming.tian@benecke-changshun.com.cn> >\; Wang\
- , Xu <Xu.Wang@benecke-changshun.com.cn <mailto:Xu.Wang@benecke-changshun.c
- om.cn> >\; Tao\, Xiebin <xiebin.tao@benecke-changshun.com.cn <mailto:xiebi
- n.tao@benecke-changshun.com.cn> >\; Ge\, Jianfen <jianfen.ge@benecke-chang
- shun.com.cn <mailto:jianfen.ge@benecke-changshun.com.cn> >\; Huang\, Yuyan
- g <yuyang.huang@benecke-changshun.com.cn <mailto:yuyang.huang@benecke-chan
- gshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <m
- ailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Jin\, Lei <lei.jin@beneck
- e-changshun.com.cn <mailto:lei.jin@benecke-changshun.com.cn> >\; Hou\, Xue
- wen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changs
- hun.com.cn> >\; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:di
- min.sun@benecke-changshun.com.cn> >\; Jiang\, Nan02 <nan02.jiang@benecke-c
- hangshun.com.cn <mailto:nan02.jiang@benecke-changshun.com.cn> >\; Cai\, Xi
- ngxing <xingxing.cai@benecke-changshun.com.cn <mailto:xingxing.cai@benecke
- -changshun.com.cn> >\; Zhang\, Weiyi <weiyi.zhang@benecke-changshun.com.cn
-  <mailto:weiyi.zhang@benecke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@
- benecke-changshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> >\; L
- iu\, Jiawen02 <jiawen.2.liu@benecke-changshun.com.cn <mailto:jiawen.2.liu@
- benecke-changshun.com.cn> >\; Chen\, Yinkai02 <yinkai.2.chen@benecke-chang
- shun.com.cn <mailto:yinkai.2.chen@benecke-changshun.com.cn> >\; Lu\, Zhich
- ao02 <zhichao.2.lu@benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-c
- hangshun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mail
- to:sheng.pan@benecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huan
- g@benecke-changshun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn
- > >\n抄送: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mail
- to:xiaodong.3.li@benecke-changshun.com.cn> >\n主题: 回复: Task froce o
- f EPDM\n\n \n\n田总，\n\n如下是最新的进展请查收，绿色部
- 分是已经取得的进展，未取得进展的也在和对应的同事
- 对接采取措施，请知悉，谢谢支持！\n\n \n\n行标签\n\n负
- 责人\n\n结论及行动\n\n最新进展\n\nBBAC\n\n潘胜\n\n给出详
- 细计划，目标一个月的时间完成花纹保持度改善\n\n使用5
- 10P，570P的产品已经挤出，本周发电子交联采取不同交联
- 量加工后送客户应用加工验证\n\nCHRYSLER\n\n周云云/陈寅凯
- \n\nJOY两天内申请CMT\, 同时，项目组拉一个单子和海绵改
- 善一起带去泰国客户\n\nCMT审批中\n\nCITROEN\n\n陈寅凯/周云
- 云\n\nC84ML 确认是否是出口？是，做客户应用加工，不是
- ，常规配方，可以直接切换，走CMT\n\n项目组确认出口，
- 需要拉试单跟踪客户应用加工\n\nDPCA\n\n陈寅凯/周云云\n\n
- 参考上一条\n\n同上\n\nLynk&Co\n\n潘胜\n\n项目料号Z2100245W075
- 0A，评估直接切换\n\n潘盛评估可直接切换，等待系统变
- 更，20241126 \n\nPOLESTAR\n\n陈寅凯/孙棣民\n\n使用510P生产的
- 产品获客户认可，项目组看下以前对应料号且重新释放
- ，直接替代\n\n等待项目组提供对应料号 20241125\n\nPOLESTAR 
- CN\n\n陈寅凯/孙棣民\n\n使用510P生产的产品获客户认可，
- 项目组看下以前对应料号且重新释放，直接替代\n\n等待
- 项目组提供对应料号 20241125\n\nVOLVO\n\n孙棣民/李晓东\n\n
- 挤出二结果很好，PPI分享测试数据给质量，今天切掉，
- 挤出二生产\n\nDONE\n\nVOLVO CN\n\n孙棣民/李晓东\n\n挤出二结
- 果很好，PPI分享测试数据给质量，今天切掉，挤出二生
- 产\n\nDONE\n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \n\n周
- 云云/Joy Zhou\n\nRegional Category Buyer – Polymers & Softeners \n\nPu
- rchasing\n\nContiTech\n\n \n\nBesucheradresse / Visitor address:\n\nBeneck
- e Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车
- 内饰材料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansh
- a\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省
- 张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +86 189 511
- 3 6280\n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:yunyun.zhou
- @benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http
- ://www.continental-industry.com/> \n\n \n\n \n\n \n\nInternal\n\n发件人
- : Tian\, Richard <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@ben
- ecke-changshun.com.cn> > \n发送时间: 2024年11月8日 16:56\n收件人
- : Zhou\, Yunyun <Yunyun.Zhou@benecke-changshun.com.cn <mailto:Yunyun.Zhou@
- benecke-changshun.com.cn> >\; Wang\, Xu <Xu.Wang@benecke-changshun.com.cn 
- <mailto:Xu.Wang@benecke-changshun.com.cn> >\; Tao\, Xiebin <xiebin.tao@ben
- ecke-changshun.com.cn <mailto:xiebin.tao@benecke-changshun.com.cn> >\; Ge\
- , Jianfen <jianfen.ge@benecke-changshun.com.cn <mailto:jianfen.ge@benecke-
- changshun.com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-changshun.com.c
- n <mailto:yuyang.huang@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongm
- ei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.co
- m.cn> >\; Jin\, Lei <lei.jin@benecke-changshun.com.cn <mailto:lei.jin@bene
- cke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.c
- n <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Dimin <dimin.sun@
- benecke-changshun.com.cn <mailto:dimin.sun@benecke-changshun.com.cn> >\; J
- iang\, Nan02 <nan02.jiang@benecke-changshun.com.cn <mailto:nan02.jiang@ben
- ecke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@benecke-changshun.
- com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Zhang\, Weiyi <w
- eiyi.zhang@benecke-changshun.com.cn <mailto:weiyi.zhang@benecke-changshun.
- com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn <mailto:jinkai
- .xu@benecke-changshun.com.cn> >\; Liu\, Jiawen02 <jiawen.2.liu@benecke-cha
- ngshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn> >\; Chen\, Yi
- nkai02 <yinkai.2.chen@benecke-changshun.com.cn <mailto:yinkai.2.chen@benec
- ke-changshun.com.cn> >\; Lu\, Zhichao02 <zhichao.2.lu@benecke-changshun.co
- m.cn <mailto:zhichao.2.lu@benecke-changshun.com.cn> >\; Pan\, Sheng <sheng
- .pan@benecke-changshun.com.cn <mailto:sheng.pan@benecke-changshun.com.cn> 
- >\; Huang\, Haitao02 <haitao.2.huang@benecke-changshun.com.cn <mailto:hait
- ao.2.huang@benecke-changshun.com.cn> >\n抄送: Li\, Xiaodong03 <xiaodong.
- 3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.
- cn> >\n主题: 回复: Task froce of EPDM\n\n \n\nYunyun \n\n \n\nPlease u
- pdate the actions process which mentioned in below email. Some actions sho
- uld be finished within this week.\n\nThanks \n\n顺颂商祺 / Best Regard
- s\n\n                                \n\n \n\nRichard Tian/田 明\n\nHead
-  of Plant Management SSL BCZ\n\n \n\nSurface Solutions\n\n \n\nBesucheradr
- esse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\
- , Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限公司\n\n
- No.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 
- Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙江海南路108
- 号 215632\n\n \n\nMobile: +86 18951136533\n\nE-mail: ming.tian@benecke-ch
- angshun.com.cn <mailto:ming.tian@benecke-changshun.com.cn> \n\nWebsite: ww
- w.continental-industry.com <http://www.continental-industry.com/> \n\n \n\
- n\n\n                                                                     
-                \n\nProprietary and confidential. Distribution only by expr
- ess authority of Continental AG or its subsidiaries. \n\n \n\n \n\nInterna
- l\n\n发件人: Zhou\, Yunyun <Yunyun.Zhou@benecke-changshun.com.cn <mailt
- o:Yunyun.Zhou@benecke-changshun.com.cn> > \n发送时间: 2024年11月5日
-  12:47\n收件人: Tian\, Richard <ming.tian@benecke-changshun.com.cn <mai
- lto:ming.tian@benecke-changshun.com.cn> >\; Wang\, Xu <Xu.Wang@benecke-cha
- ngshun.com.cn <mailto:Xu.Wang@benecke-changshun.com.cn> >\; Tao\, Xiebin <
- xiebin.tao@benecke-changshun.com.cn <mailto:xiebin.tao@benecke-changshun.c
- om.cn> >\; Ge\, Jianfen <jianfen.ge@benecke-changshun.com.cn <mailto:jianf
- en.ge@benecke-changshun.com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-c
- hangshun.com.cn <mailto:yuyang.huang@benecke-changshun.com.cn> >\; Chen\, 
- Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@beneck
- e-changshun.com.cn> >\; Jin\, Lei <lei.jin@benecke-changshun.com.cn <mailt
- o:lei.jin@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-c
- hangshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Dim
- in <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@benecke-changshun
- .com.cn> >\; Jiang\, Nan02 <nan02.jiang@benecke-changshun.com.cn <mailto:n
- an02.jiang@benecke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@bene
- cke-changshun.com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Zh
- ang\, Weiyi <weiyi.zhang@benecke-changshun.com.cn <mailto:weiyi.zhang@bene
- cke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn 
- <mailto:jinkai.xu@benecke-changshun.com.cn> >\; Liu\, Jiawen02 <jiawen.2.l
- iu@benecke-changshun.com.cn <mailto:jiawen.2.liu@benecke-changshun.com.cn>
-  >\; Chen\, Yinkai02 <yinkai.2.chen@benecke-changshun.com.cn <mailto:yinka
- i.2.chen@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <zhichao.2.lu@beneck
- e-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshun.com.cn> >\; Pan\
- , Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sheng.pan@benecke-chan
- gshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benecke-changshun.com.c
- n <mailto:haitao.2.huang@benecke-changshun.com.cn> >\n抄送: Li\, Xiaodon
- g03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-
- changshun.com.cn> >\n主题: 回复: Task froce of EPDM\n\n \n\nDear ALL\,
- \n\n感谢参与今天的讨论，我们高效形成如下会议结论，
- 如有需要更正和补充的请告知，谢谢！\n\n \n\n行标签\n\nB
- ackground\n\n负责人\n\n结论及行动\n\nBBAC\n\n全性能过了，但
- 是客户应用加工失败，花纹保持性不满足要求\n\n潘胜\n\n
- 给出详细计划，目标一个月的时间完成花纹保持度改善\n
- \nCHRYSLER\n\n全性能过了，无应用加工数据\n\n周云云/陈寅
- 凯\n\nJOY两天内申请CMT\, 同步项目组拉单子和海绵改善一
- 起的成品发去泰国客户应用加工\n\nCITROEN\n\n　\n\n陈寅凯/
- 周云云\n\n今天确认C84ML是否是出口？是，做客户应用加
- 工，不是，常规配方，可以直接切换。JOY申请CMT\n\nDPCA\n\
- n　\n\n陈寅凯/周云云\n\n参考上一条\n\nLynk&Co\n\n同一项目
- 同一应用部位使用的两个不同EPDM，Z2100235W0750A使用的是51
- 0P\n\n潘胜\n\n项目料号Z2100245W0750A，本周完成是否直接切
- 换的评估\n\nPOLESTAR\n\n项目前期使用510P做过全性能及客户
- 应用加工，无问题\, 项目组拉了试单\n\n陈寅凯/孙棣民\n\
- n使用510P生产的产品获客户认可，项目组看下以前对应料
- 号且重新释放，直接替代，三天内完成\n\nPOLESTAR CN\n\n项
- 目前期使用510P做过全性能及客户应用加工，无问题，项
- 目组拉了试单\n\n陈寅凯/孙棣民\n\n使用510P生产的产品获
- 客户认可，项目组看下以前对应料号且重新释放，直接
- 替代，三天内完成\n\nVOLVO\n\n验证切换过的项目，因为拉
- 伸强度问题切回4820P\n\n孙棣民/李晓东\n\n挤出二结果很好
- ，PPI分享测试数据给质量，今天切掉，挤出二生产\n\nVOLV
- O CN\n\n验证切换过的项目，因为拉伸强度问题切回4820P\n\n
- 孙棣民/李晓东\n\n挤出二结果很好，PPI分享测试数据给质
- 量，今天切掉，挤出二生产\n\n \n\n对于新项目，梳理既
- 有仍然使用DOW 4820P的项目清单，评估切换措施；同时，
- 后续新项目停止使用DOW 4820P，如性能需要，考量特殊审
- 批流程的建立------------------潘胜\n\nVOLVO未量产项目，评
- 估产品结构，立即开启使用510P认可流程----------------------
- --------------------------------------------------------------------------
- -蔡星星/陈寅凯\n\n \n\n我们后面就按照这个大方向去安排
- 工作，谢谢大家！\n\n \n\nMit freundlichen Grüßen / Best Regards\
- n\n \n\n周云云/Joy Zhou\n\nRegional Category Buyer – Polymers & Softe
- ners \n\nPurchasing\n\nContiTech\n\n \n\nBesucheradresse / Visitor address
- :\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长
- 顺汽车内饰材料（张家港）有限公司\n\nNo.1\,Jianghai South R
- d.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n
- 江苏省张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobil: +8
- 6 189 5113 6280\n\nE-Mail: yunyun.zhou@benecke-changshun.com.cn <mailto:yu
- nyun.zhou@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.
- com <http://www.continental-industry.com/> \n\n \n\n \n\n \n\nInternal\n\n
- -----原始约会-----\n发件人: Zhou\, Yunyun \n发送时间: 2024年11
- 月1日 15:21\n收件人: Zhou\, Yunyun\; Tian\, Richard\; Wang\, Xu\; Tao
- \, Xiebin\; Ge\, Jianfen\; Huang\, Yuyang\; Chen\, Hongmei\; Jin\, Lei\; H
- ou\, Xuewen\; Sun\, Dimin\; Jiang\, Nan02\; Cai\, Xingxing\; Zhang\, Weiyi
- \; Xu\, Jinkai\; Liu\, Jiawen02\; Chen\, Yinkai02\; Lu\, Zhichao02\; Pan\,
-  Sheng\; Huang\, Haitao02\n抄送: Li\, Xiaodong03\n主题: Task froce of 
- EPDM\n时间: 2024年11月5日星期二 11:00-12:00(UTC+08:00) 北京，
- 重庆，香港特别行政区，乌鲁木齐。\n地点: TE_ZG_MR_CBC222_
- Zhangjiagang\n\n \n\nDear All\,\n\n关于EPDM的问题，作为一个TASK 
- FORCE项目，我们一起讨论下，谢谢！\n\n_______________________
- _________________________________________________________\n\nMicrosoft Tea
- ms 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
- 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
- _YWU2OTBmODMtNzkzYi00NzMzLWFiN2EtNDc1NDc5Yjc3YjFk%40thread.v2/0?context=%7
- b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225
- 095be13-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 311 158 256 358
-  \n\n密码: hUpTqU \n\n________________________________\n\n对于组织
- 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
- =5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
- d79e6265a&threadId=19_meeting_YWU2OTBmODMtNzkzYi00NzMzLWFiN2EtNDc1NDc5Yjc3
- YjFk@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
- ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
- __________________________________________________________________________
- ____\n\n \n
-LOCATION:TE_ZG_MR_CBC223_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hylite + Cut&Sew产品报废率改善
-DTSTART;TZID="GMT 标准时间":20250107T130000
-DTEND;TZID="GMT 标准时间":20250107T140000
-CLASS:PUBLIC
-DESCRIPTION:Hello all\,\n\n目前Hylite 和Cut&Sew 产品报废率较高
- ，工厂准备对此问题进行改善，因此邀请大家先开一个ki
- ck off。\n\n以下是目前两个产品遇到的一些问题：\n\nHylite
- ：\n\n1.	挤出调机料长（500-800m）\,无法回收\n2.	挤出收卷
- 打皱，导致印刷异常\n3.	印刷放卷粘皮导致报废\n4.	压花
- 花纹偏浅\n5.	压花2收卷打皱\n6.	Hylite切割放卷粘皮\n7.	Hyli
- te切割收卷打皱   \n8.	Hylite裁片粘皮（委外）    9-36%\n\nCut
- &Sew:\n\n1.	挤出调机料长（400-600m）\,无法回收\n2.	挤出收
- 卷打皱，导致印刷异常\n3.	印刷放卷粘皮导致报废\n4.	压
- 花花纹偏浅\n5.	压花2收卷打皱\n6.	压花Cut&Sew粘结力差   \n
- 7.	压花布纹\n\n \n\n \n\n \n\n \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
-DTSTART;TZID="GMT 标准时间":20250107T130000
-DTEND;TZID="GMT 标准时间":20250107T140000
-CLASS:PUBLIC
-DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
- eview一下该产品的生产异常。\n\n________________________________
- ________________________________________________\n\nMicrosoft Teams 是否
- 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
- 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWU3ODE0
- MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-1
- 2d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 317 713 593 220 \n\n密
- 码: xBZybo \n\n________________________________\n\n对于组织者: 会
- 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf3641
- 6-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_meeting_YWU3ODE0MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh@thr
- ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
- dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
- ______________________________________________________________________\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2024 BCZ Plant Town Hall Meeting
-DTSTART;TZID="GMT 标准时间":20250107T150000
-DTEND;TZID="GMT 标准时间":20250107T163000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n新年好！邀请您参加2024年度员工大
- 会，请各部门负责人转告没有邮箱的同事，并提前安排
- 好手头工作准时参加。\n\n您也可以提前扫码提交关心的
- 问题，现场或者会后将给予给大家回复，谢谢！\n\n\n\n \n
- \nBR\n\nLuna Yang\n
-LOCATION:TPO车间
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250108T083500
 DTEND;TZID="GMT 标准时间":20250108T090500
 CLASS:PUBLIC
@@ -716,6 +24,15 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
  ________________________________________________________________\n\n \n
 LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPRINT Review 2024
+DTSTART;TZID="GMT 标准时间":20250108T121500
+DTEND;TZID="GMT 标准时间":20250108T130000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -740,15 +57,6 @@ DESCRIPTION: \n\n_________________________________________________________
  01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
  _______________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPRINT Review 2024
-DTSTART;TZID="GMT 标准时间":20250108T150000
-DTEND;TZID="GMT 标准时间":20250108T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1096,6 +404,15 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
  ________________________________________________________________\n\n \n
 LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:富士压力测量胶片来司介绍
+DTSTART;TZID="GMT 标准时间":20250116T130000
+DTEND;TZID="GMT 标准时间":20250116T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:PPI office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -1979,6 +1296,52 @@ DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
  dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
  ______________________________________________________________________\n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250205T083500
+DTEND;TZID="GMT 标准时间":20250205T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250206T083500
+DTEND;TZID="GMT 标准时间":20250206T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
