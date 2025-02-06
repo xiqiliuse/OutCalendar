@@ -129,6 +129,28 @@ LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PVC 压花电子记录表
+DTSTART;TZID="GMT 标准时间":20250207T103000
+DTEND;TZID="GMT 标准时间":20250207T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MjI3OGMwOTktMTZjMC00YTRlLTk2NWMtOD
+ AzM2RkOTMwMGIy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2271c8da4a-7574-4c4b-ae56-e223ecf8f3c7
+ %22%7d>  \n\n会议 ID: 390 091 446 917 \n\n密码: MU3jA6od \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=71c8da4a-7574-4c4b-ae56-e223ecf8f3
+ c7&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MjI3O
+ GMwOTktMTZjMC00YTRlLTk2NWMtODAzM2RkOTMwMGIy@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Customer project review
 DTSTART;TZID="GMT 标准时间":20250207T150000
 DTEND;TZID="GMT 标准时间":20250207T160000
@@ -181,6 +203,29 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
  ________________________________________________________________\n\n \n
 LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIM可计算收益review-通过软件仿真模拟降低试单试
+ 制的费用
+DTSTART;TZID="GMT 标准时间":20250210T093000
+DTEND;TZID="GMT 标准时间":20250210T100000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MjFiMTQyMGYtOThlOS00NzQ3LTgyNWQtNT
+ k3NDRmNjNlNGJl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223fe2fb72-52ac-49a5-8f64-4394442a585d
+ %22%7d>  \n\n会议 ID: 398 380 543 627 \n\n密码: Fv9ja6rE \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=3fe2fb72-52ac-49a5-8f64-4394442a58
+ 5d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MjFiM
+ TQyMGYtOThlOS00NzQ3LTgyNWQtNTk3NDRmNjNlNGJl@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
