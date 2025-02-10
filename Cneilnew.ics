@@ -4,86 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:External repair Facility improvement project
-DTSTART;TZID="GMT 标准时间":20250208T100000
-DTEND;TZID="GMT 标准时间":20250208T103000
-CLASS:PUBLIC
-DESCRIPTION:Saving 计算\n
-LOCATION:PPI office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:External repair Facility improvement project
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX1 确认挤出复合方案
-DTSTART;TZID="GMT 标准时间":20250208T103000
-DTEND;TZID="GMT 标准时间":20250208T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n针对TPO soft的产品，我们一起去
- 现场评估讨论一下方案，谢谢！\n\n \n\n \n\nSophia   2/7\n\n__
- __________________________________________________________________________
- ____\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeti
- ng?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meet
- up-join/19%3ameeting_N2MyZTQzNmItZjkwMi00ZDc5LTgxNjgtNGU1Y2M1MjBkZGRl%40th
- read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
- 2%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议
-  ID: 398 729 918 287 \n\n密码: iV2Sq9Bw \n\n____________________________
- ____\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meeting
- Options/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558
- f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_N2MyZTQzNmItZjkwMi00ZDc5
- LTgxNjgtNGU1Y2M1MjBkZGRl@thread.v2&messageId=0&language=zh-CN>  \n\n隐私
- 和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1
- d684ab9ad7e>  \n\n________________________________________________________
- ________________________\n\n \n
-LOCATION:现场集合
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX1 确认挤出复合方案
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 Customer project review
-DTSTART;TZID="GMT 标准时间":20250208T150000
-DTEND;TZID="GMT 标准时间":20250208T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
- ill update trial batch status。\n\n@Sun xiaoyong <mailto:xiaoyong.sun@ben
- ecke-changshun.com.cn> @郭巍 <mailto:wei.2.guo@benecke-changshun.com.cn>
-  \, 所有的试制记录，请及时更新。\n\n \n\n2.     Process Engi
- neer will update order deviation after G70.\n\n@Chen chenglong <mailto:che
- nglong.chen@benecke-changshun.com.cn> @Wang congyu <mailto:congyu.wang@ben
- ecke-changshun.com.cn> \n\n订单差异更新到KPI\, C:\\Users\\chenh11\\
- Continental AG\\PPI BCZ - General\\13 KPI\\2025\n\n \n\n3.     Color CV da
- ta updated.\n\n@王芬 <mailto:fen.wang@benecke-changshun.com.cn> @Chen ch
- englong <mailto:chenglong.chen@benecke-changshun.com.cn> \n\n \n\n \n\n谢
- 谢！\n\n \n\nSophia   12/31\n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams 是否需
- 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
- 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE3ZjU1ZTM
- tOGI4ZS00NWY4LTk5MjYtNDNlZTliMTE5MjY3%40thread.v2/0?context=%7b%22Tid%22%3
- a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da
- -4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 330 404 058 416 \n\n密码:
-  vZ7Ss2rG \n\n________________________________\n\n对于组织者: 会议
- 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a
- 5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
- hreadId=19_meeting_NWE3ZjU1ZTMtOGI4ZS00NWY4LTk5MjYtNDNlZTliMTE5MjY3@thread
- .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
- ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
- ___________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 Customer project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250210T083500
 DTEND;TZID="GMT 标准时间":20250210T090500
@@ -105,11 +25,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CIM可计算收益review-通过软件仿真模拟降低试单试
@@ -133,12 +48,6 @@ DESCRIPTION: \n\n_________________________________________________________
  ___________________________________________\n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:CIM可计算收益review-通过软件仿真模拟降低试单
- 试制的费用
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:T364配方挤出过程讨论
@@ -148,11 +57,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T364配方挤出过程讨论
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Training Call for New Talent Management Flow -Option 1
@@ -180,11 +84,6 @@ DESCRIPTION:Hello all\,\n\n \n\nTo book your time in advance for the opera
  ______________________________\n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Training Call for New Talent Management Flow -Option 1
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chrysler泰国零件何时能到公司
@@ -207,11 +106,6 @@ DESCRIPTION: \n\n_________________________________________________________
  ___________________________________________\n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Chrysler泰国零件何时能到公司
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
@@ -221,11 +115,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Regular Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Weekly Meeting
@@ -235,11 +124,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Weekly Meeting
@@ -250,11 +134,6 @@ DESCRIPTION:Session postponed to March 17th.  See you in the next session!
  \n\nKind regards\, \nCatarina Rodrigues
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -278,11 +157,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TPO L2 Weekly Review
@@ -292,11 +166,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:维修会议室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO L2 Weekly Review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:色母粒生产每周回顾会
@@ -306,11 +175,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:色母粒生产每周回顾会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:元宵节
@@ -320,11 +184,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:元宵节
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:元宵节
@@ -334,11 +193,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:元宵节
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -362,11 +216,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -390,11 +239,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Training Call for New Talent Management Flow -Option 2
@@ -422,11 +266,6 @@ DESCRIPTION:Hello all\,\n\n \n\nTo book your time in advance for the opera
  ______________________________\n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Training Call for New Talent Management Flow -Option 2
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -450,11 +289,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Project review 
@@ -478,11 +312,6 @@ DESCRIPTION:Dear all：\n\n \n\nUpdate project situation，thanks!\n\n \n\
  _______________________________________________________\n\n \n
 LOCATION:my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 Project review 
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -506,11 +335,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
@@ -556,11 +380,6 @@ DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
  ____________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Weekly Meeting
@@ -570,11 +389,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
@@ -584,11 +398,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Regular Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:雨水
@@ -598,11 +407,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:雨水
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:雨水
@@ -612,11 +416,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:雨水
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -640,11 +439,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TPO L2 Weekly Review
@@ -654,11 +448,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:维修会议室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO L2 Weekly Review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:色母粒生产每周回顾会
@@ -668,11 +457,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:色母粒生产每周回顾会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
@@ -696,11 +480,6 @@ DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
  ______________________________________________________________________\n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -724,11 +503,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
@@ -766,12 +540,6 @@ DESCRIPTION:Dear All\,\n\nHere are the events for our CBS@Operations Commu
  __________\n\n 
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:CBS@Operations community - Monthly phone-call - Americas & Eur
- ope
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -795,11 +563,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -823,11 +586,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Customer project review
@@ -860,11 +618,6 @@ DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
  ___________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 Customer project review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -888,11 +641,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
@@ -902,11 +650,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Regular Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Weekly Meeting
@@ -916,11 +659,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
@@ -966,11 +704,6 @@ DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
  ____________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -994,11 +727,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TPO L2 Weekly Review
@@ -1008,11 +736,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:维修会议室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO L2 Weekly Review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:色母粒生产每周回顾会
@@ -1022,11 +745,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:色母粒生产每周回顾会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
@@ -1050,11 +768,6 @@ DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
  ______________________________________________________________________\n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1078,11 +791,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 1
@@ -1137,11 +845,6 @@ DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
  _____________________________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1165,11 +868,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 2
@@ -1224,11 +922,6 @@ DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
  _____________________________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1252,11 +945,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Project review 
@@ -1280,11 +968,6 @@ DESCRIPTION:Dear all：\n\n \n\nUpdate project situation，thanks!\n\n \n\
  _______________________________________________________\n\n \n
 LOCATION:my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 Project review 
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1308,11 +991,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
@@ -1358,11 +1036,6 @@ DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
  ____________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Weekly Meeting
@@ -1372,11 +1045,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
@@ -1386,11 +1054,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Regular Meeting
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1414,11 +1077,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TPO L2 Weekly Review
@@ -1428,11 +1086,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:维修会议室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO L2 Weekly Review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:色母粒生产每周回顾会
@@ -1442,11 +1095,6 @@ CLASS:PUBLIC
 DESCRIPTION: \n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:色母粒生产每周回顾会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
@@ -1470,11 +1118,6 @@ DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
  ______________________________________________________________________\n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:惊蛰
@@ -1484,11 +1127,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:惊蛰
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:惊蛰
@@ -1498,11 +1136,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:惊蛰
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1526,11 +1159,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1554,11 +1182,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI 早会
@@ -1582,11 +1205,6 @@ DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  ________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Customer project review
@@ -1619,11 +1237,6 @@ DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
  ___________________________________________________________________\n\n \n
 LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 Customer project review
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妇女节
@@ -1633,11 +1246,6 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:妇女节
-TRIGGER:-PT5M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妇女节
@@ -1647,10 +1255,155 @@ CLASS:PUBLIC
 DESCRIPTION:
 LOCATION:中国
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:妇女节
-TRIGGER:-PT5M
-END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250310T083500
+DTEND;TZID="GMT 标准时间":20250310T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: ContiGPT Regular Meeting
+DTSTART;TZID="GMT 标准时间":20250310T213000
+DTEND;TZID="GMT 标准时间":20250310T220000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: ContiGPT Weekly Meeting
+DTSTART;TZID="GMT 标准时间":20250310T213000
+DTEND;TZID="GMT 标准时间":20250310T220000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Weekly Meeting
+DTSTART;TZID="GMT 标准时间":20250310T213000
+DTEND;TZID="GMT 标准时间":20250310T220000
+CLASS:PUBLIC
+DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
+ xplore Generative AI topics\, share insights\, and showcase exciting proje
+ cts!\n\n💡 Want to present or suggest a topic?\nReach out directly to Ca
+ tarina Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innov
+ ate together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to
+  know about the ContiGPT Community: ContiGPT Community (sharepoint.com) <h
+ ttps://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-C
+ ommunity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting 
+ - add it to your calendar <https://teams.microsoft.com/l/message/19:56fa35
+ 8dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&par
+ entMessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&
+ createdTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetin
+ gs - Agenda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly 
+ Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams/team
+ _10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20reco
+ rdings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://contin
+ ental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Orga
+ nization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlis
+ t format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/team
+ s/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Conti
+ nental: ConNext AI Community <https://connext.conti.de/communities/service
+ /html/communitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \
+ n\n\n\n\n_________________________________________________________________
+ _______________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeti
+ ng?omkt=en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
+ %2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID
+ : 360 032 415 185 \nPasscode: CL9t2H5t \n________________________________\
+ n\nFor organisers: Meeting options <https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWE
+ wYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&language=en-GB> \nPrivacy and 
+ security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d
+ 684ab9ad7e> \n____________________________________________________________
+ ____________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250311T083500
+DTEND;TZID="GMT 标准时间":20250311T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO L2 Weekly Review
+DTSTART;TZID="GMT 标准时间":20250311T093000
+DTEND;TZID="GMT 标准时间":20250311T100000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:色母粒生产每周回顾会
+DTSTART;TZID="GMT 标准时间":20250311T103000
+DTEND;TZID="GMT 标准时间":20250311T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
+DTSTART;TZID="GMT 标准时间":20250311T130000
+DTEND;TZID="GMT 标准时间":20250311T140000
+CLASS:PUBLIC
+DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
+ eview一下该产品的生产异常。\n\n________________________________
+ ________________________________________________\n\nMicrosoft Teams 是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
+ 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWU3ODE0
+ MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-1
+ 2d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 317 713 593 220 \n\n密
+ 码: xBZybo \n\n________________________________\n\n对于组织者: 会
+ 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf3641
+ 6-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
+ a&threadId=19_meeting_YWU3ODE0MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh@thr
+ ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
+ dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
+ ______________________________________________________________________\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
