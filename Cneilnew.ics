@@ -45,6 +45,29 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tesla挤出表皮红色析出讨论
+DTSTART;TZID="GMT 标准时间":20250211T140000
+DTEND;TZID="GMT 标准时间":20250211T150000
+CLASS:PUBLIC
+DESCRIPTION: 方便现场确认问题，我们把会议改到TPO小花园\
+ n\n_______________________________________________________________________
+ _________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeams
+ Meeting?omkt=zh-CN> \n\n立即加入会议 <https://teams.microsoft.com/l/
+ meetup-join/19%3ameeting_NWQyOGUzMjgtY2Q4OC00NzdkLTlmMjEtYzViZjk2NWI2MTRj%
+ 40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e626
+ 5a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0%22%7d> \n\n会
+ 议 ID: 329 255 404 415\n\n密码: px9Xs9Qe\n\n___________________________
+ _____\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetin
+ gOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63a0&tenantId=8d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NWQyOGUzMjgtY2Q4OC00Nzd
+ kLTlmMjEtYzViZjk2NWI2MTRj@thread.v2&messageId=0&language=zh-CN> \n\n隐私
+ 和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1
+ d684ab9ad7e> \n\n_________________________________________________________
+ _______________________\n\n \n
+LOCATION:TPO小花园
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:元宵节
 DTSTART;TZID="GMT 标准时间":20250212T000000
 DTEND;TZID="GMT 标准时间":20250213T000000
