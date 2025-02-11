@@ -86,12 +86,14 @@ LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID="GMT 标准时间":20250212T090000
-DTEND;TZID="GMT 标准时间":20250212T170000
+SUMMARY:BYD幅宽切换项目
+DTSTART;TZID="GMT 标准时间":20250212T130000
+DTEND;TZID="GMT 标准时间":20250212T140000
 CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
+DESCRIPTION:最新试制批次透光率8264893不合格：\n\n标准：2.5
+ ~3.0 \n\n首：3.3/3.14/3.28 尾：3.24/3.07/3.01\n\n复测：3.59/3.54/3.
+ 59 也不合格\n\n裁片完196pc\n
+LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
@@ -141,6 +143,28 @@ DESCRIPTION:Hello all\,\n\n \n\nTo book your time in advance for the opera
  隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
  832a-1d684ab9ad7e>  \n\n__________________________________________________
  ______________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K431幅宽切换
+DTSTART;TZID="GMT 标准时间":20250213T160000
+DTEND;TZID="GMT 标准时间":20250213T163000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZDJlNTllNTctYTY5Zi00MzgxLThmZTItYT
+ Y4NjFhYjYxYzc3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ %22%7d>  \n\n会议 ID: 339 997 478 978 \n\n密码: Q2W9Xy2n \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680
+ eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDJlN
+ TllNTctYTY5Zi00MzgxLThmZTItYTY4NjFhYjYxYzc3@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
