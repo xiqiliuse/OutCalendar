@@ -5,107 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250213T083500
-DTEND;TZID="GMT 标准时间":20250213T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Training Call for New Talent Management Flow -Option 2
-DTSTART;TZID="GMT 标准时间":20250213T130000
-DTEND;TZID="GMT 标准时间":20250213T140000
-CLASS:PUBLIC
-DESCRIPTION:Hello all\,\n\n \n\nTo book your time in advance for the opera
- tion training of 2025 Talent Management Flow in mySuccess.\n\n \n\n2025 Di
- alogue Forms are about to be Launched on January 20th\, considering the up
- coming Spring Festival holiday\, we plan this training call in Feb.\n\n \n
- \nPlease ensure your attendance in one of the 2 options. Thank you!\n\n \n
- \n________________________________________________________________________
- ________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsM
- eeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/
- meetup-join/19%3ameeting_ZDEzZTZlZDMtNzYyOS00ODYxLTgxZDktMTliMjI1NTMyYjQz%
- 40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e626
- 5a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55%22%7d>  \n\n
- 会议 ID: 311 870 090 441 \n\n密码: Ei94kq7L \n\n______________________
- __________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/m
- eetingOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&tenantId=8
- d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDEzZTZlZDMtNzYyOS
- 00ODYxLTgxZDktMTliMjI1NTMyYjQz@thread.v2&messageId=0&language=zh-CN>  \n\n
- 隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
- 832a-1d684ab9ad7e>  \n\n__________________________________________________
- ______________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Training Call for New Talent Management Flow -Option 2
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:K431幅宽切换
-DTSTART;TZID="GMT 标准时间":20250213T160000
-DTEND;TZID="GMT 标准时间":20250213T163000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZDJlNTllNTctYTY5Zi00MzgxLThmZTItYT
- Y4NjFhYjYxYzc3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
- %22%7d>  \n\n会议 ID: 339 997 478 978 \n\n密码: Q2W9Xy2n \n\n_________
- _______________________\n\n对于组织者: 会议选项 <https://teams.mi
- crosoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680
- eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDJlN
- TllNTctYTY5Zi00MzgxLThmZTItYTY4NjFhYjYxYzc3@thread.v2&messageId=0&language
- =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
- ___________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:K431幅宽切换
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:盐城出差
-DTSTART;TZID="GMT 标准时间":20250214T070000
-DTEND;TZID="GMT 标准时间":20250214T180000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:盐城出差
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250214T083500
 DTEND;TZID="GMT 标准时间":20250214T090500
 CLASS:PUBLIC
@@ -133,7 +32,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 Project review 
+SUMMARY:已取消: 2025 Project review 
 DTSTART;TZID="GMT 标准时间":20250214T150000
 DTEND;TZID="GMT 标准时间":20250214T160000
 CLASS:PUBLIC
@@ -156,7 +55,7 @@ LOCATION:my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:2025 Project review 
+DESCRIPTION:已取消: 2025 Project review 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
