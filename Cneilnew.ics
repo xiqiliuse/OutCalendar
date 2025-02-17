@@ -188,6 +188,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:90405色母粒透光率不合格讨论
+DTSTART;TZID="GMT 标准时间":20250218T120000
+DTEND;TZID="GMT 标准时间":20250218T130000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YWI1ZmVjMTUtOGJjNC00MjlmLThhM2ItYT
+ FjN2E0NzM0ZTU0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
+ %22%7d>  \n\n会议 ID: 369 263 960 726 \n\n密码: Gw6wo7Ge \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63
+ a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YWI1Z
+ mVjMTUtOGJjNC00MjlmLThhM2ItYTFjN2E0NzM0ZTU0@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:90405色母粒透光率不合格讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250219T083500
 DTEND;TZID="GMT 标准时间":20250219T090500
@@ -298,6 +325,28 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-alignment for CapEx 2025_BCZ TPO Ex2 new flat die_Internal Mee
+ ting-20250220
+DTSTART;TZID="GMT 标准时间":20250220T130000
+DTEND;TZID="GMT 标准时间":20250220T140000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\n\n \n\nCurrently the project is undergoing the appli
+ cation process encountered some problems\, need to be discussed and resolv
+ ed together\, look forward to your participation.\n\n、\n\n \n\n \n\nBest
+  regards\, \n\n \n\nJian Cheng / 程键 \n\nMobile: +86 18951136382\n\nE-m
+ ail: jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changs
+ hun.com.cn> \n\nWebsite: www.continental-industry.com <http://www.continen
+ tal-industry.com> \n\n \n\n\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pre-alignment for CapEx 2025_BCZ TPO Ex2 new flat die_Internal
+  Meeting-20250220
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1140,20 +1189,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2025 Customer project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:妇女节
-DTSTART;TZID="GMT 标准时间":20250308T000000
-DTEND;TZID="GMT 标准时间":20250309T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:妇女节
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
