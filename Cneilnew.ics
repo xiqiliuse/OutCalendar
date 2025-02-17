@@ -46,52 +46,16 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ContiGPT Weekly Meeting
+SUMMARY:Canceled: ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250217T213000
 DTEND;TZID="GMT 标准时间":20250217T220000
 CLASS:PUBLIC
-DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
- xplore Generative AI topics\, share insights\, and showcase exciting proje
- cts!\n💡 Want to present or suggest a topic?\nReach out directly to Cata
- rina Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innovat
- e together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to k
- now about the ContiGPT Community: ContiGPT Community (sharepoint.com) <htt
- ps://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-Com
- munity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting - 
- add it to your calendar <https://teams.microsoft.com/l/message/19:56fa358d
- da644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b2e
- -40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&paren
- tMessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&cr
- eatedTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetings
-  - Agenda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly Me
- etings - recordings <https://continental.sharepoint.com/:f:/r/teams/team_1
- 0065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20record
- ings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://continen
- tal.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organi
- zation/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlist 
- format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/teams/
- team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Contine
- ntal: ConNext AI Community <https://connext.conti.de/communities/service/h
- tml/communitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \n\
- n\n\n\n___________________________________________________________________
- _____________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting
- ?omkt=en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-
- join/19%3ameeting_OWY2NDk0NWUtMzA4Yi00MTU2LTg4MGQtNWM1YTYxYzQ2NzU3%40threa
- d.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2
- c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID: 
- 373 350 474 96 \nPasscode: h5TW3v6s \n________________________________\n\n
- For organisers: Meeting options <https://teams.microsoft.com/meetingOption
- s/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7b2e
- -40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWY2NDk0NWUtMzA4Yi00MTU2LTg4MG
- QtNWM1YTYxYzQ2NzU3@thread.v2&messageId=0&language=en-GB> \nPrivacy and sec
- urity <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684
- ab9ad7e> \n_______________________________________________________________
- _________________
+DESCRIPTION:Session postponed
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
+DESCRIPTION:Canceled: ContiGPT Weekly Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1208,6 +1172,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:妇女节
+DTSTART;TZID="GMT 标准时间":20250308T000000
+DTEND;TZID="GMT 标准时间":20250309T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:妇女节
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250310T083500
 DTEND;TZID="GMT 标准时间":20250310T090500
@@ -1614,6 +1592,92 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: ContiGPT Regular Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250318T083500
+DTEND;TZID="GMT 标准时间":20250318T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO L2 Weekly Review
+DTSTART;TZID="GMT 标准时间":20250318T093000
+DTEND;TZID="GMT 标准时间":20250318T100000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO L2 Weekly Review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
+DTSTART;TZID="GMT 标准时间":20250318T100000
+DTEND;TZID="GMT 标准时间":20250318T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear All：\n\n   今年开始SP每周生产回顾会覆盖色
+ 度&油漆&色母粒3个区域，感谢各位参与，谢谢！\n\n   \n\n
+  \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
+DTSTART;TZID="GMT 标准时间":20250318T130000
+DTEND;TZID="GMT 标准时间":20250318T140000
+CLASS:PUBLIC
+DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
+ eview一下该产品的生产异常。\n\n________________________________
+ ________________________________________________\n\nMicrosoft Teams 是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
+ 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWU3ODE0
+ MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-1
+ 2d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 317 713 593 220 \n\n密
+ 码: xBZybo \n\n________________________________\n\n对于组织者: 会
+ 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf3641
+ 6-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
+ a&threadId=19_meeting_YWU3ODE0MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh@thr
+ ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
+ dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
+ ______________________________________________________________________\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
