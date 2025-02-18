@@ -225,6 +225,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YB海绵供应商来公司讨论幅宽改善项目
+DTSTART;TZID="GMT 标准时间":20250220T150000
+DTEND;TZID="GMT 标准时间":20250220T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:YB海绵供应商来公司讨论幅宽改善项目
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250221T083500
 DTEND;TZID="GMT 标准时间":20250221T090500
@@ -328,6 +342,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:26/2--28/2 EX2压延辊维修准备
+DTSTART;TZID="GMT 标准时间":20250224T133000
+DTEND;TZID="GMT 标准时间":20250224T143000
+CLASS:PUBLIC
+DESCRIPTION:1:分享现有信息2：维修前准备\n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \
+ n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameet
+ ing_OTk2MTVlMjAtNWNmMC00YjA3LTkzNDgtNjBiYWVkYzI0OGJk%40thread.v2/0?context
+ =%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%
+ 2287c6bfd1-200c-4095-a907-9bab8a2caed2%22%7d>  \n\n会议 ID: 360 486 747 
+ 183 \n\n密码: rX3ac7Mi \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=87c6bfd1-200c-4095-a907-9bab8a2caed2&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_OTk2MTVlMjAtNWNmMC00YjA3LTkzNDgtNjBiYWVkY
+ zI0OGJk@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:26/2--28/2 EX2压延辊维修准备
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
