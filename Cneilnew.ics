@@ -409,6 +409,44 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pre-alignment for CapEx 2025_BCZ TPO Ex2 new flat die_External Mee
+ ting
+DTSTART;TZID="GMT 标准时间":20250226T163000
+DTEND;TZID="GMT 标准时间":20250226T170000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\n\n \n\nAccording to BCZ 2025 CapEx planning\, we wil
+ l purchasing a new flat die for Ex2 in 2025. I was appointed to the PM for
+  this project. \n\nUp to now\, we have finished the Initiation and Plannin
+ g phases\, and we will focus on eCR application in the following days. We 
+ have prepared some necessary project documents\, looking forward to your g
+ uidance for this project. \n\n \n\nBest regards\, \n\n \n\nJian Cheng / 
+ 程键 \n\nMobile: +86 18951136382\n\nE-mail: jian.cheng@benecke-changshun
+ .com.cn <mailto:jian.cheng@benecke-changshun.com.cn> \n\nWebsite: www.cont
+ inental-industry.com <http://www.continental-industry.com> \n\n \n\n\n\n \
+ n\n \n\n__________________________________________________________________
+ ______________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/Join
+ TeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.
+ com/l/meetup-join/19%3ameeting_YmFjOTUxMWUtMGVhMC00NDE5LWJiYzItYjUzMTFhMGY
+ yYmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d
+ 79e6265a%22%2c%22Oid%22%3a%223213188f-7330-486b-aa50-c1ab197afb63%22%7d>  
+ \n\n会议 ID: 318 541 708 785 \n\n密码: Ze7no7WW \n\n__________________
+ ______________\n\n对于组织者: 会议选项 <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=3213188f-7330-486b-aa50-c1ab197afb63&tenant
+ Id=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YmFjOTUxMWUtMG
+ VhMC00NDE5LWJiYzItYjUzMTFhMGYyYmFl@thread.v2&messageId=0&language=zh-CN>  
+ \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n\n______________________________________________
+ __________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pre-alignment for CapEx 2025_BCZ TPO Ex2 new flat die_External
+  Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 1
 DTSTART;TZID="GMT 标准时间":20250226T163000
 DTEND;TZID="GMT 标准时间":20250226T173000
