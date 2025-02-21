@@ -139,6 +139,27 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Catch up-Shopfloor Training System Improvement
+DTSTART;TZID="GMT 标准时间":20250224T153000
+DTEND;TZID="GMT 标准时间":20250224T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n目前挤出工序的考核标准已完成
+ ，如上次会议提及，需要 @Hou\, Xuewen <mailto:xuewen.hou@benecke
+ -changshun.com.cn> @Li\, Xiaodong03 <mailto:xiaodong.3.li@benecke-changshu
+ n.com.cn> @Wang\, Jinjun02 <mailto:jinjun.2.wang@benecke-changshun.com.cn>
+  各位讨论挤出抽1-2名员工进行试点考核。\n\n \n\n同时辛
+ 苦 @Wang\, Jinjun02 <mailto:jinjun.2.wang@benecke-changshun.com.cn>  可
+ 以启动其他工序的考核标准制定。\n\n \n\n如有任何疑问
+ 可随时联系我，谢谢！\n\n \n\nBest Regards\n\nJane Xue\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Catch up-Shopfloor Training System Improvement
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
 DTSTART;TZID="GMT 标准时间":20250224T213000
 DTEND;TZID="GMT 标准时间":20250224T220000
@@ -466,6 +487,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2024员工对话
+DTSTART;TZID="GMT 标准时间":20250227T150000
+DTEND;TZID="GMT 标准时间":20250227T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NDlmODZkYTctMDcxNC00ZmViLWJmMWUtOG
+ E1N2E1NTZlOTgw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 360 776 051 688 \n\n密码: bW7QV7Fj \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade166
+ 4a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDlmO
+ DZkYTctMDcxNC00ZmViLWJmMWUtOGE1N2E1NTZlOTgw@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2024员工对话
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
