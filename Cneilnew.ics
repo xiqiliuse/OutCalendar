@@ -37,8 +37,21 @@ DTSTART;TZID="GMT 标准时间":20250303T140000
 DTEND;TZID="GMT 标准时间":20250303T150000
 CLASS:PUBLIC
 DESCRIPTION:新的300米试单8267672透光率OK，讨论下下一步切
- 换的行动计划\n
-LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
+ 换的行动计划\n\n \n\n \n\n__________________________________________
+ ______________________________________\n\nMicrosoft Teams 是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
+ <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDc1NGY3N2UtMTEwYi
+ 00ZjAxLWI0MjItZjIxNDM5ZjE2Y2Rm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b
+ 1c7-2cc4749680eb%22%7d>  \n\n会议 ID: 313 806 629 839 \n\n密码: rq2T44
+ p6 \n\n________________________________\n\n对于组织者: 会议选项 <
+ https://teams.microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad
+ -b1c7-2cc4749680eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=
+ 19_meeting_MDc1NGY3N2UtMTEwYi00ZjAxLWI0MjItZjIxNDM5ZjE2Y2Rm@thread.v2&mess
+ ageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud
+ .com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________
+ ___________________________________________________________\n\n \n
+LOCATION:TEAMS
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -206,6 +219,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250304T123000
+DTEND;TZID="GMT 标准时间":20250304T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
