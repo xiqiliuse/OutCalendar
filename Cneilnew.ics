@@ -46,9 +46,25 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TPO 可回收流程
+SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
 DTSTART;TZID="GMT 标准时间":20250304T100000
 DTEND;TZID="GMT 标准时间":20250304T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear All：\n\n   今年开始SP每周生产回顾会覆盖色
+ 度&油漆&色母粒3个区域，感谢各位参与，谢谢！\n\n   \n\n
+  \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO 可回收流程
+DTSTART;TZID="GMT 标准时间":20250304T133000
+DTEND;TZID="GMT 标准时间":20250304T143000
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
@@ -69,64 +85,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:TPO 可回收流程
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
-DTSTART;TZID="GMT 标准时间":20250304T100000
-DTEND;TZID="GMT 标准时间":20250304T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear All：\n\n   今年开始SP每周生产回顾会覆盖色
- 度&油漆&色母粒3个区域，感谢各位参与，谢谢！\n\n   \n\n
-  \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID="GMT 标准时间":20250304T123000
-DTEND;TZID="GMT 标准时间":20250304T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:booking
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
-DTSTART;TZID="GMT 标准时间":20250304T130000
-DTEND;TZID="GMT 标准时间":20250304T140000
-CLASS:PUBLIC
-DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
- eview一下该产品的生产异常。\n\n________________________________
- ________________________________________________\n\nMicrosoft Teams 是否
- 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
- 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWU3ODE0
- MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-1
- 2d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 317 713 593 220 \n\n密
- 码: xBZybo \n\n________________________________\n\n对于组织者: 会
- 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf3641
- 6-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_meeting_YWU3ODE0MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh@thr
- ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
- dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
- ______________________________________________________________________\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -211,6 +169,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YB1900PE海绵
+DTSTART;TZID="GMT 标准时间":20250306T140000
+DTEND;TZID="GMT 标准时间":20250306T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjIxNTFkYWItOTY4NC00NzNmLTgzMmMtNT
+ MzNTY5NzIwNGJm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ %22%7d>  \n\n会议 ID: 393 357 747 787 \n\n密码: Ui2LW7dy \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680
+ eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YjIxN
+ TFkYWItOTY4NC00NzNmLTgzMmMtNTMzNTY5NzIwNGJm@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:YB1900PE海绵
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -524,6 +509,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX2 2000米以下快速换型项目
+DTSTART;TZID="GMT 标准时间":20250313T083000
+DTEND;TZID="GMT 标准时间":20250314T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NGMwYTRmODMtMWE4My00MDhiLWJjZDQtMW
+ Q1MWNjZjYzZTQ5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22046a6ed9-d14d-4454-9dd9-43d48f52f03b
+ %22%7d>  \n\n会议 ID: 385 725 194 378 \n\n密码: jc2p27JC \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=046a6ed9-d14d-4454-9dd9-43d48f52f0
+ 3b&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NGMwY
+ TRmODMtMWE4My00MDhiLWJjZDQtMWQ1MWNjZjYzZTQ5@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2 2000米以下快速换型项目
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
