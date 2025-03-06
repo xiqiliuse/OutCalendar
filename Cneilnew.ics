@@ -210,6 +210,39 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Risk&evaluation limit thickness 0.35mm in extrusion
+DTSTART;TZID="GMT 标准时间":20250310T150000
+DTEND;TZID="GMT 标准时间":20250310T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear Dietmar Kahle:\n\n \n\nFrom your email information\, we c
+ an’t understand why can’t produce thinner film in extrusion from your 
+ machine. \n\nThis is very important because we had received some customer 
+ request from Chinese market. \n\n \n\nSo I will invite meeting to discuss\
+ , please clarify difficult point. \n\nPlease also check your available tim
+ e\, if time nok for your side\, please suggest new time\, thanks!\n\n \n\n
+ Sophia  3/6\n\n \n\n______________________________________________________
+ __________________________\n\nMicrosoft Teams 是否需要帮助? <https:/
+ /aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_OTNiNGYxY2EtYmFmZS00M2E5LWFkZjQ
+ tOWRhMjJiZTQwYzhk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade16
+ 64a%22%7d>  \n\n会议 ID: 358 347 708 964 \n\n密码: uK9L7D4D \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OT
+ NiNGYxY2EtYmFmZS00M2E5LWFkZjQtOWRhMjJiZTQwYzhk@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650
+ 1531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Risk&evaluation limit thickness 0.35mm in extrusion
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
 DTSTART;TZID="GMT 标准时间":20250310T213000
 DTEND;TZID="GMT 标准时间":20250310T220000
