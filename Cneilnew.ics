@@ -5,48 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250306T083500
-DTEND;TZID="GMT 标准时间":20250306T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:挤出复合过程review
-DTSTART;TZID="GMT 标准时间":20250306T150000
-DTEND;TZID="GMT 标准时间":20250306T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:挤出复合过程review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250307T083500
 DTEND;TZID="GMT 标准时间":20250307T090500
 CLASS:PUBLIC
