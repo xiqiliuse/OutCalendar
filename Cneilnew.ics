@@ -340,6 +340,53 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:油漆房BCZDataBaseCenter 启用讨论会
+DTSTART;TZID="GMT 标准时间":20250317T153000
+DTEND;TZID="GMT 标准时间":20250317T160000
+CLASS:PUBLIC
+DESCRIPTION:色度和色母粒使用的BCZDataBaseCenter 运行稳定，
+ 反馈使用效果好。油漆房希望跟进使用此系统，方便数
+ 据的记录和查找，实现表单一键打印和原料批次关联的
+ 实用功能等，确实的帮助员工减少输入表单的工作量。
+ 大家会上一起讨论，专家给出专业的指导意见，帮助油
+ 漆房推行BCZDataBaseCenter系统。\n\n________________________________
+ ________________________________________________\nMicrosoft Teams 是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Q2Y2ZiYjQ
+ tMTU3ZS00MWQ0LTk4YjktMmEyMTZjZjY2YWY2%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e8b7cf7c-22cb
+ -4aae-b899-01ba50998773%22%7d>  \n会议 ID: 390 691 938 410 \n密码: Sq3
+ M3KE9 \n________________________________\n\n对于组织者: 会议选项 
+ <https://teams.microsoft.com/meetingOptions/?organizerId=e8b7cf7c-22cb-4aa
+ e-b899-01ba50998773&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId
+ =19_meeting_Y2Q2Y2ZiYjQtMTU3ZS00MWQ0LTk4YjktMmEyMTZjZjY2YWY2@thread.v2&mes
+ sageId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n________________________
+ ________________________________________________________
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆房BCZDataBaseCenter 启用讨论会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论会
+DTSTART;TZID="GMT 标准时间":20250317T160000
+DTEND;TZID="GMT 标准时间":20250317T170000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论
+ 会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250317T213000
 DTEND;TZID="GMT 标准时间":20250317T220000
