@@ -118,6 +118,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Discussion about Grafana
+DTSTART;TZID="GMT 标准时间":20250311T160000
+DTEND;TZID="GMT 标准时间":20250311T170000
+CLASS:PUBLIC
+DESCRIPTION:Hi Xiaodong\,\n\nSchedule a meeting to discuss about the usage
+  of Grafana.\n\nThanks and best regards\,\n\nLily\n\n_____________________
+ ___________________________________________________________\nMicrosoft Tea
+ ms 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立
+ 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OT
+ lhYjU2MTItZjQ5MC00ZjI3LTlkMDYtMDg5ZTE0NTUxMWE3%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3f
+ ea23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n会议 ID: 389 114 455 655 \n
+ 密码: tv2Qb6Ju \n________________________________\n\n对于组织者: 
+ 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=1e3f
+ ea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a&threadId=19_meeting_OTlhYjU2MTItZjQ5MC00ZjI3LTlkMDYtMDg5ZTE0NTUxMWE3@
+ thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https://filehub.
+ admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________
+ _____________________________________________________________________
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Discussion about Grafana
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250312T083500
 DTEND;TZID="GMT 标准时间":20250312T090500
@@ -146,29 +174,29 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EX2 2000米以下快速换型项目
+SUMMARY:已取消: EX2 2000米以下快速换型项目
 DTSTART;TZID="GMT 标准时间":20250313T083000
 DTEND;TZID="GMT 标准时间":20250314T170000
 CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_NGMwYTRmODMtMWE4My00MDhiLWJjZDQtMW
- Q1MWNjZjYzZTQ5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22046a6ed9-d14d-4454-9dd9-43d48f52f03b
- %22%7d>  \n\n会议 ID: 385 725 194 378 \n\n密码: jc2p27JC \n\n_________
- _______________________\n\n对于组织者: 会议选项 <https://teams.mi
- crosoft.com/meetingOptions/?organizerId=046a6ed9-d14d-4454-9dd9-43d48f52f0
- 3b&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NGMwY
- TRmODMtMWE4My00MDhiLWJjZDQtMWQ1MWNjZjYzZTQ5@thread.v2&messageId=0&language
- =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
- ___________________________________________\n\n \n
+DESCRIPTION:挤出2放假，改期\n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams 是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGMwYTRmODM
+ tMWE4My00MDhiLWJjZDQtMWQ1MWNjZjYzZTQ5%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22046a6ed9-d14d
+ -4454-9dd9-43d48f52f03b%22%7d>  \n\n会议 ID: 385 725 194 378 \n\n密码:
+  jc2p27JC \n\n________________________________\n\n对于组织者: 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=046a6ed9-d
+ 14d-4454-9dd9-43d48f52f03b&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_NGMwYTRmODMtMWE4My00MDhiLWJjZDQtMWQ1MWNjZjYzZTQ5@thread
+ .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
+ ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
+ ___________________________________________________________________\n\n \n
 LOCATION:TPO关爱小屋
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:EX2 2000米以下快速换型项目
+DESCRIPTION:已取消: EX2 2000米以下快速换型项目
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -225,6 +253,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: Shopfloor Training System Improvement-TPO挤
+ 出试点考核
+DTSTART;TZID="GMT 标准时间":20250314T130000
+DTEND;TZID="GMT 标准时间":20250314T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello all，\n\n \n\n由于TPO本周四五挤出生产线安
+ 排了放假，所以考核时间需要调整。\n\n先取消本次会议
+ ，下周等 @Wang\, Jinjun02 <mailto:jinjun.2.wang@benecke-changshun.com.
+ cn> 确认生产安排后会发出新的邀请。\n\n \n\n感谢大家的
+ 配合，如有问题可随时与我联系啊~\n\n \n\nJane Xue\n\n_______
+ _________________________\n\nDear all，\n\n \n\n如沟通，提前book大
+ 家的时间段。\n\n \n\n考核人员：已与进军沟通，现场随
+ 机抽选。\n\n考核时长：需根据考核内容及现场情况而定
+ 。\n\n \n\n请大家准时到达现场，如对本次考核细则有疑
+ 问，可提前与我或进军联系，谢谢！\n\n \n\nBest regards\n\nJ
+ ane XUE / 薛佳蕾\n\nHR Training Specilist\n\nContiTech Surface Solution
+ s\n
+LOCATION:TPO生产现场
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 已取消: Shopfloor Training System Improvement-TP
+ O挤出试点考核
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
