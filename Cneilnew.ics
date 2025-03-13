@@ -197,6 +197,83 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:机台换型WI进度回顾
+DTSTART;TZID="GMT 标准时间":20250317T130000
+DTEND;TZID="GMT 标准时间":20250317T133000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTliZDA5MDQtOWUyOC00OGQ1LWJmMmQtMm
+ M2YTY5NmRkZDIw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2227cabe9d-b880-48dc-b6ef-b9fde4a5234f
+ %22%7d>  \n\n会议 ID: 382 186 788 534 \n\n密码: F7ti3jK3 \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=27cabe9d-b880-48dc-b6ef-b9fde4a523
+ 4f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTliZ
+ DA5MDQtOWUyOC00OGQ1LWJmMmQtMmM2YTY5NmRkZDIw@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n\n \n\n_________________
+ ____________________________\n发件人: Cao\, Haibing \n发送时间: 202
+ 5年2月18日 13:29\n收件人: cheng\, yifei <yifei.cheng@benecke-changsh
+ un.com.cn>\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn>\; Su
+ n\, Xiaoyong <xiaoyong.sun@benecke-changshun.com.cn>\; Wang\, Congyu <cong
+ yu.wang@benecke-changshun.com.cn>\; Chen\, Chenglong <chenglong.chen@benec
+ ke-changshun.com.cn>\; jiang\, song03 <Song.3.Jiang@benecke-changshun.com.
+ cn>\; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn>\; Chen\, Hongmei <H
+ ongmei.Chen@benecke-changshun.com.cn>\; Hou\, Xuewen <xuewen.hou@benecke-c
+ hangshun.com.cn>\; Huang\, Qing <Qing.Huang@benecke-changshun.com.cn>\n抄
+ 送: Sun\, Qiang <qiang.sun@benecke-changshun.com.cn>\n主题: 回复: 机
+ 台换型作业指导书启动\n\n \n\nHello all\, \n\n \n\nLM3换型WI有
+ 更新，模板供参考\n\n \n\n \n\n发件人: Cao\, Haibing \n发送时
+ 间: 2025年2月12日 16:30\n收件人: cheng\, yifei <yifei.cheng@benecke
+ -changshun.com.cn <mailto:yifei.cheng@benecke-changshun.com.cn> >\; Li\, X
+ iaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@be
+ necke-changshun.com.cn> >\; Sun\, Xiaoyong <xiaoyong.sun@benecke-changshun
+ .com.cn <mailto:xiaoyong.sun@benecke-changshun.com.cn> >\; Wang\, Congyu <
+ congyu.wang@benecke-changshun.com.cn <mailto:congyu.wang@benecke-changshun
+ .com.cn> >\; Chen\, Chenglong <chenglong.chen@benecke-changshun.com.cn <ma
+ ilto:chenglong.chen@benecke-changshun.com.cn> >\; jiang\, song03 <Song.3.J
+ iang@benecke-changshun.com.cn <mailto:Song.3.Jiang@benecke-changshun.com.c
+ n> >\; Sun\, Dimin <dimin.sun@benecke-changshun.com.cn <mailto:dimin.sun@b
+ enecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshu
+ n.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Hou\, Xuewen <
+ xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.c
+ om.cn> >\; Huang\, Qing <Qing.Huang@benecke-changshun.com.cn <mailto:Qing.
+ Huang@benecke-changshun.com.cn> >\n抄送: Sun\, Qiang <qiang.sun@benecke-
+ changshun.com.cn <mailto:qiang.sun@benecke-changshun.com.cn> >\n主题: 
+ 机台换型作业指导书启动\n\n \n\nDear all\,\n\n感谢参加今天
+ 的会议，会议达成如下共识，\n\n1、 PVC需换型WI机台：CM
+ 、LM1、LM2、EM1、EM3，责任人：PPI对应工程师编写，PVC提
+ 供素材支持，完成时间25/3/31\n\n2、 TPO需换型WI机台：EX1
+ 、EX2、LM3、EM2、EM4，责任人：PPI对应工程师编写，TPO提
+ 供素材支持，完成时间 EX1 25/2/28，EX2 25/3/15，EM2&EM4 25/3/15
+ ，LM3已完成\n\n3、 SP需要换型WI机台：CMB，责任人：PPI对
+ 应工程师编写，SP提供素材支持，完成时间25/3/31\n\n \n\n
+ 附件是LM3换型WI，供大家参考，编写过程中需要CBS配合的
+ ，请与我联系。\n\n \n\nBest regards\,  \n\n \n\nHaibing\,Cao\n\nCBS
+  Specialist\n\nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visit
+ or address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n
+ 贝内克长顺汽车内饰材料（张家港）有限公司\n\nNo.108\,Ji
+ anghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, 
+ P.R.China \n江苏省张家港市金港镇南沙江海南路108号 215632\
+ n\n \n\n \n\nMobile: +86 18951138578\n\nE-mail: haibing.cao@benecke-changs
+ hun.com.cn <mailto:haibing.cao@benecke-changshun.com.cn> \n\nWebsite: www.
+ continental-industry.com <http://www.continental-industry.com/> \n\n \n\n 
+ \n\n \n\n\n\n                                                             
+                                                                     \n\nPr
+ oprietary and confidential. Distribution only by express authority of Cont
+ inental AG or its subsidiaries.\n\n \n\nInternal\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:机台换型WI进度回顾
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:油漆房BCZDataBaseCenter 启用讨论会
 DTSTART;TZID="GMT 标准时间":20250317T153000
 DTEND;TZID="GMT 标准时间":20250317T160000
