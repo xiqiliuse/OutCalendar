@@ -192,9 +192,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:油漆房BCZDataBaseCenter 启用讨论会
-DTSTART;TZID="GMT 标准时间":20250317T153000
+SUMMARY:Soft TPO next action
+DTSTART;TZID="GMT 标准时间":20250317T150000
 DTEND;TZID="GMT 标准时间":20250317T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Soft TPO next action
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论会
+DTSTART;TZID="GMT 标准时间":20250317T160000
+DTEND;TZID="GMT 标准时间":20250317T170000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论
+ 会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:油漆房BCZDataBaseCenter 启用讨论会
+DTSTART;TZID="GMT 标准时间":20250317T160000
+DTEND;TZID="GMT 标准时间":20250317T170000
 CLASS:PUBLIC
 DESCRIPTION:色度和色母粒使用的BCZDataBaseCenter 运行稳定，
  反馈使用效果好。油漆房希望跟进使用此系统，方便数
@@ -215,26 +244,11 @@ DESCRIPTION:色度和色母粒使用的BCZDataBaseCenter 运行稳定，
  sageId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.
  com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n________________________
  ________________________________________________________
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:油漆房BCZDataBaseCenter 启用讨论会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论会
-DTSTART;TZID="GMT 标准时间":20250317T160000
-DTEND;TZID="GMT 标准时间":20250317T170000
-CLASS:PUBLIC
-DESCRIPTION:
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论
- 会
+DESCRIPTION:油漆房BCZDataBaseCenter 启用讨论会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -375,6 +389,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Strategy project review
+DTSTART;TZID="GMT 标准时间":20250318T103000
+DTEND;TZID="GMT 标准时间":20250318T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\n之前的one page/A3 帮忙更新。\n\n \n\
+ n \n\nSophia   3/14\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams 是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjgzNGYzN2I
+ tMTZhMy00ZmM2LWFmZDgtZjNjMTc2MTg4MjI4%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 332 883 502 675 \n\n密码:
+  m52FY7tG \n\n________________________________\n\n对于组织者: 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a
+ 5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_NjgzNGYzN2ItMTZhMy00ZmM2LWFmZDgtZjNjMTc2MTg4MjI4@thread
+ .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
+ ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
+ ___________________________________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Strategy project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
 DTSTART;TZID="GMT 标准时间":20250318T130000
 DTEND;TZID="GMT 标准时间":20250318T140000
@@ -427,6 +469,72 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE: Recipe management - Project Requirements Collection
+DTSTART;TZID="GMT 标准时间":20250319T093000
+DTEND;TZID="GMT 标准时间":20250319T100000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n约个会快速讨论一下EM4当前配方管理
+ 项目的进展及未来实施方案。谢谢！\n\n@Yao\, Tomi <mailto:me
+ ngyue.yao@benecke-changshun.com.cn>  姚总，陈成龙老师反馈，这
+ 个项目您已经协助在做，并取得一些进展了。\n需要您参
+ 会支持一下，看下当前的实现情况，并确认接下来的实
+ 施方案。\n\n当前这个项目在排期，PPI催的紧，会议主要
+ 内容：\n\n1.	\n	关闭Project Order\;\n2.	\n	确认当前项目状态
+ ；\n3.	\n	确定基本的timeline 和 workscope\;\n4.	\n	Timeline确定
+ 后资源是否充足，否走外协；\n5.	\n	Pre-kick off.\n\n\n感谢
+ 大家的支持！欢迎将会议邀请转发给有需要的成员！\n\nB
+ est Regards\,\nLily Liu\n\n________________________________\n\nFrom: Liu\,
+  Xin06 <xin.6.liu@benecke-changshun.com.cn>\nSent: Thursday\, January 16\,
+  2025 9:15:09 AM\nTo: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.c
+ n>\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn>\; Liu\, Kai0
+ 5 <kai.5.liu@benecke-changshun.com.cn>\; Cheng\, Dong01 <dong01.cheng@bene
+ cke-changshun.com.cn>\; Tang\, Jiawei04 <jiawei.4.tang@benecke-changshun.c
+ om.cn>\nCc: Lu\, Patrick <patrick.lu@benecke-changshun.com.cn>\; Chen\, Ch
+ englong <chenglong.chen@benecke-changshun.com.cn>\nSubject: 回复: Recipe
+  management - Project Requirements Collection \n \nDear all\,\n\n感谢各
+ 位的支持，参见附件为本次信息收集会结果。\n\n有关本
+ 项目在2025年的更多进展，会在所有待制项目排期后展示
+ 。\n\n届时会有后续沟通及会议。再次感谢您的支持！\n\n
+ \nBest regards\,\n\n \n\nLily Liu(Liu Xin)\n\nME Engineer BCZ\n\nContiTech
+  Surface Solutions\n\n\nMobile: +86 189 51132980\n\nE-mail: xin.6.liu@bene
+ cke-changshun.com.cn\n\nWebsite: www.continental-industry.com <http://www.
+ continental-industry.com/> \n\n\n\n________________________________\n\n发
+ 件人: Liu\, Xin06\n发送时间: 2025年1月13日 12:06\n收件人: Chen
+ \, Hongmei <Hongmei.Chen@benecke-changshun.com.cn>\; Li\, Xiaodong03 <xiao
+ dong.3.li@benecke-changshun.com.cn>\; Liu\, Kai05 <kai.5.liu@benecke-chang
+ shun.com.cn>\; Cheng\, Dong01 <dong01.cheng@benecke-changshun.com.cn>\; Ta
+ ng\, Jiawei04 <jiawei.4.tang@benecke-changshun.com.cn>\n抄送: Lu\, Patri
+ ck <patrick.lu@benecke-changshun.com.cn>\; Chen\, Chenglong <chenglong.che
+ n@benecke-changshun.com.cn>\n主题: Recipe management - Project Requireme
+ nts Collection\n时间: 2025年1月16日 10:00-11:00。\n地点: TE_ZG_MR_
+ PlantOffice302_Zhangjiagang \n \n大家好：\n\n本次会议是 Recipe ma
+ nagement 的项目信息收集会，如果还有其他相关方烦请转
+ 发邀请，主要讨论内容如下：\n\n项目目标和范围\n项目
+ 时间表和里程碑\n团队成员及角色分配\n资源和预算概述\
+ n风险管理和沟通计划\n\n感谢您的参与和支持！\n\nBest Reg
+ ards\,\nLily\n\n__________________________________________________________
+ ______________________\nMicrosoft Teams 是否需要帮助? <https://aka.m
+ s/JoinTeamsMeeting?omkt=zh-CN> \n立即加入会议 <https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_NjM0NTQ0NTYtNmZmOS00NmFjLTk3YWYtYWZlODg1
+ NjlmYzRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e
+ 04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%22%7d
+ > \n会议 ID: 385 709 866 701\n密码: UU7GQ3bX\n________________________
+ ________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/mee
+ tingOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NjM0NTQ0NTYtNmZmOS00
+ NmFjLTk3YWYtYWZlODg1NjlmYzRh@thread.v2&messageId=0&language=zh-CN> \n隐
+ 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e> \n________________________________________________________
+ ________________________
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RE: Recipe management - Project Requirements Collection
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
