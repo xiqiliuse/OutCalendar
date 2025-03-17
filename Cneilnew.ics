@@ -334,6 +334,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250318T120000
+DTEND;TZID="GMT 标准时间":20250318T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RE: Recipe management - Project Requirements Collection
 DTSTART;TZID="GMT 标准时间":20250318T123000
 DTEND;TZID="GMT 标准时间":20250318T130000
@@ -610,6 +624,40 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:精益产线设计&低成本自动化&精益物流培训
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:压力与情绪管理
+DTSTART;TZID="GMT 标准时间":20250320T130000
+DTEND;TZID="GMT 标准时间":20250320T140000
+CLASS:PUBLIC
+DESCRIPTION:在快节奏的现代生活中，压力如影随形，情绪
+ 波动也越发频繁。\n\n \n\n长期处于高压状态，不仅会导
+ 致失眠、焦虑、抑郁等心理问题，\n\n还可能引发一系列
+ 身体疾病，如高血压、肠胃功能紊乱等，严重影响生活
+ 质量与工作效率。​\n\n \n\n为帮助大家更好地应对压力
+ ，掌握情绪管理的有效方法，\n\n健康中心为此准备了“
+ 压力与情绪管理”线上小课堂，期待您的参与！\n\n_______
+ ______________________________________________________________________\n\n
+ Microsoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=
+ zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_YjYwYjk3YWEtZWNjZS00MDA3LTkzMzAtMWVlMWIwN2Y2YzIy%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%22851dac70-0e45-4c40-b2e3-1b88eb2c79ba%22%7d>  \n\n会议 ID: 332
+  337 694 750 \n\n密码: na7bK3Ar \n\n________________________________\n\n
+ 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
+ ?organizerId=851dac70-0e45-4c40-b2e3-1b88eb2c79ba&tenantId=8d4b558f-7b2e-4
+ 0ba-ad1f-e04d79e6265a&threadId=19_meeting_YjYwYjk3YWEtZWNjZS00MDA3LTkzMzAt
+ MWVlMWIwN2Y2YzIy@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n\n______________________________________________________________
+ __________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:压力与情绪管理
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
