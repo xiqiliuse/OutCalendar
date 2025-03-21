@@ -5,94 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250320T083500
-DTEND;TZID="GMT 标准时间":20250320T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:精益产线设计&低成本自动化&精益物流培训
-DTSTART;TZID="GMT 标准时间":20250320T090000
-DTEND;TZID="GMT 标准时间":20250320T170000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\n背景：\n\n根据2024年problem solving s
- kill improvement project中调查的大家对于问题解决能力的结
- 果，当初分别制定了由内部CBS specialists给大家培训相关CB
- S methods的培训计划以及邀请外部培训老师到公司给大家
- 培训的计划。目前内部CBS methods相关培训已在2024年全部
- 完成。现邀请外部老师到公司给大家做相关问题解决能
- 力提升的培训。\n\n \n\n培训对象：\n\n1.     部门经理在做
- 问题解决能力评估时，评估出来本岗位对精益产线设计&
- 低成本自动化&精益物流的需求和实际能力情况存在差距
- ，需要进一步提升。\n\n2.     未在问题解决能力调查范围
- 内但该工具的使用和平时工作相关。\n\n \n\n请各位提前
- 安排好工作，准时参加培训，谢谢！\n\n \n\n如有任何疑
- 问，请与我联系！\n\n \n\nBest Regards\,\n\nFiona Huang\n\n \n
-LOCATION:TE_ZG_MR_CBC401_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:精益产线设计&低成本自动化&精益物流培训
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:压力与情绪管理
-DTSTART;TZID="GMT 标准时间":20250320T130000
-DTEND;TZID="GMT 标准时间":20250320T140000
-CLASS:PUBLIC
-DESCRIPTION:在快节奏的现代生活中，压力如影随形，情绪
- 波动也越发频繁。\n\n \n\n长期处于高压状态，不仅会导
- 致失眠、焦虑、抑郁等心理问题，\n\n还可能引发一系列
- 身体疾病，如高血压、肠胃功能紊乱等，严重影响生活
- 质量与工作效率。​\n\n \n\n为帮助大家更好地应对压力
- ，掌握情绪管理的有效方法，\n\n健康中心为此准备了“
- 压力与情绪管理”线上小课堂，期待您的参与！\n\n_______
- ______________________________________________________________________\n\n
- Microsoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=
- zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/
- 19%3ameeting_YjYwYjk3YWEtZWNjZS00MDA3LTkzMzAtMWVlMWIwN2Y2YzIy%40thread.v2/
- 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
- id%22%3a%22851dac70-0e45-4c40-b2e3-1b88eb2c79ba%22%7d>  \n\n会议 ID: 332
-  337 694 750 \n\n密码: na7bK3Ar \n\n________________________________\n\n
- 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
- ?organizerId=851dac70-0e45-4c40-b2e3-1b88eb2c79ba&tenantId=8d4b558f-7b2e-4
- 0ba-ad1f-e04d79e6265a&threadId=19_meeting_YjYwYjk3YWEtZWNjZS00MDA3LTkzMzAt
- MWVlMWIwN2Y2YzIy@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
- 9ad7e>  \n\n______________________________________________________________
- __________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:压力与情绪管理
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250321T083500
 DTEND;TZID="GMT 标准时间":20250321T090500
 CLASS:PUBLIC
@@ -167,7 +79,21 @@ LOCATION:My office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:2025 Customer project review
+DESCRIPTION:已取消: 2025 Customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K431 压花异常 
+DTSTART;TZID="GMT 标准时间":20250321T160000
+DTEND;TZID="GMT 标准时间":20250321T163000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:PPI
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:K431 压花异常 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
