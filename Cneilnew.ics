@@ -32,21 +32,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:挤出析出应对
-DTSTART;TZID="GMT 标准时间":20250321T130000
-DTEND;TZID="GMT 标准时间":20250321T140000
-CLASS:PUBLIC
-DESCRIPTION:最近挤出机析出较多，看下有没有好的应对措
- 施！\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:挤出析出应对
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:已取消: 2025 Customer project review
 DTSTART;TZID="GMT 标准时间":20250321T150000
 DTEND;TZID="GMT 标准时间":20250321T160000
@@ -305,6 +290,21 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:挤出析出应对
+DTSTART;TZID="GMT 标准时间":20250325T123000
+DTEND;TZID="GMT 标准时间":20250325T133000
+CLASS:PUBLIC
+DESCRIPTION:最近挤出机析出较多，看下有没有好的应对措
+ 施！\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:挤出析出应对
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
 DTSTART;TZID="GMT 标准时间":20250325T130000
 DTEND;TZID="GMT 标准时间":20250325T140000
@@ -371,6 +371,59 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBS Sprint in SSL China
+DTSTART;TZID="GMT 标准时间":20250326T110000
+DTEND;TZID="GMT 标准时间":20250326T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n邀请大家一起确认一下Sprint 2.0系
+ 统里的数据，详情请见以下邮件，谢谢！\n\n \n\n___________
+ __________________________________\n发件人: Chen\, Jiang <Jiang.Chen@co
+ ntinental.com> \n发送时间: 2025年3月21日 10:50\n收件人: Liu\, Gu
+ angyuan <guangyuan.liu@benecke-changzhou.com.cn>\; Huang\, Qing <Qing.Huan
+ g@benecke-changshun.com.cn>\; Zhan\, Lei <lei.zhan@continental.com>\; Chen
+ g\, Yuanjian <Yuanjian.Cheng@contitech.cn>\; Wang\, Lei13 <onel.wang@benec
+ ke-changzhou.com.cn>\; Chen\, Miaoyan <Miaoyan.Chen@benecke-changshun.com.
+ cn>\; Xin\, Donglei <donglei.xin@continental.com>\n抄送: Chen\, Lee <xin
+ gwang.chen@benecke-changzhou.com.cn>\; Tian\, Richard <ming.tian@benecke-c
+ hangshun.com.cn>\; Liu\, Yi07 <yi.7.liu@continental.com>\; Qian\, Quick <z
+ hengkai.qian@continental.com>\; Li\, Min05 <min.5.li@contitech.cn>\; Chen\
+ , Jiang <Jiang.Chen@continental.com>\n主题: FW: CBS Sprint in SSL China\
+ n\n \n\nHello Buddies\,\n\n \n\nAs new Sprint 2.0 system go live on last F
+ riday\, also emphasize during network meeting. Pls work together with loca
+ l system key user and plant controlling for the following items by Mar.:\n
+ \n*  Check data transfer quality from old Sprint system especially saving 
+ will continue happen in 2025\n\n*  Upload or update 2025 projects in case 
+ still not maintained yet (pls consider BA controlling CSP target)\n\n*  Do
+ uble check and maintained in system\, CBS related or not base on offline d
+ iscussion for 2025 projects\n\n \n\nFrom now on\, all the monthly saving d
+ ata need to be maintained in the new system. \n\nBTW\, you can check the m
+ ail history\, SSL operation management team also pay attention on the CBS 
+ CSP. So let’s continue to think and discuss how CBS further contribute t
+ o this.\n\n \n\nSPRINT 2.0 - Homepage <https://sprint.clap.conti.de/>  \n\
+ n\n\n \n\nBR\n\nJ.Chen\n\n \n\nInternal\n\n \n\nInternal\n\nFrom: Pooten\,
+  Peter Johannes <peter.johannes.pooten@contitech.de <mailto:peter.johannes
+ .pooten@contitech.de> > \nSent: Wednesday\, March 19\, 2025 10:16 PM\nTo: 
+ Li\, Min05 <min.5.li@contitech.cn <mailto:min.5.li@contitech.cn> >\nSubjec
+ t: CBS Sprint in SSL\n\n \n\nHello Karl\,\n\n \n\nI just got an informatio
+ n from Steffen Reinsch\, that in China no CBS related projects are in the 
+ Sprint system.\n\n \n\nCan you please check and ask your colleagues?\n\n \
+ n\nBest\n\nPeter\n\n \n\nMit freundlichen Grüßen / Best regards\, \n\n \
+ n\nPeter Johannes Pooten\n\nCentral CBS Coach (Overview - ContiTech CBS <h
+ ttps://connext.conti.de/communities/service/html/communitystart?communityU
+ uid=f3a3f401-3156-4700-881e-d74e0c4ec314> )\nContiTech Operations\n\nCentr
+ al Functions\n\n \n\nAddress: Continental AG \n\nContinental Plaza 1\, D-3
+ 0175 Hannover\n\n \n\nTel.: +49 (0) 151 52675769\n\nE-Mail: peter.johannes
+ .pooten@contitech.de <mailto:peter.johannes.pooten@contitech.de>  \n\n \n\
+ n\n\n \n\n \n\nInternal\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CBS Sprint in SSL China
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
