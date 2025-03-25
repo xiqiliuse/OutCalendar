@@ -46,25 +46,41 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
-DTSTART;TZID="GMT 标准时间":20250325T100000
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250325T101500
 DTEND;TZID="GMT 标准时间":20250325T110000
 CLASS:PUBLIC
-DESCRIPTION:Dear All：\n\n   今年开始SP每周生产回顾会覆盖色
- 度&油漆&色母粒3个区域，感谢各位参与，谢谢！\n\n   \n\n
-  \n\n \n
+DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
+ 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
+ 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: SP 色度&油漆&色母粒每周生产回顾会
+DTSTART;TZID="GMT 标准时间":20250325T101500
+DTEND;TZID="GMT 标准时间":20250325T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear All：\n\n   考虑到有的部门10点前还在开其他
+ 会议，所以SP周会后续时间改为:  10:15-11:00\,麻烦各位准
+ 时参加，谢谢！\n\n   \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: SP 色度&油漆&色母粒每周生产回顾会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:挤出析出应对
 DTSTART;TZID="GMT 标准时间":20250325T123000
-DTEND;TZID="GMT 标准时间":20250325T133000
+DTEND;TZID="GMT 标准时间":20250325T130000
 CLASS:PUBLIC
 DESCRIPTION:最近挤出机析出较多，看下有没有好的应对措
  施！\n
@@ -200,6 +216,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250326T130000
+DTEND;TZID="GMT 标准时间":20250326T163000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 1
 DTSTART;TZID="GMT 标准时间":20250326T163000
 DTEND;TZID="GMT 标准时间":20250326T173000
@@ -287,6 +317,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250327T130000
+DTEND;TZID="GMT 标准时间":20250327T150000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID="GMT 标准时间":20250327T230000
 DTEND;TZID="GMT 标准时间":20250328T000000
@@ -370,6 +414,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EM4三层复合效果验证回顾
+DTSTART;TZID="GMT 标准时间":20250328T100000
+DTEND;TZID="GMT 标准时间":20250328T110000
+CLASS:PUBLIC
+DESCRIPTION:Hello all：\n\n \n\n针对此次EM4验证3层复合是结果
+ 进行回顾，谢谢!\n\n________________________________________________
+ _____________________________\n\nMicrosoft Teams 是否需要帮助? <http
+ s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://t
+ eams.microsoft.com/l/meetup-join/19%3ameeting_MGM1NDFlYzktNTQ4Mi00NzEwLTkw
+ MmUtZjE5N2Y5YTE4ODMx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e
+ -40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a9e7896a-85d1-4958-ae98-6ca0de
+ a23342%22%7d>  \n\n会议 ID: 318 624 495 547 \n\n密码: Ax93bp3z \n\n___
+ _____________________________\n\n对于组织者: 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=a9e7896a-85d1-4958-ae98-6ca0
+ dea23342&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _MGM1NDFlYzktNTQ4Mi00NzEwLTkwMmUtZjE5N2Y5YTE4ODMx@thread.v2&messageId=0&la
+ nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
+ 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
+ _________________________________________________\n\n \n
+LOCATION:TPO小花园
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EM4三层复合效果验证回顾
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -660,7 +732,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
+SUMMARY:已取消: 已取消: SP 色度&油漆&色母粒每周生产回顾
+ 会
 DTSTART;TZID="GMT 标准时间":20250401T100000
 DTEND;TZID="GMT 标准时间":20250401T110000
 CLASS:PUBLIC
@@ -671,7 +744,24 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+DESCRIPTION:已取消: 已取消: SP 色度&油漆&色母粒每周生产
+ 回顾会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250401T101500
+DTEND;TZID="GMT 标准时间":20250401T110000
+CLASS:PUBLIC
+DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
+ 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
+ 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -728,6 +818,37 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:内部培训1- 油漆培训
+DTSTART;TZID="GMT 标准时间":20250402T153000
+DTEND;TZID="GMT 标准时间":20250402T163000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\n1st 油漆培训，大家可以准备一些
+ 问题，谢谢！\n\n@Chen chenglong <mailto:chenglong.chen@benecke-chang
+ shun.com.cn> ，你如果时间不空，就下次了。\n\n \n\n \n\n谢
+ 谢！\n\n \n\nSophia  3/25\n\n \n\n \n\n_________________________________
+ _______________________________________________\n\nMicrosoft Teams 是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
+ 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJlYmJl
+ MmEtMTUxNC00NzM0LThmNDUtZTVlZTdhZWUzNzEx%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a
+ 5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 374 181 189 72 \n\n密
+ 码: fK9xK2dy \n\n________________________________\n\n对于组织者: 会
+ 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c
+ 2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
+ a&threadId=19_meeting_NzJlYmJlMmEtMTUxNC00NzM0LThmNDUtZTVlZTdhZWUzNzEx@thr
+ ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
+ dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
+ ______________________________________________________________________\n\n
+  \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:内部培训1- 油漆培训
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1008,7 +1129,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
+SUMMARY:已取消: 已取消: SP 色度&油漆&色母粒每周生产回顾
+ 会
 DTSTART;TZID="GMT 标准时间":20250408T100000
 DTEND;TZID="GMT 标准时间":20250408T110000
 CLASS:PUBLIC
@@ -1019,7 +1141,24 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+DESCRIPTION:已取消: 已取消: SP 色度&油漆&色母粒每周生产
+ 回顾会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250408T101500
+DTEND;TZID="GMT 标准时间":20250408T110000
+CLASS:PUBLIC
+DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
+ 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
+ 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1319,7 +1458,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
+SUMMARY:已取消: 已取消: SP 色度&油漆&色母粒每周生产回顾
+ 会
 DTSTART;TZID="GMT 标准时间":20250415T100000
 DTEND;TZID="GMT 标准时间":20250415T110000
 CLASS:PUBLIC
@@ -1330,7 +1470,24 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+DESCRIPTION:已取消: 已取消: SP 色度&油漆&色母粒每周生产
+ 回顾会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250415T101500
+DTEND;TZID="GMT 标准时间":20250415T110000
+CLASS:PUBLIC
+DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
+ 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
+ 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1710,7 +1867,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP 色度&油漆&色母粒每周生产回顾会
+SUMMARY:已取消: 已取消: SP 色度&油漆&色母粒每周生产回顾
+ 会
 DTSTART;TZID="GMT 标准时间":20250422T100000
 DTEND;TZID="GMT 标准时间":20250422T110000
 CLASS:PUBLIC
@@ -1721,7 +1879,24 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP 色度&油漆&色母粒每周生产回顾会
+DESCRIPTION:已取消: 已取消: SP 色度&油漆&色母粒每周生产
+ 回顾会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250422T101500
+DTEND;TZID="GMT 标准时间":20250422T110000
+CLASS:PUBLIC
+DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
+ 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
+ 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
