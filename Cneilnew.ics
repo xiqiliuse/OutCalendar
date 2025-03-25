@@ -5,155 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250324T083500
-DTEND;TZID="GMT 标准时间":20250324T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID="GMT 标准时间":20250324T090000
-DTEND;TZID="GMT 标准时间":20250324T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:booking
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PFMEA Review
-DTSTART;TZID="GMT 标准时间":20250324T140000
-DTEND;TZID="GMT 标准时间":20250324T150000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n1.	Review 2024 更新状况\n2.	制定2025
- 年计划\n\n \n\n \n\n谢谢！\n\n \n\nSophia   3/18\n\n \n\n___________
- _____________________________________________________________________\n\nM
- icrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=z
- h-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/1
- 9%3ameeting_MDAyNjE1N2EtOGZkZi00ZWM4LThjMTktZmRlMGI1MmU2NmFi%40thread.v2/0
- ?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oi
- d%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 317 
- 133 794 388 \n\n密码: UJ7Pf75s \n\n________________________________\n\n
- 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
- ?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-4
- 0ba-ad1f-e04d79e6265a&threadId=19_meeting_MDAyNjE1N2EtOGZkZi00ZWM4LThjMTkt
- ZmRlMGI1MmU2NmFi@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
- 9ad7e>  \n\n______________________________________________________________
- __________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PFMEA Review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: ContiGPT Regular Meeting
-DTSTART;TZID="GMT 标准时间":20250324T213000
-DTEND;TZID="GMT 标准时间":20250324T220000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Regular Meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: ContiGPT Weekly Meeting
-DTSTART;TZID="GMT 标准时间":20250324T213000
-DTEND;TZID="GMT 标准时间":20250324T220000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ContiGPT Weekly Meeting
-DTSTART;TZID="GMT 标准时间":20250324T213000
-DTEND;TZID="GMT 标准时间":20250324T220000
-CLASS:PUBLIC
-DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
- xplore Generative AI topics\, share insights\, and showcase exciting proje
- cts!\n\n💡 Want to present or suggest a topic?\nReach out directly to Ca
- tarina Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innov
- ate together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to
-  know about the ContiGPT Community: ContiGPT Community (sharepoint.com) <h
- ttps://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-C
- ommunity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting 
- - add it to your calendar <https://teams.microsoft.com/l/message/19:56fa35
- 8dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&par
- entMessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&
- createdTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetin
- gs - Agenda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly 
- Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams/team
- _10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20reco
- rdings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://contin
- ental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Orga
- nization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlis
- t format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/team
- s/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Conti
- nental: ConNext AI Community <https://connext.conti.de/communities/service
- /html/communitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \
- n\n\n\n\n_________________________________________________________________
- _______________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeti
- ng?omkt=en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetu
- p-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thr
- ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
- %2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID
- : 360 032 415 185 \nPasscode: CL9t2H5t \n________________________________\
- n\nFor organisers: Meeting options <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWE
- wYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&language=en-GB> \nPrivacy and 
- security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d
- 684ab9ad7e> \n____________________________________________________________
- ____________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250325T083500
 DTEND;TZID="GMT 标准时间":20250325T090500
 CLASS:PUBLIC
@@ -611,47 +462,125 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:油漆房BCZDataBaseCenter启动讨论会
+DTSTART;TZID="GMT 标准时间":20250331T140000
+DTEND;TZID="GMT 标准时间":20250331T160000
+CLASS:PUBLIC
+DESCRIPTION:BCZDataBaseCenter  增加油漆房自动排半成品功能，
+ 与专家沟通。\n1.油漆房半成品生产流程，资源状况，订
+ 单需求等，特殊要求半成品的限定条件，\n2.确定排产的
+ 目标和约束条件（如交货期，人员数量，产能，物料消
+ 耗等）\n3.根据需求确定排产的算法（设定规则和算法）
+ 结合订单需求与资源状况，生成初步排产计划。\n4.计划
+ 调整与优化，可对初步排产计划可进行人工调整和优化
+ ，同时系统自动检查调整后的计划是否满足约束条件。\n
+ \n\n______________________________________________________________________
+ __________\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsM
+ eeting?omkt=zh-CN>  \n立即加入会议 <https://teams.microsoft.com/l/me
+ etup-join/19%3ameeting_YTQ1ZDMwMmItMDExNi00YTIwLTk2MDEtM2FlZTAxZDI1Mzk3%40
+ thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a
+ %22%2c%22Oid%22%3a%22e8b7cf7c-22cb-4aae-b899-01ba50998773%22%7d>  \n会议
+  ID: 396 841 224 447 \n密码: Bn23DT6S \n________________________________
+ \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpti
+ ons/?organizerId=e8b7cf7c-22cb-4aae-b899-01ba50998773&tenantId=8d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTQ1ZDMwMmItMDExNi00YTIwLTk2
+ MDEtM2FlZTAxZDI1Mzk3@thread.v2&messageId=0&language=zh-CN>  \n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
+ 9ad7e>  \n________________________________________________________________
+ ________________
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆房BCZDataBaseCenter启动讨论会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论会
+DTSTART;TZID="GMT 标准时间":20250331T140000
+DTEND;TZID="GMT 标准时间":20250331T160000
+CLASS:PUBLIC
+DESCRIPTION:BCZDataBaseCenter  增加油漆房自动排半成品功能，
+ 与专家沟通。\n\n1.油漆房半成品生产流程，资源状况，
+ 订单需求等，特殊要求半成品的限定条件，\n\n2.确定排
+ 产的目标和约束条件（如交货期，人员数量，产能，物
+ 料消耗等）\n\n3.根据需求确定排产的算法（设定规则和
+ 算法）结合订单需求与资源状况，生成初步排产计划。\n
+ \n4.计划调整与优化，可对初步排产计划可进行人工调整
+ 和优化，同时系统自动检查调整后的计划是否满足约束
+ 条件。\n\n\n\n\n_______________________________________________________
+ _________________________\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.mic
+ rosoft.com/l/meetup-join/19%3ameeting_ZThhMWZlYTktOTgyYy00YjdiLWIyZTEtNjMy
+ ZDNmNjVmYTgx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a%22%2c%22Oid%22%3a%22e8b7cf7c-22cb-4aae-b899-01ba50998773%2
+ 2%7d>  \n会议 ID: 389 569 333 664 \n密码: dx96iL3c \n_________________
+ _______________\n\n对于组织者: 会议选项 <https://teams.microsoft.
+ com/meetingOptions/?organizerId=e8b7cf7c-22cb-4aae-b899-01ba50998773&tenan
+ tId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZThhMWZlYTktO
+ TgyYy00YjdiLWIyZTEtNjMyZDNmNjVmYTgx@thread.v2&messageId=0&language=zh-CN> 
+  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-43
+ 6b-832a-1d684ab9ad7e>  \n_________________________________________________
+ _______________________________
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 已取消: 油漆房BCZDataBaseCenter 启用讨论
+ 会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250331T203000
 DTEND;TZID="GMT 标准时间":20250331T210000
 CLASS:PUBLIC
 DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
- xplore Generative AI topics\, share insights\, and showcase exciting proje
- cts!\n\n💡 Want to present or suggest a topic?\nReach out directly to Ca
- tarina Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innov
- ate together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to
-  know about the ContiGPT Community: ContiGPT Community (sharepoint.com) <h
- ttps://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-C
- ommunity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting 
- - add it to your calendar <https://teams.microsoft.com/l/message/19:56fa35
- 8dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&par
- entMessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&
- createdTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetin
- gs - Agenda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly 
- Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams/team
- _10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20reco
- rdings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://contin
- ental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Orga
- nization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlis
- t format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/team
- s/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Conti
- nental: ConNext AI Community <https://connext.conti.de/communities/service
- /html/communitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \
- n\n\n\n\n_________________________________________________________________
- _______________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeti
- ng?omkt=en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetu
- p-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thr
- ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
- %2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID
- : 360 032 415 185 \nPasscode: CL9t2H5t \n________________________________\
- n\nFor organisers: Meeting options <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWE
- wYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&language=en-GB> \nPrivacy and 
- security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d
- 684ab9ad7e> \n____________________________________________________________
- ____________________
+ xplore Generative AI\, AI and Automation topics\, share insights\, and sho
+ wcase exciting projects!\n\n💡 Want to present or suggest a topic?\nReac
+ h out directly to Catarina Rodrigues with your ideas!\nLet’s collaborate
+ \, learn\, and innovate together. See you there!\n\nQuick Links\n\n*	\n	Ev
+ erything you need to know about the ContiGPT Community: ContiGPT Community
+  (sharepoint.com) <https://continental.sharepoint.com/teams/team_10065807/
+ SitePages/ContiGPT-Community.aspx> \n*	\n	Add these meetings to your calen
+ dar: Weekly Meeting - add it to your calendar <https://teams.microsoft.com
+ /l/message/19:56fa358dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-9
+ 4c2-a5bc76cb7243&parentMessageId=1693830314815&teamName=ContiGPT&channelNa
+ me=1%20Organization&createdTime=1693830314815> \n*	Agenda for upcoming mee
+ tings: Weekly Meetings - Agenda <https://continental.sharepoint.com/teams/
+ team_10065807/_layouts/OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAsse
+ ts%2FContiGPT%20Notebook&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A
+ 7-7F29D3E31727%2FWeekly%20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-
+ BE3C3B0EA1A0%2F%29%20onenote:https://continental.sharepoint.com/teams/team
+ _10065807/SiteAssets/ContiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20
+ -%20Agenda&section-id={5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A
+ 464D-4819-4E5E-A4F0-BE3C3B0EA1A0}&end> \n*	Recordings and slides from prev
+ ious meetings:\n\n	*	Weekly Meetings - recordings <https://continental.sha
+ repoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/
+ Weekly%20Meetings%20-%20recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meeti
+ ngs - slides <https://continental.sharepoint.com/:f:/r/teams/team_10065807
+ /Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20slides?csf=1&
+ web=1&e=ogrfmK> \n	*	Playlist format: ContiGPT Sessions <https://continent
+ al.sharepoint.com/:l:/r/teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3
+ ujUP> \n\n*	AI News at Continental: ConNext AI Community <https://connext.
+ conti.de/communities/service/html/communitystart?communityUuid=b4ca9812-0c
+ a7-4a77-ae96-362f811d925f> \n\n\n\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams Need help? <h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-GB> \nJoin the meeting now <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLW
+ EwYzItMjg5YWQwNGQxYTE0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104
+ b929d5fd%22%7d> \nMeeting ID: 360 032 415 185 \nPasscode: CL9t2H5t \n_____
+ ___________________________\n\nFor organisers: Meeting options <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=9dcbc281-c8ae-405d-ae55-8104
+ b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&la
+ nguage=en-GB> \nPrivacy and security <https://filehub.admiralcloud.com/dl/
+ 5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n________________________________
+ ________________________________________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -985,42 +914,49 @@ DTSTART;TZID="GMT 标准时间":20250407T203000
 DTEND;TZID="GMT 标准时间":20250407T210000
 CLASS:PUBLIC
 DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
- xplore Generative AI topics\, share insights\, and showcase exciting proje
- cts!\n\n💡 Want to present or suggest a topic?\nReach out directly to Ca
- tarina Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innov
- ate together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to
-  know about the ContiGPT Community: ContiGPT Community (sharepoint.com) <h
- ttps://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-C
- ommunity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting 
- - add it to your calendar <https://teams.microsoft.com/l/message/19:56fa35
- 8dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&par
- entMessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&
- createdTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetin
- gs - Agenda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly 
- Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams/team
- _10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20reco
- rdings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://contin
- ental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Orga
- nization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlis
- t format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/team
- s/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Conti
- nental: ConNext AI Community <https://connext.conti.de/communities/service
- /html/communitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \
- n\n\n\n\n_________________________________________________________________
- _______________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeti
- ng?omkt=en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetu
- p-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thr
- ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
- %2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID
- : 360 032 415 185 \nPasscode: CL9t2H5t \n________________________________\
- n\nFor organisers: Meeting options <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWE
- wYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&language=en-GB> \nPrivacy and 
- security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d
- 684ab9ad7e> \n____________________________________________________________
- ____________________
+ xplore Generative AI\, AI and Automation topics\, share insights\, and sho
+ wcase exciting projects!\n\n💡 Want to present or suggest a topic?\nReac
+ h out directly to Catarina Rodrigues with your ideas!\nLet’s collaborate
+ \, learn\, and innovate together. See you there!\n\nQuick Links\n\n*	\n	Ev
+ erything you need to know about the ContiGPT Community: ContiGPT Community
+  (sharepoint.com) <https://continental.sharepoint.com/teams/team_10065807/
+ SitePages/ContiGPT-Community.aspx> \n*	\n	Add these meetings to your calen
+ dar: Weekly Meeting - add it to your calendar <https://teams.microsoft.com
+ /l/message/19:56fa358dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-9
+ 4c2-a5bc76cb7243&parentMessageId=1693830314815&teamName=ContiGPT&channelNa
+ me=1%20Organization&createdTime=1693830314815> \n*	Agenda for upcoming mee
+ tings: Weekly Meetings - Agenda <https://continental.sharepoint.com/teams/
+ team_10065807/_layouts/OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAsse
+ ts%2FContiGPT%20Notebook&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A
+ 7-7F29D3E31727%2FWeekly%20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-
+ BE3C3B0EA1A0%2F%29%20onenote:https://continental.sharepoint.com/teams/team
+ _10065807/SiteAssets/ContiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20
+ -%20Agenda&section-id={5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A
+ 464D-4819-4E5E-A4F0-BE3C3B0EA1A0}&end> \n*	Recordings and slides from prev
+ ious meetings:\n\n	*	Weekly Meetings - recordings <https://continental.sha
+ repoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/
+ Weekly%20Meetings%20-%20recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meeti
+ ngs - slides <https://continental.sharepoint.com/:f:/r/teams/team_10065807
+ /Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20slides?csf=1&
+ web=1&e=ogrfmK> \n	*	Playlist format: ContiGPT Sessions <https://continent
+ al.sharepoint.com/:l:/r/teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3
+ ujUP> \n\n*	AI News at Continental: ConNext AI Community <https://connext.
+ conti.de/communities/service/html/communitystart?communityUuid=b4ca9812-0c
+ a7-4a77-ae96-362f811d925f> \n\n\n\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams Need help? <h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-GB> \nJoin the meeting now <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLW
+ EwYzItMjg5YWQwNGQxYTE0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104
+ b929d5fd%22%7d> \nMeeting ID: 360 032 415 185 \nPasscode: CL9t2H5t \n_____
+ ___________________________\n\nFor organisers: Meeting options <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=9dcbc281-c8ae-405d-ae55-8104
+ b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&la
+ nguage=en-GB> \nPrivacy and security <https://filehub.admiralcloud.com/dl/
+ 5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n________________________________
+ ________________________________________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1261,42 +1197,49 @@ DTSTART;TZID="GMT 标准时间":20250414T203000
 DTEND;TZID="GMT 标准时间":20250414T210000
 CLASS:PUBLIC
 DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
- xplore Generative AI topics\, share insights\, and showcase exciting proje
- cts!\n\n💡 Want to present or suggest a topic?\nReach out directly to Ca
- tarina Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innov
- ate together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to
-  know about the ContiGPT Community: ContiGPT Community (sharepoint.com) <h
- ttps://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-C
- ommunity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting 
- - add it to your calendar <https://teams.microsoft.com/l/message/19:56fa35
- 8dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&par
- entMessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&
- createdTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetin
- gs - Agenda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly 
- Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams/team
- _10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20reco
- rdings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://contin
- ental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Orga
- nization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlis
- t format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/team
- s/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Conti
- nental: ConNext AI Community <https://connext.conti.de/communities/service
- /html/communitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \
- n\n\n\n\n_________________________________________________________________
- _______________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeti
- ng?omkt=en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetu
- p-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thr
- ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
- %2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID
- : 360 032 415 185 \nPasscode: CL9t2H5t \n________________________________\
- n\nFor organisers: Meeting options <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWE
- wYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&language=en-GB> \nPrivacy and 
- security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d
- 684ab9ad7e> \n____________________________________________________________
- ____________________
+ xplore Generative AI\, AI and Automation topics\, share insights\, and sho
+ wcase exciting projects!\n\n💡 Want to present or suggest a topic?\nReac
+ h out directly to Catarina Rodrigues with your ideas!\nLet’s collaborate
+ \, learn\, and innovate together. See you there!\n\nQuick Links\n\n*	\n	Ev
+ erything you need to know about the ContiGPT Community: ContiGPT Community
+  (sharepoint.com) <https://continental.sharepoint.com/teams/team_10065807/
+ SitePages/ContiGPT-Community.aspx> \n*	\n	Add these meetings to your calen
+ dar: Weekly Meeting - add it to your calendar <https://teams.microsoft.com
+ /l/message/19:56fa358dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-9
+ 4c2-a5bc76cb7243&parentMessageId=1693830314815&teamName=ContiGPT&channelNa
+ me=1%20Organization&createdTime=1693830314815> \n*	Agenda for upcoming mee
+ tings: Weekly Meetings - Agenda <https://continental.sharepoint.com/teams/
+ team_10065807/_layouts/OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAsse
+ ts%2FContiGPT%20Notebook&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A
+ 7-7F29D3E31727%2FWeekly%20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-
+ BE3C3B0EA1A0%2F%29%20onenote:https://continental.sharepoint.com/teams/team
+ _10065807/SiteAssets/ContiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20
+ -%20Agenda&section-id={5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A
+ 464D-4819-4E5E-A4F0-BE3C3B0EA1A0}&end> \n*	Recordings and slides from prev
+ ious meetings:\n\n	*	Weekly Meetings - recordings <https://continental.sha
+ repoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/
+ Weekly%20Meetings%20-%20recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meeti
+ ngs - slides <https://continental.sharepoint.com/:f:/r/teams/team_10065807
+ /Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20slides?csf=1&
+ web=1&e=ogrfmK> \n	*	Playlist format: ContiGPT Sessions <https://continent
+ al.sharepoint.com/:l:/r/teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3
+ ujUP> \n\n*	AI News at Continental: ConNext AI Community <https://connext.
+ conti.de/communities/service/html/communitystart?communityUuid=b4ca9812-0c
+ a7-4a77-ae96-362f811d925f> \n\n\n\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams Need help? <h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-GB> \nJoin the meeting now <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLW
+ EwYzItMjg5YWQwNGQxYTE0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104
+ b929d5fd%22%7d> \nMeeting ID: 360 032 415 185 \nPasscode: CL9t2H5t \n_____
+ ___________________________\n\nFor organisers: Meeting options <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=9dcbc281-c8ae-405d-ae55-8104
+ b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&la
+ nguage=en-GB> \nPrivacy and security <https://filehub.admiralcloud.com/dl/
+ 5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n________________________________
+ ________________________________________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1673,42 +1616,49 @@ DTSTART;TZID="GMT 标准时间":20250421T203000
 DTEND;TZID="GMT 标准时间":20250421T210000
 CLASS:PUBLIC
 DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
- xplore Generative AI topics\, share insights\, and showcase exciting proje
- cts!\n\n💡 Want to present or suggest a topic?\nReach out directly to Ca
- tarina Rodrigues with your ideas!\nLet’s collaborate\, learn\, and innov
- ate together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to
-  know about the ContiGPT Community: ContiGPT Community (sharepoint.com) <h
- ttps://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-C
- ommunity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting 
- - add it to your calendar <https://teams.microsoft.com/l/message/19:56fa35
- 8dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&par
- entMessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&
- createdTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetin
- gs - Agenda\n*	Recordings and slides from previous meetings:\n\n	*	Weekly 
- Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams/team
- _10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20reco
- rdings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://contin
- ental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Orga
- nization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Playlis
- t format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r/team
- s/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	AI News at Conti
- nental: ConNext AI Community <https://connext.conti.de/communities/service
- /html/communitystart?communityUuid=b4ca9812-0ca7-4a77-ae96-362f811d925f> \
- n\n\n\n\n_________________________________________________________________
- _______________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeti
- ng?omkt=en-GB> \nJoin the meeting now <https://teams.microsoft.com/l/meetu
- p-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0%40thr
- ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
- %2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID
- : 360 032 415 185 \nPasscode: CL9t2H5t \n________________________________\
- n\nFor organisers: Meeting options <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTU0YmRkMzAtZTVkYS00ZjNlLWE
- wYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&language=en-GB> \nPrivacy and 
- security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d
- 684ab9ad7e> \n____________________________________________________________
- ____________________
+ xplore Generative AI\, AI and Automation topics\, share insights\, and sho
+ wcase exciting projects!\n\n💡 Want to present or suggest a topic?\nReac
+ h out directly to Catarina Rodrigues with your ideas!\nLet’s collaborate
+ \, learn\, and innovate together. See you there!\n\nQuick Links\n\n*	\n	Ev
+ erything you need to know about the ContiGPT Community: ContiGPT Community
+  (sharepoint.com) <https://continental.sharepoint.com/teams/team_10065807/
+ SitePages/ContiGPT-Community.aspx> \n*	\n	Add these meetings to your calen
+ dar: Weekly Meeting - add it to your calendar <https://teams.microsoft.com
+ /l/message/19:56fa358dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-9
+ 4c2-a5bc76cb7243&parentMessageId=1693830314815&teamName=ContiGPT&channelNa
+ me=1%20Organization&createdTime=1693830314815> \n*	Agenda for upcoming mee
+ tings: Weekly Meetings - Agenda <https://continental.sharepoint.com/teams/
+ team_10065807/_layouts/OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAsse
+ ts%2FContiGPT%20Notebook&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A
+ 7-7F29D3E31727%2FWeekly%20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-
+ BE3C3B0EA1A0%2F%29%20onenote:https://continental.sharepoint.com/teams/team
+ _10065807/SiteAssets/ContiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20
+ -%20Agenda&section-id={5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A
+ 464D-4819-4E5E-A4F0-BE3C3B0EA1A0}&end> \n*	Recordings and slides from prev
+ ious meetings:\n\n	*	Weekly Meetings - recordings <https://continental.sha
+ repoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/
+ Weekly%20Meetings%20-%20recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meeti
+ ngs - slides <https://continental.sharepoint.com/:f:/r/teams/team_10065807
+ /Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20slides?csf=1&
+ web=1&e=ogrfmK> \n	*	Playlist format: ContiGPT Sessions <https://continent
+ al.sharepoint.com/:l:/r/teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3
+ ujUP> \n\n*	AI News at Continental: ConNext AI Community <https://connext.
+ conti.de/communities/service/html/communitystart?communityUuid=b4ca9812-0c
+ a7-4a77-ae96-362f811d925f> \n\n\n\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams Need help? <h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-GB> \nJoin the meeting now <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLW
+ EwYzItMjg5YWQwNGQxYTE0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104
+ b929d5fd%22%7d> \nMeeting ID: 360 032 415 185 \nPasscode: CL9t2H5t \n_____
+ ___________________________\n\nFor organisers: Meeting options <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=9dcbc281-c8ae-405d-ae55-8104
+ b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&la
+ nguage=en-GB> \nPrivacy and security <https://filehub.admiralcloud.com/dl/
+ 5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n________________________________
+ ________________________________________________
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1800,6 +1750,93 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250423T083500
+DTEND;TZID="GMT 标准时间":20250423T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID="GMT 标准时间":20250423T153000
+DTEND;TZID="GMT 标准时间":20250423T163000
+CLASS:PUBLIC
+DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
+ mat (MS Teams meeting) on voluntary basis to exchange on certain topics. T
+ he RPA Developers Worldwide Open Calls are open to all RPA developers with
+ in our company. You can find them in our Teams Channel <https://teams.micr
+ osoft.com/l/team/19%3a9191061964d64edb9545595010c7695b%40thread.skype/conv
+ ersations?groupId=4a4577f4-67aa-4da6-95fa-d3e4fec19f4f&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a>  or on the Events <https://connext.conti.de/co
+ mmunities/service/html/communityoverview?communityUuid=a1ba9e40-8068-4b42-
+ bbf8-a637e36fa236#fullpageWidgetId=We9e88e6afcf8_43df_8d1f_55634a5e422b>  
+ page of this community.\n\nThe idea of the call is to facilitate knowledge
+  sharing across all organizations related to technical RPA subjects.\n\nBy
+  RPA developers for RPA developers.\n\n \n\n\n🤝 What is in for you?  ->
+  Our promise:\n\n\n💡          you will hear about technical updates\n\n
+ 🚀         learn about RPA developers best practices\n\n🌎         sha
+ ring of RPA approach and projects in different locations\n\n👨‍👨‍
+ 👦        meet RPA developers all around the globe \n\n \n\n\n👨‍
+ 👦‍👦 Audience\n\n\nAll enthusiastic RPA developers in Continental f
+ rom all around the world\, from different functions and different Group Se
+ ctors or Business Areas. \n\n \n\n\n👄 Language\n\n\nEnglish\n\n \n\n\n
+ ⏰ Time\n\n\n*	every fourth Wednesday/Thursday of the month\n*	1 hour ful
+ l of valuable content\n*	Option 1: 9:30 - 10:30 am CET (Wednesday)\n*	Opti
+ on 2: 4:00 - 5:00 pm CET  (Thursday)\n\n\n📋 Basic Agenda\n\n\n1.	Microl
+ earning (max. 5 min) What is a Microlearning? 🔗 <https://connext.conti.
+ de/wikis/home?lang=en#!/wiki/W965feafa2312_41f6_b6c9_63bbc7c9a59b/page/NWS
+ %20Microlearning> \n\n	1.	e.g. Watch '💡 How to integrate 🤖 UiPath St
+ udio with GitHub 🔄' | Microsoft Stream (Classic) <https://web.microsoft
+ stream.com/video/a1397497-d688-4f70-9694-adf09798cf08?list=user&userId=e3c
+ 22986-c061-4329-b5a7-1727ea5a346e> \n\n2.	Updates of Platform & Infrastruc
+ ture Topics\n\n	1.	e.g. Watch 'RPA Basic Platform Training 06_2022_Part_1'
+  | Microsoft Stream (Classic) <https://web.microsoftstream.com/video/e33a0
+ d9d-d464-446f-ac3f-3530248c3343> \n\n3.	RPA solutions and projects sharing
+ \n4.	Best practices\n5.	Q&A\n\n\n\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams Need help? <h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https:
+ //teams.microsoft.com/l/meetup-join/19%3a0a53d13422fa4c21a703569ee88cc19b%
+ 40thread.skype/1715063115837?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aab3a36c-5006-4b10-837e-26662ef60823
+ %22%7d>  \nMeeting ID: 372 086 914 606 \nPasscode: v8te2n \n______________
+ __________________\n\nFor organizers: Meeting options <https://teams.micro
+ soft.com/meetingOptions/?organizerId=aab3a36c-5006-4b10-837e-26662ef60823&
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21
+ a703569ee88cc19b@thread.skype&messageId=1715063115837&language=en-US>  | R
+ eset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>
+   \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
+ _____________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
