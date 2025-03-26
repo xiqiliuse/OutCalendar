@@ -5,137 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250325T083500
-DTEND;TZID="GMT 标准时间":20250325T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO L2 Weekly Review
-DTSTART;TZID="GMT 标准时间":20250325T093000
-DTEND;TZID="GMT 标准时间":20250325T100000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:维修会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO L2 Weekly Review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP部门周会
-DTSTART;TZID="GMT 标准时间":20250325T101500
-DTEND;TZID="GMT 标准时间":20250325T110000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
- 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
- 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: SP 色度&油漆&色母粒每周生产回顾会
-DTSTART;TZID="GMT 标准时间":20250325T101500
-DTEND;TZID="GMT 标准时间":20250325T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear All：\n\n   考虑到有的部门10点前还在开其他
- 会议，所以SP周会后续时间改为:  10:15-11:00\,麻烦各位准
- 时参加，谢谢！\n\n   \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: SP 色度&油漆&色母粒每周生产回顾会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:挤出析出应对
-DTSTART;TZID="GMT 标准时间":20250325T123000
-DTEND;TZID="GMT 标准时间":20250325T130000
-CLASS:PUBLIC
-DESCRIPTION:最近挤出机析出较多，看下有没有好的应对措
- 施！\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:挤出析出应对
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 已取消: Hylite & Cut&Sew Review
-DTSTART;TZID="GMT 标准时间":20250325T130000
-DTEND;TZID="GMT 标准时间":20250325T140000
-CLASS:PUBLIC
-DESCRIPTION:由于Hylite & Cut&Sew产品报废率特别高，我们每周R
- eview一下该产品的生产异常。\n\n________________________________
- ________________________________________________\n\nMicrosoft Teams 是否
- 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
- 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWU3ODE0
- MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-1
- 2d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 317 713 593 220 \n\n密
- 码: xBZybo \n\n________________________________\n\n对于组织者: 会
- 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf3641
- 6-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
- a&threadId=19_meeting_YWU3ODE0MTAtZjhiNS00MjIzLTkyMDctNWY1MmI3ZGNmNTRh@thr
- ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
- dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
- ______________________________________________________________________\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Database review 
-DTSTART;TZID="GMT 标准时间":20250325T150000
-DTEND;TZID="GMT 标准时间":20250325T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Database review 
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250326T083500
 DTEND;TZID="GMT 标准时间":20250326T090500
 CLASS:PUBLIC
@@ -159,59 +28,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS Sprint in SSL China
-DTSTART;TZID="GMT 标准时间":20250326T110000
-DTEND;TZID="GMT 标准时间":20250326T113000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\n邀请大家一起确认一下Sprint 2.0系
- 统里的数据，详情请见以下邮件，谢谢！\n\n \n\n___________
- __________________________________\n发件人: Chen\, Jiang <Jiang.Chen@co
- ntinental.com> \n发送时间: 2025年3月21日 10:50\n收件人: Liu\, Gu
- angyuan <guangyuan.liu@benecke-changzhou.com.cn>\; Huang\, Qing <Qing.Huan
- g@benecke-changshun.com.cn>\; Zhan\, Lei <lei.zhan@continental.com>\; Chen
- g\, Yuanjian <Yuanjian.Cheng@contitech.cn>\; Wang\, Lei13 <onel.wang@benec
- ke-changzhou.com.cn>\; Chen\, Miaoyan <Miaoyan.Chen@benecke-changshun.com.
- cn>\; Xin\, Donglei <donglei.xin@continental.com>\n抄送: Chen\, Lee <xin
- gwang.chen@benecke-changzhou.com.cn>\; Tian\, Richard <ming.tian@benecke-c
- hangshun.com.cn>\; Liu\, Yi07 <yi.7.liu@continental.com>\; Qian\, Quick <z
- hengkai.qian@continental.com>\; Li\, Min05 <min.5.li@contitech.cn>\; Chen\
- , Jiang <Jiang.Chen@continental.com>\n主题: FW: CBS Sprint in SSL China\
- n\n \n\nHello Buddies\,\n\n \n\nAs new Sprint 2.0 system go live on last F
- riday\, also emphasize during network meeting. Pls work together with loca
- l system key user and plant controlling for the following items by Mar.:\n
- \n*  Check data transfer quality from old Sprint system especially saving 
- will continue happen in 2025\n\n*  Upload or update 2025 projects in case 
- still not maintained yet (pls consider BA controlling CSP target)\n\n*  Do
- uble check and maintained in system\, CBS related or not base on offline d
- iscussion for 2025 projects\n\n \n\nFrom now on\, all the monthly saving d
- ata need to be maintained in the new system. \n\nBTW\, you can check the m
- ail history\, SSL operation management team also pay attention on the CBS 
- CSP. So let’s continue to think and discuss how CBS further contribute t
- o this.\n\n \n\nSPRINT 2.0 - Homepage <https://sprint.clap.conti.de/>  \n\
- n\n\n \n\nBR\n\nJ.Chen\n\n \n\nInternal\n\n \n\nInternal\n\nFrom: Pooten\,
-  Peter Johannes <peter.johannes.pooten@contitech.de <mailto:peter.johannes
- .pooten@contitech.de> > \nSent: Wednesday\, March 19\, 2025 10:16 PM\nTo: 
- Li\, Min05 <min.5.li@contitech.cn <mailto:min.5.li@contitech.cn> >\nSubjec
- t: CBS Sprint in SSL\n\n \n\nHello Karl\,\n\n \n\nI just got an informatio
- n from Steffen Reinsch\, that in China no CBS related projects are in the 
- Sprint system.\n\n \n\nCan you please check and ask your colleagues?\n\n \
- n\nBest\n\nPeter\n\n \n\nMit freundlichen Grüßen / Best regards\, \n\n \
- n\nPeter Johannes Pooten\n\nCentral CBS Coach (Overview - ContiTech CBS <h
- ttps://connext.conti.de/communities/service/html/communitystart?communityU
- uid=f3a3f401-3156-4700-881e-d74e0c4ec314> )\nContiTech Operations\n\nCentr
- al Functions\n\n \n\nAddress: Continental AG \n\nContinental Plaza 1\, D-3
- 0175 Hannover\n\n \n\nTel.: +49 (0) 151 52675769\n\nE-Mail: peter.johannes
- .pooten@contitech.de <mailto:peter.johannes.pooten@contitech.de>  \n\n \n\
- n\n\n \n\n \n\nInternal\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:CBS Sprint in SSL China
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -313,6 +129,67 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBS Sprint in SSL China
+DTSTART;TZID="GMT 标准时间":20250327T093000
+DTEND;TZID="GMT 标准时间":20250327T100000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n邀请大家一起确认一下Sprint 2.0系
+ 统里的数据，详情请见以下邮件，谢谢！\n\n \n\n___________
+ __________________________________\n发件人: Chen\, Jiang <Jiang.Chen@co
+ ntinental.com <mailto:Jiang.Chen@continental.com> > \n发送时间: 2025
+ 年3月21日 10:50\n收件人: Liu\, Guangyuan <guangyuan.liu@benecke-chan
+ gzhou.com.cn <mailto:guangyuan.liu@benecke-changzhou.com.cn> >\; Huang\, Q
+ ing <Qing.Huang@benecke-changshun.com.cn <mailto:Qing.Huang@benecke-changs
+ hun.com.cn> >\; Zhan\, Lei <lei.zhan@continental.com <mailto:lei.zhan@cont
+ inental.com> >\; Cheng\, Yuanjian <Yuanjian.Cheng@contitech.cn <mailto:Yua
+ njian.Cheng@contitech.cn> >\; Wang\, Lei13 <onel.wang@benecke-changzhou.co
+ m.cn <mailto:onel.wang@benecke-changzhou.com.cn> >\; Chen\, Miaoyan <Miaoy
+ an.Chen@benecke-changshun.com.cn <mailto:Miaoyan.Chen@benecke-changshun.co
+ m.cn> >\; Xin\, Donglei <donglei.xin@continental.com <mailto:donglei.xin@c
+ ontinental.com> >\n抄送: Chen\, Lee <xingwang.chen@benecke-changzhou.com
+ .cn <mailto:xingwang.chen@benecke-changzhou.com.cn> >\; Tian\, Richard <mi
+ ng.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-changshun.com.c
+ n> >\; Liu\, Yi07 <yi.7.liu@continental.com <mailto:yi.7.liu@continental.c
+ om> >\; Qian\, Quick <zhengkai.qian@continental.com <mailto:zhengkai.qian@
+ continental.com> >\; Li\, Min05 <min.5.li@contitech.cn <mailto:min.5.li@co
+ ntitech.cn> >\; Chen\, Jiang <Jiang.Chen@continental.com <mailto:Jiang.Che
+ n@continental.com> >\n主题: FW: CBS Sprint in SSL China\n\n \n\nHello Bu
+ ddies\,\n\n \n\nAs new Sprint 2.0 system go live on last Friday\, also emp
+ hasize during network meeting. Pls work together with local system key use
+ r and plant controlling for the following items by Mar.:\n\n*  Check data 
+ transfer quality from old Sprint system especially saving will continue ha
+ ppen in 2025\n\n*  Upload or update 2025 projects in case still not mainta
+ ined yet (pls consider BA controlling CSP target)\n\n*  Double check and m
+ aintained in system\, CBS related or not base on offline discussion for 20
+ 25 projects\n\n \n\nFrom now on\, all the monthly saving data need to be m
+ aintained in the new system. \n\nBTW\, you can check the mail history\, SS
+ L operation management team also pay attention on the CBS CSP. So let’s 
+ continue to think and discuss how CBS further contribute to this.\n\n \n\n
+ SPRINT 2.0 - Homepage <https://sprint.clap.conti.de/>  \n\n\n\n \n\nBR\n\n
+ J.Chen\n\n \n\nInternal\n\n \n\nInternal\n\nFrom: Pooten\, Peter Johannes 
+ <peter.johannes.pooten@contitech.de <mailto:peter.johannes.pooten@contitec
+ h.de> > \nSent: Wednesday\, March 19\, 2025 10:16 PM\nTo: Li\, Min05 <min.
+ 5.li@contitech.cn <mailto:min.5.li@contitech.cn> >\nSubject: CBS Sprint in
+  SSL\n\n \n\nHello Karl\,\n\n \n\nI just got an information from Steffen R
+ einsch\, that in China no CBS related projects are in the Sprint system.\n
+ \n \n\nCan you please check and ask your colleagues?\n\n \n\nBest\n\nPeter
+ \n\n \n\nMit freundlichen Grüßen / Best regards\, \n\n \n\nPeter Johanne
+ s Pooten\n\nCentral CBS Coach (Overview - ContiTech CBS <https://connext.c
+ onti.de/communities/service/html/communitystart?communityUuid=f3a3f401-315
+ 6-4700-881e-d74e0c4ec314> )\nContiTech Operations\n\nCentral Functions\n\n
+  \n\nAddress: Continental AG \n\nContinental Plaza 1\, D-30175 Hannover\n\
+ n \n\nTel.: +49 (0) 151 52675769\n\nE-Mail: peter.johannes.pooten@contitec
+ h.de <mailto:peter.johannes.pooten@contitech.de>  \n\n \n\n\n\n \n\n \n\nI
+ nternal\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CBS Sprint in SSL China
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -605,59 +482,16 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ContiGPT Weekly Meeting
+SUMMARY:Canceled: ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250331T203000
 DTEND;TZID="GMT 标准时间":20250331T210000
 CLASS:PUBLIC
-DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
- xplore Generative AI\, AI and Automation topics\, share insights\, and sho
- wcase exciting projects!\n\n💡 Want to present or suggest a topic?\nReac
- h out directly to Catarina Rodrigues with your ideas!\nLet’s collaborate
- \, learn\, and innovate together. See you there!\n\nQuick Links\n\n*	\n	Ev
- erything you need to know about the ContiGPT Community: ContiGPT Community
-  (sharepoint.com) <https://continental.sharepoint.com/teams/team_10065807/
- SitePages/ContiGPT-Community.aspx> \n*	\n	Add these meetings to your calen
- dar: Weekly Meeting - add it to your calendar <https://teams.microsoft.com
- /l/message/19:56fa358dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?
- tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-9
- 4c2-a5bc76cb7243&parentMessageId=1693830314815&teamName=ContiGPT&channelNa
- me=1%20Organization&createdTime=1693830314815> \n*	Agenda for upcoming mee
- tings: Weekly Meetings - Agenda <https://continental.sharepoint.com/teams/
- team_10065807/_layouts/OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAsse
- ts%2FContiGPT%20Notebook&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A
- 7-7F29D3E31727%2FWeekly%20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-
- BE3C3B0EA1A0%2F%29%20onenote:https://continental.sharepoint.com/teams/team
- _10065807/SiteAssets/ContiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20
- -%20Agenda&section-id={5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A
- 464D-4819-4E5E-A4F0-BE3C3B0EA1A0}&end> \n*	Recordings and slides from prev
- ious meetings:\n\n	*	Weekly Meetings - recordings <https://continental.sha
- repoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/
- Weekly%20Meetings%20-%20recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meeti
- ngs - slides <https://continental.sharepoint.com/:f:/r/teams/team_10065807
- /Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%20slides?csf=1&
- web=1&e=ogrfmK> \n	*	Playlist format: ContiGPT Sessions <https://continent
- al.sharepoint.com/:l:/r/teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3
- ujUP> \n\n*	AI News at Continental: ConNext AI Community <https://connext.
- conti.de/communities/service/html/communitystart?communityUuid=b4ca9812-0c
- a7-4a77-ae96-362f811d925f> \n\n\n\n\n_____________________________________
- ___________________________________________\nMicrosoft Teams Need help? <h
- ttps://aka.ms/JoinTeamsMeeting?omkt=en-GB> \nJoin the meeting now <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_OTU0YmRkMzAtZTVkYS00ZjNlLW
- EwYzItMjg5YWQwNGQxYTE0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104
- b929d5fd%22%7d> \nMeeting ID: 360 032 415 185 \nPasscode: CL9t2H5t \n_____
- ___________________________\n\nFor organisers: Meeting options <https://te
- ams.microsoft.com/meetingOptions/?organizerId=9dcbc281-c8ae-405d-ae55-8104
- b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _OTU0YmRkMzAtZTVkYS00ZjNlLWEwYzItMjg5YWQwNGQxYTE0@thread.v2&messageId=0&la
- nguage=en-GB> \nPrivacy and security <https://filehub.admiralcloud.com/dl/
- 5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n________________________________
- ________________________________________________
+DESCRIPTION:No session this week. See you in April!
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
+DESCRIPTION:Canceled: ContiGPT Weekly Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2012,6 +1846,93 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250424T083500
+DTEND;TZID="GMT 标准时间":20250424T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID="GMT 标准时间":20250424T220000
+DTEND;TZID="GMT 标准时间":20250424T230000
+CLASS:PUBLIC
+DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
+ mat (MS Teams meeting) on voluntary basis to exchange on certain topics. T
+ he RPA Developers Worldwide Open Calls are open to all RPA developers with
+ in our company. You can find them in our Teams Channel <https://teams.micr
+ osoft.com/l/team/19%3a9191061964d64edb9545595010c7695b%40thread.skype/conv
+ ersations?groupId=4a4577f4-67aa-4da6-95fa-d3e4fec19f4f&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a>  or on the Events <https://connext.conti.de/co
+ mmunities/service/html/communityoverview?communityUuid=a1ba9e40-8068-4b42-
+ bbf8-a637e36fa236#fullpageWidgetId=We9e88e6afcf8_43df_8d1f_55634a5e422b>  
+ page of this community.\n\nThe idea of the call is to facilitate knowledge
+  sharing across all organizations related to technical RPA subjects.\n\nBy
+  RPA developers for RPA developers.\n\n \n\n\n🤝 What is in for you?  ->
+  Our promise:\n\n\n💡          you will hear about technical updates\n\n
+ 🚀         learn about RPA developers best practices\n\n🌎         sha
+ ring of RPA approach and projects in different locations\n\n👨‍👨‍
+ 👦        meet RPA developers all around the globe \n\n \n\n\n👨‍
+ 👦‍👦 Audience\n\n\nAll enthusiastic RPA developers in Continental f
+ rom all around the world\, from different functions and different Group Se
+ ctors or Business Areas. \n\n \n\n\n👄 Language\n\n\nEnglish\n\n \n\n\n
+ ⏰ Time\n\n\n*	every fourth Wednesday/Thursday of the month\n*	1 hour ful
+ l of valuable content\n*	Option 1: 9:30 - 10:30 am CET (Wednesday)\n*	Opti
+ on 2: 4:00 - 5:00 pm CET  (Thursday)\n\n\n📋 Basic Agenda\n\n\n1.	Microl
+ earning (max. 5 min) What is a Microlearning? 🔗 <https://connext.conti.
+ de/wikis/home?lang=en#!/wiki/W965feafa2312_41f6_b6c9_63bbc7c9a59b/page/NWS
+ %20Microlearning> \n\n	1.	e.g. Watch '💡 How to integrate 🤖 UiPath St
+ udio with GitHub 🔄' | Microsoft Stream (Classic) <https://web.microsoft
+ stream.com/video/a1397497-d688-4f70-9694-adf09798cf08?list=user&userId=e3c
+ 22986-c061-4329-b5a7-1727ea5a346e> \n\n2.	Updates of Platform & Infrastruc
+ ture Topics\n\n	1.	e.g. Watch 'RPA Basic Platform Training 06_2022_Part_1'
+  | Microsoft Stream (Classic) <https://web.microsoftstream.com/video/e33a0
+ d9d-d464-446f-ac3f-3530248c3343> \n\n3.	RPA solutions and projects sharing
+ \n4.	Best practices\n5.	Q&A\n\n\n\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams Need help? <h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https:
+ //teams.microsoft.com/l/meetup-join/19%3a0a53d13422fa4c21a703569ee88cc19b%
+ 40thread.skype/1715063448155?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aab3a36c-5006-4b10-837e-26662ef60823
+ %22%7d>  \nMeeting ID: 329 844 894 596 \nPasscode: bURHgQ \n______________
+ __________________\n\nFor organizers: Meeting options <https://teams.micro
+ soft.com/meetingOptions/?organizerId=aab3a36c-5006-4b10-837e-26662ef60823&
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21
+ a703569ee88cc19b@thread.skype&messageId=1715063448155&language=en-US>  | R
+ eset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>
+   \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
+ _____________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
