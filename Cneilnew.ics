@@ -323,6 +323,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BYD SC2E 切换
+DTSTART;TZID="GMT 标准时间":20250328T143000
+DTEND;TZID="GMT 标准时间":20250328T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjQ0NGE1MDctMTQ1Yy00YTY1LTk4ZTgtYW
+ FlMGE1OTBjNzcy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ %22%7d>  \n\n会议 ID: 338 281 824 586 \n\n密码: T3RN7kd3 \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680
+ eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YjQ0N
+ GE1MDctMTQ1Yy00YTY1LTk4ZTgtYWFlMGE1OTBjNzcy@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BYD SC2E 切换
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Project review 
 DTSTART;TZID="GMT 标准时间":20250328T150000
 DTEND;TZID="GMT 标准时间":20250328T160000
@@ -389,8 +416,8 @@ DESCRIPTION:Dear all\,\n\n \n\nPls. upload your project A3 report or proje
  20strategy/2025%20monthly%20review%20meeting/20250331/strategy%20project%2
  0report?csf=1&web=1&e=LFefIQ> \, update  TNM2025.xlsx <https://continental
  .sharepoint.com/:x:/r/teams/team_10069384-2025strategy/Shared%20Documents/
- 2025%20strategy/2025%20TNM/TNM2025.xlsx?d=w65acae1e5e5b4a3ab356bb5b0756dba
- f&csf=1&web=1&e=MzQtr2> (all KPIs not only TNM KPI) and  meeting minutes.x
+ 2025%20strategy/2025%20TNM/TNM2025.xlsx?d=w2c3649b135ba4689b28c0222baebade
+ 4&csf=1&web=1&e=jCI7Fp> (all KPIs not only TNM KPI) and  meeting minutes.x
  lsx <https://continental.sharepoint.com/:x:/r/teams/team_10069384-2025stra
  tegy/Shared%20Documents/2025%20strategy/2025%20monthly%20review%20meeting/
  meeting%20minutes.xlsx?d=wfad6003009ec4185bc8ac5b5e291e587&csf=1&web=1&e=h
@@ -624,6 +651,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:已取消: 已取消: Hylite & Cut&Sew Review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX1 EX2可转移料号
+DTSTART;TZID="GMT 标准时间":20250401T160000
+DTEND;TZID="GMT 标准时间":20250401T170000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX1 EX2可转移料号
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
