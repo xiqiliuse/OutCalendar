@@ -32,38 +32,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plant strategy project and 2025 TNM monthly review meeting
-DTSTART;TZID="GMT 标准时间":20250331T103000
-DTEND;TZID="GMT 标准时间":20250331T120000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\nPls. upload your project A3 report or proje
- ct management report to  strategy project report <https://continental.shar
- epoint.com/:f:/r/teams/team_10069384-2025strategy/Shared%20Documents/2025%
- 20strategy/2025%20monthly%20review%20meeting/20250331/strategy%20project%2
- 0report?csf=1&web=1&e=LFefIQ> \, update  TNM2025.xlsx <https://continental
- .sharepoint.com/:x:/r/teams/team_10069384-2025strategy/Shared%20Documents/
- 2025%20strategy/2025%20TNM/TNM2025.xlsx?d=w2c3649b135ba4689b28c0222baebade
- 4&csf=1&web=1&e=jCI7Fp> (all KPIs not only TNM KPI) and  meeting minutes.x
- lsx <https://continental.sharepoint.com/:x:/r/teams/team_10069384-2025stra
- tegy/Shared%20Documents/2025%20strategy/2025%20monthly%20review%20meeting/
- meeting%20minutes.xlsx?d=wfad6003009ec4185bc8ac5b5e291e587&csf=1&web=1&e=h
- ZINwV>  before meeting.\n\n \n\nMV KPI need to report action implementatio
- n in the meeting\, pls. upload action implementation information to  Gap K
- PI action implementation <https://continental.sharepoint.com/:f:/r/teams/t
- eam_10069384-2025strategy/Shared%20Documents/2025%20strategy/2025%20monthl
- y%20review%20meeting/20250331/Gap%20KPI%20action%20implementation?csf=1&we
- b=1&e=mioLPC>  if you have. \n\n \n\nIf you have any problems\, pls. conta
- ct me.\n\n \n\nThank you very much!\n\n \n\nBest Regards\,\n\nFiona Huang\
- n\n \n
-LOCATION:TE_ZG_MR_CBC305_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Plant strategy project and 2025 TNM monthly review meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:油漆房BCZDataBaseCenter启动讨论会
 DTSTART;TZID="GMT 标准时间":20250331T140000
 DTEND;TZID="GMT 标准时间":20250331T160000
@@ -478,6 +446,41 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plant strategy project and 2025 TNM monthly review meeting
+DTSTART;TZID="GMT 标准时间":20250407T100000
+DTEND;TZID="GMT 标准时间":20250407T113000
+CLASS:PUBLIC
+DESCRIPTION:Reschedule meeting due to temporary business trip of several c
+ olleagues.\n\n \n\n-------------------------------------------------------
+ --------------------------------------------------------------------------
+ -------------------------------------\n\nDear all\,\n\n \n\nPls. upload yo
+ ur project A3 report or project management report to  strategy project rep
+ ort <https://continental.sharepoint.com/:f:/r/teams/team_10069384-2025stra
+ tegy/Shared%20Documents/2025%20strategy/2025%20monthly%20review%20meeting/
+ 20250331/strategy%20project%20report?csf=1&web=1&e=LFefIQ> \, update  TNM2
+ 025.xlsx <https://continental.sharepoint.com/:x:/r/teams/team_10069384-202
+ 5strategy/Shared%20Documents/2025%20strategy/2025%20TNM/TNM2025.xlsx?d=w2c
+ 3649b135ba4689b28c0222baebade4&csf=1&web=1&e=jCI7Fp> (all KPIs not only TN
+ M KPI) and  meeting minutes.xlsx <https://continental.sharepoint.com/:x:/r
+ /teams/team_10069384-2025strategy/Shared%20Documents/2025%20strategy/2025%
+ 20monthly%20review%20meeting/meeting%20minutes.xlsx?d=wfad6003009ec4185bc8
+ ac5b5e291e587&csf=1&web=1&e=hZINwV>  before meeting.\n\n \n\nMV KPI need t
+ o report action implementation in the meeting\, pls. upload action impleme
+ ntation information to  Gap KPI action implementation <https://continental
+ .sharepoint.com/:f:/r/teams/team_10069384-2025strategy/Shared%20Documents/
+ 2025%20strategy/2025%20monthly%20review%20meeting/20250331/Gap%20KPI%20act
+ ion%20implementation?csf=1&web=1&e=mioLPC>  if you have. \n\n \n\nIf you h
+ ave any problems\, pls. contact me.\n\n \n\nThank you very much!\n\n \n\nB
+ est Regards\,\n\nFiona Huang\n\n \n
+LOCATION:TE_ZG_MR_CBC305_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plant strategy project and 2025 TNM monthly review meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
