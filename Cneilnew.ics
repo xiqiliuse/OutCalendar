@@ -394,6 +394,37 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Option 1: Short Term Incentive 2025 Change Communication 浮动非
+ 工资短期激励计划（2025版）变化沟通
+DTSTART;TZID="GMT 标准时间":20250407T130000
+DTEND;TZID="GMT 标准时间":20250407T131500
+CLASS:PUBLIC
+DESCRIPTION:Hi All\,\n\n \n\nTo book your time for the Short Term Incentiv
+ e 2025 Change Communication.\n\n \n\nPlease ensure your attendance in one 
+ of the 2 options. Thank you!\n\n \n\n_____________________________________
+ ___________________________________________\n\nMicrosoft Teams 是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWUyNzMwZTA
+ tZGI1OC00MjRiLTk2NDctZDkzNzkxZGQyZjYx%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22885c1b50-8a41
+ -4b27-bb4f-77f7f82e67a5%22%7d>  \n\n会议 ID: 330 208 105 281 \n\n密码:
+  Gj98un7X \n\n________________________________\n\n对于组织者: 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=885c1b50-8
+ a41-4b27-bb4f-77f7f82e67a5&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_MWUyNzMwZTAtZGI1OC00MjRiLTk2NDctZDkzNzkxZGQyZjYx@thread
+ .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
+ ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
+ ___________________________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Option 1: Short Term Incentive 2025 Change Communication 浮
+ 动非工资短期激励计划（2025版）变化沟通
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
 DTSTART;TZID="GMT 标准时间":20250407T203000
 DTEND;TZID="GMT 标准时间":20250407T210000
@@ -561,6 +592,37 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Option 2: Short Term Incentive 2025 Change Communication 浮动非
+ 工资短期激励计划（2025版）变化沟通
+DTSTART;TZID="GMT 标准时间":20250409T130000
+DTEND;TZID="GMT 标准时间":20250409T131500
+CLASS:PUBLIC
+DESCRIPTION:Hi All\,\n\n \n\nTo book your time for the Short Term Incentiv
+ e 2025 Change Communication.\n\n \n\nPlease ensure your attendance in one 
+ of the 2 options. Thank you!\n\n \n\n_____________________________________
+ ___________________________________________\n\nMicrosoft Teams 是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjEyOWE1MDQ
+ tN2VkNi00MjllLTgxMDAtODhlNmU5NmEzOTgy%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22885c1b50-8a41
+ -4b27-bb4f-77f7f82e67a5%22%7d>  \n\n会议 ID: 341 053 314 153 \n\n密码:
+  9B2c776n \n\n________________________________\n\n对于组织者: 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=885c1b50-8
+ a41-4b27-bb4f-77f7f82e67a5&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_ZjEyOWE1MDQtN2VkNi00MjllLTgxMDAtODhlNmU5NmEzOTgy@thread
+ .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
+ ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
+ ___________________________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Option 2: Short Term Incentive 2025 Change Communication 浮
+ 动非工资短期激励计划（2025版）变化沟通
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
