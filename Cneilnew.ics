@@ -292,6 +292,36 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPV切换kick off
+DTSTART;TZID="GMT 标准时间":20250407T160000
+DTEND;TZID="GMT 标准时间":20250407T170000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位：\n\n国产TPV粒子Dawn D-85A（XR67084）在20
+ 23年已经完成了开发验证，至今仍未搭载项目使用，邀请
+ 大家一起讨论TPV切换事宜，还请各位支持！\n\n_____________
+ ___________________________________________________________________\n\nMic
+ rosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-
+ CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%
+ 3ameeting_OGZmZjcwYzktZTc4Zi00MDE5LWIyMzgtYmMxZmZiMzljOWYx%40thread.v2/0?c
+ ontext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%
+ 22%3a%227c604b22-261c-427c-ac76-7247982d3dce%22%7d>  \n\n会议 ID: 374 05
+ 9 491 84 \n\n密码: fP39Aj3V \n\n________________________________\n\n对
+ 于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?or
+ ganizerId=7c604b22-261c-427c-ac76-7247982d3dce&tenantId=8d4b558f-7b2e-40ba
+ -ad1f-e04d79e6265a&threadId=19_meeting_OGZmZjcwYzktZTc4Zi00MDE5LWIyMzgtYmM
+ xZmZiMzljOWYx@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <
+ https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e
+ >  \n\n___________________________________________________________________
+ _____________\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC221_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPV切换kick off
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: ContiGPT Regular Meeting
 DTSTART;TZID="GMT 标准时间":20250407T203000
 DTEND;TZID="GMT 标准时间":20250407T210000
