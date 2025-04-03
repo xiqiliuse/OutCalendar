@@ -32,20 +32,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:析出回顾
-DTSTART;TZID="GMT 标准时间":20250403T100000
-DTEND;TZID="GMT 标准时间":20250403T110000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:析出回顾
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:清明节
 DTSTART;TZID="GMT 标准时间":20250404T000000
 DTEND;TZID="GMT 标准时间":20250405T000000
@@ -229,6 +215,20 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Option 1: Short Term Incentive 2025 Change Communication 浮
  动非工资短期激励计划（2025版）变化沟通
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:析出回顾
+DTSTART;TZID="GMT 标准时间":20250407T140000
+DTEND;TZID="GMT 标准时间":20250407T150000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:析出回顾
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1049,6 +1049,38 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CP控制计划（新版）培训
+DTSTART;TZID="GMT 标准时间":20250422T085500
+DTEND;TZID="GMT 标准时间":20250422T170000
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n请大家关注培训前须知：（完整
+ 版培训须知见附件）\n\n \n\n*  培训学员分为必选学员及
+ 可选学员（名单见附件，由部门经理提名），必选学员
+ 如无特殊原因应确保出席，如不能出席应提前至少3天向
+ 部门经理及培训组织者邮件说明原因；\n\n*  请收到培训
+ 邀请的所有学员在一周内响应是否出席；\n\n*  响应出席
+ 的学员应提前协调好工作安排，建议同时通知到内外部
+ 客户并做好代理人安排； \n\n*  培训当天，学员应提前1-5
+ 分钟到场签到，每半天签到一次；\n\n \n\n请各位提前安
+ 排好工作，准时参加培训，谢谢！\n\n \n\n如有任何疑问
+ ，请与我联系！\n\n \n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\
+ nHR Training Specilist\n\nContiTech Surface Solutions\n\n \n\nBesucheradre
+ sse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\,
+  Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限公司\n\nN
+ o.8\,Changyang Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\
+ , P.R.China \n江苏省张家港市金港镇南沙长阳路8号 215632\n\n
+  \n\nMobile: +86 19941958802\n\nE-mail: Jialei.xue@benecke-changshun.com.c
+ n\n\nWebsite: www.continental-industry.com <http://www.continental-industr
+ y.com/> \n\n \n\n\n\n \n\n \n
+LOCATION:TE_ZG_MR_CBC401_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CP控制计划（新版）培训
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
