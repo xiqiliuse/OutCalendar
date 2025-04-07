@@ -372,6 +372,80 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:REMINDERMAIL: Assignment of Data Ownership in SMT
+DTSTART;TZID="GMT 标准时间":20250410T150000
+DTEND;TZID="GMT 标准时间":20250410T153000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\n       Since you have been inactive\, make s
+ ure to attend the meeting and follow my actions during the meeting to ensu
+ re that this task is completed.\n\nIf you have finished before the meeting
+ \, please let me know\, thank you!\n\n \n\nhttps://rrm001.cw01.contiwan.co
+ m/SMTWebNextGen/en/Home\n\n \n\n\n\n \n\n\n\n \n\n \n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin t
+ he meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjB
+ kMzU5YzUtYzFlYS00ZWQ5LTg4NjUtMWE0OTRlYWYxNWZh%40thread.v2/0?context=%7b%22
+ Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22b67c6
+ f96-739d-41ce-a25a-69fd7abd4b2f%22%7d>  \n\nMeeting ID: 376 906 160 050 \n
+ \nPasscode: oS2DQ7ya \n\n________________________________\n\nFor organizer
+ s: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerI
+ d=b67c6f96-739d-41ce-a25a-69fd7abd4b2f&tenantId=8d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a&threadId=19_meeting_ZjBkMzU5YzUtYzFlYS00ZWQ5LTg4NjUtMWE0OTRlYWY
+ xNWZh@thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security <htt
+ ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
+ \n\n______________________________________________________________________
+ __________\n\n \n\n \n\n_____________________________________________\nFro
+ m: Heinz\, Lukas03 <lukas.3.heinz@continental-corporation.com> On Behalf O
+ f AU_VS_SM\, Central_SMT_Support\nSent: Friday\, April 4\, 2025 3:46 PM\nS
+ ubject: REMINDERMAIL: Assignment of Data Ownership in SMT\n\n \n\n REMINDE
+ R\n\n \n\nAs we already described in the previous email\, we require an ow
+ nership assignment for the shares\, folders\, and groups.\n\nWe have alrea
+ dy published two blog posts on the SMT ConNext page. One for the Share and
+  Folder Management (Assignment of Data Ownership for Shares and Folders in
+  the Context of the Split - SMT - System Management Tool Blog - SMT - Syst
+ em Management Tool <https://connext.conti.de/blogs/642d7d75-8e99-462e-a670
+ -04907a29832f/entry/Assignment_of_Data_Ownership_for_Shares_and_Folders_in
+ _the_Context_of_the_Split?lang=en> ) and one for the Group Management(Assi
+ gnment of Data Ownership for Groups in the Context of the Split - SMT - Sy
+ stem Management Tool Blog - SMT - System Management Tool <https://connext.
+ conti.de/blogs/642d7d75-8e99-462e-a670-04907a29832f/entry/Assignment_of_Da
+ ta_Ownership_for_Groups_in_the_Context_of_the_Split?lang=en> ).\n\n \n\nTo
+  define data ownership\, the responsibles for the shares\, folders\, and g
+ roups need to take action. As described in the blog post\, we have provide
+ d the corresponding functions in the SMT Web and SMT Console for this purp
+ ose. If the data is not assigned\, there is a risk that it will no longer 
+ be available in the respective company after the SpinOff.\n\n \n\nPlease u
+ rgently support us in this matter – in your own interest! Kindly ensure 
+ data assignment (Automotive\, ContiTech\, OESL\, and Tires) at the top-lev
+ el directory (DID....)\, for each first-level subdirectory underneath\, an
+ d for groups:\n\n \n\n*	If no owner is assigned to a share or folder\, it 
+ will be migrated along with the filer on which it is stored.\n*	If a share
+  or folder is needed in a different sector\, please select the correspondi
+ ng sector\; otherwise\, the share or folder will not be migrated.\n*	If th
+ e share or folder is required in multiple sectors\, a multi-selection is p
+ ossible.\n\n \n\nThe same applies to groups:\n\n \n\n*	If no owner is assi
+ gned to a location group\, it will be migrated along with the location.\n*
+ 	If the group is needed in a different sector\, the respective sector must
+  be set as the owner of the group.\n*	If the group is required in multiple
+  sectors\, a multi-selection is possible.\n\n \n\n \n\n!! You are responsi
+ ble for the ownership assignment and must ensure that the ownership has be
+ en correctly assigned.\n\nAt the time of migration\, we will proceed accor
+ ding to the settings configured in the SMT. If ownerships are not correctl
+ y assigned there\, the responsibility lies with you. !!\n\n \n\nPlease inf
+ orm your object responsibles accordingly.\n\n \n\nPlease complete the owne
+ rship assignment by April 18\, 2025\, end of business day.\n\n \n\nIf you 
+ have already assigned ownership for the shares\, folders\, and groups\, no
+  further action is required on your part.\n\n \n\nThank you for your coope
+ ration.\n\n \n\nBest regards\,\n\n \n\nSMT-Team\n\n \n\n \n\nInternal\n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:REMINDERMAIL: Assignment of Data Ownership in SMT
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250411T083500
 DTEND;TZID="GMT 标准时间":20250411T090500
@@ -718,6 +792,53 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:CBS@Operations community - Monthly phone-call - Americas & Eur
  ope
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross-site QMS internal audit-TPO/SP
+DTSTART;TZID="GMT 标准时间":20250417T080000
+DTEND;TZID="GMT 标准时间":20250417T110000
+CLASS:PUBLIC
+DESCRIPTION:Fyi\n\n \n\n-----原始约会-----\n发件人: Xu\, Yan01 <yan
+ 01.xu@benecke-changshun.com.cn <mailto:yan01.xu@benecke-changshun.com.cn> 
+ > \n发送时间: 2025年4月7日 15:47\n收件人: Xu\, Yan01\; Hou\, Xue
+ wen\; jiang\, song03\; Chen\, Hongmei\; Jin\, Lei\; Yao\, Tomi\; Xu\, Jink
+ ai\; Qian\, Fengdan\; Yu\, Bei\n抄送: Chao Yuan\n主题: Cross-site QMS 
+ internal audit-TPO/SP\n时间: 2025年4月17日星期四 8:00-11:00(UTC+08
+ :00) 北京，重庆，香港特别行政区，乌鲁木齐。\n地点: TP
+ O/SP Workshop\n\n \n\nHello all\,\n\nBook your time to attend the audit.\n
+ \nPlease see schedule as below and forward it to the auditee if necessary.
+ \n\nDate / Time\n\nSubject / Process\n\nReference\n\nUnit / Dept. / Proces
+ s Owner\n\nAuditors \n\nIATF\n\nCTSSL QMS\n\n2nd Day April 17th\n\n08:00-1
+ 1:00\n\nC3 Fulfill from Demand to Deliver\n\nR_05 Production\n\nGR Methods
+  \n\nS_18 Problem solving and corrective actions\, S_19 Control of non_con
+ forming products\n\nTraining\, FIFO\, Identification and Traceability\, WI
+ P\, Rework\, reprocess management\n\n(Change shift: 8:30) \n\nRemark：\n\
+ n8：00-9：00 CMB\n\n9：00-9：30 Extrusion\n\n9：30-10：30 Printing\n
+ \n10:30-11:00 Cutting/Slitling\n\n8.5\, 8.6\, 8.7\, 9.1.1\, 10.1\n\n8.5\n\
+ n7.1\n\nS_08\n\nS_09\n\nS_14\n\nProduction-TPO \n\nSnow Hou\n\nProduction-
+ SP\n\nJason Jiang\n\nSCM-PL\n\nChao Yuan\n\nPPI\n\nSophia Chen\n\nQM\n\nLe
+ i Jin\n\nMaintenance\n\nTomi Yao\n\nTeam 2\n\n \n\n_______________________
+ _________________________________________________________\n\nMicrosoft Tea
+ ms 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
+ 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _ODJhNmMwNzktZDQ5MC00YThhLWE3N2YtZTk0NGVkZDA2OWEw%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a
+ ad39012-fff5-4951-99a6-68c6adc1a5e6%22%7d>  \n\n会议 ID: 331 817 777 885
+  \n\n密码: 2ep6ey2R \n\n________________________________\n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =aad39012-fff5-4951-99a6-68c6adc1a5e6&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_meeting_ODJhNmMwNzktZDQ5MC00YThhLWE3N2YtZTk0NGVkZDA2
+ OWEw@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____\n\n \n
+LOCATION:TPO/SP Workshop
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cross-site QMS internal audit-TPO/SP
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
