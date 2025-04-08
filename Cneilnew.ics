@@ -48,6 +48,36 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:油漆房BCZDataBaseCenter启动讨论会
+DTSTART;TZID="GMT 标准时间":20250408T150000
+DTEND;TZID="GMT 标准时间":20250408T163000
+CLASS:PUBLIC
+DESCRIPTION:讨论自动排产软件的功能如何操作，交流是如
+ 何利用软件解决实际问题。\n一些遗漏的限定的条件讨论
+ 是否能够加入，配合专家完善软件定制功能。\n\n__________
+ ______________________________________________________________________\nMi
+ crosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh
+ -CN>  \n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3
+ ameeting_YmZhMTllM2QtYmVjMy00OTI1LWE5Y2EtYmUwYTU3NWNjMWMw%40thread.v2/0?co
+ ntext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%2
+ 2%3a%22e8b7cf7c-22cb-4aae-b899-01ba50998773%22%7d>  \n会议 ID: 371 233 6
+ 50 497 \n密码: t6wF3Ls7 \n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=e8b7cf7c-22cb-4aae-b899-01ba50998773&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_YmZhMTllM2QtYmVjMy00OTI1LWE5Y2EtYmUwYTU3N
+ WNjMWMw@thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https://
+ filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___
+ __________________________________________________________________________
+ ___
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆房BCZDataBaseCenter启动讨论会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250409T083500
 DTEND;TZID="GMT 标准时间":20250409T090500
@@ -251,6 +281,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EM4三层复合效果验证回顾第二轮
+DTSTART;TZID="GMT 标准时间":20250411T100000
+DTEND;TZID="GMT 标准时间":20250411T103000
+CLASS:PUBLIC
+DESCRIPTION:Hello all：\n\n \n\n针对此次EM4验证3层复合是结果
+ 进行回顾，谢谢!\n\n________________________________________________
+ _____________________________\n\nMicrosoft Teams 是否需要帮助? <http
+ s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://t
+ eams.microsoft.com/l/meetup-join/19%3ameeting_MGM1NDFlYzktNTQ4Mi00NzEwLTkw
+ MmUtZjE5N2Y5YTE4ODMx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e
+ -40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a9e7896a-85d1-4958-ae98-6ca0de
+ a23342%22%7d>  \n\n会议 ID: 318 624 495 547 \n\n密码: Ax93bp3z \n\n___
+ _____________________________\n\n对于组织者: 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=a9e7896a-85d1-4958-ae98-6ca0
+ dea23342&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _MGM1NDFlYzktNTQ4Mi00NzEwLTkwMmUtZjE5N2Y5YTE4ODMx@thread.v2&messageId=0&la
+ nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
+ 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
+ _________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EM4三层复合效果验证回顾第二轮
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Review Q1 Operations Report-PPI
 DTSTART;TZID="GMT 标准时间":20250411T110000
 DTEND;TZID="GMT 标准时间":20250411T113000
@@ -330,6 +388,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO回收方案review
+DTSTART;TZID="GMT 标准时间":20250414T150000
+DTEND;TZID="GMT 标准时间":20250414T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO回收方案review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
