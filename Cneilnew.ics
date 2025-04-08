@@ -281,34 +281,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EM4三层复合效果验证回顾第二轮
-DTSTART;TZID="GMT 标准时间":20250411T100000
-DTEND;TZID="GMT 标准时间":20250411T103000
-CLASS:PUBLIC
-DESCRIPTION:Hello all：\n\n \n\n针对此次EM4验证3层复合是结果
- 进行回顾，谢谢!\n\n________________________________________________
- _____________________________\n\nMicrosoft Teams 是否需要帮助? <http
- s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://t
- eams.microsoft.com/l/meetup-join/19%3ameeting_MGM1NDFlYzktNTQ4Mi00NzEwLTkw
- MmUtZjE5N2Y5YTE4ODMx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e
- -40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a9e7896a-85d1-4958-ae98-6ca0de
- a23342%22%7d>  \n\n会议 ID: 318 624 495 547 \n\n密码: Ax93bp3z \n\n___
- _____________________________\n\n对于组织者: 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=a9e7896a-85d1-4958-ae98-6ca0
- dea23342&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _MGM1NDFlYzktNTQ4Mi00NzEwLTkwMmUtZjE5N2Y5YTE4ODMx@thread.v2&messageId=0&la
- nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
- _________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EM4三层复合效果验证回顾第二轮
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Review Q1 Operations Report-PPI
 DTSTART;TZID="GMT 标准时间":20250411T110000
 DTEND;TZID="GMT 标准时间":20250411T113000
@@ -392,6 +364,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EM4三层复合效果验证回顾第二轮
+DTSTART;TZID="GMT 标准时间":20250414T100000
+DTEND;TZID="GMT 标准时间":20250414T103000
+CLASS:PUBLIC
+DESCRIPTION:Hello all：\n\n \n\n针对此次EM4验证3层复合是结果
+ 进行回顾，谢谢!\n\n________________________________________________
+ _____________________________\n\nMicrosoft Teams 是否需要帮助? <http
+ s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://t
+ eams.microsoft.com/l/meetup-join/19%3ameeting_MGM1NDFlYzktNTQ4Mi00NzEwLTkw
+ MmUtZjE5N2Y5YTE4ODMx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e
+ -40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a9e7896a-85d1-4958-ae98-6ca0de
+ a23342%22%7d>  \n\n会议 ID: 318 624 495 547 \n\n密码: Ax93bp3z \n\n___
+ _____________________________\n\n对于组织者: 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=a9e7896a-85d1-4958-ae98-6ca0
+ dea23342&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _MGM1NDFlYzktNTQ4Mi00NzEwLTkwMmUtZjE5N2Y5YTE4ODMx@thread.v2&messageId=0&la
+ nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
+ 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
+ _________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EM4三层复合效果验证回顾第二轮
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TPO回收方案review
 DTSTART;TZID="GMT 标准时间":20250414T150000
 DTEND;TZID="GMT 标准时间":20250414T160000
@@ -445,7 +445,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ContiGPT Weekly Meeting
+SUMMARY:Canceled: ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250414T203000
 DTEND;TZID="GMT 标准时间":20250414T210000
 CLASS:PUBLIC
@@ -497,7 +497,7 @@ LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
+DESCRIPTION:Canceled: ContiGPT Weekly Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1340,7 +1340,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ContiGPT Weekly Meeting
+SUMMARY:Canceled: ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250428T203000
 DTEND;TZID="GMT 标准时间":20250428T210000
 CLASS:PUBLIC
@@ -1392,7 +1392,7 @@ LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
+DESCRIPTION:Canceled: ContiGPT Weekly Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1744,7 +1744,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ContiGPT Weekly Meeting
+SUMMARY:Canceled: ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250505T203000
 DTEND;TZID="GMT 标准时间":20250505T210000
 CLASS:PUBLIC
@@ -1796,7 +1796,7 @@ LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:ContiGPT Weekly Meeting
+DESCRIPTION:Canceled: ContiGPT Weekly Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
