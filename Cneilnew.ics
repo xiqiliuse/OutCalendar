@@ -5,80 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250408T083500
-DTEND;TZID="GMT 标准时间":20250408T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP部门周会
-DTSTART;TZID="GMT 标准时间":20250408T101500
-DTEND;TZID="GMT 标准时间":20250408T110000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
- 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
- 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:油漆房BCZDataBaseCenter启动讨论会
-DTSTART;TZID="GMT 标准时间":20250408T150000
-DTEND;TZID="GMT 标准时间":20250408T163000
-CLASS:PUBLIC
-DESCRIPTION:讨论自动排产软件的功能如何操作，交流是如
- 何利用软件解决实际问题。\n一些遗漏的限定的条件讨论
- 是否能够加入，配合专家完善软件定制功能。\n\n__________
- ______________________________________________________________________\nMi
- crosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh
- -CN>  \n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3
- ameeting_YmZhMTllM2QtYmVjMy00OTI1LWE5Y2EtYmUwYTU3NWNjMWMw%40thread.v2/0?co
- ntext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%2
- 2%3a%22e8b7cf7c-22cb-4aae-b899-01ba50998773%22%7d>  \n会议 ID: 371 233 6
- 50 497 \n密码: t6wF3Ls7 \n________________________________\n\n对于组
- 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
- rId=e8b7cf7c-22cb-4aae-b899-01ba50998773&tenantId=8d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a&threadId=19_meeting_YmZhMTllM2QtYmVjMy00OTI1LWE5Y2EtYmUwYTU3N
- WNjMWMw@thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https://
- filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___
- __________________________________________________________________________
- ___
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:油漆房BCZDataBaseCenter启动讨论会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250409T083500
 DTEND;TZID="GMT 标准时间":20250409T090500
 CLASS:PUBLIC
@@ -1862,6 +1788,34 @@ BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250507T083500
 DTEND;TZID="GMT 标准时间":20250507T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250508T083500
+DTEND;TZID="GMT 标准时间":20250508T090500
 CLASS:PUBLIC
 DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
  \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
