@@ -245,6 +245,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:能源MV计算讨论
+DTSTART;TZID="GMT 标准时间":20250414T103000
+DTEND;TZID="GMT 标准时间":20250414T113000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位：\n\n      目前能源MV新算法已经测算3
+ 个月，与实际的MV值仍然有偏差，想和各位讨论一下计算
+ 公式如何更合理一些\n\n___________________________________________
+ _____________________________________\n\nMicrosoft Teams 是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
+ <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjliOGE1OTYtODE3YS
+ 00NjE1LWIyNzQtZTBhYjZjMzc4M2Zh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%224d5e1cea-2ca2-4582-b
+ 48b-b674e2625c0e%22%7d>  \n\n会议 ID: 318 131 152 734 \n\n密码: bR9Ec6
+ qW \n\n________________________________\n\n对于组织者: 会议选项 <
+ https://teams.microsoft.com/meetingOptions/?organizerId=4d5e1cea-2ca2-4582
+ -b48b-b674e2625c0e&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=
+ 19_meeting_MjliOGE1OTYtODE3YS00NjE1LWIyNzQtZTBhYjZjMzc4M2Zh@thread.v2&mess
+ ageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud
+ .com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________
+ ___________________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:能源MV计算讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TPO回收方案review
 DTSTART;TZID="GMT 标准时间":20250414T150000
 DTEND;TZID="GMT 标准时间":20250414T160000
