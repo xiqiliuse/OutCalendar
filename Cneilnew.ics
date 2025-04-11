@@ -172,33 +172,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPC透光率标准制定可行性讨论(以90405为切入）
-DTSTART;TZID="GMT 标准时间":20250414T130000
-DTEND;TZID="GMT 标准时间":20250414T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_NDZlYTIxOGEtMDRmMi00MjFlLWFiODktNz
- UyMzM2MzM2MTU4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
- %22%7d>  \n\n会议 ID: 353 688 844 953 \n\n密码: AR7sU6qY \n\n_________
- _______________________\n\n对于组织者: 会议选项 <https://teams.mi
- crosoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63
- a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDZlY
- TIxOGEtMDRmMi00MjFlLWFiODktNzUyMzM2MzM2MTU4@thread.v2&messageId=0&language
- =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
- ___________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SPC透光率标准制定可行性讨论(以90405为切入）
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TPO回收方案review
 DTSTART;TZID="GMT 标准时间":20250414T150000
 DTEND;TZID="GMT 标准时间":20250414T160000
@@ -209,6 +182,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:TPO回收方案review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:换型WI完成度确认
+DTSTART;TZID="GMT 标准时间":20250414T150000
+DTEND;TZID="GMT 标准时间":20250414T153000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjI2ODk5OTUtMmQwMS00NzlmLWI1NjYtOD
+ EzZDZjNjg3M2Vh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2227cabe9d-b880-48dc-b6ef-b9fde4a5234f
+ %22%7d>  \n\n会议 ID: 344 686 227 292 \n\n密码: em2te7Dc \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=27cabe9d-b880-48dc-b6ef-b9fde4a523
+ 4f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YjI2O
+ Dk5OTUtMmQwMS00NzlmLWI1NjYtODEzZDZjNjg3M2Vh@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:换型WI完成度确认
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -390,6 +390,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: ContiGPT Regular Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250415T000000
+DTEND;TZID="GMT 标准时间":20250416T163000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -650,6 +664,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCZ Plant Town Hall Meeting_Q1 2025
+DTSTART;TZID="GMT 标准时间":20250417T153000
+DTEND;TZID="GMT 标准时间":20250417T162000
+CLASS:PUBLIC
+DESCRIPTION:亲爱的同事们\,\n\n \n\n邀请您参加2025年第一季
+ 度员工大会，请各部门负责人转告没有邮箱的同事，并
+ 提前安排好手头工作准时参加。\n\n \n\n \n\n \n\nBR\n\nLuna\n
+LOCATION:TPO车间
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ Plant Town Hall Meeting_Q1 2025
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250418T083500
 DTEND;TZID="GMT 标准时间":20250418T090500
@@ -674,6 +704,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC透光率标准制定可行性讨论(以90405为切入）
+DTSTART;TZID="GMT 标准时间":20250418T130000
+DTEND;TZID="GMT 标准时间":20250418T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NDZlYTIxOGEtMDRmMi00MjFlLWFiODktNz
+ UyMzM2MzM2MTU4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
+ %22%7d>  \n\n会议 ID: 353 688 844 953 \n\n密码: AR7sU6qY \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63
+ a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDZlY
+ TIxOGEtMDRmMi00MjFlLWFiODktNzUyMzM2MzM2MTU4@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SPC透光率标准制定可行性讨论(以90405为切入）
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
