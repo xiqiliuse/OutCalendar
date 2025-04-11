@@ -5,108 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250410T083500
-DTEND;TZID="GMT 标准时间":20250410T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REMINDERMAIL: Assignment of Data Ownership in SMT
-DTSTART;TZID="GMT 标准时间":20250410T150000
-DTEND;TZID="GMT 标准时间":20250410T153000
-CLASS:PUBLIC
-DESCRIPTION:Dear all:\n\n \n\n       Since you have been inactive\, make s
- ure to attend the meeting and follow my actions during the meeting to ensu
- re that this task is completed.\n\nIf you have finished before the meeting
- \, please let me know\, thank you!\n\n \n\nhttps://rrm001.cw01.contiwan.co
- m/SMTWebNextGen/en/Home\n\n \n\n\n\n \n\n\n\n \n\n \n\n___________________
- _____________________________________________________________\n\nMicrosoft
-  Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin t
- he meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjB
- kMzU5YzUtYzFlYS00ZWQ5LTg4NjUtMWE0OTRlYWYxNWZh%40thread.v2/0?context=%7b%22
- Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22b67c6
- f96-739d-41ce-a25a-69fd7abd4b2f%22%7d>  \n\nMeeting ID: 376 906 160 050 \n
- \nPasscode: oS2DQ7ya \n\n________________________________\n\nFor organizer
- s: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerI
- d=b67c6f96-739d-41ce-a25a-69fd7abd4b2f&tenantId=8d4b558f-7b2e-40ba-ad1f-e0
- 4d79e6265a&threadId=19_meeting_ZjBkMzU5YzUtYzFlYS00ZWQ5LTg4NjUtMWE0OTRlYWY
- xNWZh@thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security <htt
- ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
- \n\n______________________________________________________________________
- __________\n\n \n\n \n\n_____________________________________________\nFro
- m: Heinz\, Lukas03 <lukas.3.heinz@continental-corporation.com> On Behalf O
- f AU_VS_SM\, Central_SMT_Support\nSent: Friday\, April 4\, 2025 3:46 PM\nS
- ubject: REMINDERMAIL: Assignment of Data Ownership in SMT\n\n \n\n REMINDE
- R\n\n \n\nAs we already described in the previous email\, we require an ow
- nership assignment for the shares\, folders\, and groups.\n\nWe have alrea
- dy published two blog posts on the SMT ConNext page. One for the Share and
-  Folder Management (Assignment of Data Ownership for Shares and Folders in
-  the Context of the Split - SMT - System Management Tool Blog - SMT - Syst
- em Management Tool <https://connext.conti.de/blogs/642d7d75-8e99-462e-a670
- -04907a29832f/entry/Assignment_of_Data_Ownership_for_Shares_and_Folders_in
- _the_Context_of_the_Split?lang=en> ) and one for the Group Management(Assi
- gnment of Data Ownership for Groups in the Context of the Split - SMT - Sy
- stem Management Tool Blog - SMT - System Management Tool <https://connext.
- conti.de/blogs/642d7d75-8e99-462e-a670-04907a29832f/entry/Assignment_of_Da
- ta_Ownership_for_Groups_in_the_Context_of_the_Split?lang=en> ).\n\n \n\nTo
-  define data ownership\, the responsibles for the shares\, folders\, and g
- roups need to take action. As described in the blog post\, we have provide
- d the corresponding functions in the SMT Web and SMT Console for this purp
- ose. If the data is not assigned\, there is a risk that it will no longer 
- be available in the respective company after the SpinOff.\n\n \n\nPlease u
- rgently support us in this matter – in your own interest! Kindly ensure 
- data assignment (Automotive\, ContiTech\, OESL\, and Tires) at the top-lev
- el directory (DID....)\, for each first-level subdirectory underneath\, an
- d for groups:\n\n \n\n*	If no owner is assigned to a share or folder\, it 
- will be migrated along with the filer on which it is stored.\n*	If a share
-  or folder is needed in a different sector\, please select the correspondi
- ng sector\; otherwise\, the share or folder will not be migrated.\n*	If th
- e share or folder is required in multiple sectors\, a multi-selection is p
- ossible.\n\n \n\nThe same applies to groups:\n\n \n\n*	If no owner is assi
- gned to a location group\, it will be migrated along with the location.\n*
- 	If the group is needed in a different sector\, the respective sector must
-  be set as the owner of the group.\n*	If the group is required in multiple
-  sectors\, a multi-selection is possible.\n\n \n\n \n\n!! You are responsi
- ble for the ownership assignment and must ensure that the ownership has be
- en correctly assigned.\n\nAt the time of migration\, we will proceed accor
- ding to the settings configured in the SMT. If ownerships are not correctl
- y assigned there\, the responsibility lies with you. !!\n\n \n\nPlease inf
- orm your object responsibles accordingly.\n\n \n\nPlease complete the owne
- rship assignment by April 18\, 2025\, end of business day.\n\n \n\nIf you 
- have already assigned ownership for the shares\, folders\, and groups\, no
-  further action is required on your part.\n\n \n\nThank you for your coope
- ration.\n\n \n\nBest regards\,\n\n \n\nSMT-Team\n\n \n\n \n\nInternal\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:REMINDERMAIL: Assignment of Data Ownership in SMT
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250411T083500
 DTEND;TZID="GMT 标准时间":20250411T090500
 CLASS:PUBLIC
@@ -270,6 +168,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:能源MV计算讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC透光率标准制定可行性讨论(以90405为切入）
+DTSTART;TZID="GMT 标准时间":20250414T130000
+DTEND;TZID="GMT 标准时间":20250414T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NDZlYTIxOGEtMDRmMi00MjFlLWFiODktNz
+ UyMzM2MzM2MTU4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
+ %22%7d>  \n\n会议 ID: 353 688 844 953 \n\n密码: AR7sU6qY \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f63
+ a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDZlY
+ TIxOGEtMDRmMi00MjFlLWFiODktNzUyMzM2MzM2MTU4@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SPC透光率标准制定可行性讨论(以90405为切入）
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1020,25 +945,28 @@ SUMMARY:CP控制计划（新版）培训
 DTSTART;TZID="GMT 标准时间":20250422T085500
 DTEND;TZID="GMT 标准时间":20250422T170000
 CLASS:PUBLIC
-DESCRIPTION:Dear all，\n\n \n\n请大家关注培训前须知：（完整
- 版培训须知见附件）\n\n \n\n*  培训学员分为必选学员及
- 可选学员（名单见附件，由部门经理提名），必选学员
- 如无特殊原因应确保出席，如不能出席应提前至少3天向
- 部门经理及培训组织者邮件说明原因；\n\n*  请收到培训
- 邀请的所有学员在一周内响应是否出席；\n\n*  响应出席
- 的学员应提前协调好工作安排，建议同时通知到内外部
- 客户并做好代理人安排； \n\n*  培训当天，学员应提前1-5
- 分钟到场签到，每半天签到一次；\n\n \n\n请各位提前安
- 排好工作，准时参加培训，谢谢！\n\n \n\n如有任何疑问
- ，请与我联系！\n\n \n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\
- nHR Training Specilist\n\nContiTech Surface Solutions\n\n \n\nBesucheradre
- sse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\,
-  Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限公司\n\nN
- o.8\,Changyang Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\
- , P.R.China \n江苏省张家港市金港镇南沙长阳路8号 215632\n\n
-  \n\nMobile: +86 19941958802\n\nE-mail: Jialei.xue@benecke-changshun.com.c
- n\n\nWebsite: www.continental-industry.com <http://www.continental-industr
- y.com/> \n\n \n\n\n\n \n\n \n
+DESCRIPTION:Dear all，\n\n请还未响应的必选学员尽快响应是
+ 否出席。\n\n如不能出席应提前至少3天向部门经理及培训
+ 组织者邮件说明原因。\n\n________________________________\n\nDear
+  all，\n\n \n\n请大家关注培训前须知：（完整版培训须知
+ 见附件）\n\n \n\n*  培训学员分为必选学员及可选学员（
+ 名单见附件，由部门经理提名），必选学员如无特殊原
+ 因应确保出席，如不能出席应提前至少3天向部门经理及
+ 培训组织者邮件说明原因；\n\n*  请收到培训邀请的所有
+ 学员在一周内响应是否出席；\n\n*  响应出席的学员应提
+ 前协调好工作安排，建议同时通知到内外部客户并做好
+ 代理人安排； \n\n*  培训当天，学员应提前1-5分钟到场签
+ 到，每半天签到一次；\n\n \n\n请各位提前安排好工作，
+ 准时参加培训，谢谢！\n\n \n\n如有任何疑问，请与我联
+ 系！\n\n \n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Training Sp
+ ecilist\n\nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visitor a
+ ddress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
+ 克长顺汽车内饰材料（张家港）有限公司\n\nNo.8\,Changyang 
+ Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n
+ 江苏省张家港市金港镇南沙长阳路8号 215632\n\n \n\nMobile: +
+ 86 19941958802\n\nE-mail: Jialei.xue@benecke-changshun.com.cn <mailto:Jial
+ ei.xue@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com
+  <http://www.continental-industry.com/> \n\n \n\n\n\n \n\n \n
 LOCATION:TE_ZG_MR_CBC401_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
