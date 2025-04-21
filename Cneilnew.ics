@@ -361,6 +361,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX2-3 国产冷却辊更换继续讨论
+DTSTART;TZID="GMT 标准时间":20250424T140000
+DTEND;TZID="GMT 标准时间":20250424T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NmQ4YmI3NDYtM2NmNi00OWRjLWIwN2QtYz
+ dlYWJiYTE0YTUy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2287c6bfd1-200c-4095-a907-9bab8a2caed2
+ %22%7d>  \n\n会议 ID: 314 755 251 643 9 \n\n密码: hB25oK7x \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=87c6bfd1-200c-4095-a907-9bab8a2c
+ aed2&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NmQ
+ 4YmI3NDYtM2NmNi00OWRjLWIwN2QtYzdlYWJiYTE0YTUy@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2-3 国产冷却辊更换继续讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID="GMT 标准时间":20250424T220000
 DTEND;TZID="GMT 标准时间":20250424T230000
