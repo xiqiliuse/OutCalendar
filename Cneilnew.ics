@@ -32,37 +32,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EX2小订单回收项目 线下
-DTSTART;TZID="GMT 标准时间":20250423T090000
-DTEND;TZID="GMT 标准时间":20250423T163000
-CLASS:PUBLIC
-DESCRIPTION:大家好！时间更新为下周三（23号），请知悉。
- 因为下周一EX2早班拆模，无法启动该项目，周二大家有
- 培训\n\n邀请大家一起对EX2的小订单进行优化，推进小订
- 单回收项目，降低小订单成本\n另，由于下周生产计划还
- 未出来，存在会议时间调整的可能\n___________________________
- _____________________________________________________\nMicrosoft Teams 是
- 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN> \n立即加
- 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWRlMGUy
- MTgtYTdmYS00NzVjLTkwMTUtMDY0N2QyODNiYmE5%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7
- a24-42d9-bab2-33daf5f058f4%22%7d>  \n会议 ID: 346 621 755 093 2 \n密码
- : yY7Nv6c6 \n________________________________\n\n对于组织者: 会议
- 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=fe6c1ed6-7
- a24-42d9-bab2-33daf5f058f4&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
- hreadId=19_meeting_MWRlMGUyMTgtYTdmYS00NzVjLTkwMTUtMDY0N2QyODNiYmE5@thread
- .v2&messageId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admira
- lcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_________________
- _______________________________________________________________
-LOCATION:TPO关爱小屋+EX2现场
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2小订单回收项目 线下
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 1
 DTSTART;TZID="GMT 标准时间":20250423T153000
 DTEND;TZID="GMT 标准时间":20250423T163000
@@ -940,6 +909,36 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:C2.3 Base Documents/Tailoring Projects-Option2 BCZ
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX2小订单回收和换型改善
+DTSTART;TZID="GMT 标准时间":20250429T130000
+DTEND;TZID="GMT 标准时间":20250429T163000
+CLASS:PUBLIC
+DESCRIPTION:大家好！本周三已完成了EX2小订单回收的方案
+ ，下周二我们简单回顾，再重点讨论和确定EX2的换型改
+ 善\n\n\n（已完成项：邀请大家一起对EX2的小订单进行优
+ 化，推进小订单回收项目，降低小订单成本\n_______________
+ _________________________________________________________________\nMicroso
+ ft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN> 
+ \n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeti
+ ng_MWRlMGUyMTgtYTdmYS00NzVjLTkwMTUtMDY0N2QyODNiYmE5%40thread.v2/0?context=
+ %7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2
+ 2fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7d>  \n会议 ID: 346 621 755 093
+  2 \n密码: yY7Nv6c6 \n________________________________\n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_meeting_MWRlMGUyMTgtYTdmYS00NzVjLTkwMTUtMDY0N2QyODNi
+ YmE5@thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https://fil
+ ehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n______
+ __________________________________________________________________________
+LOCATION:工厂304培训室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2小订单回收和换型改善
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
