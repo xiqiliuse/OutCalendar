@@ -562,6 +562,45 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lab test for use BYK-Max P 4109/P 4110 in extrusion process
+DTSTART;TZID="GMT 标准时间":20250428T130000
+DTEND;TZID="GMT 标准时间":20250428T140000
+CLASS:PUBLIC
+DESCRIPTION:凌经理，您好！\n\n \n\n如在Chinaplas上讨论，我
+ 们想测试你们的材料BYK-MAX P4109/4110 对我们现场问题是否
+ 有改善？\n\n想讨论一下实验计划，请确认一下这个时间
+ 段您这边是否有空？如果不行，请建议新的时间。\n\n \n\
+ n谢谢！\n\n \n\nBest regards\n\n \n\nSophia Chen 陈红梅\n\nHead of P
+ PI BCZ\n\nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visitor ad
+ dress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
+ 克长顺汽车内饰材料（张家港）有限公司\n\nNo.108\,Jianghai
+  South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.Ch
+ ina \n江苏省张家港市金港镇南沙江海南路108号 215632\n\n \n
+ \nMobile: +86 18951136373\n\nE-Mail: hongmei.chen@benecke-changshun.com.cn
+  <mailto:hongmei.chen@benecke-changshun.com.cn> \n\n\n\n \n\n \n\n________
+ ________________________________________________________________________\n
+ \nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omk
+ t=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_M2RmYzJiODgtMTk5My00OTE1LTg1MWMtMjAzNjg5ZGUwNDNk%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%2
+ 2Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 3
+ 41 302 658 769 6 \n\n密码: yF6PU7z3 \n\n________________________________
+ \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpti
+ ons/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_M2RmYzJiODgtMTk5My00OTE1LTg1
+ MWMtMjAzNjg5ZGUwNDNk@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
+ 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
+ 4ab9ad7e>  \n\n___________________________________________________________
+ _____________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lab test for use BYK-Max P 4109/P 4110 in extrusion process
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250428T203000
 DTEND;TZID="GMT 标准时间":20250428T210000
@@ -950,6 +989,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Trial Lot Responsibility Concept -Option2 BCZ
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX报废率设定问题讨论（第二次会议）
+DTSTART;TZID="GMT 标准时间":20250430T153000
+DTEND;TZID="GMT 标准时间":20250430T160000
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________\nMicrosoft Teams 是否需要帮助? <https://aka.m
+ s/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_YzEwNmZkYWItYzg1Zi00M2VmLTg3ZmYtYjdjY2Q
+ zOTNhOTUz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7
+ d>  \n会议 ID: 368 605 021 952 \n密码: 84QN7kH6 \n____________________
+ ____________\n\n对于组织者: 会议选项 <https://teams.microsoft.com
+ /meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzEwNmZkYWItYzg1
+ Zi00M2VmLTg3ZmYtYjdjY2QzOTNhOTUz@thread.v2&messageId=0&language=zh-CN>  \n
+ 隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
+ 832a-1d684ab9ad7e>  \n____________________________________________________
+ ____________________________
+LOCATION:TPO 小花园
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX报废率设定问题讨论（第二次会议）
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
