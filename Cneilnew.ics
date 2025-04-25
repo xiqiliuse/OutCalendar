@@ -179,34 +179,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:混料配方系统改善会议
-DTSTART;TZID="GMT 标准时间":20250425T160000
-DTEND;TZID="GMT 标准时间":20250425T170000
-CLASS:PUBLIC
-DESCRIPTION:目标：手工输入是否可以和SAP自动链接，配方
- 发放时，系统自动更新。\n\n_____________________________________
- ___________________________________________\n\nMicrosoft Teams 是否需
- 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
- 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmUxYjNjOTI
- tYzZlZC00ZjcyLWFlM2EtZWIyNDZmNTdlZGJl%40thread.v2/0?context=%7b%22Tid%22%3
- a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7
- -4504-af1c-fd12f76925ee%22%7d>  \n\n会议 ID: 323 033 852 436 \n\n密码:
-  8994nv6u \n\n________________________________\n\n对于组织者: 会议
- 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=6ca2170c-0
- 4b7-4504-af1c-fd12f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
- hreadId=19_meeting_NmUxYjNjOTItYzZlZC00ZjcyLWFlM2EtZWIyNDZmNTdlZGJl@thread
- .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
- ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
- ___________________________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:混料配方系统改善会议
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:德国油墨培训交流
 DTSTART;TZID="GMT 标准时间":20250427T130000
 DTEND;TZID="GMT 标准时间":20250427T140000
@@ -702,6 +674,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4月份 Strategic project review 
+DTSTART;TZID="GMT 标准时间":20250430T110000
+DTEND;TZID="GMT 标准时间":20250430T120000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MWZkMjM3MGUtMjMwNi00ZjlhLWI1ODMtNj
+ RiMzg1OThlYTA1%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 367 612 046 877 4 \n\n密码: Ni6Aw7SW \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MWZ
+ kMjM3MGUtMjMwNi00ZjlhLWI1ODMtNjRiMzg1OThlYTA1@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:4月份 Strategic project review 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1262,6 +1261,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2025 Project review 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:混料配方系统改善会议
+DTSTART;TZID="GMT 标准时间":20250509T160000
+DTEND;TZID="GMT 标准时间":20250509T170000
+CLASS:PUBLIC
+DESCRIPTION:目标：手工输入是否可以和SAP自动链接，配方
+ 发放时，系统自动更新。\n\n因临时有事，会议推迟到2025
+ /5/9，请知悉！\n\n___________________________________________________
+ _____________________________\n\nMicrosoft Teams 是否需要帮助? <http
+ s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://t
+ eams.microsoft.com/l/meetup-join/19%3ameeting_NmUxYjNjOTItYzZlZC00ZjcyLWFl
+ M2EtZWIyNDZmNTdlZGJl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e
+ -40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12f7
+ 6925ee%22%7d>  \n\n会议 ID: 323 033 852 436 \n\n密码: 8994nv6u \n\n___
+ _____________________________\n\n对于组织者: 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-af1c-fd12
+ f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _NmUxYjNjOTItYzZlZC00ZjcyLWFlM2EtZWIyNDZmNTdlZGJl@thread.v2&messageId=0&la
+ nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
+ 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
+ _________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:混料配方系统改善会议
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
