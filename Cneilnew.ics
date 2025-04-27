@@ -4,181 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250425T083500
-DTEND;TZID="GMT 标准时间":20250425T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Governance Process-Option1-(Governace Process)BCZ
-DTSTART;TZID="GMT 标准时间":20250425T093000
-DTEND;TZID="GMT 标准时间":20250425T110000
-CLASS:PUBLIC
-DESCRIPTION:FYI\n\n \n\n-----原始约会-----\n发件人: Ren\, Mengjin <
- mengjin.ren@benecke-changshun.com.cn <mailto:mengjin.ren@benecke-changshun
- .com.cn> > \n发送时间: 2025年4月18日 14:58\n收件人: Ren\, Mengji
- n\; Macias\, Daniel01\; Ma\, Yao\; Zhang\, Kenneth\; Zhu\, Zachary\; Wang\
- , Xu\; Zhou\, Bin\; Jiang\, Nan02\; Shen\, Qi\; ZHANG\, Hui08\; Chen\, Hon
- gmei\; Sun\, Xiaoyong\; Guo\, Wei02\; Liu\, Ling01\; Shi\, Gino\; Mu\, Yua
- njie\; Ge\, Jianfen\; Lian\, Chengbo02\; Pan\, Sheng\; Peng\, Shuping\; Xu
- \, Kevin\; Xie\, Wei02\; Zheng\, Chengwei\; Zhang\, Chengbao\; Wang\, Wenm
- ing\; Zhou\, Ying05\; Du\, Lijie\; Zhou\, Lancheng\; Shao\, Lei02\; Lu\, J
- iaqi\; Wang\, Tong\; Xu\, Ming03\; Wu\, Yongji\; Xu\, Jinlong\; Shen\, Yec
- heng02\; Zhang\, Yufan02\; Huang\, Haitao02\; Kantel\, Ulrike\; Ding\, Zho
- ngxie\; Wu\, Jun06\; Lu\, Zhichao02\; Duan\, Haitao\; Zhang\, Meng05\; Lou
- \, Hangyu\; Qiu\, Jie03\; Du-EXT\, Wenqiu02\; Wu-EXT\, Xijing\; Zhu-EXT\, 
- Yanlong\; Yang\, Jacob\; Qi\, Nicholas\; Liu\, Huanhuan02\; Huang\, Yan04\
- ; Xu\, Yan01\; Qian\, Chunlei\n抄送: Knerr\, Karsten\n主题: Governance
-  Process-Option1-(Governace Process)BCZ\n时间: 2025年4月25日星期五
-  9:30-11:00(UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木
- 齐。\n地点: Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang\n\n 
- \n\nDear all\,\n\n \n\nAs new global process was put out\, I would like to
-  invite you join our training\, several training sessions will be held in 
- coming days. \n\n新的全球流程正在推出，邀请您参与我们的
- 培训，培训将会在接下来的几天中陆续推出。\n\nNew proces
- s is different from previous\, hopefully target audience will join our tra
- ining.\n\n新流程不同于以往，希望目标参与人群将会加入
- 我们的培训。\n\n \n\nTraining details:\n\n培训具体安排：\n\n*
-   Option: 1/2\n\n选择1/2\n\n*  Training name: Governance Process Trainin
- g- Interaction of Core Processes C1 - C2\n\n培训名称：管理流程培
- 训-C1-C2之间的相互关系\n\n*  Target audience: R&D\, PM\, Sales\, D
- DI\, PPI\, Purchasing\, ESH\, LAB\, SQM\, Quality\, Auto/LivTec\n\n目标
- 人群：研发，项目，销售，PPI\, DDI\, ESH\, 采购，实验室
- ，供应商质量管理，质量，Auto/LivTec\n\n*  Description: This in
- formation session provides a brief introduction about the interaction betw
- een C1 (Acquire from Market to Business Opportunity) and C2 (Develop from 
- Design to Launch) processes\, with the focus on: "What are the steps to br
- ing an idea or a customer request to life". It will also cover key concept
- s\, definitions\, and a new evaluation tool (Product Market Fit) that will
-  be finalized in the second part of the year.\n\n本次会议将介绍C1
- （从市场到商业机会的获取）和C2（从设计到量产的开发
- 过程）过程之间的相互关系，重点是：“如何将创意和
- 客户请求变为现实。”它还将涵盖关键概念，定义，将
- 于下半年最终确定的新的评估工具（产品市场契合度）\n
- \n \n\nPlease forward the meeting to your colleagues and ensure your atten
- dance in one of the 2 options.\n\n请把会议邀请转发给您的相关
- 同事，并确保你将参与选择1/2\n\n \n\nIf have any question\, pls
-  be free to contact with me.\n\n如有任何疑问欢迎随时联系我！
- \n\n \n\n\n\nMit freundlichen Grüßen / Best regards / Saludos Cordiales 
- / 诚挚问候 / Pozdrawiam\n\n \n\nMaggie Ren/任梦瑾\n\nR&D Process\, 
- Systems and Regulations\n\nR&D Process and Regulations Management\n\nConti
- Tech Surface Solution\n\n \n\n \n\n_______________________________________
- _________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmEwODRkMDUtZW
- MwMS00Y2NhLTg4NDQtNTUwMWE4YTAzMzcw%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22616728eb-4ef8-4d
- 58-9687-54b6fbc60f4c%22%7d>  \n\n会议 ID: 316 245 551 320 8 \n\n密码: 
- qg6jh7Jy \n\n________________________________\n\n对于组织者: 会议
- 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=616728eb-4
- ef8-4d58-9687-54b6fbc60f4c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
- hreadId=19_meeting_MmEwODRkMDUtZWMwMS00Y2NhLTg4NDQtNTUwMWE4YTAzMzcw@thread
- .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
- ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
- ___________________________________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Governance Process-Option1-(Governace Process)BCZ
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C2.3 Base Documents/Tailoring Projects-Option1 BCZ
-DTSTART;TZID="GMT 标准时间":20250425T130000
-DTEND;TZID="GMT 标准时间":20250425T150000
-CLASS:PUBLIC
-DESCRIPTION:FYI\n\n \n\n-----原始约会-----\n发件人: Ren\, Mengjin <
- mengjin.ren@benecke-changshun.com.cn <mailto:mengjin.ren@benecke-changshun
- .com.cn> > \n发送时间: 2025年4月18日 15:00\n收件人: Ren\, Mengji
- n\; Macias\, Daniel01\; Ma\, Yao\; Zhang\, Kenneth\; Zhu\, Zachary\; Jin\,
-  Lei\; Wang\, Xu\; Zhou\, Bin\; Jiang\, Nan02\; Shen\, Qi\; ZHANG\, Hui08\
- ; Chen\, Hongmei\; Sun\, Xiaoyong\; Guo\, Wei02\; Liu\, Ling01\; Lian\, Ch
- engbo02\; Pan\, Sheng\; Peng\, Shuping\; Xu\, Kevin\; Xie\, Wei02\; Zheng\
- , Chengwei\; Zhang\, Chengbao\; Wang\, Wenming\; Zhou\, Ying05\; Du\, Liji
- e\; Zhou\, Lancheng\; Shao\, Lei02\; Lu\, Jiaqi\; Wang\, Tong\; Xu\, Ming0
- 3\; Wu\, Yongji\; Xu\, Jinlong\; Shen\, Yecheng02\; Zhang\, Yufan02\; Huan
- g\, Haitao02\; Kantel\, Ulrike\; Ding\, Zhongxie\; Wu\, Jun06\; Lu\, Zhich
- ao02\; Duan\, Haitao\; Zhang\, Meng05\; Lou\, Hangyu\; Qiu\, Jie03\; Du-EX
- T\, Wenqiu02\; Wu-EXT\, Xijing\; Zhu-EXT\, Yanlong\; Yang\, Jacob\; Qi\, N
- icholas\; Liu\, Huanhuan02\; Huang\, Yan04\; Xu\, Yan01\; Qian\, Chunlei\;
-  Ge\, Yiqiang\n抄送: Knerr\, Karsten\n主题: C2.3 Base Documents/Tailor
- ing Projects-Option1 BCZ\n时间: 2025年4月25日星期五 13:00-15:00(UT
- C+08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n地点
- : Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang\n\n \n\nDear all\,
- \n\n \n\nAs new global process was put out\, I would like to invite you jo
- in our training\, several training sessions will be held in coming days. \
- n\n新的全球流程正在推出，邀请您参与我们的培训，培
- 训将会在接下来的几天中陆续推出。\n\nNew process is differe
- nt from previous\, hopefully target audience will join our training.\n\n
- 新流程不同于以往，希望目标参与人群将会加入我们的
- 培训。\n\n \n\nTraining details:\n\n培训具体安排：\n\n*  Option:
-  1/2\n\n选择1/2\n\n*  Training name: C2.3 Base Documents/Tailoring Proje
- cts\n\n培训名称：C2.3基础文件/定制化项目\n\n*  Target audien
- ce: R&D\, PM\, Sales\, DDI\, PPI\, Quality\, Auto/LivTec\n\n目标人群
- ：研发，项目，销售，PPI\, DDI\, 质量，Auto/LivTec\n\n*  Descr
- iption: This training covers the C2.3 Process\, which contains the previou
- sly known R_03 process. It will explain how this is carried out\, highligh
- ting the adaptations and simplifications made. Additionally\, 7 step stand
- ards that guide users through each phase will be presented. As a complemen
- t\, the procedure how to tailor projects will be explained.\n\n此次培
- 训涵盖C2.3流程\,这替代了之前的 R_03 流程.会议将会介绍C
- 2.3流程是如何开展的，重点介绍所作的调整和优化。此
- 外，将指导用户完成每个阶段的7步标准，作为补充，还
- 将解释如何定制项目的程序\n\n \n\nPlease forward the meeting to
-  your colleagues and ensure your attendance in one of the 2 options.\n\n
- 请把会议邀请转发给您的相关同事，并确保你将参与选
- 择1/2\n\n \n\nIf have any question\, pls be free to contact with me.\n\n
- 如有任何疑问欢迎随时联系我！\n\n \n\n\n\nMit freundlichen Gr
- üßen / Best regards / Saludos Cordiales / 诚挚问候 / Pozdrawiam\n\n 
- \n\nMaggie Ren/任梦瑾\n\nR&D Process\, Systems and Regulations\n\nR&D P
- rocess and Regulations Management\n\nContiTech Surface Solution\n\n \n\n__
- __________________________________________________________________________
- ____\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeti
- ng?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meet
- up-join/19%3ameeting_NWEzNTkyNjItY2FlNi00ZGRjLTg1YjctMTdhMTY0YWEzMjc4%40th
- read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
- 2%2c%22Oid%22%3a%22616728eb-4ef8-4d58-9687-54b6fbc60f4c%22%7d>  \n\n会议
-  ID: 365 495 942 801 \n\n密码: 4EV6iT2M \n\n____________________________
- ____\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meeting
- Options/?organizerId=616728eb-4ef8-4d58-9687-54b6fbc60f4c&tenantId=8d4b558
- f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NWEzNTkyNjItY2FlNi00ZGRj
- LTg1YjctMTdhMTY0YWEzMjc4@thread.v2&messageId=0&language=zh-CN>  \n\n隐私
- 和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1
- d684ab9ad7e>  \n\n________________________________________________________
- ________________________\n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:C2.3 Base Documents/Tailoring Projects-Option1 BCZ
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:德国油墨培训交流
 DTSTART;TZID="GMT 标准时间":20250427T130000
 DTEND;TZID="GMT 标准时间":20250427T140000
@@ -1939,6 +1764,91 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2025 Project review 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250526T083500
+DTEND;TZID="GMT 标准时间":20250526T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Weekly Meeting
+DTSTART;TZID="GMT 标准时间":20250526T203000
+DTEND;TZID="GMT 标准时间":20250526T210000
+CLASS:PUBLIC
+DESCRIPTION:Join us every Monday at 14:30 CET for a 30-minute session to e
+ xplore Generative AI\, AI and Automation topics\, share insights\, and sho
+ wcase exciting projects!\n💡 Want to present or suggest a topic?\nReach 
+ out directly to Catarina Rodrigues with your ideas!\nLet’s collaborate\,
+  learn\, and innovate together. See you there!\n\nQuick Links\n\n*	\n	Ever
+ ything you need to know about the ContiGPT Community: ContiGPT Community (
+ sharepoint.com) <https://continental.sharepoint.com/teams/team_10065807/Si
+ tePages/ContiGPT-Community.aspx> \n*	\n	Add these meetings to your calenda
+ r: Weekly Meeting - add it to your calendar <https://teams.microsoft.com/l
+ /message/19:56fa358dda644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?te
+ nantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c
+ 2-a5bc76cb7243&parentMessageId=1693830314815&teamName=ContiGPT&channelName
+ =1%20Organization&createdTime=1693830314815> \n*	Agenda for upcoming meeti
+ ngs: Weekly Meetings - Agenda <https://continental.sharepoint.com/teams/te
+ am_10065807/_layouts/OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAssets
+ %2FContiGPT%20Notebook&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A7-
+ 7F29D3E31727%2FWeekly%20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-BE
+ 3C3B0EA1A0%2F%29%20onenote:https://continental.sharepoint.com/teams/team_1
+ 0065807/SiteAssets/ContiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20-%
+ 20Agenda&section-id={5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A46
+ 4D-4819-4E5E-A4F0-BE3C3B0EA1A0}&end> \n*	Recordings and slides from previo
+ us meetings:\n\n	*	Weekly Meetings - recordings <https://continental.share
+ point.com/:f:/r/teams/team_10065807/Shared%20Documents/1%20Organization/We
+ ekly%20Meetings%20-%20recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meeting
+ s - slides <https://continental.sharepoint.com/:f:/r/teams/team_10065807/S
+ hared%20Documents/1%20Organization/Weekly%20Meetings%20-%20slides?csf=1&we
+ b=1&e=ogrfmK> \n	*	Playlist format: ContiGPT Sessions <https://continental
+ .sharepoint.com/:l:/r/teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3uj
+ UP> \n\n*	AI News at Continental: ConNext AI Community <https://connext.co
+ nti.de/communities/service/html/communitystart?communityUuid=b4ca9812-0ca7
+ -4a77-ae96-362f811d925f> \n\n\n\n_________________________________________
+ _______________________________________\nMicrosoft Teams Need help? <https
+ ://aka.ms/JoinTeamsMeeting?omkt=en-GB> \nJoin the meeting now <https://tea
+ ms.microsoft.com/l/meetup-join/19%3ameeting_ZDAyODRiZjMtMjM0NC00MTM5LWI2ZT
+ ctMTZiNDkxNTBhNmRi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-4
+ 0ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229dcbc281-c8ae-405d-ae55-8104b929
+ d5fd%22%7d> \nMeeting ID: 317 881 907 559 \nPasscode: ih7Kg7SA \n_________
+ _______________________\n\nFor organisers: Meeting options <https://teams.
+ microsoft.com/meetingOptions/?organizerId=9dcbc281-c8ae-405d-ae55-8104b929
+ d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDA
+ yODRiZjMtMjM0NC00MTM5LWI2ZTctMTZiNDkxNTBhNmRi@thread.v2&messageId=0&langua
+ ge=en-GB> \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e> \n____________________________________
+ ____________________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ContiGPT Weekly Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
