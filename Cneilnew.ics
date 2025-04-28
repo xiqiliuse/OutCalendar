@@ -935,6 +935,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:机台数据采集需求收集
+DTSTART;TZID="GMT 标准时间":20250508T130000
+DTEND;TZID="GMT 标准时间":20250508T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:机台数据采集需求收集
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250509T083500
 DTEND;TZID="GMT 标准时间":20250509T090500
@@ -1222,6 +1236,42 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:点位查找 - OT Networking and Data Processing Project
+DTSTART;TZID="GMT 标准时间":20250514T150000
+DTEND;TZID="GMT 标准时间":20250514T153000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n \nBCZ_车间网络安全改造及智慧工厂准
+ 备项目，设备点位查找部分已打包给采购询价，由于点
+ 位数量影响Kepware 高级插件IoT Gateway的订阅费用，需要各
+ 位协助提供各自负责区域/设备需要采集的参数、频率等
+ 要素。采集数据后续会输入至 Database Center（数据中台） 
+ 和 Grafana（可视化） 两个平台中。烦请协助，谢谢！\n \n
+ 过程：\n\n*	有画面的机台，请提供截图并高亮标记需采
+ 集的点位。\n*	没有画面的机台，请按需提供需要采集的
+ 信息。\n*	\n	烦请@Li Xiaodong老师协助汇总。\n\n \nBest Regards
+ \,\nLily Liu\n\n\n\n______________________________________________________
+ __________________________\nMicrosoft Teams 是否需要帮助? <https://a
+ ka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.mi
+ crosoft.com/l/meetup-join/19%3ameeting_MTMxOThmMGItNzVlOS00MzJhLWE1MzEtOWY
+ yMWY3NzkzZmFi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-a
+ d1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%
+ 22%7d>  \n会议 ID: 376 775 651 210 \n密码: vY9vD3s4 \n________________
+ ________________\n\n对于组织者: 会议选项 <https://teams.microsoft
+ .com/meetingOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tena
+ ntId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTMxOThmMGIt
+ NzVlOS00MzJhLWE1MzEtOWYyMWY3NzkzZmFi@thread.v2&messageId=0&language=zh-CN>
+   \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:点位查找 - OT Networking and Data Processing Project
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250515T083500
 DTEND;TZID="GMT 标准时间":20250515T090500
@@ -1274,6 +1324,40 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internal Training：项目管理系列课-基础版
+DTSTART;TZID="GMT 标准时间":20250516T100000
+DTEND;TZID="GMT 标准时间":20250516T110000
+CLASS:PUBLIC
+DESCRIPTION:亲爱的各位同事，\n\n \n\n向大家隆重推出-《项
+ 目管理系列内训课-基础版》，欢迎感兴趣或有需要的同
+ 事都来参加！\n\n \n\n*  讲师：Project Management Coach APAC 张
+ 晖 \n\n*  适合对象：无门槛，对项目管理感兴趣，零基础
+ 亦可\n\n*  课程安排：\n\n培训课程\n\n课时\n\n日期\n\n项目
+ 管理基础培训\n\n1h\n\n2025/5/16\n\n项目管理软件PLW介绍\n\n1h
+ \n\n2025/6/20\n\n项目中的支持资源\n\n0.5h\n\n2025/7/18\n\n \n\n___
+ __________________________________________________________________________
+ ___\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeetin
+ g?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_MTY4NDYwMzYtYjUzZS00NTlkLWJhYzItOWMzODVhYTkwOTQ3%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
+ %2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55%22%7d>  \n\n会议 
+ ID: 321 247 866 990 3 \n\n密码: hE7yN2Cf \n\n___________________________
+ _____\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetin
+ gOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&tenantId=8d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTY4NDYwMzYtYjUzZS00NTl
+ kLWJhYzItOWMzODVhYTkwOTQ3@thread.v2&messageId=0&language=zh-CN>  \n\n隐
+ 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Internal Training：项目管理系列课-基础版
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
