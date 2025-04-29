@@ -5,158 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250428T083500
-DTEND;TZID="GMT 标准时间":20250428T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trial Lot Responsibility Concept -Option1 BCZ
-DTSTART;TZID="GMT 标准时间":20250428T130000
-DTEND;TZID="GMT 标准时间":20250428T150000
-CLASS:PUBLIC
-DESCRIPTION:选择时间参加，谢谢!\n\n \n\nSophia  4/21\n\n \n\n----
- -原始约会-----\n发件人: Ren\, Mengjin <mengjin.ren@benecke-changshu
- n.com.cn <mailto:mengjin.ren@benecke-changshun.com.cn> > \n发送时间: 2
- 025年4月18日 15:06\n收件人: Ren\, Mengjin\; Macias\, Daniel01\; Ma\,
-  Yao\; Zhang\, Kenneth\; Chen\, Hongmei\; Wang\, Xu\; Zhou\, Bin\; Jiang\,
-  Nan02\; Shen\, Qi\; ZHANG\, Hui08\; Liu\, Ling01\; Sun\, Xiaoyong\; Guo\,
-  Wei02\; Lian\, Chengbo02\; Pan\, Sheng\; Peng\, Shuping\; Xu\, Kevin\; Xi
- e\, Wei02\; Zheng\, Chengwei\; Zhang\, Chengbao\; Wang\, Wenming\; Zhou\, 
- Ying05\; Du\, Lijie\; Zhou\, Lancheng\; Shao\, Lei02\; Lu\, Jiaqi\; Wang\,
-  Tong\; Xu\, Ming03\; Wu\, Yongji\; Xu\, Jinlong\; Shen\, Yecheng02\; Zhan
- g\, Yufan02\; Huang\, Haitao02\; Kantel\, Ulrike\; Ding\, Zhongxie\; Wu\, 
- Jun06\; Lu\, Zhichao02\; Duan\, Haitao\; Zhang\, Meng05\; Lou\, Hangyu\; Q
- iu\, Jie03\; Du-EXT\, Wenqiu02\; Wu-EXT\, Xijing\; Zhu-EXT\, Yanlong\; Yan
- g\, Jacob\; Qi\, Nicholas\; Liu\, Huanhuan02\n抄送: Knerr\, Karsten\n主
- 题: Trial Lot Responsibility Concept -Option1 BCZ\n时间: 2025年4月28
- 日星期一 13:00-15:00(UTC+08:00) 北京，重庆，香港特别行政
- 区，乌鲁木齐。\n地点: Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zh
- angjiagang\n\n \n\nDear all\,\n\n \n\nAs new global process was put out\, 
- I would like to invite you join our training\, several training sessions w
- ill be held in coming days. \n\n新的全球流程正在推出，邀请您
- 参与我们的培训，培训将会在接下来的几天中陆续推出
- 。\n\nNew process is different from previous\, hopefully target audience 
- will join our training.\n\n新流程不同于以往，希望目标参与
- 人群将会加入我们的培训。\n\n \n\nTraining details:\n\n培训
- 具体安排：\n\n*  Option: 1/2\n\n选择1/2\n\n*  Training name: Trial 
- Lot Responsibility Concept\n\n培训名称：试制流程责任关系和
- 概念\n\n*  Target audience: R&D\,PM\, Sales\, PPI\, DDI\, Auto/LivTec\n\
- n目标人群：研发，项目，销售，PPI\, DDI\, Auto/LivTec\n\n*  D
- escription: This training will cover the standardized Global Trial Batch P
- rocess and responsibilities\, highlighting the differences between the pre
- vious and the new process. It explains its foundation\, purpose\, and obje
- ctives. Additionally\, a new tool will be introduced to facilitate Trial B
- atch Requests.\n\n此次培训将涵盖标准化的全球试制流程和
- 责任\, 突出新旧流程的差异。培训过程中会解释它的基
- 础，目的和目的。此外，还将引用新的试制工具促进流
- 程的实施。\n\n \n\nPlease forward the meeting to your colleagues and 
- ensure your attendance in one of the 2 options.\n\n请把会议邀请转
- 发给您的相关同事，并确保你将参与选择1/2\n\n \n\nIf have 
- any question\, pls be free to contact with me.\n\n如有任何疑问欢迎
- 随时联系我！\n\n \n\n\n\nMit freundlichen Grüßen / Best regards / 
- Saludos Cordiales / 诚挚问候 / Pozdrawiam\n\n \n\nMaggie Ren/任梦瑾
- \n\nR&D Process\, Systems and Regulations\n\nR&D Process and Regulations M
- anagement\n\nContiTech Surface Solution\n\n \n\n__________________________
- ______________________________________________________\n\nMicrosoft Teams 
- 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
- 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MT
- kyNzFiZjctYzQ4Yi00NTczLTkxMDUtYjI1ZTEwZThkMjRm%40thread.v2/0?context=%7b%2
- 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226167
- 28eb-4ef8-4d58-9687-54b6fbc60f4c%22%7d>  \n\n会议 ID: 332 420 057 026 8 
- \n\n密码: fM3ee2WJ \n\n________________________________\n\n对于组织
- 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
- =616728eb-4ef8-4d58-9687-54b6fbc60f4c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
- d79e6265a&threadId=19_meeting_MTkyNzFiZjctYzQ4Yi00NTczLTkxMDUtYjI1ZTEwZThk
- MjRm@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
- ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
- __________________________________________________________________________
- ____\n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Trial Lot Responsibility Concept -Option1 BCZ
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lab test for use BYK-Max P 4109/P 4110 in extrusion process
-DTSTART;TZID="GMT 标准时间":20250428T130000
-DTEND;TZID="GMT 标准时间":20250428T140000
-CLASS:PUBLIC
-DESCRIPTION:凌经理，您好！\n\n \n\n如在Chinaplas上讨论，我
- 们想测试你们的材料BYK-MAX P4109/4110 对我们现场问题是否
- 有改善？\n\n想讨论一下实验计划，请确认一下这个时间
- 段您这边是否有空？如果不行，请建议新的时间。\n\n \n\
- n谢谢！\n\n \n\nBest regards\n\n \n\nSophia Chen 陈红梅\n\nHead of P
- PI BCZ\n\nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visitor ad
- dress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
- 克长顺汽车内饰材料（张家港）有限公司\n\nNo.108\,Jianghai
-  South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.Ch
- ina \n江苏省张家港市金港镇南沙江海南路108号 215632\n\n \n
- \nMobile: +86 18951136373\n\nE-Mail: hongmei.chen@benecke-changshun.com.cn
-  <mailto:hongmei.chen@benecke-changshun.com.cn> \n\n\n\n \n\n \n\n________
- ________________________________________________________________________\n
- \nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omk
- t=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-joi
- n/19%3ameeting_M2RmYzJiODgtMTk5My00OTE1LTg1MWMtMjAzNjg5ZGUwNDNk%40thread.v
- 2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%2
- 2Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 3
- 41 302 658 769 6 \n\n密码: yF6PU7z3 \n\n________________________________
- \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpti
- ons/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_M2RmYzJiODgtMTk5My00OTE1LTg1
- MWMtMjAzNjg5ZGUwNDNk@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
- 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
- 4ab9ad7e>  \n\n___________________________________________________________
- _____________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Lab test for use BYK-Max P 4109/P 4110 in extrusion process
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: ContiGPT Weekly Meeting
-DTSTART;TZID="GMT 标准时间":20250428T203000
-DTEND;TZID="GMT 标准时间":20250428T210000
-CLASS:PUBLIC
-DESCRIPTION:Hi everyone!\n\nCancelling as we have no presentation aligned.
-  \n\nSee you next session!
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: ContiGPT Weekly Meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250429T083500
 DTEND;TZID="GMT 标准时间":20250429T090500
 CLASS:PUBLIC
@@ -1923,6 +1771,93 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250528T083500
+DTEND;TZID="GMT 标准时间":20250528T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID="GMT 标准时间":20250528T153000
+DTEND;TZID="GMT 标准时间":20250528T163000
+CLASS:PUBLIC
+DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
+ mat (MS Teams meeting) on voluntary basis to exchange on certain topics. T
+ he RPA Developers Worldwide Open Calls are open to all RPA developers with
+ in our company. You can find them in our Teams Channel <https://teams.micr
+ osoft.com/l/team/19%3a9191061964d64edb9545595010c7695b%40thread.skype/conv
+ ersations?groupId=4a4577f4-67aa-4da6-95fa-d3e4fec19f4f&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a>  or on the Events <https://connext.conti.de/co
+ mmunities/service/html/communityoverview?communityUuid=a1ba9e40-8068-4b42-
+ bbf8-a637e36fa236#fullpageWidgetId=We9e88e6afcf8_43df_8d1f_55634a5e422b>  
+ page of this community.\n\nThe idea of the call is to facilitate knowledge
+  sharing across all organizations related to technical RPA subjects.\n\nBy
+  RPA developers for RPA developers.\n\n \n\n\n🤝 What is in for you?  ->
+  Our promise:\n\n\n💡          you will hear about technical updates\n\n
+ 🚀         learn about RPA developers best practices\n\n🌎         sha
+ ring of RPA approach and projects in different locations\n\n👨‍👨‍
+ 👦        meet RPA developers all around the globe \n\n \n\n\n👨‍
+ 👦‍👦 Audience\n\n\nAll enthusiastic RPA developers in Continental f
+ rom all around the world\, from different functions and different Group Se
+ ctors or Business Areas. \n\n \n\n\n👄 Language\n\n\nEnglish\n\n \n\n\n
+ ⏰ Time\n\n\n*	every fourth Wednesday/Thursday of the month\n*	1 hour ful
+ l of valuable content\n*	Option 1: 9:30 - 10:30 am CET (Wednesday)\n*	Opti
+ on 2: 4:00 - 5:00 pm CET  (Thursday)\n\n\n📋 Basic Agenda\n\n\n1.	Microl
+ earning (max. 5 min) What is a Microlearning? 🔗 <https://connext.conti.
+ de/wikis/home?lang=en#!/wiki/W965feafa2312_41f6_b6c9_63bbc7c9a59b/page/NWS
+ %20Microlearning> \n\n	1.	e.g. Watch '💡 How to integrate 🤖 UiPath St
+ udio with GitHub 🔄' | Microsoft Stream (Classic) <https://web.microsoft
+ stream.com/video/a1397497-d688-4f70-9694-adf09798cf08?list=user&userId=e3c
+ 22986-c061-4329-b5a7-1727ea5a346e> \n\n2.	Updates of Platform & Infrastruc
+ ture Topics\n\n	1.	e.g. Watch 'RPA Basic Platform Training 06_2022_Part_1'
+  | Microsoft Stream (Classic) <https://web.microsoftstream.com/video/e33a0
+ d9d-d464-446f-ac3f-3530248c3343> \n\n3.	RPA solutions and projects sharing
+ \n4.	Best practices\n5.	Q&A\n\n\n\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams Need help? <h
+ ttps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https:
+ //teams.microsoft.com/l/meetup-join/19%3a0a53d13422fa4c21a703569ee88cc19b%
+ 40thread.skype/1715063115837?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aab3a36c-5006-4b10-837e-26662ef60823
+ %22%7d>  \nMeeting ID: 372 086 914 606 \nPasscode: v8te2n \n______________
+ __________________\n\nFor organizers: Meeting options <https://teams.micro
+ soft.com/meetingOptions/?organizerId=aab3a36c-5006-4b10-837e-26662ef60823&
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21
+ a703569ee88cc19b@thread.skype&messageId=1715063115837&language=en-US>  | R
+ eset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>
+   \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
+ _____________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
