@@ -5,243 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250429T083500
-DTEND;TZID="GMT 标准时间":20250429T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Governance Process-Option2 BCZ
-DTSTART;TZID="GMT 标准时间":20250429T093000
-DTEND;TZID="GMT 标准时间":20250429T110000
-CLASS:PUBLIC
-DESCRIPTION:FYI\n\n \n\n-----原始约会-----\n发件人: Ren\, Mengjin <
- mengjin.ren@benecke-changshun.com.cn <mailto:mengjin.ren@benecke-changshun
- .com.cn> > \n发送时间: 2025年4月18日 14:59\n收件人: Ren\, Mengji
- n\; Macias\, Daniel01\; Ma\, Yao\; Zhang\, Kenneth\; Zhu\, Zachary\; Jin\,
-  Lei\; Wang\, Xu\; Zhou\, Bin\; Jiang\, Nan02\; Shen\, Qi\; ZHANG\, Hui08\
- ; Chen\, Hongmei\; Sun\, Xiaoyong\; Guo\, Wei02\; Liu\, Ling01\; Shi\, Gin
- o\; Sun\, Dimin\; jiang\, song03\; Hou\, Xuewen\; Mu\, Yuanjie\; Ge\, Jian
- fen\; Lian\, Chengbo02\; Pan\, Sheng\; Peng\, Shuping\; Xu\, Kevin\; Xie\,
-  Wei02\; Zheng\, Chengwei\; Zhang\, Chengbao\; Wang\, Wenming\; Zhou\, Yin
- g05\; Du\, Lijie\; Zhou\, Lancheng\; Shao\, Lei02\; Lu\, Jiaqi\; Wang\, To
- ng\; Xu\, Ming03\; Wu\, Yongji\; Xu\, Jinlong\; Shen\, Yecheng02\; Zhang\,
-  Yufan02\; Huang\, Haitao02\; Kantel\, Ulrike\; Ding\, Zhongxie\; Wu\, Jun
- 06\; Lu\, Zhichao02\; Duan\, Haitao\; Zhang\, Meng05\; Lou\, Hangyu\; Qiu\
- , Jie03\; Du-EXT\, Wenqiu02\; Wu-EXT\, Xijing\; Zhu-EXT\, Yanlong\; Yang\,
-  Jacob\; Qi\, Nicholas\; Liu\, Huanhuan02\; Huang\, Yan04\; Xu\, Yan01\; Q
- ian\, Chunlei\; Ge\, Yiqiang\n抄送: Knerr\, Karsten\n主题: Governance 
- Process-Option2 BCZ\n时间: 2025年4月29日星期二 9:30-11:00(UTC+08:0
- 0) 北京，重庆，香港特别行政区，乌鲁木齐。\n地点: Micr
- osoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang\n\n \n\nDear all\,\n\n \
- n\nAs new global process was put out\, I would like to invite you join our
-  training\, several training sessions will be held in coming days. \n\n新
- 的全球流程正在推出，邀请您参与我们的培训，培训将
- 会在接下来的几天中陆续推出。\n\nNew process is different fro
- m previous\, hopefully target audience will join our training.\n\n新流
- 程不同于以往，希望目标参与人群将会加入我们的培训
- 。\n\n \n\nTraining details:\n\n培训具体安排：\n\n*  Option: 1/2\n
- \n选择1/2\n\n*  Training name: Governance Process Training- Interaction 
- of Core Processes C1 - C2\n\n培训名称：管理流程培训-C1-C2之间
- 的相互关系\n\n*  Target audience: R&D\, PM\, Sales\, DDI\, PPI\, Prod
- uction，Purchasing\, ESH\, LAB\, SQM\, Quality\, Auto/LivTec\n\n目标人
- 群：研发，项目，销售，PPI\, DDI\, 生产，采购，ESH\,实验
- 室，供应商质量管理，质量，Auto/LivTec\n\n*  Description: This
-  information session provides a brief introduction about the interaction b
- etween C1 (Acquire from Market to Business Oportunity) and C2 (Develop fro
- m Design to Launch) processes\, with the focus on: "What are the steps to 
- bring an idea or a customer request to life". It will also cover key conce
- pts\, definitions\, and a new evaluation tool (Product Market Fit) that wi
- ll be finalized in the second part of the year.\n\n本次会议将介绍C1
- （从市场到商业机会的获取）和C2（从设计到量产的开发
- 过程）过程之间的相互关系，重点是：“如何将创意和
- 客户请求变为现实。”它还将涵盖关键概念，定义，将
- 于下半年最终确定的新的评估工具（产品市场契合度）\n
- \n \n\nPlease forward the meeting to your colleagues and ensure your atten
- dance in one of the 2 options.\n\n请把会议邀请转发给您的相关
- 同事，并确保你将参与选择1/2\n\n \n\nIf have any question\, pls
-  be free to contact with me.\n\n如有任何疑问欢迎随时联系我！
- \n\n \n\n\n\n \n\nMit freundlichen Grüßen / Best regards / Saludos Cordi
- ales / 诚挚问候 / Pozdrawiam\n\n \n\nMaggie Ren/任梦瑾\n\nR&D Proce
- ss\, Systems and Regulations\n\nR&D Process and Regulations Management\n\n
- ContiTech Surface Solution\n\n \n\n_______________________________________
- _________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTZhZWRiOTgtMz
- kxMi00MjI0LWJkZGQtMjY3YWQ1NGFhZTc0%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22616728eb-4ef8-4d
- 58-9687-54b6fbc60f4c%22%7d>  \n\n会议 ID: 371 389 552 558 7 \n\n密码: 
- aH9oz29R \n\n________________________________\n\n对于组织者: 会议
- 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=616728eb-4
- ef8-4d58-9687-54b6fbc60f4c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
- hreadId=19_meeting_ZTZhZWRiOTgtMzkxMi00MjI0LWJkZGQtMjY3YWQ1NGFhZTc0@thread
- .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
- ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
- ___________________________________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Governance Process-Option2 BCZ
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO L2 Weekly Review
-DTSTART;TZID="GMT 标准时间":20250429T093000
-DTEND;TZID="GMT 标准时间":20250429T100000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:维修会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO L2 Weekly Review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP部门周会
-DTSTART;TZID="GMT 标准时间":20250429T101500
-DTEND;TZID="GMT 标准时间":20250429T110000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
- 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
- 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C2.3 Base Documents/Tailoring Projects-Option2 BCZ
-DTSTART;TZID="GMT 标准时间":20250429T130000
-DTEND;TZID="GMT 标准时间":20250429T150000
-CLASS:PUBLIC
-DESCRIPTION:选择时间参加，谢谢！\n\n \n\nSophia   4/21\n\n \n\n-
- ----原始约会-----\n发件人: Ren\, Mengjin <mengjin.ren@benecke-chang
- shun.com.cn <mailto:mengjin.ren@benecke-changshun.com.cn> > \n发送时间
- : 2025年4月18日 15:03\n收件人: Ren\, Mengjin\; Macias\, Daniel01\; M
- a\, Yao\; Zhang\, Kenneth\; Zhu\, Zachary\; Jin\, Lei\; Wang\, Xu\; Zhou\,
-  Bin\; Jiang\, Nan02\; Shen\, Qi\; ZHANG\, Hui08\; Chen\, Hongmei\; Sun\, 
- Xiaoyong\; Guo\, Wei02\; Liu\, Ling01\; Lian\, Chengbo02\; Pan\, Sheng\; P
- eng\, Shuping\; Xu\, Kevin\; Xie\, Wei02\; Zheng\, Chengwei\; Zhang\, Chen
- gbao\; Wang\, Wenming\; Zhou\, Ying05\; Du\, Lijie\; Zhou\, Lancheng\; Sha
- o\, Lei02\; Lu\, Jiaqi\; Wang\, Tong\; Xu\, Ming03\; Wu\, Yongji\; Xu\, Ji
- nlong\; Shen\, Yecheng02\; Zhang\, Yufan02\; Huang\, Haitao02\; Kantel\, U
- lrike\; Ding\, Zhongxie\; Wu\, Jun06\; Lu\, Zhichao02\; Duan\, Haitao\; Zh
- ang\, Meng05\; Lou\, Hangyu\; Qiu\, Jie03\; Du-EXT\, Wenqiu02\; Wu-EXT\, X
- ijing\; Zhu-EXT\, Yanlong\; Yang\, Jacob\; Qi\, Nicholas\; Liu\, Huanhuan0
- 2\; Huang\, Yan04\; Xu\, Yan01\; Qian\, Chunlei\; Ge\, Yiqiang\n抄送: Kn
- err\, Karsten\n主题: C2.3 Base Documents/Tailoring Projects-Option2 BCZ\
- n时间: 2025年4月29日星期二 13:00-15:00(UTC+08:00) 北京，重庆
- ，香港特别行政区，乌鲁木齐。\n地点: Microsoft Teams 会议
- \; TE_ZG_MR_CBC401_Zhangjiagang\n\n \n\nDear all\,\n\n \n\nAs new global p
- rocess was put out\, I would like to invite you join our training\, severa
- l training sessions will be held in coming days. \n\n新的全球流程正
- 在推出，邀请您参与我们的培训，培训将会在接下来的
- 几天中陆续推出。\n\nNew process is different from previous\, hopef
- ully target audience will join our training.\n\n新流程不同于以往
- ，希望目标参与人群将会加入我们的培训。\n\n \n\nTraining
-  details:\n\n培训具体安排：\n\n*  Option: 1/2\n\n选择1/2\n\n*  Tr
- aining name: C2.3 Base Documents/Tailoring Projects\n\n培训名称：C2.3
- 基础文件/定制化项目\n\n*  Target audience: R&D\, PM\, Sales\, DDI
- \, PPI\, Quality\, Auto/LivTec\n\n目标人群：研发，项目，销售
- ，PPI\, DDI\, 质量，Auto/LivTec\n\n*  Description: This training cover
- s the C2.3 Process\, which contains the previously known R_03 process. It 
- will explain how this is carried out\, highlighting the adaptations and si
- mplifications made. Additionally\, 7 step standards that guide users throu
- gh each phase will be presented. As a complement\, the procedure how to ta
- ilor projects will be explained.\n\n此次培训涵盖C2.3流程\,这替
- 代了之前的 R_03 流程.会议将会介绍C2.3流程是如何开展的
- ，重点介绍所作的调整和优化。此外，将指导用户完成
- 每个阶段的7步标准，作为补充，还将解释如何定制项目
- 的程序\n\n \n\nPlease forward the meeting to your colleagues and ensure
-  your attendance in one of the 2 options.\n\n请把会议邀请转发给
- 您的相关同事，并确保你将参与选择1/2\n\n \n\nIf have any qu
- estion\, pls be free to contact with me.\n\n如有任何疑问欢迎随时
- 联系我！\n\n \n\n\n\nMit freundlichen Grüßen / Best regards / Saludo
- s Cordiales / 诚挚问候 / Pozdrawiam\n\n \n\nMaggie Ren/任梦瑾\n\nR&
- D Process\, Systems and Regulations\n\nR&D Process and Regulations Managem
- ent\n\nContiTech Surface Solution\n\n \n\n________________________________
- ________________________________________________\n\nMicrosoft Teams 是否
- 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加
- 入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODMwNmMw
- NzItNDg4Yy00NzgxLWFmZWItMTA3MzA1MTFlZTMx%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22616728eb-4
- ef8-4d58-9687-54b6fbc60f4c%22%7d>  \n\n会议 ID: 361 061 771 647 2 \n\n
- 密码: 6JV9dE9Z \n\n________________________________\n\n对于组织者: 
- 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=6167
- 28eb-4ef8-4d58-9687-54b6fbc60f4c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a&threadId=19_meeting_ODMwNmMwNzItNDg4Yy00NzgxLWFmZWItMTA3MzA1MTFlZTMx@
- thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
- b.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______
- _________________________________________________________________________\
- n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC401_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:C2.3 Base Documents/Tailoring Projects-Option2 BCZ
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX2小订单回收和换型改善
-DTSTART;TZID="GMT 标准时间":20250429T130000
-DTEND;TZID="GMT 标准时间":20250429T163000
-CLASS:PUBLIC
-DESCRIPTION:大家好！本周三已完成了EX2小订单回收的方案
- ，下周二我们简单回顾，再重点讨论和确定EX2的换型改
- 善\n\n\n（已完成项：邀请大家一起对EX2的小订单进行优
- 化，推进小订单回收项目，降低小订单成本\n_______________
- _________________________________________________________________\nMicroso
- ft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN> 
- \n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeti
- ng_MWRlMGUyMTgtYTdmYS00NzVjLTkwMTUtMDY0N2QyODNiYmE5%40thread.v2/0?context=
- %7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2
- 2fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7d>  \n会议 ID: 346 621 755 093
-  2 \n密码: yY7Nv6c6 \n________________________________\n\n对于组织
- 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
- =fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
- d79e6265a&threadId=19_meeting_MWRlMGUyMTgtYTdmYS00NzVjLTkwMTUtMDY0N2QyODNi
- YmE5@thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https://fil
- ehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n______
- __________________________________________________________________________
-LOCATION:工厂304培训室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2小订单回收和换型改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250430T083500
 DTEND;TZID="GMT 标准时间":20250430T090500
 CLASS:PUBLIC
@@ -1858,6 +1621,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250529T083500
+DTEND;TZID="GMT 标准时间":20250529T090500
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
+ \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
+ IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
+ 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
+ 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
