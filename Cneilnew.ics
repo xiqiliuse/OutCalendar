@@ -316,6 +316,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:色母粒混合&制漆控制计划回顾更新
+DTSTART;TZID="GMT 标准时间":20250512T150000
+DTEND;TZID="GMT 标准时间":20250512T163000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MDU0NWUwZDEtODZiOC00YTdiLThlYWUtZD
+ g4OWY3ZDZlYzdj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
+ %22%7d>  \n\n会议 ID: 348 302 553 288 7 \n\n密码: uP78CK2k \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f
+ 63a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MDU
+ 0NWUwZDEtODZiOC00YTdiLThlYWUtZDg4OWY3ZDZlYzdj@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:色母粒混合&制漆控制计划回顾更新
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250512T203000
 DTEND;TZID="GMT 标准时间":20250512T210000
@@ -469,6 +496,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soft TPO next action
+DTSTART;TZID="GMT 标准时间":20250514T130000
+DTEND;TZID="GMT 标准时间":20250514T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Soft TPO next action
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1078,6 +1119,25 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCZ Digital Talent Team-团队成员竞选邀请
+DTSTART;TZID="GMT 标准时间":20250526T130000
+DTEND;TZID="GMT 标准时间":20250526T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n感谢大家报名加入数智化人才团
+ 队，本次会议邀请各位参与BCZ Digital Talent Team的团队成员
+ 的竞选，每位同事现场展示时间表安排如下，请大家按
+ 时到达现场啊！\n\n \n\n如有会议冲突，可提前与我沟通
+ 协调，谢谢！\n\n \n\n\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n
+ \nHR Training Specilist\n\nContiTech Surface Solutions\n\n \n\n \n
+LOCATION:plantoffice304
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ Digital Talent Team-团队成员竞选邀请
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250526T203000
 DTEND;TZID="GMT 标准时间":20250526T210000
@@ -1193,6 +1253,25 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCZ Digital Talent Team-团队成员竞选邀请
+DTSTART;TZID="GMT 标准时间":20250527T130000
+DTEND;TZID="GMT 标准时间":20250527T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n感谢大家报名加入数智化人才团
+ 队，本次会议邀请各位参与BCZ Digital Talent Team的团队成员
+ 的竞选，每位同事现场展示时间表安排如下，请大家按
+ 时到达现场啊！\n\n \n\n如有会议冲突，可提前与我沟通
+ 协调，谢谢！\n\n \n\n\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n
+ \nHR Training Specilist\n\nContiTech Surface Solutions\n\n \n\n \n
+LOCATION:plantoffice304
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ Digital Talent Team-团队成员竞选邀请
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250528T083500
 DTEND;TZID="GMT 标准时间":20250528T090500
@@ -1217,6 +1296,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ Digital Talent Team-团队成员竞选邀请
+DTSTART;TZID="GMT 标准时间":20250528T130000
+DTEND;TZID="GMT 标准时间":20250528T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n感谢大家报名加入数智化人才团
+ 队，本次会议邀请各位参与BCZ Digital Talent Team的团队成员
+ 的竞选，每位同事现场展示时间表安排如下，请大家按
+ 时到达现场啊！\n\n \n\n如有会议冲突，可提前与我沟通
+ 协调，谢谢！\n\n \n\n\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n
+ \nHR Training Specilist\n\nContiTech Surface Solutions\n\n \n\n \n
+LOCATION:plantoffice304
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ Digital Talent Team-团队成员竞选邀请
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1397,20 +1495,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:端午节
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:儿童节
-DTSTART;TZID="GMT 标准时间":20250601T000000
-DTEND;TZID="GMT 标准时间":20250602T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:儿童节
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
