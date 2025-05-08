@@ -46,6 +46,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tesla VAVE Review
+DTSTART;TZID="GMT 标准时间":20250508T153000
+DTEND;TZID="GMT 标准时间":20250508T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello all，\n\n大家内部一起回顾一下Tesla VAVE项目
+ 的进展情况\n\n \n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmUwMmZlYzgtMT
+ c3My00YTg4LWEzOGEtZjQ3OWQ0NTRmMjEy%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-12d5-49
+ c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 378 123 791 658 7 \n\n密码: 
+ Zr7dM3iF \n\n________________________________\n\n对于组织者: 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf36416-1
+ 2d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_MmUwMmZlYzgtMTc3My00YTg4LWEzOGEtZjQ3OWQ0NTRmMjEy@thread
+ .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
+ ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
+ ___________________________________________________________________\n\n \n
+LOCATION:经理办公室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tesla VAVE Review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250509T083500
 DTEND;TZID="GMT 标准时间":20250509T090500
