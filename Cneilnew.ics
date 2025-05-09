@@ -5,76 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250508T083500
-DTEND;TZID="GMT 标准时间":20250508T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:机台数据采集需求收集
-DTSTART;TZID="GMT 标准时间":20250508T130000
-DTEND;TZID="GMT 标准时间":20250508T140000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:机台数据采集需求收集
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tesla VAVE Review
-DTSTART;TZID="GMT 标准时间":20250508T153000
-DTEND;TZID="GMT 标准时间":20250508T160000
-CLASS:PUBLIC
-DESCRIPTION:Hello all，\n\n大家内部一起回顾一下Tesla VAVE项目
- 的进展情况\n\n \n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmUwMmZlYzgtMT
- c3My00YTg4LWEzOGEtZjQ3OWQ0NTRmMjEy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-12d5-49
- c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 378 123 791 658 7 \n\n密码: 
- Zr7dM3iF \n\n________________________________\n\n对于组织者: 会议
- 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf36416-1
- 2d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
- hreadId=19_meeting_MmUwMmZlYzgtMTc3My00YTg4LWEzOGEtZjQ3OWQ0NTRmMjEy@thread
- .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
- ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
- ___________________________________________________________________\n\n \n
-LOCATION:经理办公室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Tesla VAVE Review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250509T083500
 DTEND;TZID="GMT 标准时间":20250509T090500
 CLASS:PUBLIC
@@ -133,6 +63,43 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:质量之星评选流程优化
+DTSTART;TZID="GMT 标准时间":20250509T110000
+DTEND;TZID="GMT 标准时间":20250509T113000
+CLASS:PUBLIC
+DESCRIPTION:Fyi\n\n \n\n-----原始约会-----\n发件人: Xu\, Yan01 <yan
+ 01.xu@benecke-changshun.com.cn> \n发送时间: 2025年5月6日 15:09\n收
+ 件人: Xu\, Yan01\; Jin\, Lei\; Sun\, Dimin\; Hou\, Xuewen\; jiang\, song
+ 03\; Sun\, Juan\; Zhu\, Lin\; Lu\, Patrick\; Kang\, Bill\; Chen\, Hongmei\
+ ; Geng\, Juan\; Huang\, Qing\; Cheng\, Dong01\n抄送: Yao\, Tomi\n主题:
+  质量之星评选流程优化\n时间: 2025年5月9日星期五 11:00-11
+ :30(UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n
+ 地点: Microsoft Teams 会议\; TE_ZG_MR_PlantOffice301_Zhangjiagang\n\n 
+ \n\nHello all\,\n\n邀请大家一起看下目前的质量之星的评选
+ 流程，欢迎各位提出宝贵的意见或者建议，以便流程的
+ 进一步完善和优化。\n\n \n\n______________________________________
+ __________________________________________\n\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
+ 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWIyMDkxMWEtNT
+ Q0MC00ZDQzLTgxNzYtNDE4ZGI1YmQ4ODFh%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aad39012-fff5-49
+ 51-99a6-68c6adc1a5e6%22%7d>  \n\n会议 ID: 324 139 176 108 \n\n密码: Cf
+ 6fk9NF \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=aad39012-fff5
+ -4951-99a6-68c6adc1a5e6&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_ZWIyMDkxMWEtNTQ0MC00ZDQzLTgxNzYtNDE4ZGI1YmQ4ODFh@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:质量之星评选流程优化
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BYK 到访
 DTSTART;TZID="GMT 标准时间":20250509T150000
 DTEND;TZID="GMT 标准时间":20250509T160000
@@ -162,7 +129,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 Project review 
+SUMMARY:已取消: 2025 Project review 
 DTSTART;TZID="GMT 标准时间":20250509T150000
 DTEND;TZID="GMT 标准时间":20250509T160000
 CLASS:PUBLIC
@@ -185,7 +152,7 @@ LOCATION:my office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:2025 Project review 
+DESCRIPTION:已取消: 2025 Project review 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
