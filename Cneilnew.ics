@@ -100,6 +100,48 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:8D training
+DTSTART;TZID="GMT 标准时间":20250509T130000
+DTEND;TZID="GMT 标准时间":20250509T140000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n大家有空，可以去学习一下，谢
+ 谢！\n\n \n\nSophia   5/9\n\n \n\n-----原始约会-----\n发件人: Jin
+ \, Lei <lei.jin@benecke-changshun.com.cn> \n发送时间: 2025年4月23日
+  13:56\n收件人: Jin\, Lei\; Baocheng Xu\; Xu\, Jinkai\; Xu\, Yan01\; Yu
+ \, Bei\; Song\, Hao\; Wu\, Wei03\; Guan\, Jiacheng\; Zhang\, Min01\; Huang
+ \, Lijun\; Qian\, Chunlei\; Huang\, Hao\; Huang\, Qing\; Chen\, Hongmei\; 
+ Sun\, Dimin\; Kang\, Bill\; Yang\, Laraine\; Chen\, Miaoyan\; jiang\, song
+ 03\; Hou\, Xuewen\; Zhu\, Lin\n抄送: Tian\, Richard\; Cheng\, Dong01\; S
+ un\, Juan\; Tang\, Aiyun\; Zhao\, Feng01\; Li\, Xiaoping02\; Xu\, Liuhui\;
+  Lin\, Weiying\; sun\, Kayla\n主题: 8D training\n时间: 2025年5月9日
+ 星期五 13:00-14:00(UTC+08:00) 北京，重庆，香港特别行政区
+ ，乌鲁木齐。\n地点: Microsoft Teams Meeting\; TE_ZG_MR_PlantOffice
+ 301_Zhangjiagang\n\n \n\nDears\, \n\nI’d like to introduce you how to pr
+ epare our 8D and systematically problem solving with quality minds.\n\nPls
+  forward this to your team if necessary.\n\nThanks!\n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin t
+ he meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzk
+ 3NjlmZmYtZjExOS00MjdlLWI4MzEtNDFjNTViOWJlZjk2%40thread.v2/0?context=%7b%22
+ Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%227cbc4
+ 490-23ca-45f1-994c-35193b2acf44%22%7d>  \n\nMeeting ID: 390 455 744 578 \n
+ \nPasscode: 6hA9gR9k \n\n________________________________\n\nFor organizer
+ s: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerI
+ d=7cbc4490-23ca-45f1-994c-35193b2acf44&tenantId=8d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a&threadId=19_meeting_Nzk3NjlmZmYtZjExOS00MjdlLWI4MzEtNDFjNTViOWJ
+ lZjk2@thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security <htt
+ ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
+ \n\n______________________________________________________________________
+ __________\n\n \n
+LOCATION:Microsoft Teams Meeting\; TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:8D training
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BYK 到访
 DTSTART;TZID="GMT 标准时间":20250509T150000
 DTEND;TZID="GMT 标准时间":20250509T160000
