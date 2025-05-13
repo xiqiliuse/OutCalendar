@@ -64,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EX1&EX2 PFMEA更新Review
 DTSTART;TZID="GMT 标准时间":20250513T130000
-DTEND;TZID="GMT 标准时间":20250513T150000
+DTEND;TZID="GMT 标准时间":20250513T140000
 CLASS:PUBLIC
 DESCRIPTION: \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
@@ -635,6 +635,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC2E日蚀蓝透光率不合格后续临时措施
+DTSTART;TZID="GMT 标准时间":20250522T100000
+DTEND;TZID="GMT 标准时间":20250522T113000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NDMwNjdmMWEtNzdiMi00ZDExLWJmNTctYW
+ Y4NWE3ODE0Y2Ez%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
+ %22%7d>  \n\n会议 ID: 392 768 811 874 5 \n\n密码: Hm3pi7g6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f
+ 63a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDM
+ wNjdmMWEtNzdiMi00ZDExLWJmNTctYWY4NWE3ODE0Y2Ez@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SC2E日蚀蓝透光率不合格后续临时措施
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
