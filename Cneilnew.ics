@@ -172,38 +172,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EX2小订单回收（已完成）和换型改善
-DTSTART;TZID="GMT 标准时间":20250516T130000
-DTEND;TZID="GMT 标准时间":20250516T170000
-CLASS:PUBLIC
-DESCRIPTION:\n2025.5.16 大家好！本周五邀请大家继续讨论和
- 制定EX2的换型优化改善\n\n2025.4.29 大家好！本周三已完成
- 了EX2小订单回收的方案，下周二我们简单回顾，再重点
- 讨论和确定EX2的换型改善\n\n\n（已完成项：邀请大家一
- 起对EX2的小订单进行优化，推进小订单回收项目，降低
- 小订单成本\n_________________________________________________________
- _______________________\nMicrosoft Teams 是否需要帮助? <https://aka.
- ms/JoinTeamsMeeting?omkt=zh-CN> \n立即加入会议 <https://teams.micros
- oft.com/l/meetup-join/19%3ameeting_MWRlMGUyMTgtYTdmYS00NzVjLTkwMTUtMDY0N2Q
- yODNiYmE5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7
- d>  \n会议 ID: 346 621 755 093 2 \n密码: yY7Nv6c6 \n__________________
- ______________\n\n对于组织者: 会议选项 <https://teams.microsoft.c
- om/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenant
- Id=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MWRlMGUyMTgtYT
- dmYS00NzVjLTkwMTUtMDY0N2QyODNiYmE5@thread.v2&messageId=0&language=zh-CN>  
- \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436
- b-832a-1d684ab9ad7e>  \n__________________________________________________
- ______________________________
-LOCATION:工厂304培训室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2小订单回收（已完成）和换型改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EX2-3国产压延冷却辊验证产品质量讨论以及辊子处
  置讨论
 DTSTART;TZID="GMT 标准时间":20250516T133000
@@ -294,6 +262,39 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX2小订单回收（已完成）和换型改善
+DTSTART;TZID="GMT 标准时间":20250519T130000
+DTEND;TZID="GMT 标准时间":20250519T170000
+CLASS:PUBLIC
+DESCRIPTION:\n2015.5.19时间更新，因挤出生产计划有变，故推
+ 迟会议时间\n\n2025.5.16 大家好！本周五邀请大家继续讨论
+ 和制定EX2的换型优化改善\n\n2025.4.29 大家好！本周三已完
+ 成了EX2小订单回收的方案，下周二我们简单回顾，再重
+ 点讨论和确定EX2的换型改善\n\n\n（已完成项：邀请大家
+ 一起对EX2的小订单进行优化，推进小订单回收项目，降
+ 低小订单成本\n______________________________________________________
+ __________________________\nMicrosoft Teams 是否需要帮助? <https://a
+ ka.ms/JoinTeamsMeeting?omkt=zh-CN> \n立即加入会议 <https://teams.mic
+ rosoft.com/l/meetup-join/19%3ameeting_MWRlMGUyMTgtYTdmYS00NzVjLTkwMTUtMDY0
+ N2QyODNiYmE5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%2
+ 2%7d>  \n会议 ID: 346 621 755 093 2 \n密码: yY7Nv6c6 \n_______________
+ _________________\n\n对于组织者: 会议选项 <https://teams.microsof
+ t.com/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&ten
+ antId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MWRlMGUyMTg
+ tYTdmYS00NzVjLTkwMTUtMDY0N2QyODNiYmE5@thread.v2&messageId=0&language=zh-CN
+ >  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
+ 436b-832a-1d684ab9ad7e>  \n_______________________________________________
+ _________________________________
+LOCATION:工厂304培训室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2小订单回收（已完成）和换型改善
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -450,6 +451,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Database系统颜色模块优化
+DTSTART;TZID="GMT 标准时间":20250520T140000
+DTEND;TZID="GMT 标准时间":20250520T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Database系统颜色模块优化
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
