@@ -5,84 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250514T083500
-DTEND;TZID="GMT 标准时间":20250514T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soft TPO next action
-DTSTART;TZID="GMT 标准时间":20250514T130000
-DTEND;TZID="GMT 标准时间":20250514T140000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Soft TPO next action
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:点位查找 - OT Networking and Data Processing Project
-DTSTART;TZID="GMT 标准时间":20250514T150000
-DTEND;TZID="GMT 标准时间":20250514T153000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n \nBCZ_车间网络安全改造及智慧工厂准
- 备项目，设备点位查找部分已打包给采购询价，由于点
- 位数量影响Kepware 高级插件IoT Gateway的订阅费用，需要各
- 位协助提供各自负责区域/设备需要采集的参数、频率等
- 要素。采集数据后续会输入至 Database Center（数据中台） 
- 和 Grafana（可视化） 两个平台中。烦请协助，谢谢！\n \n
- 过程：\n\n*	有画面的机台，请提供截图并高亮标记需采
- 集的点位。\n*	没有画面的机台，请按需提供需要采集的
- 信息。\n*	\n	烦请@Li Xiaodong老师协助汇总。\n\n \nBest Regards
- \,\nLily Liu\n\n\n\n______________________________________________________
- __________________________\nMicrosoft Teams 是否需要帮助? <https://a
- ka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.mi
- crosoft.com/l/meetup-join/19%3ameeting_MTMxOThmMGItNzVlOS00MzJhLWE1MzEtOWY
- yMWY3NzkzZmFi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-a
- d1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%
- 22%7d>  \n会议 ID: 376 775 651 210 \n密码: vY9vD3s4 \n________________
- ________________\n\n对于组织者: 会议选项 <https://teams.microsoft
- .com/meetingOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tena
- ntId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTMxOThmMGIt
- NzVlOS00MzJhLWE1MzEtOWYyMWY3NzkzZmFi@thread.v2&messageId=0&language=zh-CN>
-   \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
- 36b-832a-1d684ab9ad7e>  \n________________________________________________
- ________________________________
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:点位查找 - OT Networking and Data Processing Project
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250515T083500
 DTEND;TZID="GMT 标准时间":20250515T090500
 CLASS:PUBLIC
@@ -1414,6 +1336,43 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Customer project review
+DTSTART;TZID="GMT 标准时间":20250613T150000
+DTEND;TZID="GMT 标准时间":20250613T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
+ ill update trial batch status。\n\n@Sun xiaoyong <mailto:xiaoyong.sun@ben
+ ecke-changshun.com.cn> @郭巍 <mailto:wei.2.guo@benecke-changshun.com.cn>
+  \, 所有的试制记录，请及时更新。\n\n \n\n2.     Process Engi
+ neer will update order deviation after G70.\n\n@Chen chenglong <mailto:che
+ nglong.chen@benecke-changshun.com.cn> @Wang congyu <mailto:congyu.wang@ben
+ ecke-changshun.com.cn> \n\n订单差异更新到KPI\, C:\\Users\\chenh11\\
+ Continental AG\\PPI BCZ - General\\13 KPI\\2025\n\n \n\n3.     Color CV da
+ ta updated.\n\n@王芬 <mailto:fen.wang@benecke-changshun.com.cn> @Chen ch
+ englong <mailto:chenglong.chen@benecke-changshun.com.cn> \n\n \n\n \n\n谢
+ 谢！\n\n \n\nSophia   12/31\n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams 是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE3ZjU1ZTM
+ tOGI4ZS00NWY4LTk5MjYtNDNlZTliMTE5MjY3%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da
+ -4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 330 404 058 416 \n\n密码:
+  vZ7Ss2rG \n\n________________________________\n\n对于组织者: 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a
+ 5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_NWE3ZjU1ZTMtOGI4ZS00NWY4LTk5MjYtNDNlZTliMTE5MjY3@thread
+ .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
+ ralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________
+ ___________________________________________________________________\n\n \n
+LOCATION:My office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2025 Customer project review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
