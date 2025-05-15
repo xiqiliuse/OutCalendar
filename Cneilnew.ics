@@ -123,6 +123,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:换型流程图不清晰改善
+DTSTART;TZID="GMT 标准时间":20250516T143000
+DTEND;TZID="GMT 标准时间":20250516T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NzgyNzgzM2UtMjFkYy00YzAzLWI1MjktMG
+ E1NDc4OWM0YTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2227cabe9d-b880-48dc-b6ef-b9fde4a5234f
+ %22%7d>  \n\n会议 ID: 330 428 682 654 0 \n\n密码: 7H4aq6jw \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=27cabe9d-b880-48dc-b6ef-b9fde4a5
+ 234f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Nzg
+ yNzgzM2UtMjFkYy00YzAzLWI1MjktMGE1NDc4OWM0YTRk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:换型流程图不清晰改善
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Customer project review
 DTSTART;TZID="GMT 标准时间":20250516T150000
 DTEND;TZID="GMT 标准时间":20250516T160000
@@ -217,6 +244,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EX2小订单回收（已完成）和换型改善
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:油漆房BCZDataBaseCenter讨论会
+DTSTART;TZID="GMT 标准时间":20250519T130000
+DTEND;TZID="GMT 标准时间":20250519T140000
+CLASS:PUBLIC
+DESCRIPTION:1.油漆房排产软件使用情况反馈。\n2.油漆生产
+ 记录表内信息有误，反馈具体问题。\n3.打点记录表录入
+ 系统，集合到系统里记录。\n\n\n________________________________
+ ________________________________________________\nMicrosoft Teams 是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdlYzhkYTU
+ tZWQ2Ny00OTkyLWI1MGYtOGRiZGRhZWJjMmM1%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e8b7cf7c-22cb
+ -4aae-b899-01ba50998773%22%7d>  \n会议 ID: 335 252 710 766 \n密码: 8Dq
+ 7zV6A \n________________________________\n\n对于组织者: 会议选项 
+ <https://teams.microsoft.com/meetingOptions/?organizerId=e8b7cf7c-22cb-4aa
+ e-b899-01ba50998773&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId
+ =19_meeting_ZDdlYzhkYTUtZWQ2Ny00OTkyLWI1MGYtOGRiZGRhZWJjMmM1@thread.v2&mes
+ sageId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n________________________
+ ________________________________________________________
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆房BCZDataBaseCenter讨论会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -378,7 +434,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Database系统颜色模块优化
-DTSTART;TZID="GMT 标准时间":20250520T140000
+DTSTART;TZID="GMT 标准时间":20250520T143000
 DTEND;TZID="GMT 标准时间":20250520T150000
 CLASS:PUBLIC
 DESCRIPTION: \n\n \n\n \n
@@ -559,6 +615,36 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX2设备生产0.3mm的产品
+DTSTART;TZID="GMT 标准时间":20250522T160000
+DTEND;TZID="GMT 标准时间":20250522T170000
+CLASS:PUBLIC
+DESCRIPTION:Hello Charles：\n\n       针对邮件的回复内容，我
+ 们会议再当面的确认下，请贵司相关技术人员参会讨论
+ 下。如果时间冲突请提前告知协调！\n\n \n\n_________________
+ _______________________________________________________________\n\nMicroso
+ ft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN> 
+  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ame
+ eting_M2MwMDBlZDYtZWNiNy00MWFiLTkyNjMtNjIzZTQwNzVlZDBm%40thread.v2/0?conte
+ xt=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3
+ a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb%22%7d>  \n\n会议 ID: 392 121 41
+ 7 159 \n\n密码: v3hu2uy6 \n\n________________________________\n\n对于
+ 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
+ izerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&tenantId=8d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a&threadId=19_meeting_M2MwMDBlZDYtZWNiNy00MWFiLTkyNjMtNjIzZT
+ QwNzVlZDBm@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <htt
+ ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
+ \n\n______________________________________________________________________
+ __________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2设备生产0.3mm的产品
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID="GMT 标准时间":20250522T220000
 DTEND;TZID="GMT 标准时间":20250522T230000
@@ -698,6 +784,22 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX2小订单回收优化改善
+DTSTART;TZID="GMT 标准时间":20250526T100000
+DTEND;TZID="GMT 标准时间":20250526T113000
+CLASS:PUBLIC
+DESCRIPTION:会议讨论：\n\n上次现场测量的调机卷回收时间
+ 是85min，目标要求降低至65min内。\n\n满足所有1000~2000米订
+ 单完整结构调机卷的完全回收。\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2小订单回收优化改善
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
