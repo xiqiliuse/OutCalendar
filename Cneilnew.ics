@@ -66,6 +66,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VW381 Hylite 试制review
+DTSTART;TZID="GMT 标准时间":20250516T120000
+DTEND;TZID="GMT 标准时间":20250516T123000
+CLASS:PUBLIC
+DESCRIPTION:VW381 Hylite 试制review\n\n颜色号90530\n\n中午时间看
+ 情况，来不及就等会项目会议上一起讨论。\n\n \n\n________
+ ________________________________________________________________________\n
+ \nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omk
+ t=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_NGU0YmNhYjAtYWViNC00YTliLTkwMjYtN2NkZDE2ZDk1YjY5%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%2
+ 2Oid%22%3a%228cf36416-12d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 3
+ 69 348 373 547 3 \n\n密码: b5MX2uv2 \n\n________________________________
+ \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpti
+ ons/?organizerId=8cf36416-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NGU0YmNhYjAtYWViNC00YTliLTkw
+ MjYtN2NkZDE2ZDk1YjY5@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
+ 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
+ 4ab9ad7e>  \n\n___________________________________________________________
+ _____________________\n\n \n
+LOCATION:经理办公室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VW381 Hylite 试制review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EX2-3国产压延冷却辊验证产品质量讨论以及辊子处
  置讨论
 DTSTART;TZID="GMT 标准时间":20250516T133000
