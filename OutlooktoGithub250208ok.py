@@ -1,6 +1,6 @@
 
 from win32com.client import Dispatch
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, Alarm
 from pywinauto import Application
 from multiprocessing import Process
 # from datetime import datetime as dt
@@ -69,6 +69,13 @@ def downloadoutlook():
         event.add('DESCRIPTION', restrictedItem.Body)
         event.add('LOCATION',restrictedItem.Location)
         event.add('X-MICROSOFT-CDO-BUSYSTATUS','BUSY')
+
+        alarm = Alarm()
+        alarm.add('action', 'DISPLAY')  # 提醒类型（DISPLAY、EMAIL、AUDIO）
+        alarm.add('description', restrictedItem.Subject)  # 提醒描述
+        alarm.add('trigger', datetime.timedelta(minutes=-5))  # 提前5分钟提醒
+        # 添加提醒到事件
+        event.add_component(alarm)
         cal.add_component(event)
     f.write(cal.to_ical())
     f.close()
