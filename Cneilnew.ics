@@ -32,34 +32,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 Project review 
-DTSTART;TZID="GMT 标准时间":20250523T150000
-DTEND;TZID="GMT 标准时间":20250523T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\nUpdate project situation，thanks!\n\n \n\
- nSophia   12/31\n\n \n\n \n\n_____________________________________________
- ___________________________________\n\nMicrosoft Teams 是否需要帮助?
-  <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <htt
- ps://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRlZWVkYjctZTNlMS00YT
- czLTk2MzgtODhlYjk1MGFmYTE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558
- f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-
- 0d07ade1664a%22%7d>  \n\n会议 ID: 386 240 733 551 \n\n密码: sM3ve6hp \
- n\n________________________________\n\n对于组织者: 会议选项 <http
- s://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88b
- b-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
- eeting_NGRlZWVkYjctZTNlMS00YTczLTk2MzgtODhlYjk1MGFmYTE2@thread.v2&messageI
- d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________
- _______________________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 Project review 
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250526T083500
 DTEND;TZID="GMT 标准时间":20250526T090500
@@ -119,6 +91,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ Digital Talent Team-团队成员竞选邀请
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Project review 
+DTSTART;TZID="GMT 标准时间":20250526T130000
+DTEND;TZID="GMT 标准时间":20250526T140000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\nUpdate project situation，thanks!\n\n \n\
+ nSophia   12/31\n\n \n\n \n\n_____________________________________________
+ ___________________________________\n\nMicrosoft Teams 是否需要帮助?
+  <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <htt
+ ps://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRlZWVkYjctZTNlMS00YT
+ czLTk2MzgtODhlYjk1MGFmYTE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558
+ f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-
+ 0d07ade1664a%22%7d>  \n\n会议 ID: 386 240 733 551 \n\n密码: sM3ve6hp \
+ n\n________________________________\n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88b
+ b-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_NGRlZWVkYjctZTNlMS00YTczLTk2MzgtODhlYjk1MGFmYTE2@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________
+ _______________________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2025 Project review 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
