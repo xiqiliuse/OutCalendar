@@ -5,132 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250522T083500
-DTEND;TZID="GMT 标准时间":20250522T090500
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n早会分享PVC/TPO L2内容，谢谢！\n
- \n \n\nSophia  12/31\n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会
- 议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTRlYTI4ZWEtY2
- IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f
- 3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 322 661 363 38 \n\n密码: 5mf
- 2n4Kv \n\n________________________________\n\n对于组织者: 会议选
- 项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da
- -4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
- adId=19_meeting_NTRlYTI4ZWEtY2IyNi00MTI1LWI1NGEtY2ZkMDQwYWM3Zjgy@thread.v2
- &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
- cloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________
- ________________________________________________________________\n\n \n
-LOCATION:My office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX1 薄膜收卷方案讨论
-DTSTART;TZID="GMT 标准时间":20250522T093000
-DTEND;TZID="GMT 标准时间":20250522T100000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YWE5ZDQ2NTEtNGJmZi00MGNkLThjMWItMj
- VjNWFkMDIxOTEx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221888daed-ff14-49b0-94d8-591aedaa22db
- %22%7d>  \n\n会议 ID: 389 606 199 484 6 \n\n密码: tE9NX26Q \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=1888daed-ff14-49b0-94d8-591aedaa
- 22db&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YWE
- 5ZDQ2NTEtNGJmZi00MGNkLThjMWItMjVjNWFkMDIxOTEx@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:EX1 现场
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX1 薄膜收卷方案讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SC2E日蚀蓝透光率不合格后续临时措施
-DTSTART;TZID="GMT 标准时间":20250522T100000
-DTEND;TZID="GMT 标准时间":20250522T113000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_NDMwNjdmMWEtNzdiMi00ZDExLWJmNTctYW
- Y4NWE3ODE0Y2Ez%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
- %22%7d>  \n\n会议 ID: 392 768 811 874 5 \n\n密码: Hm3pi7g6 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f
- 63a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDM
- wNjdmMWEtNzdiMi00ZDExLWJmNTctYWY4NWE3ODE0Y2Ez@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SC2E日蚀蓝透光率不合格后续临时措施
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Database系统颜色模块优化
-DTSTART;TZID="GMT 标准时间":20250522T130000
-DTEND;TZID="GMT 标准时间":20250522T133000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Database系统颜色模块优化
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX2设备生产0.3mm的产品
-DTSTART;TZID="GMT 标准时间":20250522T160000
-DTEND;TZID="GMT 标准时间":20250522T170000
-CLASS:PUBLIC
-DESCRIPTION:Hello Charles：\n\n       针对邮件的回复内容，我
- 们会议再当面的确认下，请贵司相关技术人员参会讨论
- 下。如果时间冲突请提前告知协调！\n\n \n\n_________________
- _______________________________________________________________\n\nMicroso
- ft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN> 
-  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ame
- eting_M2MwMDBlZDYtZWNiNy00MWFiLTkyNjMtNjIzZTQwNzVlZDBm%40thread.v2/0?conte
- xt=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3
- a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb%22%7d>  \n\n会议 ID: 392 121 41
- 7 159 \n\n密码: v3hu2uy6 \n\n________________________________\n\n对于
- 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
- izerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&tenantId=8d4b558f-7b2e-40ba-ad
- 1f-e04d79e6265a&threadId=19_meeting_M2MwMDBlZDYtZWNiNy00MWFiLTkyNjMtNjIzZT
- QwNzVlZDBm@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <htt
- ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
- \n\n______________________________________________________________________
- __________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2设备生产0.3mm的产品
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250523T083500
 DTEND;TZID="GMT 标准时间":20250523T090500
 CLASS:PUBLIC
@@ -1182,6 +1056,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2025 Project review 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:夏至
+DTSTART;TZID="GMT 标准时间":20250621T000000
+DTEND;TZID="GMT 标准时间":20250622T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:夏至
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:夏至
+DTSTART;TZID="GMT 标准时间":20250621T000000
+DTEND;TZID="GMT 标准时间":20250622T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:夏至
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
