@@ -34,6 +34,60 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX2-3国产辊讨论
+DTSTART;TZID="GMT 标准时间":20250603T163000
+DTEND;TZID="GMT 标准时间":20250603T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NzMzMDBmYTgtZDE0Yi00YzI2LTljODEtZG
+ ZlYzkzNWJhZTI4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2287c6bfd1-200c-4095-a907-9bab8a2caed2
+ %22%7d>  \n\n会议 ID: 396 460 331 147 5 \n\n密码: Ki63SK7H \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=87c6bfd1-200c-4095-a907-9bab8a2c
+ aed2&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NzM
+ zMDBmYTgtZDE0Yi00YzI2LTljODEtZGZlYzkzNWJhZTI4@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2-3国产辊讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K431项目幅宽 量产切换
+DTSTART;TZID="GMT 标准时间":20250604T143000
+DTEND;TZID="GMT 标准时间":20250604T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NzkyZmVmNWMtY2MyMi00ODA5LTgzY2UtNT
+ k5NzA3MmI1MTY1%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ %22%7d>  \n\n会议 ID: 359 313 055 892 1 \n\n密码: BF9JT2Je \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc47496
+ 80eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Nzk
+ yZmVmNWMtY2MyMi00ODA5LTgzY2UtNTk5NzA3MmI1MTY1@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:K431项目幅宽 量产切换
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strategy project review on May.
 DTSTART;TZID="GMT 标准时间":20250604T150000
 DTEND;TZID="GMT 标准时间":20250604T160000
@@ -85,6 +139,49 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:芒种
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CD10-24-00421 CIM cost saving review
+DTSTART;TZID="GMT 标准时间":20250605T160000
+DTEND;TZID="GMT 标准时间":20250605T163000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CD10-24-00421 CIM cost saving review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:色母粒蜡使用规则定义
+DTSTART;TZID="GMT 标准时间":20250606T140000
+DTEND;TZID="GMT 标准时间":20250606T143000
+CLASS:PUBLIC
+DESCRIPTION:All：今天约的会议时间有更改，因潘总不在公
+ 司，改为本周五下午，谢谢！\n\n \n\n \n\n_____________________
+ ___________________________________________________________\n\nMicrosoft T
+ eams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\
+ n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameetin
+ g_ODI2Yjg5YjktNDI2YS00ODA1LWI3MmEtZWY4NTU5Yzk3NmRj%40thread.v2/0?context=%
+ 7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22
+ 0a052536-d9c6-4de8-89ef-074c5cb10f88%22%7d>  \n\n会议 ID: 365 439 689 30
+ 9 9 \n\n密码: 5sN6Qq6u \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=0a052536-d9c6-4de8-89ef-074c5cb10f88&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_ODI2Yjg5YjktNDI2YS00ODA1LWI3MmEtZWY4NTU5Y
+ zk3NmRj@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:色母粒蜡使用规则定义
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -319,7 +416,7 @@ CLASS:PUBLIC
 DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
  他会议，参加SP部门周会时间有点紧，所以SP周会时间改
  为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+LOCATION:TE_ZG_MR_TE_ZG_MR_PlantOffice304
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
