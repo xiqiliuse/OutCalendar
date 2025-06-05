@@ -60,6 +60,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DaDb与DCDH转换
+DTSTART;TZID="GMT 标准时间":20250605T150000
+DTEND;TZID="GMT 标准时间":20250605T153000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NDM3YWQ4NzYtZGNiOC00ZTQ4LTlmNTgtOT
+ U4NDk2ZjQ3NTQ2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a5713688c
+ %22%7d>  \n\n会议 ID: 323 793 667 850 5 \n\n密码: Q5Tt6tW6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-9d06-b06a5713
+ 688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDM
+ 3YWQ4NzYtZGNiOC00ZTQ4LTlmNTgtOTU4NDk2ZjQ3NTQ2@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DaDb与DCDH转换
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CD10-24-00421 CIM cost saving review
 DTSTART;TZID="GMT 标准时间":20250605T160000
 DTEND;TZID="GMT 标准时间":20250605T163000
@@ -699,6 +726,36 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:车间除尘讨论会
+DTSTART;TZID="GMT 标准时间":20250619T100000
+DTEND;TZID="GMT 标准时间":20250619T113000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位：\n\n       本次会议特地邀请大家一起
+ 讨论一下关于车间环境除尘的内容，希望在本次会议结
+ 束后可以产出一些除尘行动项，谢谢。\n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \
+ n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameet
+ ing_NzM5OTBmNWQtYjM1ZC00NTg0LWFkZTctNzViM2I3MzNjZWNm%40thread.v2/0?context
+ =%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%
+ 224d5e1cea-2ca2-4582-b48b-b674e2625c0e%22%7d>  \n\n会议 ID: 320 848 031 
+ 413 2 \n\n密码: Xj2YE6qX \n\n________________________________\n\n对于
+ 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
+ izerId=4d5e1cea-2ca2-4582-b48b-b674e2625c0e&tenantId=8d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a&threadId=19_meeting_NzM5OTBmNWQtYjM1ZC00NTg0LWFkZTctNzViM2
+ I3MzNjZWNm@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <htt
+ ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
+ \n\n______________________________________________________________________
+ __________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:车间除尘讨论会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
