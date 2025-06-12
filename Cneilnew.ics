@@ -5,33 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250611T083500
-DTEND;TZID="GMT 标准时间":20250611T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250612T083500
 DTEND;TZID="GMT 标准时间":20250612T090500
 CLASS:PUBLIC
@@ -1573,6 +1546,82 @@ BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250710T083500
 DTEND;TZID="GMT 标准时间":20250710T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
+ RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
+ hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Invitation: BCZ 2025 Digital Transformation in the Era of
+  Artificial Intelligence(Please Confirm Participation)
+DTSTART;TZID="GMT 标准时间":20250711T083000
+DTEND;TZID="GMT 标准时间":20250711T163000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\n为进一步推进公司数智化转型进
+ 程，在数智化人才团队名单正式公布的基础上，我们计
+ 划于 2025年7月11日（星期五） 举办一次围绕“BCZ 2025人工
+ 智能时代的数智化转型”的 Workshop，聚焦分享当前公司
+ 数智化状态和探讨未来团队的建设方案以及协作机制等
+ 关键问题。\n\n \n\n本次Workshop的主要内容：\n\n*  数智化
+ 团队成立冠名仪式\n\n*  回顾数智化转型历史并分享2025年
+ 路线图\n\n*  数智化团队培训管理计划介绍\n\n*  集体讨论
+ ：SSL BCZ 数智化愿景与使命\n\n*  头脑风暴：本地可以应
+ 用AI的案例\n\n*  步履与思考：放慢脚步，研讨数字化进
+ 程\n\n*  其它\n\n \n\n时间：2025年7月11日\n\n地点：会议地
+ 点将在活动前两周内另行通知\n\n为便于筹备，请收到邮
+ 件后务必回复，告知以下信息之一：\n\n*  确认参加\n\n*  
+ 不参加（可简要说明原因）\n\n*  待定/冲突（请说明冲突
+ 或可参加的时间段）\n\n \n\n受邀名单：\n\n\n\n \n\n如需了
+ 解更多详情，欢迎随时与我联系。\n\n感谢大家的配合与
+ 支持！\n\n祝工作顺利，\n\n \n\nBest regards\,\n\n \n\nLily Liu(Li
+ u Xin)\n\nME Engineer BCZ\n\nContiTech Surface Solutions\n\n \n\nMobile: +
+ 86 189 5113 2980\n\nE-mail: xin.6.liu@benecke-changshun.com.cn\n\nWebsite:
+  www.continental-industry.com <http://www.continental-industry.com/> \n\n 
+ \n\n______________________________________________________________________
+ __________\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?
+ omkt=en-US>  \n\nJoin the meeting now <https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_ZjlkYjMxODktMzY2OS00NmFhLWIxY2ItNWU1ZmVjNDNlMjA4%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
+ %2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n\nMeeting
+  ID: 358 710 239 955 1 \n\nPasscode: pg6rQ9zC \n\n________________________
+ ________\n\nFor organizers: Meeting options <https://teams.microsoft.com/m
+ eetingOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8
+ d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjlkYjMxODktMzY2OS
+ 00NmFhLWIxY2ItNWU1ZmVjNDNlMjA4@thread.v2&messageId=0&language=en-US>  \n\n
+ Privacy and security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
+ 436b-832a-1d684ab9ad7e>  \n\n_____________________________________________
+ ___________________________________\n\n \n
+LOCATION:Outside
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Workshop Invitation: BCZ 2025 Digital Transformation in the Er
+ a of Artificial Intelligence(Please Confirm Participation)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250711T083500
+DTEND;TZID="GMT 标准时间":20250711T090500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
