@@ -31,6 +31,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX2压延辊凹坑原因分析会
+DTSTART;TZID="GMT 标准时间":20250618T140000
+DTEND;TZID="GMT 标准时间":20250618T150000
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________\nMicrosoft Teams 是否需要帮助? <https://aka.m
+ s/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_OTY0ZDM4YjctYzJjNS00YjFiLWE2ZTktZTM4Nzl
+ mNGI3YWJi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7
+ d>  \n会议 ID: 385 308 552 186 0 \n密码: ge2kN9hb \n__________________
+ ______________\n\n对于组织者: 会议选项 <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenant
+ Id=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTY0ZDM4YjctYz
+ JjNS00YjFiLWE2ZTktZTM4NzlmNGI3YWJi@thread.v2&messageId=0&language=zh-CN>  
+ \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436
+ b-832a-1d684ab9ad7e>  \n__________________________________________________
+ ______________________________
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2压延辊凹坑原因分析会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:database 讨论
+DTSTART;TZID="GMT 标准时间":20250618T150000
+DTEND;TZID="GMT 标准时间":20250618T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:database 讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
 DTSTART;TZID="GMT 标准时间":20250618T220000
 DTEND;TZID="GMT 标准时间":20250618T230000
@@ -471,6 +512,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:汽车行业市场信息分享 Automotive Market Insight
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trial loops 
+DTSTART;TZID="GMT 标准时间":20250624T160000
+DTEND;TZID="GMT 标准时间":20250624T170000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:ppi office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Trial loops 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
