@@ -5,117 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250618T083500
-DTEND;TZID="GMT 标准时间":20250618T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX2压延辊凹坑原因分析会
-DTSTART;TZID="GMT 标准时间":20250618T140000
-DTEND;TZID="GMT 标准时间":20250618T150000
-CLASS:PUBLIC
-DESCRIPTION:\n\n__________________________________________________________
- ______________________\nMicrosoft Teams 是否需要帮助? <https://aka.m
- s/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.micros
- oft.com/l/meetup-join/19%3ameeting_OTY0ZDM4YjctYzJjNS00YjFiLWE2ZTktZTM4Nzl
- mNGI3YWJi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7
- d>  \n会议 ID: 385 308 552 186 0 \n密码: ge2kN9hb \n__________________
- ______________\n\n对于组织者: 会议选项 <https://teams.microsoft.c
- om/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenant
- Id=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTY0ZDM4YjctYz
- JjNS00YjFiLWE2ZTktZTM4NzlmNGI3YWJi@thread.v2&messageId=0&language=zh-CN>  
- \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436
- b-832a-1d684ab9ad7e>  \n__________________________________________________
- ______________________________
-LOCATION:TPO关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2压延辊凹坑原因分析会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:database 讨论
-DTSTART;TZID="GMT 标准时间":20250618T150000
-DTEND;TZID="GMT 标准时间":20250618T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:database 讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
-DTSTART;TZID="GMT 标准时间":20250618T220000
-DTEND;TZID="GMT 标准时间":20250618T230000
-CLASS:PUBLIC
-DESCRIPTION:Dear All\,\n\nHere are the events for our CBS@Operations Commu
- nity Monthly Phone-Calls in 2024.\n\nThere are 2 slots for the same day:\n
- \n*	One in the morning (European time) for Asia & Europe\,\n*	One in the a
- fternoon (European time) for Americas & Europe (this one).\n\nTo have a lo
- ok on the agenda\, click on this link <https://connext.conti.de/wikis/home
- ?lang=fr-fr#!/wiki/Wd1b4b99e971c_4cc4_ab6b_cead42265fa6/page/2022a> .\n\nY
- ou have there a wiki folder 2022a which contains as "daughter" pages the a
- genda of each call which will be updated step by step as soon as the topic
- s will be identified and defined.\n\nThanks in advance for your contributi
- on and participation.\n\nBest Regards\n\nChristophe Escourrou\n\n \n\n \n\
- n \n\n____________________________________________________________________
- ____________\n\nRéunion Microsoft Teams\n\nRejoindre sur votre ordinateur
-  ou application mobile\n\nCliquez ici pour participer à la réunion <http
- s://teams.microsoft.com/l/meetup-join/19%3a4234432bb4f44338bfdf69d59b3fc4b
- 5%40thread.skype/1634723519017?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
- a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22991b7884-66b4-4145-9ede-53c04283a3
- 8d%22%7d> \n\nOu composer le numéro (audio seulement)\n\n+33 1 73 24 03 9
- 0\,\,875824270# <tel:+33173240390\,\,875824270#>  France\, Beaumont-Sur-Oi
- se\n\nID Conférence Téléphone: 875 824 270# \n\nRechercher un numéro l
- ocal <https://dialin.teams.microsoft.com/97c37549-d499-4e63-9ec0-dc16377f3
- 7d4?id=875824270>  | Réinitialiser le code confidentiel <https://mysettin
- gs.lync.com/pstnconferencing> \n\nPour en savoir plus <https://aka.ms/Join
- TeamsMeeting>  | Options de réunion <https://teams.microsoft.com/meetingO
- ptions/?organizerId=991b7884-66b4-4145-9ede-53c04283a38d&tenantId=8d4b558f
- -7b2e-40ba-ad1f-e04d79e6265a&threadId=19_4234432bb4f44338bfdf69d59b3fc4b5@
- thread.skype&messageId=1634723519017&language=fr-FR>  | Légal <https://fi
- lehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n 
- \n\n______________________________________________________________________
- __________\n\n 
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:CBS@Operations community - Monthly phone-call - Americas & Eur
- ope
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250619T083500
 DTEND;TZID="GMT 标准时间":20250619T090500
 CLASS:PUBLIC
@@ -1555,6 +1444,117 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Invitation: BCZ 2025 Digital Transformation in the Era of
+  Artificial Intelligence(Please Confirm Participation)
+DTSTART;TZID="GMT 标准时间":20250718T083000
+DTEND;TZID="GMT 标准时间":20250718T163000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\n为进一步推进公司数智化转型进
+ 程，在数智化人才团队名单正式公布的基础上，我们计
+ 划于 2025年7月11日（星期五） 举办一次围绕“BCZ 2025人工
+ 智能时代的数智化转型”的 Workshop，聚焦分享当前公司
+ 数智化状态和探讨未来团队的建设方案以及协作机制等
+ 关键问题。\n\n \n\n本次Workshop的主要内容：\n\n*  数智化
+ 团队成立冠名仪式\n\n*  回顾数智化转型历史并分享2025年
+ 路线图\n\n*  数智化团队培训管理计划介绍\n\n*  集体讨论
+ ：SSL BCZ 数智化愿景与使命\n\n*  头脑风暴：本地可以应
+ 用AI的案例\n\n*  步履与思考：放慢脚步，研讨数字化进
+ 程\n\n*  其它\n\n \n\n时间：2025年7月11日 – 更改至7月18日\
+ n\n地点：会议地点将在活动前两周内另行通知\n\n为便于
+ 筹备，请收到邮件后务必回复，告知以下信息之一：\n\n*
+   确认参加\n\n*  不参加（可简要说明原因）\n\n*  待定/冲
+ 突（请说明冲突或可参加的时间段）\n\n \n\n受邀名单：\n
+ \n\n\n \n\n如需了解更多详情，欢迎随时与我联系。\n\n感
+ 谢大家的配合与支持！\n\n祝工作顺利，\n\n \n\nBest regards\
+ ,\n\n \n\nLily Liu(Liu Xin)\n\nME Engineer BCZ\n\nContiTech Surface Soluti
+ ons\n\n \n\nMobile: +86 189 5113 2980\n\nE-mail: xin.6.liu@benecke-changsh
+ un.com.cn <mailto:xin.6.liu@benecke-changshun.com.cn> \n\nWebsite: www.con
+ tinental-industry.com <http://www.continental-industry.com/> \n\n \n\n____
+ __________________________________________________________________________
+ __\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-
+ US>  \n\nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/1
+ 9%3ameeting_ZjlkYjMxODktMzY2OS00NmFhLWIxY2ItNWU1ZmVjNDNlMjA4%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oi
+ d%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n\nMeeting ID: 358
+  710 239 955 1 \n\nPasscode: pg6rQ9zC \n\n________________________________
+ \n\nFor organizers: Meeting options <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8d4b558f-
+ 7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjlkYjMxODktMzY2OS00NmFhLW
+ IxY2ItNWU1ZmVjNDNlMjA4@thread.v2&messageId=0&language=en-US>  \n\nPrivacy 
+ and security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________\n\n \n
+LOCATION:Outside
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Workshop Invitation: BCZ 2025 Digital Transformation in the Er
+ a of Artificial Intelligence(Please Confirm Participation)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250718T083500
+DTEND;TZID="GMT 标准时间":20250718T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
+ RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
+ hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internal Training：项目管理系列课-基础版
+DTSTART;TZID="GMT 标准时间":20250718T100000
+DTEND;TZID="GMT 标准时间":20250718T110000
+CLASS:PUBLIC
+DESCRIPTION:亲爱的各位同事，\n\n \n\n向大家隆重推出-《项
+ 目管理系列内训课-基础版》，欢迎感兴趣或有需要的同
+ 事都来参加！\n\n \n\n*  讲师：Project Management Coach APAC 张
+ 晖 \n\n*  适合对象：无门槛，对项目管理感兴趣，零基础
+ 亦可\n\n*  课程安排：\n\n培训课程\n\n课时\n\n日期\n\n项目
+ 管理基础培训\n\n1h\n\n2025/5/16\n\n项目管理软件PLW介绍\n\n1h
+ \n\n2025/6/20\n\n项目中的支持资源\n\n0.5h\n\n2025/7/18\n\n \n\n___
+ __________________________________________________________________________
+ ___\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeetin
+ g?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_MTY4NDYwMzYtYjUzZS00NTlkLWJhYzItOWMzODVhYTkwOTQ3%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22
+ %2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55%22%7d>  \n\n会议 
+ ID: 321 247 866 990 3 \n\n密码: hE7yN2Cf \n\n___________________________
+ _____\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetin
+ gOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&tenantId=8d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTY4NDYwMzYtYjUzZS00NTl
+ kLWJhYzItOWMzODVhYTkwOTQ3@thread.v2&messageId=0&language=zh-CN>  \n\n隐
+ 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Internal Training：项目管理系列课-基础版
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
