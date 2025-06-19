@@ -446,6 +446,40 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:混料配方系统改善回顾会议
+DTSTART;TZID="GMT 标准时间":20250625T130000
+DTEND;TZID="GMT 标准时间":20250625T140000
+CLASS:PUBLIC
+DESCRIPTION:1.	配方数据无备份\n2.	需要手工输入配方\n3.	未
+ 连接SAP系统，配方数据无法实时发放和更新\n\n会议讨论
+ ：\n\n1.	联系供应商（贝尔）能否优化系统，备份数据----
+ ---------张晓荣2025/5/20\n2.	了解一下BCZ色母粒配方系统和BCC
+ 的配方系统，BCZ混料配方系统能否连接SAP系统-------卞宝
+ 祥2025/5/25\n\n3． 如果无法更改，后续考虑开发新系统，
+ 找供应商报价，评估可行性。------All\n\n \n\n_________________
+ _______________________________________________________________\n\nMicroso
+ ft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN> 
+  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ame
+ eting_MDMwYTRhNzctZjgyZC00ODFiLWFlZDQtZWI5NTk0YWU3NWYw%40thread.v2/0?conte
+ xt=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3
+ a%226ca2170c-04b7-4504-af1c-fd12f76925ee%22%7d>  \n\n会议 ID: 398 617 67
+ 2 835 \n\n密码: LJ9MZ2Bd \n\n________________________________\n\n对于
+ 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
+ izerId=6ca2170c-04b7-4504-af1c-fd12f76925ee&tenantId=8d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a&threadId=19_meeting_MDMwYTRhNzctZjgyZC00ODFiLWFlZDQtZWI5NT
+ k0YWU3NWYw@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <htt
+ ps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  
+ \n\n______________________________________________________________________
+ __________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:混料配方系统改善回顾会议
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS Admin Call Tires (Asia/Europe)
 DTSTART;TZID="GMT 标准时间":20250625T150000
 DTEND;TZID="GMT 标准时间":20250625T160000
