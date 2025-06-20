@@ -80,6 +80,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OT newworking project process sync with PPI -Xiaodong
+DTSTART;TZID="GMT 标准时间":20250620T133000
+DTEND;TZID="GMT 标准时间":20250620T140000
+CLASS:PUBLIC
+DESCRIPTION:Hello Xiaodong\, as the subject\, schedule a meeting for detai
+ l discussion. Thx! Lily\n\n_______________________________________________
+ _________________________________\n\nMicrosoft Teams Need help? <https://a
+ ka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_YzMyZTIzYmUtYmIyZC00ZjBlLWEyY2Q
+ tOGUyYWZjYjBmMTRj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e
+ 712%22%7d>  \n\nMeeting ID: 394 871 940 601 6 \n\nPasscode: qx2cE9mK \n\n_
+ _______________________________\n\nFor organizers: Meeting options <https:
+ //teams.microsoft.com/meetingOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-
+ c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
+ ting_YzMyZTIzYmUtYmIyZC00ZjBlLWEyY2QtOGUyYWZjYjBmMTRj@thread.v2&messageId=
+ 0&language=en-US>  \n\nPrivacy and security <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OT newworking project process sync with PPI -Xiaodong
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Project review 
 DTSTART;TZID="GMT 标准时间":20250620T150000
 DTEND;TZID="GMT 标准时间":20250620T160000
@@ -104,20 +132,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2025 Project review 
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX2 0.3mm生产讨论
-DTSTART;TZID="GMT 标准时间":20250620T160000
-DTEND;TZID="GMT 标准时间":20250620T170000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2 0.3mm生产讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -307,6 +321,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:汽车行业市场信息分享 Automotive Market Insight
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX2 0.3mm生产讨论
+DTSTART;TZID="GMT 标准时间":20250624T140000
+DTEND;TZID="GMT 标准时间":20250624T150000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2 0.3mm生产讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
