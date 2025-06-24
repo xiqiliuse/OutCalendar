@@ -31,18 +31,18 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID="GMT 标准时间":20250624T101500
 DTEND;TZID="GMT 标准时间":20250624T110000
 CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
- 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
- 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
+DESCRIPTION:Hi，all：\n\n    今天有北京延锋采育＆林河工厂
+ 戴姆勒/小米项目年度审核计划审核，临时取消会议，谢
+ 谢！\n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:已取消: SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -579,6 +579,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:安全开放日活动_工作人员
+DTSTART;TZID="GMT 标准时间":20250628T083000
+DTEND;TZID="GMT 标准时间":20250628T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear 各位工作人员：\n\n请仔细查阅附件1，明确
+ 相关工作要求及活动流程，做好相关准备，准时参加活
+ 动。\n\n参加活动的30个家庭人员已进行分组，名单见附
+ 件2.\n\n \n\n \n\n工作人员安排：\n\n车间讲解：孙棣民（或
+ 邱晓寒）、徐保成、李小平\n\n展厅讲解：李晓东、程义
+ 飞、孙晓勇\n\n带领员：田雨萌+姚萍；李飞+赵鲁驿；PVC  
+ 2人\n\n游戏点位：消防展示及知识竞答（史玉勉+薛倩勇
+ ），乒乓接力（彭丽容+贾晓鸽） ；投壶（徐燕+宋浩）
+ ；垃圾分类（孙俊+曹海兵）； \n\n餐厅：杨甜、余小燕\n
+ \n \n\n \n\n@Wang\, Jinjun02 <mailto:jinjun.2.wang@benecke-changshun.com.c
+ n>  @Meng\, Fancheng <mailto:fancheng.meng@benecke-changshun.com.cn>  @Li\
+ , Xiaoping02 <mailto:xiaoping.2.li@benecke-changshun.com.cn>  请向你们
+ 部门的工作人员传达附件中相关事项及要求，\n\n同时，P
+ VC、TPO、SCM的参观区域请做好整理清洁工作，做好参观准
+ 备。\n\n \n\n感谢大家的支持！预祝活动圆满完成!\n
+LOCATION:公司
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:安全开放日活动_工作人员
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250630T083500
 DTEND;TZID="GMT 标准时间":20250630T090500
@@ -831,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A3 Structured Problem Solving Training-Advanced
 DTSTART;TZID="GMT 标准时间":20250704T090000
-DTEND;TZID="GMT 标准时间":20250704T160000
+DTEND;TZID="GMT 标准时间":20250704T170000
 CLASS:PUBLIC
 DESCRIPTION:Dear all\,\n\n \n\n作为以下项目的项目负责人或项
  目成员，很高兴邀请大家来参加A3 structured problem solving培
