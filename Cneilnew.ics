@@ -384,6 +384,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:U2100222L1200表面白点分析
+DTSTART;TZID="GMT 标准时间":20250627T140000
+DTEND;TZID="GMT 标准时间":20250627T143000
+CLASS:PUBLIC
+DESCRIPTION:大家好！邀请大家一起讨论分析下，到时我也
+ 会安排挤出机长抽空参加\n\n_____________________________________
+ ___________________________________________\nMicrosoft Teams 是否需要
+ 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议
+  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTdlODcwN2YtODU2Z
+ i00MzRlLWEwZGUtM2I3Yjc5M2JlZmRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-
+ bab2-33daf5f058f4%22%7d>  \n会议 ID: 352 390 570 235 3 \n密码: G2aL2Ks
+ 3 \n________________________________\n\n对于组织者: 会议选项 <htt
+ ps://teams.microsoft.com/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-ba
+ b2-33daf5f058f4&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_
+ meeting_OTdlODcwN2YtODU2Zi00MzRlLWEwZGUtM2I3Yjc5M2JlZmRk@thread.v2&message
+ Id=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/
+ dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n____________________________
+ ____________________________________________________
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2100222L1200表面白点分析
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Customer project review
 DTSTART;TZID="GMT 标准时间":20250627T150000
 DTEND;TZID="GMT 标准时间":20250627T160000
