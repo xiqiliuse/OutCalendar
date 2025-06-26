@@ -60,6 +60,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:色母粒外审建议项整改
+DTSTART;TZID="GMT 标准时间":20250626T140000
+DTEND;TZID="GMT 标准时间":20250626T143000
+CLASS:PUBLIC
+DESCRIPTION:HI ALL\,关于色母粒外审发现的不符合项，现邀请
+ 大家论讨论下后续色母粒剩余库存的管控和现场生产实
+ 际生产需求的重量。\n\n___________________________________________
+ _____________________________________\n\nMicrosoft Teams 是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
+ <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGY0OWIxYzYtMWYyNC
+ 00YzhkLTljZWQtZjg1MDczMDliOGNi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22ddf6e0c3-e8d8-4d65-9
+ 9a7-3a49155ae7f1%22%7d>  \n\n会议 ID: 351 225 924 583 5 \n\n密码: d6VE
+ 7jP2 \n\n________________________________\n\n对于组织者: 会议选项
+  <https://teams.microsoft.com/meetingOptions/?organizerId=ddf6e0c3-e8d8-4d
+ 65-99a7-3a49155ae7f1&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
+ d=19_meeting_NGY0OWIxYzYtMWYyNC00YzhkLTljZWQtZjg1MDczMDliOGNi@thread.v2&me
+ ssageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralclo
+ ud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________
+ _____________________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:色母粒外审建议项整改
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID="GMT 标准时间":20250626T220000
 DTEND;TZID="GMT 标准时间":20250626T230000
@@ -189,9 +218,36 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:6月ESH安全宣讲
+DTSTART;TZID="GMT 标准时间":20250627T160000
+DTEND;TZID="GMT 标准时间":20250627T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ODYzMDBmOTktYTYyYy00YjViLWJlMDEtYW
+ U4NDcwODAzNjZm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12f76925ee
+ %22%7d>  \n\n会议 ID: 353 325 875 466 8 \n\n密码: Bn2Zp6kB \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-af1c-fd12f769
+ 25ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ODY
+ zMDBmOTktYTYyYy00YjViLWJlMDEtYWU4NDcwODAzNjZm@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:PPI经理办公室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:6月ESH安全宣讲
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Customer project review
-DTSTART;TZID="GMT 标准时间":20250627T150000
-DTEND;TZID="GMT 标准时间":20250627T160000
+DTSTART;TZID="GMT 标准时间":20250627T160000
+DTEND;TZID="GMT 标准时间":20250627T170000
 CLASS:PUBLIC
 DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
  ill update trial batch status。\n\n@Sun xiaoyong <mailto:xiaoyong.sun@ben
@@ -222,33 +278,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2025 Customer project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6月ESH安全宣讲
-DTSTART;TZID="GMT 标准时间":20250627T160000
-DTEND;TZID="GMT 标准时间":20250627T170000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ODYzMDBmOTktYTYyYy00YjViLWJlMDEtYW
- U4NDcwODAzNjZm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12f76925ee
- %22%7d>  \n\n会议 ID: 353 325 875 466 8 \n\n密码: Bn2Zp6kB \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-af1c-fd12f769
- 25ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ODY
- zMDBmOTktYTYyYy00YjViLWJlMDEtYWU4NDcwODAzNjZm@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:PPI经理办公室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:6月ESH安全宣讲
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
