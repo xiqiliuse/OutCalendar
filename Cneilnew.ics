@@ -5,150 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250626T083500
-DTEND;TZID="GMT 标准时间":20250626T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX2换网器筒体漏料问题沟通
-DTSTART;TZID="GMT 标准时间":20250626T130000
-DTEND;TZID="GMT 标准时间":20250626T133000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n近期我们发现EX2的换网器筒体漏料
- 问题越来越严重，邀请大家讨论一下措施，谢谢 \n\n______
- __________________________________________________________________________
- \n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?o
- mkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-j
- oin/19%3ameeting_MWVkY2Y4NTktNjk4My00N2I0LWJiYzEtY2I5Mzg5ZmI5ZGMx%40thread
- .v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c
- %22Oid%22%3a%22aa52892f-e6c0-4f3d-85d4-1c44bf468f51%22%7d>  \n\n会议 ID:
-  330 913 280 212 \n\n密码: C9rt6Jo2 \n\n________________________________
- \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpti
- ons/?organizerId=aa52892f-e6c0-4f3d-85d4-1c44bf468f51&tenantId=8d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MWVkY2Y4NTktNjk4My00N2I0LWJi
- YzEtY2I5Mzg5ZmI5ZGMx@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
- 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
- 4ab9ad7e>  \n\n___________________________________________________________
- _____________________\n\n \n
-LOCATION:维修会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2换网器筒体漏料问题沟通
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:色母粒外审建议项整改
-DTSTART;TZID="GMT 标准时间":20250626T140000
-DTEND;TZID="GMT 标准时间":20250626T143000
-CLASS:PUBLIC
-DESCRIPTION:HI ALL\,关于色母粒外审发现的不符合项，现邀请
- 大家论讨论下后续色母粒剩余库存的管控和现场生产实
- 际生产需求的重量。\n\n___________________________________________
- _____________________________________\n\nMicrosoft Teams 是否需要帮
- 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
- <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGY0OWIxYzYtMWYyNC
- 00YzhkLTljZWQtZjg1MDczMDliOGNi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
- b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22ddf6e0c3-e8d8-4d65-9
- 9a7-3a49155ae7f1%22%7d>  \n\n会议 ID: 351 225 924 583 5 \n\n密码: d6VE
- 7jP2 \n\n________________________________\n\n对于组织者: 会议选项
-  <https://teams.microsoft.com/meetingOptions/?organizerId=ddf6e0c3-e8d8-4d
- 65-99a7-3a49155ae7f1&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
- d=19_meeting_NGY0OWIxYzYtMWYyNC00YzhkLTljZWQtZjg1MDczMDliOGNi@thread.v2&me
- ssageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralclo
- ud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________
- _____________________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:色母粒外审建议项整改
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Call - RPA Developers Worldwide Option 2
-DTSTART;TZID="GMT 标准时间":20250626T220000
-DTEND;TZID="GMT 标准时间":20250626T230000
-CLASS:PUBLIC
-DESCRIPTION:\n📌 Concept\n\n\nOpen Calls are a synchronous\, virtual for
- mat (MS Teams meeting) on voluntary basis to exchange on certain topics. T
- he RPA Developers Worldwide Open Calls are open to all RPA developers with
- in our company. You can find them in our Teams Channel <https://teams.micr
- osoft.com/l/team/19%3a9191061964d64edb9545595010c7695b%40thread.skype/conv
- ersations?groupId=4a4577f4-67aa-4da6-95fa-d3e4fec19f4f&tenantId=8d4b558f-7
- b2e-40ba-ad1f-e04d79e6265a>  or on the Events <https://connext.conti.de/co
- mmunities/service/html/communityoverview?communityUuid=a1ba9e40-8068-4b42-
- bbf8-a637e36fa236#fullpageWidgetId=We9e88e6afcf8_43df_8d1f_55634a5e422b>  
- page of this community.\n\nThe idea of the call is to facilitate knowledge
-  sharing across all organizations related to technical RPA subjects.\n\nBy
-  RPA developers for RPA developers.\n\n \n\n\n🤝 What is in for you?  ->
-  Our promise:\n\n\n💡          you will hear about technical updates\n\n
- 🚀         learn about RPA developers best practices\n\n🌎         sha
- ring of RPA approach and projects in different locations\n\n👨‍👨‍
- 👦        meet RPA developers all around the globe \n\n \n\n\n👨‍
- 👦‍👦 Audience\n\n\nAll enthusiastic RPA developers in Continental f
- rom all around the world\, from different functions and different Group Se
- ctors or Business Areas. \n\n \n\n\n👄 Language\n\n\nEnglish\n\n \n\n\n
- ⏰ Time\n\n\n*	every fourth Wednesday/Thursday of the month\n*	1 hour ful
- l of valuable content\n*	Option 1: 9:30 - 10:30 am CET (Wednesday)\n*	Opti
- on 2: 4:00 - 5:00 pm CET  (Thursday)\n\n\n📋 Basic Agenda\n\n\n1.	Microl
- earning (max. 5 min) What is a Microlearning? 🔗 <https://connext.conti.
- de/wikis/home?lang=en#!/wiki/W965feafa2312_41f6_b6c9_63bbc7c9a59b/page/NWS
- %20Microlearning> \n\n	1.	e.g. Watch '💡 How to integrate 🤖 UiPath St
- udio with GitHub 🔄' | Microsoft Stream (Classic) <https://web.microsoft
- stream.com/video/a1397497-d688-4f70-9694-adf09798cf08?list=user&userId=e3c
- 22986-c061-4329-b5a7-1727ea5a346e> \n\n2.	Updates of Platform & Infrastruc
- ture Topics\n\n	1.	e.g. Watch 'RPA Basic Platform Training 06_2022_Part_1'
-  | Microsoft Stream (Classic) <https://web.microsoftstream.com/video/e33a0
- d9d-d464-446f-ac3f-3530248c3343> \n\n3.	RPA solutions and projects sharing
- \n4.	Best practices\n5.	Q&A\n\n\n\n\n_____________________________________
- ___________________________________________\nMicrosoft Teams Need help? <h
- ttps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https:
- //teams.microsoft.com/l/meetup-join/19%3a0a53d13422fa4c21a703569ee88cc19b%
- 40thread.skype/1715063448155?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22aab3a36c-5006-4b10-837e-26662ef60823
- %22%7d>  \nMeeting ID: 329 844 894 596 \nPasscode: bURHgQ \n______________
- __________________\n\nFor organizers: Meeting options <https://teams.micro
- soft.com/meetingOptions/?organizerId=aab3a36c-5006-4b10-837e-26662ef60823&
- tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21
- a703569ee88cc19b@thread.skype&messageId=1715063448155&language=en-US>  | R
- eset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>
-   \nPrivacy and security <https://filehub.admiralcloud.com/dl/5/6501531f-d
- 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
- _____________________________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250627T083500
 DTEND;TZID="GMT 标准时间":20250627T090500
 CLASS:PUBLIC
@@ -171,6 +27,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:28日TPO冷却水停水讨论
+DTSTART;TZID="GMT 标准时间":20250627T110000
+DTEND;TZID="GMT 标准时间":20250627T113000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZTJjY2VmNDYtMDNhNi00OTRhLTlmNDAtMD
+ kzNWZiNjhlZjcw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%224d5e1cea-2ca2-4582-b48b-b674e2625c0e
+ %22%7d>  \n\n会议 ID: 381 658 029 183 2 \n\n密码: Kq7hS2C9 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=4d5e1cea-2ca2-4582-b48b-b674e262
+ 5c0e&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZTJ
+ jY2VmNDYtMDNhNi00OTRhLTlmNDAtMDkzNWZiNjhlZjcw@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:28日TPO冷却水停水讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
