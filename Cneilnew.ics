@@ -31,6 +31,42 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:已取消: CBC showroom optimization workshop
+DTSTART;TZID="GMT 标准时间":20250630T133000
+DTEND;TZID="GMT 标准时间":20250630T143000
+CLASS:PUBLIC
+DESCRIPTION:Fyi\n\n \n\n-----原始约会-----\n发件人: Zhou\, Dan <dan
+ .zhou@benecke-changshun.com.cn> \n发送时间: 2025年6月3日 15:58\n收
+ 件人: Zhou\, Dan\; Ma\, Siyuan\; Lu\, Xinhua\; Peng\, Shuping\; Zhao\, Y
+ ulia\; Wang\, Haifeng03\; Chen\, Hongmei\; Yang\, Luna\n主题: CBC showro
+ om optimization workshop\n时间: 2025年6月30日星期一 13:30-14:30(UT
+ C+08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n地点
+ : TE_ZG_MR_CBC107_Zhangjiagang\n\n \n\nHi all\,\n\n \n\nThis is Showroom O
+ ptimization workshop review for inputs review.\n\n \n\nThanks for your gre
+ at ideas from your functions in advance.\n\n \n\nRegards\,\n\nYour MaCo Te
+ am\n\n____________________________________________________________________
+ ____________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTe
+ amsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.co
+ m/l/meetup-join/19%3ameeting_YjQ2YzhjNzktZDM3ZC00MzY4LTkyNDgtZGQwYjcwZTQxN
+ mI4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79
+ e6265a%22%2c%22Oid%22%3a%2272742def-bbbf-45ba-9af0-badab99f94b4%22%7d>  \n
+ \n会议 ID: 315 094 880 241 8 \n\n密码: 4Xz9jA9Z \n\n__________________
+ ______________\n\n对于组织者: 会议选项 <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=72742def-bbbf-45ba-9af0-badab99f94b4&tenant
+ Id=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YjQ2YzhjNzktZD
+ M3ZC00MzY4LTkyNDgtZGQwYjcwZTQxNmI4@thread.v2&messageId=0&language=zh-CN>  
+ \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n\n______________________________________________
+ __________________________________\n\n \n
+LOCATION:TE_ZG_MR_CBC107_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CBC showroom optimization workshop
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250630T203000
 DTEND;TZID="GMT 标准时间":20250630T210000
@@ -186,6 +222,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX2 0.3mm生产讨论
+DTSTART;TZID="GMT 标准时间":20250702T130000
+DTEND;TZID="GMT 标准时间":20250702T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2 0.3mm生产讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250703T083500
 DTEND;TZID="GMT 标准时间":20250703T090500
@@ -337,20 +387,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:点位查找 - OT Networking and Data Processing Project
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX2 0.3mm生产讨论
-DTSTART;TZID="GMT 标准时间":20250703T160000
-DTEND;TZID="GMT 标准时间":20250703T170000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2 0.3mm生产讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
