@@ -159,6 +159,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meeting
+DTSTART;TZID="GMT 标准时间":20250703T143000
+DTEND;TZID="GMT 标准时间":20250703T153000
+CLASS:PUBLIC
+DESCRIPTION:FYI.\n\n______________________________________________________
+ __________________________\nMicrosoft Teams 是否需要帮助? <https://a
+ ka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.mi
+ crosoft.com/l/meetup-join/19%3ameeting_ZmRmZmMyY2MtOWQ4YS00NDk2LThmNWYtOTR
+ mODJmMmVlOWRj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-a
+ d1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%
+ 22%7d>  \n会议 ID: 316 904 632 739 7 \n密码: D6BG9jR3 \n______________
+ __________________\n\n对于组织者: 会议选项 <https://teams.microso
+ ft.com/meetingOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&te
+ nantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZmRmZmMyY2
+ MtOWQ4YS00NDk2LThmNWYtOTRmODJmMmVlOWRj@thread.v2&messageId=0&language=zh-C
+ N>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca
+ -436b-832a-1d684ab9ad7e>  \n______________________________________________
+ __________________________________
+LOCATION:TE_ZG_MR_TE_ZG_MR_PlantOffice304
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250704T083000
+DTEND;TZID="GMT 标准时间":20250704T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250704T083500
 DTEND;TZID="GMT 标准时间":20250704T090500
@@ -432,6 +473,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OT Networking and Data Processing Project
+DTSTART;TZID="GMT 标准时间":20250709T140000
+DTEND;TZID="GMT 标准时间":20250709T143000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:PPI office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OT Networking and Data Processing Project
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:产品成本拆解
 DTSTART;TZID="GMT 标准时间":20250709T160000
 DTEND;TZID="GMT 标准时间":20250709T170000
@@ -476,6 +531,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:健康课堂：夏季常见病的预防和护理
+DTSTART;TZID="GMT 标准时间":20250710T140000
+DTEND;TZID="GMT 标准时间":20250710T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n夏日热浪席卷而来，闷热难耐，高温
+ 不仅让人疲惫不堪，还悄然埋下健康隐患。\n\n为帮助大
+ 家科学应对，健康中心开展本次 “夏季常见病的预防和
+ 护理” 线上健康知识小课堂 。\n\n课堂将详细讲解中暑
+ 急救、肠道及皮肤疾病防治妙招。\n\n诚邀您准时参与，
+ 一起清凉度夏！\n\n_________________________________________________
+ _______________________________\n\nMicrosoft Teams 是否需要帮助? <ht
+ tps://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_MWY5ZGQwZmUtODVjMC00YTBiLW
+ FlYTYtNWUyYzhlYjY0NWUy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22851dac70-0e45-4c40-b2e3-1b88
+ eb2c79ba%22%7d>  \n\n会议 ID: 329 917 447 233 1 \n\n密码: Ef7Fk3T6 \n\
+ n________________________________\n\n对于组织者: 会议选项 <https:
+ //teams.microsoft.com/meetingOptions/?organizerId=851dac70-0e45-4c40-b2e3-
+ 1b88eb2c79ba&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
+ ting_MWY5ZGQwZmUtODVjMC00YTBiLWFlYTYtNWUyYzhlYjY0NWUy@thread.v2&messageId=
+ 0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/d
+ l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
+ _____________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:健康课堂：夏季常见病的预防和护理
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250711T083500
 DTEND;TZID="GMT 标准时间":20250711T090500
@@ -499,6 +586,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX压延辊防受伤措施回顾与关闭
+DTSTART;TZID="GMT 标准时间":20250711T153000
+DTEND;TZID="GMT 标准时间":20250711T163000
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________\nMicrosoft Teams 是否需要帮助? <https://aka.m
+ s/JoinTeamsMeeting?omkt=zh-CN> \n立即加入会议 <https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_NzQ1ZGU5NWEtNjBhMy00MTQyLTg5OWEtNzQxZThj
+ ODZmYTI3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e
+ 04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7d
+ >  \n会议 ID: 376 434 575 655 2 \n密码: FE6vZ3KX \n___________________
+ _____________\n\n对于组织者: 会议选项 <https://teams.microsoft.co
+ m/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantI
+ d=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NzQ1ZGU5NWEtNjB
+ hMy00MTQyLTg5OWEtNzQxZThjODZmYTI3@thread.v2&messageId=0&language=zh-CN>  \
+ n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b
+ -832a-1d684ab9ad7e>  \n___________________________________________________
+ _____________________________
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX压延辊防受伤措施回顾与关闭
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1188,6 +1302,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX压延辊防受伤措施回顾与关闭
+DTSTART;TZID="GMT 标准时间":20250725T153000
+DTEND;TZID="GMT 标准时间":20250725T163000
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________\nMicrosoft Teams 是否需要帮助? <https://aka.m
+ s/JoinTeamsMeeting?omkt=zh-CN> \n立即加入会议 <https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_NzQ1ZGU5NWEtNjBhMy00MTQyLTg5OWEtNzQxZThj
+ ODZmYTI3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e
+ 04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7d
+ >  \n会议 ID: 376 434 575 655 2 \n密码: FE6vZ3KX \n___________________
+ _____________\n\n对于组织者: 会议选项 <https://teams.microsoft.co
+ m/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantI
+ d=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NzQ1ZGU5NWEtNjB
+ hMy00MTQyLTg5OWEtNzQxZThjODZmYTI3@thread.v2&messageId=0&language=zh-CN>  \
+ n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b
+ -832a-1d684ab9ad7e>  \n___________________________________________________
+ _____________________________
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX压延辊防受伤措施回顾与关闭
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
