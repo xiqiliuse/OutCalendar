@@ -4,188 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250703T083500
-DTEND;TZID="GMT 标准时间":20250703T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:点位查找 - OT Networking and Data Processing Project
-DTSTART;TZID="GMT 标准时间":20250703T143000
-DTEND;TZID="GMT 标准时间":20250703T153000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\nBCZ_车间网络安全改造及智慧工厂
- 准备项目-数据采集，供应商第一阶段报价已完成。但多
- 方沟通下来，大家还有需补充的内容，以防遗漏。组个
- 会与大家分享本项目进度，并确认需要补充的细节。谢
- 谢！\n\n \n\n主要内容：\n\n*  网络布线：除SP以外均已完
- 成；\n\n*  基础硬件：Scalance 已批量下单，一对一方案布
- 置；\n\n*  点位查找：供应商已完成第一阶段报价；\n\n*  
-  高难度机台：CM1\n\n*   高风险机台：EM1/EM3\n\n*   有设备
- 改造需求的机台(包含但不限于传感器安装等)：6台\n\n*   
- 施工方式：逐台进行\n\n*  第一批准备下单机台：LM3/EX2/EM
- 2\n\n*  数据可视化：本地化部署验证已至Node-red 批量读取
-  Kepware OPC UA Server数据阶段；\n\n*  数据本地化应用（Databa
- se Center）:EM4/EX1/LM3/LM1(电晕机)数据可用中。\n\n \n\n主要
- 讨论内容：\n\n*  除MDA外，PDA需要采集哪些补充信息？-Li 
- Xiaodong\n\n*   确认后，需与供应商沟通是否需要更新报价
- 。\n\n*  项目实施须知：\n\n*   保密措施：\n\n*  所有项目
- 涉及文件只交由项目经理进行分发。\n\n*  保密方法：项
- 目专用U盘，内容加密并只读，文件每一页都含水印（水
- 印标注分发日期），并配有设备文件签收表。\n\n*   基本
- 施工要求（详情参见项目SPEC）:\n\n*  所有源程序在更改
- 之前需备份，供应商要求协助提供（如有）完整配套的HM
- I源程序（可编辑），以便顺利施工。\n\n*  项目经理负责
- 协调施工时间，提前两到三天通知供应商设备停机时间
- 。\n\n*  确认施工机台后，会有详细的项目进度表。\n\n*  
- 所有过程均不影响生产，供应商按照机台排班情况 ，硬
- 软件逐次进场。\n\n*  数据采集时需要生产或PPI出人陪同
- 确认所需采集点位信息是否正确。\n\n*  电控系统，要求
- 供应商PLC需选用西门子品牌，支持串口，型号包括：S7-12
- 00或S7-1500系列，传感器采用品牌件，需注意工艺要求，
- 控制点数。\n\n*  供应商所有工程更改都需要提供CAD图纸
- （2D/3D）\,更改最好发生在原CAD图纸上，内部确认后允许
- 其开始施工。\n\n*  等等。\n\n \n\nBest Regards\,\n\nLily Liu\n\n 
- \n\n_____________________________________________\nFrom: Liu\, Xin06 <xin.
- 6.liu@benecke-changshun.com.cn <mailto:xin.6.liu@benecke-changshun.com.cn>
-  > \nSent: Wednesday\, May 14\, 2025 4:32 PM\nTo: Chen\, Chenglong <chengl
- ong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@benecke-changshun
- .com.cn> >\; Wang\, Congyu <congyu.wang@benecke-changshun.com.cn <mailto:c
- ongyu.wang@benecke-changshun.com.cn> >\; Sun\, Dimin <dimin.sun@benecke-ch
- angshun.com.cn <mailto:dimin.sun@benecke-changshun.com.cn> >\; Li\, Xiaodo
- ng03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke
- -changshun.com.cn> >\; Sun\, Xiaoyong <xiaoyong.sun@benecke-changshun.com.
- cn <mailto:xiaoyong.sun@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen
- .hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn>
-  >\; cheng\, yifei <yifei.cheng@benecke-changshun.com.cn <mailto:yifei.che
- ng@benecke-changshun.com.cn> >\nCc: Chen\, Hongmei <Hongmei.Chen@benecke-c
- hangshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Tang\, 
- Jiawei04 <jiawei.4.tang@benecke-changshun.com.cn <mailto:jiawei.4.tang@ben
- ecke-changshun.com.cn> >\; Lu\, Patrick <patrick.lu@benecke-changshun.com.
- cn <mailto:patrick.lu@benecke-changshun.com.cn> >\; Qiu\, Xiaohan <xiaohan
- .qiu@benecke-changshun.com.cn <mailto:xiaohan.qiu@benecke-changshun.com.cn
- > >\nSubject: 回复: 点位查找 - OT Networking and Data Processing Pro
- ject\n\n \n\nDear all\,\n\n \n\n感谢各位的大力支持和Snow的详
- 细项目历史介绍！\n\n \n\n参见下附快速会议纪要：\n\n \n\
- nSophia：\n\n*	项目需与订单关联，希望可以看到除EM4以外
- 的局部案例；\n\n*	供应商需签署NDA，严格执行保密要求
- ；\n\n*	已现有工艺参数表为基础，按机台添加其它所需
- 参数，汇总至李晓东老师处。\n\n*	Strategy 项目 - Recipe Mang
- ement 希望看到进展，有项目计划。\n\n	*	本条为会后纪要
- 补充 - Lily\n\n		*	当前已联系上海团队获取部分Recipe managem
- ent相关材料，研读中。\n\n		*	同步在了解 Recipe Management Gl
- obal 在推的一些信息。\n\n			*	示例：\n\n				*	\n\n				*	\n\nXia
- ohan:\n\n*	\n\n \n\nYifei：\n\n \n\n*	没有界面的机台如何处理
- ？\n\n	*	先提供需求，项目组会安排供应商读取，已读取
- 项和读取失败项都将会有完整的解释清单。\n\n	*	*可能被
- 替换及比较老旧的机台，项目组会安排后置处理，不排
- 除放弃的可能。\n\n \n\nPPI Team:\n\n*	已在本次会议前准备
- 好了项目内容的初版，等确认供应商NDA后释放给到项目
- 组。\n\n \n\n再次感谢您对本项目的支持！\n\n \n\nBest regard
- s\,\n\n \n\nLily Liu(Liu Xin)\n\nME Engineer BCZ\n\nContiTech Surface Solu
- tions\n\n \n\nMobile: +86 189 5113 2980\n\nE-mail: xin.6.liu@benecke-chang
- shun.com.cn <mailto:xin.6.liu@benecke-changshun.com.cn> \n\nWebsite: www.c
- ontinental-industry.com <http://www.continental-industry.com/> \n\n \n\n \
- n\n________________________________\n\n发件人: Liu\, Xin06\n发送时
- 间: 2025年4月28日 16:31\n收件人: Chen\, Chenglong <chenglong.chen@b
- enecke-changshun.com.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >
- \; Wang\, Congyu <congyu.wang@benecke-changshun.com.cn <mailto:congyu.wang
- @benecke-changshun.com.cn> >\; Sun\, Dimin <dimin.sun@benecke-changshun.co
- m.cn <mailto:dimin.sun@benecke-changshun.com.cn> >\; Li\, Xiaodong03 <xiao
- dong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun
- .com.cn> >\; Sun\, Xiaoyong <xiaoyong.sun@benecke-changshun.com.cn <mailto
- :xiaoyong.sun@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benec
- ke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\; cheng
- \, yifei <yifei.cheng@benecke-changshun.com.cn <mailto:yifei.cheng@benecke
- -changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changsh
- un.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Tang\, Jiawei
- 04 <jiawei.4.tang@benecke-changshun.com.cn <mailto:jiawei.4.tang@benecke-c
- hangshun.com.cn> >\; Lu\, Patrick <patrick.lu@benecke-changshun.com.cn <ma
- ilto:patrick.lu@benecke-changshun.com.cn> >\; Qiu\, Xiaohan <xiaohan.qiu@b
- enecke-changshun.com.cn <mailto:xiaohan.qiu@benecke-changshun.com.cn> >\n
- 主题: 点位查找 - OT Networking and Data Processing Project\n时间: 
- 2025年5月14日 15:00-15:30。\n地点: TE_ZG_MR_PlantOffice301_Zhangjiag
- ang \n\n \n\nDear all\,\n\n \n\nBCZ_车间网络安全改造及智慧工
- 厂准备项目，设备点位查找部分已打包给采购询价，由
- 于点位数量影响Kepware 高级插件IoT Gateway的订阅费用，需
- 要各位协助提供各自负责区域/设备需要采集的参数、频
- 率等要素。采集数据后续会输入至 Database Center（数据中
- 台） 和 Grafana（可视化） 两个平台中。烦请协助，谢谢
- ！\n\n \n\n过程：\n\n*         有画面的机台，请提供截图并
- 高亮标记需采集的点位。\n\n*         没有画面的机台，请
- 按需提供需要采集的信息。\n\n*         烦请@Li Xiaodong老师
- 协助汇总。\n\n \n\nBest Regards\,\n\nLily Liu\n\n \n\n \n\n \n\n_____
- __________________________________________________________________________
- _\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?
- omkt=zh-CN> \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-j
- oin/19%3ameeting_MTMxOThmMGItNzVlOS00MzJhLWE1MzEtOWYyMWY3NzkzZmFi%40thread
- .v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c
- %22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%22%7d> \n\n会议 ID: 
- 376 775 651 210\n\n密码: vY9vD3s4\n\n________________________________\n\
- n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions
- /?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8d4b558f-7b2e-
- 40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTMxOThmMGItNzVlOS00MzJhLWE1MzE
- tOWYyMWY3NzkzZmFi@thread.v2&messageId=0&language=zh-CN> \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
- 9ad7e> \n\n_______________________________________________________________
- _________________\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:点位查找 - OT Networking and Data Processing Project
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meeting
-DTSTART;TZID="GMT 标准时间":20250703T143000
-DTEND;TZID="GMT 标准时间":20250703T153000
-CLASS:PUBLIC
-DESCRIPTION:FYI.\n\n______________________________________________________
- __________________________\nMicrosoft Teams 是否需要帮助? <https://a
- ka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.mi
- crosoft.com/l/meetup-join/19%3ameeting_ZmRmZmMyY2MtOWQ4YS00NDk2LThmNWYtOTR
- mODJmMmVlOWRj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-a
- d1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%
- 22%7d>  \n会议 ID: 316 904 632 739 7 \n密码: D6BG9jR3 \n______________
- __________________\n\n对于组织者: 会议选项 <https://teams.microso
- ft.com/meetingOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&te
- nantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZmRmZmMyY2
- MtOWQ4YS00NDk2LThmNWYtOTRmODJmMmVlOWRj@thread.v2&messageId=0&language=zh-C
- N>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca
- -436b-832a-1d684ab9ad7e>  \n______________________________________________
- __________________________________
-LOCATION:TE_ZG_MR_TE_ZG_MR_PlantOffice304
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:booking
 DTSTART;TZID="GMT 标准时间":20250704T083000
 DTEND;TZID="GMT 标准时间":20250704T170000
@@ -302,6 +120,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250707T140000
+DTEND;TZID="GMT 标准时间":20250707T150000
+CLASS:PUBLIC
+DESCRIPTION:Hi，all：\n\n考虑当天有2025 Town Hall Meeting with Grou
+ p Leaders，周会时间改成周一7号14:00开始，麻烦准时参加
+ ，谢谢！\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250707T203000
 DTEND;TZID="GMT 标准时间":20250707T210000
@@ -410,22 +244,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Invitation - 2025 Town Hall Meeting with Group Leaders
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP部门周会
-DTSTART;TZID="GMT 标准时间":20250708T101500
-DTEND;TZID="GMT 标准时间":20250708T110000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
- 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
- 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
