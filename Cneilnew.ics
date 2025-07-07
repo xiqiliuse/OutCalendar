@@ -202,6 +202,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LM3&EX2电晕机数据采集展示
+DTSTART;TZID="GMT 标准时间":20250709T123000
+DTEND;TZID="GMT 标准时间":20250709T130000
+CLASS:PUBLIC
+DESCRIPTION:佳伟：\n\n关于LM3和EX2的电晕机数采看板，请给
+ 大家讲解展示一下目前的情况，谢谢\n\n______________________
+ __________________________________________________________\n\nMicrosoft Te
+ ams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
+ 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _MzEyYmFiMGQtOTI0My00ZDc0LTgwY2EtYmU1NWZjNGRmYzll%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a
+ a52892f-e6c0-4f3d-85d4-1c44bf468f51%22%7d>  \n\n会议 ID: 344 676 238 931
+  7 \n\n密码: b4dk6Ce2 \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=aa52892f-e6c0-4f3d-85d4-1c44bf468f51&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_MzEyYmFiMGQtOTI0My00ZDc0LTgwY2EtYmU1NWZjN
+ GRmYzll@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:LM3&EX2电晕机数据采集展示
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OT Networking and Data Processing Project
 DTSTART;TZID="GMT 标准时间":20250709T140000
 DTEND;TZID="GMT 标准时间":20250709T143000
