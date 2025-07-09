@@ -74,23 +74,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:产品成本拆解
-DTSTART;TZID="GMT 标准时间":20250709T160000
-DTEND;TZID="GMT 标准时间":20250709T170000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\n现有一个话题--->产品成本拆解\, 
- 需要数字化团队的支持，此次会议会大概描述一下需求
- ，请大家帮忙看看是否能用一些数字化工具呈现，谢谢
- ！\n\n \n\nBest Regards\,\n\nFiona Huang\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:产品成本拆解
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250710T083500
 DTEND;TZID="GMT 标准时间":20250710T090500
@@ -114,6 +97,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:试单流程讨论
+DTSTART;TZID="GMT 标准时间":20250710T110000
+DTEND;TZID="GMT 标准时间":20250710T113000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n\n_______________________________________________
+ _________________________________\n\nMicrosoft Teams 是否需要帮助? <
+ https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https
+ ://teams.microsoft.com/l/meetup-join/19%3ameeting_NjQyYzk5YTMtNmMxNS00ZmQ2
+ LTkzZGItZGIzYjNiMmUzMDA2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-
+ 7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf36416-12d5-49c0-ad71-0c
+ 261a14b47c%22%7d>  \n\n会议 ID: 386 832 618 658 3 \n\n密码: Hf99gT68 \
+ n\n________________________________\n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=8cf36416-12d5-49c0-ad7
+ 1-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_NjQyYzk5YTMtNmMxNS00ZmQ2LTkzZGItZGIzYjNiMmUzMDA2@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________
+ _______________________________________________________\n\n \n
+LOCATION:经理办公室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:试单流程讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -247,6 +257,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BOOKING
+DTSTART;TZID="GMT 标准时间":20250714T090000
+DTEND;TZID="GMT 标准时间":20250714T173000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BOOKING
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250714T203000
 DTEND;TZID="GMT 标准时间":20250714T210000
@@ -343,6 +367,24 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:产品成本拆解
+DTSTART;TZID="GMT 标准时间":20250715T130000
+DTEND;TZID="GMT 标准时间":20250715T140000
+CLASS:PUBLIC
+DESCRIPTION:由于有同事有会议冲突，我们的会议改期举行
+ ，谢谢！\n\n \n\nDear all\,\n\n \n\n现有一个话题--->产品成本
+ 拆解\, 需要数字化团队的支持，此次会议会大概描述一
+ 下需求，请大家帮忙看看是否能用一些数字化工具呈现
+ ，谢谢！\n\n \n\nBest Regards\,\n\nFiona Huang\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:产品成本拆解
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
