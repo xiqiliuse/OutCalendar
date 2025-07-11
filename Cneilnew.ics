@@ -36,43 +36,26 @@ SUMMARY:Chrysler WD TPO2 DP项目（Z2100172Y0900A） 幅宽切换项目
 DTSTART;TZID="GMT 标准时间":20250711T140000
 DTEND;TZID="GMT 标准时间":20250711T150000
 CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MmZlY2JhNzItNmI1Yy00MTFkLWIxNmYtNW
+ ZlMjllNDIzNDQy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ %22%7d>  \n\n会议 ID: 338 969 498 160 9 \n\n密码: KQ6vE2oJ \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc47496
+ 80eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MmZ
+ lY2JhNzItNmI1Yy00MTFkLWIxNmYtNWZlMjllNDIzNDQy@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Chrysler WD TPO2 DP项目（Z2100172Y0900A） 幅宽切换项
  目回顾
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Customer Project Review
-DTSTART;TZID="GMT 标准时间":20250711T150000
-DTEND;TZID="GMT 标准时间":20250711T160000
-CLASS:PUBLIC
-DESCRIPTION:Hello all\,\n\nCustomer Project Review\n\n-->本周主要回
- 顾TPO客户项目\n\n-->@Chen\, Zhijian <mailto:zhijian.chen@benecke-chan
- gshun.com.cn> 需要回顾幅宽改善\n\n \n\n \n\n______________________
- __________________________________________________________\n\nMicrosoft Te
- ams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
- 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
- _ZDYxZDBmNmUtNmFiMi00MWE4LWIyMTctMzAxOGYzNGY5MTQ1%40thread.v2/0?context=%7
- b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228
- cf36416-12d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 330 685 455 666
-  4 \n\n密码: KP3cz2ma \n\n________________________________\n\n对于组
- 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
- rId=8cf36416-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a&threadId=19_meeting_ZDYxZDBmNmUtNmFiMi00MWE4LWIyMTctMzAxOGYzN
- GY5MTQ1@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
- //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
- n_________________________________________________________________________
- _______\n\n \n
-LOCATION:经理办公室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Customer Project Review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -290,6 +273,50 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250716T090000
+DTEND;TZID="GMT 标准时间":20250717T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Customer Project Review
+DTSTART;TZID="GMT 标准时间":20250716T130000
+DTEND;TZID="GMT 标准时间":20250716T140000
+CLASS:PUBLIC
+DESCRIPTION:Hello all\,\n\nCustomer Project Review\n\n-->本周主要回
+ 顾TPO客户项目\n\n-->@Chen\, Zhijian <mailto:zhijian.chen@benecke-chan
+ gshun.com.cn> 需要回顾幅宽改善\n\n \n\n \n\n______________________
+ __________________________________________________________\n\nMicrosoft Te
+ ams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
+ 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _ZDYxZDBmNmUtNmFiMi00MWE4LWIyMTctMzAxOGYzNGY5MTQ1%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228
+ cf36416-12d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 330 685 455 666
+  4 \n\n密码: KP3cz2ma \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=8cf36416-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_ZDYxZDBmNmUtNmFiMi00MWE4LWIyMTctMzAxOGYzN
+ GY5MTQ1@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:经理办公室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Customer Project Review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
 DTSTART;TZID="GMT 标准时间":20250716T220000
 DTEND;TZID="GMT 标准时间":20250716T230000
@@ -494,6 +521,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PE 海绵进度会议
+DTSTART;TZID="GMT 标准时间":20250721T150000
+DTEND;TZID="GMT 标准时间":20250721T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello all\,\n\n \n\n邀请大家分享最新的开发进度，
+ 已经讨论下后续的行动计划，请各位准时参加，谢谢！\n
+ \n________________________________________________________________________
+ ________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsM
+ eeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/
+ meetup-join/19%3ameeting_NDQyMTIxMzgtMjQ5OS00ZWIwLWJhZjctMDlmNjhjNTZhMjFh%
+ 40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e626
+ 5a%22%2c%22Oid%22%3a%2225655bab-daba-4429-bd83-54a1e36ded86%22%7d>  \n\n
+ 会议 ID: 328 475 075 584 4 \n\n密码: Xt9sj6so \n\n____________________
+ ____________\n\n对于组织者: 会议选项 <https://teams.microsoft.com
+ /meetingOptions/?organizerId=25655bab-daba-4429-bd83-54a1e36ded86&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDQyMTIxMzgtMjQ5
+ OS00ZWIwLWJhZjctMDlmNjhjNTZhMjFh@thread.v2&messageId=0&language=zh-CN>  \n
+ \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436
+ b-832a-1d684ab9ad7e>  \n\n________________________________________________
+ ________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE 海绵进度会议
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
