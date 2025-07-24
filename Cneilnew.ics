@@ -182,6 +182,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:讨论Database试制轮次的增加
+DTSTART;TZID="GMT 标准时间":20250728T130000
+DTEND;TZID="GMT 标准时间":20250728T133000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n大家看一下，能否在现有的databa
+ se中加入这个统计？谢谢！\n\n\n\n \n\nSophia  7/24\n\n \n\n_____
+ __________________________________________________________________________
+ _\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?
+ omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-
+ join/19%3ameeting_ZDRmZDQ3ZGMtZGJkOS00N2YzLTk1YjMtYzNmMWM0YTY4Nzg1%40threa
+ d.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2
+ c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID
+ : 362 565 297 179 6 \n\n密码: vP2KT2Mc \n\n_____________________________
+ ___\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingO
+ ptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f
+ -7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDRmZDQ3ZGMtZGJkOS00N2YzL
+ Tk1YjMtYzNmMWM0YTY4Nzg1@thread.v2&messageId=0&language=zh-CN>  \n\n隐私
+ 和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1
+ d684ab9ad7e>  \n\n________________________________________________________
+ ________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:讨论Database试制轮次的增加
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Weekly Meeting
 DTSTART;TZID="GMT 标准时间":20250728T203000
 DTEND;TZID="GMT 标准时间":20250728T210000
