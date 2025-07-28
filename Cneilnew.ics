@@ -60,6 +60,123 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dealing with technical documents (laws\, standards\, specification
+ s)
+DTSTART;TZID="GMT 标准时间":20250728T140000
+DTEND;TZID="GMT 标准时间":20250728T150000
+CLASS:PUBLIC
+DESCRIPTION:技术文件（法律、标准、规范）方面的组织架
+ 构，包括责任集中化、归档系统、文件评估和分发\n\n \n\
+ n \n\n \n\n-----原始约会-----\n发件人: Redmer\, Gerhard <gerhard.re
+ dmer@continental.com> \n发送时间: 2025年7月28日 13:08\n收件人: R
+ edmer\, Gerhard\; Chen\, Hongmei\; Wang\, Chuanfeng01\; Sun\, Xiaoyong\; G
+ uo\, Wei02\; Ren\, Mengjin\; Shi\, Gino\n抄送: Xu\, Dong02\; Yan\, Jin01
+ \; Yin\, Rongjuan\; Pei\, Cheng\; Song\, Hao\; Wang\, Yong06\; Ji\, Xiaowe
+ i\; Xu\, Yan01\; Wang\, Feifei04\; Zhou\, Bin\; Pan\, Sheng\; Peng\, Shupi
+ ng\; Xu\, Kevin\; Lian\, Chengbo02\; Wang\, Tong\; Cao\, Lillian\; Jin\, L
+ ei\; Lu\, Zhichao02\; Duan\, Haitao\; Zhang\, Meng05\; Jiang\, Nan02\; Xu\
+ , Xiaoguo\; Cai\, Xingxing\; Shen\, Qi\n主题: Dealing with technical doc
+ uments (laws\, standards\, specifications)\n时间: 2025年7月28日星期
+ 一 8:00-9:00(UTC+01:00) 阿姆斯特丹，柏林，伯尔尼，罗马，
+ 斯德哥尔摩，维也纳。\n地点: Microsoft Teams-Besprechung\n\n \n
+ \n请把会议转发给部门相关人员，谢谢！\n\n \n\n____________
+ ____________________\n\n发件人: Redmer\, Gerhard <gerhard.redmer@contin
+ ental.com <mailto:gerhard.redmer@continental.com> >\n已发送: 2025年7
+ 月22日 14:54:13 (UTC+08:00) Beijing\, Chongqing\, Hong Kong\, Urumqi\n
+ 收件人: Redmer\, Gerhard <gerhard.redmer@continental.com <mailto:gerhar
+ d.redmer@continental.com> >\; Ren\, Mengjin <mengjin.ren@benecke-changshun
+ .com.cn <mailto:mengjin.ren@benecke-changshun.com.cn> >\; Shi\, Gino <gaof
+ eng.shi@benecke-changshun.com.cn <mailto:gaofeng.shi@benecke-changshun.com
+ .cn> >\n抄送: Xu\, Dong02 <dong.2.xu@benecke-changshun.com.cn <mailto:do
+ ng.2.xu@benecke-changshun.com.cn> >\; Yan\, Jin01 <jin01.yan@benecke-chang
+ shun.com.cn <mailto:jin01.yan@benecke-changshun.com.cn> >\; Yin\, Rongjuan
+  <Rongjuan.Yin@benecke-changshun.com.cn <mailto:Rongjuan.Yin@benecke-chang
+ shun.com.cn> >\; Pei\, Cheng <cheng.pei@benecke-changshun.com.cn <mailto:c
+ heng.pei@benecke-changshun.com.cn> >\; Song\, Hao <hao.song@benecke-changs
+ hun.com.cn <mailto:hao.song@benecke-changshun.com.cn> >\; Wang\, Yong06 <y
+ ong.6.wang@benecke-changzhou.com.cn <mailto:yong.6.wang@benecke-changzhou.
+ com.cn> >\; Ji\, Xiaowei <xiaowei.ji@continental.com <mailto:xiaowei.ji@co
+ ntinental.com> >\; Xu\, Yan01 <yan01.xu@benecke-changshun.com.cn <mailto:y
+ an01.xu@benecke-changshun.com.cn> >\; Wang\, Feifei04 <feifei.4.wang@benec
+ ke-changzhou.com.cn <mailto:feifei.4.wang@benecke-changzhou.com.cn> >\; Zh
+ ou\, Bin <Bin.Zhou@benecke-changshun.com.cn <mailto:Bin.Zhou@benecke-chang
+ shun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.com.cn <mailto:s
+ heng.pan@benecke-changshun.com.cn> >\; Peng\, Shuping <Shuping.Peng@beneck
+ e-changshun.com.cn <mailto:Shuping.Peng@benecke-changshun.com.cn> >\; Xu\,
+  Kevin <kevin.xu@benecke-changshun.com.cn <mailto:kevin.xu@benecke-changsh
+ un.com.cn> >\; Lian\, Chengbo02 <chengbo02.lian@benecke-changshun.com.cn <
+ mailto:chengbo02.lian@benecke-changshun.com.cn> >\; Wang\, Tong <tammy.wan
+ g@benecke-changzhou.com.cn <mailto:tammy.wang@benecke-changzhou.com.cn> >\
+ ; Cao\, Lillian <lillian.cao@benecke-changzhou.com.cn <mailto:lillian.cao@
+ benecke-changzhou.com.cn> >\; Wang\, Chuanfeng01 <chuanfeng01.wang@benecke
+ -changzhou.com.cn <mailto:chuanfeng01.wang@benecke-changzhou.com.cn> >\; C
+ hen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@
+ benecke-changshun.com.cn> >\; Jin\, Lei <lei.jin@benecke-changshun.com.cn 
+ <mailto:lei.jin@benecke-changshun.com.cn> >\; Lu\, Zhichao02 <zhichao.2.lu
+ @benecke-changshun.com.cn <mailto:zhichao.2.lu@benecke-changshun.com.cn> >
+ \; Duan\, Haitao <haitao.duan@benecke-changshun.com.cn <mailto:haitao.duan
+ @benecke-changshun.com.cn> >\; Zhang\, Meng05 <meng.5.zhang@benecke-changs
+ hun.com.cn <mailto:meng.5.zhang@benecke-changshun.com.cn> >\; Jiang\, Nan0
+ 2 <nan02.jiang@benecke-changshun.com.cn <mailto:nan02.jiang@benecke-changs
+ hun.com.cn> >\; Xu\, Xiaoguo <xiaoguo.xu@benecke-changshun.com.cn <mailto:
+ xiaoguo.xu@benecke-changshun.com.cn> >\; Cai\, Xingxing <xingxing.cai@bene
+ cke-changshun.com.cn <mailto:xingxing.cai@benecke-changshun.com.cn> >\; Sh
+ en\, Qi <qi.shen@benecke-changshun.com.cn <mailto:qi.shen@benecke-changshu
+ n.com.cn> >\n主题: Dealing with technical documents (laws\, standards\, 
+ specifications)\n时间: 2025年7月28日 14:00-15:00。\n位置: Microsof
+ t Teams-Besprechung\n\nPlease distribute the invitations (2 options) on th
+ e topic "Handling technical documents (laws\, standards\, specifications)
+ ” to all persons who have to deal with these documents\, e.g. purchasing
+ \, sales\, development\, quality\, etc.?\n\n \n\n \n\n____________________
+ ____________\n\nFrom: Redmer\, Gerhard <gerhard.redmer@continental.com <ma
+ ilto:gerhard.redmer@continental.com> >\nSent: Tuesday\, July 22\, 2025 2:5
+ 4:14 PM (UTC+08:00) Beijing\, Chongqing\, Hong Kong\, Urumqi\nTo: Redmer\,
+  Gerhard <gerhard.redmer@continental.com <mailto:gerhard.redmer@continenta
+ l.com> >\; Ren\, Mengjin <mengjin.ren@benecke-changshun.com.cn <mailto:men
+ gjin.ren@benecke-changshun.com.cn> >\; Shi\, Gino <gaofeng.shi@benecke-cha
+ ngshun.com.cn <mailto:gaofeng.shi@benecke-changshun.com.cn> >\nCc: Xu\, Do
+ ng02 <dong.2.xu@benecke-changshun.com.cn <mailto:dong.2.xu@benecke-changsh
+ un.com.cn> >\; Yan\, Jin01 <jin01.yan@benecke-changshun.com.cn <mailto:jin
+ 01.yan@benecke-changshun.com.cn> >\; Yin\, Rongjuan <Rongjuan.Yin@benecke-
+ changshun.com.cn <mailto:Rongjuan.Yin@benecke-changshun.com.cn> >\; Pei\, 
+ Cheng <cheng.pei@benecke-changshun.com.cn <mailto:cheng.pei@benecke-changs
+ hun.com.cn> >\; Song\, Hao <hao.song@benecke-changshun.com.cn <mailto:hao.
+ song@benecke-changshun.com.cn> >\; Wang\, Yong06 <yong.6.wang@benecke-chan
+ gzhou.com.cn <mailto:yong.6.wang@benecke-changzhou.com.cn> >\; Ji\, Xiaowe
+ i <xiaowei.ji@continental.com <mailto:xiaowei.ji@continental.com> >\; Xu\,
+  Yan01 <yan01.xu@benecke-changshun.com.cn <mailto:yan01.xu@benecke-changsh
+ un.com.cn> >\; Wang\, Feifei04 <feifei.4.wang@benecke-changzhou.com.cn <ma
+ ilto:feifei.4.wang@benecke-changzhou.com.cn> >\nSubject: Dealing with tech
+ nical documents (laws\, standards\, specifications)\nWhen: Monday\, July 2
+ 8\, 2025 2:00 PM-3:00 PM.\nWhere: Microsoft Teams-Besprechung\n\nIn this p
+ resentation\, the organization in dealing with technical documents (laws\,
+  standards\, specifications)\n\nis presented with regard to the centraliza
+ tion of responsibility\, filing system\, evaluation and distribution of\n\
+ ndocuments within Surface Solutions.\n\n \n\n_____________________________
+ ___________________________________________________\n\nMicrosoft Teams Ben
+ ötigen Sie Hilfe? <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  \n\nJetzt
+  an der Besprechung teilnehmen <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_Yjg3ZmU0YTctZjhkYi00MmVjLWI3NjctOTEyN2IwYjkwOTVl%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%2289c87a86-43cc-4a8e-8752-554f14274e3c%22%7d>  \n\nBesprechungs-I
+ D: 360 068 212 528 3 \n\nKennung: ot7D6vj6 \n\n___________________________
+ _____\n\nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft
+ .com/meetingOptions/?organizerId=89c87a86-43cc-4a8e-8752-554f14274e3c&tena
+ ntId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yjg3ZmU0YTct
+ ZjhkYi00MmVjLWI3NjctOTEyN2IwYjkwOTVl@thread.v2&messageId=0&language=de-DE>
+   \n\nDatenschutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/65
+ 01531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________
+ _______________________________________________\n\n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dealing with technical documents (laws\, standards\, specifica
+ tions)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alv样品海绵性能讨论
 DTSTART;TZID="GMT 标准时间":20250728T150000
 DTEND;TZID="GMT 标准时间":20250728T160000
