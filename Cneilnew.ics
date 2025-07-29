@@ -516,6 +516,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:欢迎新同事
+DTSTART;TZID="GMT 标准时间":20250801T173000
+DTEND;TZID="GMT 标准时间":20250801T200000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZjFmZjdmN2YtOWI3OS00NTUyLWEwOGUtNj
+ Y4OWQ4YmVkZDMw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a5713688c
+ %22%7d>  \n\n会议 ID: 317 642 235 562 7 \n\n密码: jR2Qr6LW \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-9d06-b06a5713
+ 688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjF
+ mZjdmN2YtOWI3OS00NTUyLWEwOGUtNjY4OWQ4YmVkZDMw@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:地址：张家港市金港镇长江中路305号顺和兴酒店  
+ 三楼包厢（禾睦厅）
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:欢迎新同事
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250804T083500
 DTEND;TZID="GMT 标准时间":20250804T090500
