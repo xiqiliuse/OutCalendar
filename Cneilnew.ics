@@ -86,6 +86,36 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:宝马年度审核排产及准备相关
+DTSTART;TZID="GMT 标准时间":20250801T103000
+DTEND;TZID="GMT 标准时间":20250801T110000
+CLASS:PUBLIC
+DESCRIPTION:Hello all.\n\n \n\n宝马计划于8/19-8/20来BCZ做年度审
+ 核，约大家看下审核排产和准备相关。\n\n \n\n附件是基
+ 于6月份那份审核计划的更新版，大家到时候一起看下。\
+ n\n \n\n\n\n______________________________________________________________
+ __________________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/
+ JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_YmFiNTIyY2EtZmI0YS00MDQwLTk0ZWQtMWU2ZTN
+ hYzVmOTE0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%22f041ada3-d3e5-465d-b9a7-2da2cb148622%22%7
+ d>  \n\n会议 ID: 367 503 036 836 0 \n\n密码: Nh6QX2bK \n\n____________
+ ____________________\n\n对于组织者: 会议选项 <https://teams.micro
+ soft.com/meetingOptions/?organizerId=f041ada3-d3e5-465d-b9a7-2da2cb148622&
+ tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YmFiNTIy
+ Y2EtZmI0YS00MDQwLTk0ZWQtMWU2ZTNhYzVmOTE0@thread.v2&messageId=0&language=zh
+ -CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-
+ d1ca-436b-832a-1d684ab9ad7e>  \n\n________________________________________
+ ________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:宝马年度审核排产及准备相关
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Customer project review
 DTSTART;TZID="GMT 标准时间":20250801T150000
 DTEND;TZID="GMT 标准时间":20250801T163000
