@@ -5,397 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250729T083500
-DTEND;TZID="GMT 标准时间":20250729T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: SP部门周会
-DTSTART;TZID="GMT 标准时间":20250729T101500
-DTEND;TZID="GMT 标准时间":20250729T110000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n   今天SP周会无新话题，有事单独联
- 系找相关人。\n\n  @Xue\, Jinlong02 <mailto:jinlong.2.xue@benecke-cha
- ngshun.com.cn> 油漆房话题截止到本月底的跟催一些相关人
- 员。\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID="GMT 标准时间":20250730T083000
-DTEND;TZID="GMT 标准时间":20250730T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:booking
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250730T083500
-DTEND;TZID="GMT 标准时间":20250730T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS Admin Call July 2025
-DTSTART;TZID="GMT 标准时间":20250730T150000
-DTEND;TZID="GMT 标准时间":20250730T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Admin Community\,\n\nI would like to invite you to th
- e next CBS Admin Call in July where we will explore the following topics:\
- n\n \n\n- CBS News\n\n- CBS Admin Application Guide\n\n- CBS at the Qualit
- y Day 2025\n\n \n\nLooking forward meeting you again\,\n\nJulia\n\n\n\n\n_
- __________________________________________________________________________
- _____\nMicrosoft Teams Benötigen Sie Hilfe? <https://aka.ms/JoinTeamsMeet
- ing?omkt=de-DE>  \nJetzt an der Besprechung teilnehmen <https://teams.micr
- osoft.com/l/meetup-join/19%3a74b89d531f814be3a79550066a205872%40thread.sky
- pe/1751893516861?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e
- 6265a%22%2c%22Oid%22%3a%22dfef8758-0d06-4144-8413-55a9776d136c%22%7d>  \nB
- esprechungs-ID: 338 496 720 441 4 \nKennung: Hb7Yj7Bq \n__________________
- ______________\n\nFür Organisatoren: Besprechungsoptionen <https://teams.
- microsoft.com/meetingOptions/?organizerId=dfef8758-0d06-4144-8413-55a9776d
- 136c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_74b89d531f8
- 14be3a79550066a205872@thread.skype&messageId=1751893516861&language=de-DE>
-   \nDatenschutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n_____________________________________
- ___________________________________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:CBS Admin Call July 2025
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TLA 1502.5-samples
-DTSTART;TZID="GMT 标准时间":20250730T150000
-DTEND;TZID="GMT 标准时间":20250730T160000
-CLASS:PUBLIC
-DESCRIPTION:Hello all\,\n\n \n\nLet’s discuss this topic together…\n\n
- Thanks for your support\n\n_______________________________________________
- _________________________________\n\nMicrosoft Teams 是否需要帮助? <
- https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https
- ://teams.microsoft.com/l/meetup-join/19%3ameeting_OWFhNTNjYTItZTM5NC00ZWEz
- LTljZWEtMDgzMjRiZTJiNGNi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-
- 7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2225655bab-daba-4429-bd83-54
- a1e36ded86%22%7d>  \n\n会议 ID: 371 375 633 767 3 \n\n密码: 8TZ9EL26 \
- n\n________________________________\n\n对于组织者: 会议选项 <http
- s://teams.microsoft.com/meetingOptions/?organizerId=25655bab-daba-4429-bd8
- 3-54a1e36ded86&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
- eeting_OWFhNTNjYTItZTM5NC00ZWEzLTljZWEtMDgzMjRiZTJiNGNi@thread.v2&messageI
- d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________
- _______________________________________________________\n\n \n\n \n\n_____
- ________________________________________\n发件人: Thomas Ross <thomas.r
- oss@sekisuialveo.com> \n发送时间: 2025年7月24日 18:02\n收件人: C
- hen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn>\n抄送: Sybille D
- orow <sybille.dorow@sekisuialveo.com>\n主题: RE: TLA 1502.5-samples\n\n 
- \n\nCAUTION: This is an external email. Do not click or open any attachmen
- ts unless you recognize the sender and know that the content is safe. (htt
- p://links.conti.de/mailcheck)\n\n \n\nHello Angellee\,\n\ncoming back to o
- ur discussion this morning\, please find attached the Quotation for\n\n*	T
- LA LV 15-02.5 (67 kg/m³\, 2.5mm\, colour anthracite\, width 1.900mm\, rol
- l length 400lm) : Base Price 115\,61 € + RM upch. 15\,61% = 133\,66 €/
- 100m²\, FCA\n*	TLA LV 12-02.5 (83 kg/m³\, 2.5mm\, colour anthracite\, wi
- dth 1.900mm\, roll length 400lm) . Base Price 143\,83 € + RM upch. 15\,6
- 1% = 166\,28 €/100m²\, FCA\n\n \n\nI checked with our lab in Switzerlan
- d\, unfortunately we don't have any stocks of TLA LV 1502.5 available.\n\n
- Last time it was produced was in 2016 !\n\n \n\nSo we only have the sample
-  roll of 10m of TLA LV 12-02.5 (83 kg/m³\, 2.5mm) available - ready for y
- ou to be dispatched. Width is 1.280mm!\n\n*	higher density means lower sof
- t touch\, more body\, more rigid\, excellent VF properties\n\n \n\nI found
-  another foam grade that might be suitable for a first check\, that is our
-  standard PE foam TA LV 15-02.5 (67 kg/m³\, 2.5mm) Width is 1.000mm!\n\n*
- 	same density as requested\, similar soft touch\, fair VF properties\n\n \
- n\nIf you want to make a laminate sample from both foams\, I believe they 
- are both suitable for a laminate comparison.\n\nVacuum forming comparison 
- I have my doubts about the TA LV 15-02.5.\n\n \n\nIn any case we are prepa
- red to make the desired foam grade TLA LV 15-02.5 in width 1.900mm.\n\nI c
- an reduce the MOQ even further to 3 rolls\, equals 2.280m² and offer you 
- to split the cost of making the foam between the 2 companies (risk sharing
- ).\n\nThe total price for 2.280m² is 3047\,45 €\, your part would then 
- be 1.500€ plus shipping & customs.\n\n \n\nHow does that sound?\n\n \n\n
- We can discuss in detail with your Engineers next Tuesday.\n\n \n\nBest re
- gards Thomas\n\n \n\nFrom: Chen\, Xiaojiao <xiaojiao.chen@benecke-changshu
- n.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> > \nSent: Donners
- tag\, 24. Juli 2025 05:33\nTo: Thomas Ross <thomas.ross@sekisuialveo.com <
- mailto:thomas.ross@sekisuialveo.com> >\nCc: Sybille Dorow <sybille.dorow@s
- ekisuialveo.com <mailto:sybille.dorow@sekisuialveo.com> >\nSubject: 回复
- : TLA 1502.5-samples\n\n \n\n[EXTERNAL EMAIL]\n\n \n\nHello Thomas\,\n\n \
- n\nWould you please quota me the best price of this material?\n\nThe backg
- round of this project is to do the VAVE\, if the price is not competitive\
- , we will not consider it.\n\n \n\nThank you.\n\n \n\nMit freundlichen Gr
- üßen / Best Regards\n\n \n\n陈晓娇/Angellee Chen\n\nRegional Category
-  Manager – Carrier Materials\n\nPurchasing\n\nSurface Solutions\n\n \n\n
- Besucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangji
- agang) Co.\, Ltd.\n\n贝内克－长顺汽车内饰材料（张家港）
- 有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjia
- gang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙
- 长阳路1号 215632\n\n \n\nMobil: +86 177 0624 2801\n\nE-Mail: xiaojiao.
- chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.
- cn> \n\nWebsite: www.continental-industry.com <http://www.continental-indu
- stry.com/> \n\n \n\nDear Suppliers\, please read the following documents a
- nd comply with ContiTech requirements:\n\nSuppliers | Continental - Contin
- ental AG <https://www.continental.com/en/company/suppliers/supplier-inform
- ation/>  \n\n \n\n \n\nInternal\n\n发件人: Thomas Ross <thomas.ross@sek
- isuialveo.com <mailto:thomas.ross@sekisuialveo.com> > \n发送时间: 2025
- 年7月23日 22:30\n收件人: Chen\, Angellee <xiaojiao.chen@benecke-chan
- gshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\n抄送: Sy
- bille Dorow <sybille.dorow@sekisuialveo.com <mailto:sybille.dorow@sekisuia
- lveo.com> >\n主题: RE: TLA 1502.5-samples\n\n \n\nCAUTION: This is an ex
- ternal email. Do not click or open any attachments unless you recognize th
- e sender and know that the content is safe. (http://links.conti.de/mailche
- ck)\n\n \n\nHello Angellee\,\n\n \n\nthe sample as mentioned below is read
- y\n\n \n\ndimensions are\; 128cm x diam. 20 cm x 4.5 kg (10m of foam\, ful
- l width 1.280mm)\n\n \n\n \n\nStorage Type\n\nStorage Bin\n\nHighest-Level
-  HU\n\nProduct\n\nProduct Short Description\n\nQuantity\n\nBase Unit of Me
- asure\n\nGoods Receipt Date\n\nH701\n\n7G171\n\n1018935001\n\n8816453\n\nT
- LA LV 12-02.5 1.28 485 020 R\n\n485\n\nM\n\n04/07/2025\n\n \n\nSometimes o
- ur sample department works faster than expected…\n\n \n\nPlease let me k
- now where to ship the sample\, sample and shipment is FOC for you.\n\n \n\
- nbest regards Thomas\n\n \n\n \n\nFrom: Chen\, Xiaojiao <xiaojiao.chen@ben
- ecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> > \n
- Sent: Mittwoch\, 23. Juli 2025 09:35\nTo: Thomas Ross <thomas.ross@sekisui
- alveo.com <mailto:thomas.ross@sekisuialveo.com> >\nSubject: 回复: TLA 15
- 02.5-samples\n\n \n\n[EXTERNAL EMAIL]\n\n \n\nHello Thomas\,\n\n \n\nI’m
-  waiting for the feedback from our R&D\, I’ll let you know soon.\n\n \n\
- nMit freundlichen Grüßen / Best Regards\n\n \n\n陈晓娇/Angellee Chen\
- n\nRegional Category Manager – Carrier Materials\n\nPurchasing\n\nSurfac
- e Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshu
- n Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克－长顺汽车内饰材
- 料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jinga
- ng Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港
- 市金港镇南沙长阳路1号 215632\n\n \n\nMobil: +86 177 0624 2801\n\
- nE-Mail: xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@bene
- cke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http://ww
- w.continental-industry.com/> \n\n \n\nDear Suppliers\, please read the fol
- lowing documents and comply with ContiTech requirements:\n\nSuppliers | Co
- ntinental - Continental AG <https://www.continental.com/en/company/supplie
- rs/supplier-information/>  \n\n \n\n \n\nInternal\n\n发件人: Thomas Ros
- s <thomas.ross@sekisuialveo.com <mailto:thomas.ross@sekisuialveo.com> > \n
- 发送时间: 2025年7月23日 15:25\n收件人: Chen\, Angellee <xiaojiao
- .chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com
- .cn> >\n主题: RE: TLA 1502.5-samples\n\n \n\nCAUTION: This is an externa
- l email. Do not click or open any attachments unless you recognize the sen
- der and know that the content is safe. (http://links.conti.de/mailcheck)\n
- \n \n\nHi Angellee\,\n\nquick feedback and I can start the sampling proces
- s  - if needed.\n\n \n\nThanks Thomas\n\n \n\nFrom: Thomas Ross \nSent: Di
- enstag\, 22. Juli 2025 12:02\nTo: Chen\, Xiaojiao <xiaojiao.chen@benecke-c
- hangshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\nCc: Din
- g\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding
- @benecke-changshun.com.cn> >\; Sybille Dorow <Sybille.Dorow@SekisuiAlveo.c
- om <mailto:Sybille.Dorow@SekisuiAlveo.com> >\nSubject: RE: TLA 1502.5-samp
- les\n\n \n\nHello Angellee\,\n\nuups ! too many mails in my inbox…I miss
- ed this one\, sorry for that.\n\n \n\nTLA LV 1502.5 (67 kg/m³\, 2.5mm)\n\
- nThis product has not been made recently (not since Dec 2023).\n\nWe have 
- no old stock and we have no lab samples.\n\n*	no sampling possible. \n*	Re
- duced MOQ is ~3.000m² - I don't think you're willing to invest that much 
- at this point in the project.\n*	for reduced MOQ a surcharge of 30% applie
- s\n\n \n\nproposed alternative for sampling:\n\nTLA LV 1202.5 (83 kg/m³\,
-  2.5mm)\n\nThis product is available from stock. Not exactly the same dens
- ity\, but 2.5mm thickness\, the width is 1.280mm.\n\nI could offer this as
-  an alternative to you / Mr. Ding\, 10m sample would be available.\n\n*	I 
- have a full roll available\, ~ 450lm from stock\n*	reduced MOQ is ~2.400m
- ² - I don't think you're willing to invest that much at this point in the
-  project.\n*	for reduced MOQ a surcharge of 30% applies\n\n \n\nPlease let
-  me know how to proceed.\n\n \n\nBest regards Thomas\n\n \n\n \n\n \n\nFro
- m: Chen\, Xiaojiao <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojia
- o.chen@benecke-changshun.com.cn> > \nSent: Dienstag\, 22. Juli 2025 02:47\
- nTo: Thomas Ross <thomas.ross@sekisuialveo.com <mailto:thomas.ross@sekisui
- alveo.com> >\nCc: Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn 
- <mailto:zhongxie.ding@benecke-changshun.com.cn> >\nSubject: 回复: TLA 15
- 02.5-samples\n\n \n\n[EXTERNAL EMAIL]\n\n \n\nHello Thomas，\n\n \n\nAny 
- update regarding the following samples?\n\n \n\nMit freundlichen Grüßen 
- / Best Regards\n\n \n\n陈晓娇/Angellee Chen\n\nRegional Category Manage
- r – Carrier Materials\n\nPurchasing\n\nSurface Solutions\n\n \n\nBesuche
- radresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) 
- Co.\, Ltd.\n\n贝内克－长顺汽车内饰材料（张家港）有限公
- 司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 21
- 5632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙长阳路1
- 号 215632\n\n \n\nMobil: +86 177 0624 2801\n\nE-Mail: xiaojiao.chen@benec
- ke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> \n\nWe
- bsite: www.continental-industry.com <http://www.continental-industry.com/>
-  \n\n \n\nDear Suppliers\, please read the following documents and comply 
- with ContiTech requirements:\n\nSuppliers | Continental - Continental AG <
- https://www.continental.com/en/company/suppliers/supplier-information/>  \
- n\n \n\n \n\nInternal\n\n发件人: Chen\, Angellee \n发送时间: 2025
- 年7月11日 14:33\n收件人: Thomas Ross <thomas.ross@sekisuialveo.com <
- mailto:thomas.ross@sekisuialveo.com> >\n抄送: Ding\, Zhongxie <zhongxie.
- ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.
- cn> >\n主题: 回复: TLA 1502.5-samples\n\n \n\nHello Thomas\,\n\n \n\nP
- ink Friday\, how is everything?\n\n \n\nPlease see following email to remi
- nd you the material we need\, would you please arrange 3m samples to my co
- lleague Mr. Ding(already in CC)\, who is responsible for R&D.\n\nAlso plea
- se attach your TDS of this material. \n\nHere is the address:\n\nMr. Ding 
- Zhongxie \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto 
- Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克－长顺汽车内饰材料（
- 张家港）有限公司\n\nNo.8\,Changyang Rd.\,Nansha\, Jingang Town\, Z
- hangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇
- 南沙长阳路8号 215632\n\nMobile: +86 18951132798\n\n \n\nBy the way\,
-  I’ll be on annual leave next week\, if you have any question\, please c
- ontact Mr. Ding. \n\n \n\nHave a nice weekend!\n\n \n\nMit freundlichen Gr
- üßen / Best Regards\n\n \n\n陈晓娇/Angellee Chen\n\nRegional Category
-  Manager – Carrier Materials\n\nPurchasing\n\nSurface Solutions\n\n \n\n
- Besucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangji
- agang) Co.\, Ltd.\n\n贝内克－长顺汽车内饰材料（张家港）
- 有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjia
- gang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙
- 长阳路1号 215632\n\n \n\nMobil: +86 177 0624 2801\n\nE-Mail: xiaojiao.
- chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.
- cn> \n\nWebsite: www.continental-industry.com <http://www.continental-indu
- stry.com/> \n\n \n\nDear Suppliers\, please read the following documents a
- nd comply with ContiTech requirements:\n\nSuppliers | Continental - Contin
- ental AG <https://www.continental.com/en/company/suppliers/supplier-inform
- ation/>  \n\n \n\n发件人: Thomas Ross <thomas.ross@sekisuialveo.com <ma
- ilto:thomas.ross@sekisuialveo.com> > \n发送时间: 2024年3月22日 18:2
- 8\n收件人: Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mai
- lto:xiaojiao.chen@benecke-changshun.com.cn> >\n抄送: Frank Jennrich <fra
- nk.jennrich@sekisuialveo.com <mailto:frank.jennrich@sekisuialveo.com> >\n
- 主题: RE: TLA 1502.5\n\n \n\nCAUTION: This is an external email. Do not 
- click or open any attachments unless you recognize the sender and know tha
- t the content is safe. (http://links.conti.de/mailcheck)\n\n \n\nHi Angell
- ee\,\n\nthanks a lot for this important project information.\n\n \n\nI wil
- l forward it to our business planning team. Please have a look at my conta
- iner calculation:\n\n\n\n \n\n120.000 sqm / 15.200 sqm --> ~8 full contain
- ers per year\, so roughly one container every six weeks after SOP.\n\n \n\
- nBest regards again\n\n \n\nThomas\n\n \n\n \n\n \n\nFrom: Chen\, Xiaojiao
-  <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-cha
- ngshun.com.cn> > \nSent: Freitag\, 22. März 2024 02:06\nTo: Thomas Ross <
- thomas.ross@sekisuialveo.com <mailto:thomas.ross@sekisuialveo.com> >\nCc: 
- Frank Jennrich <frank.jennrich@sekisuialveo.com <mailto:frank.jennrich@sek
- isuialveo.com> >\nSubject: 回复: TLA 1502.5\n\n \n\n[EXTERNAL EMAIL]\n\n
-  \n\nHello Thomas，\n\n \n\nHere is the information you need:\n\n*	Applic
- ation (door\, centre console\, etc.)   Door\n*	OEM                        
-                                 Chrysler\n*	Modell                        
-                               TBD\n*	S.O.P.                               
-                        2025\n*	Annual Volume                              
-           ~120KSQM\n*	timing for a sample order                         AS
- AP\n\n \n\nYour quickly reply will be highly appreciated.\n\n \n\nBest Reg
- ards\n\nAngellee\n\n \n\n \n\nInternal\n\n发件人: Thomas Ross <thomas.r
- oss@sekisuialveo.com <mailto:thomas.ross@sekisuialveo.com> > \n发送时
- 间: 2024年3月20日 1:12\n收件人: Chen\, Angellee <xiaojiao.chen@bene
- cke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\n
- 抄送: Frank Jennrich <frank.jennrich@sekisuialveo.com <mailto:frank.jenn
- rich@sekisuialveo.com> >\n主题: RE: TLA 1502.5 \n\n \n\nCAUTION: This is
-  an external email. Do not click or open any attachments unless you recogn
- ize the sender and know that the content is safe. (http://links.conti.de/m
- ailcheck)\n\n \n\nHello Angellee\,\n\nthanks for your RFQ.\n\n \n\nThe req
- uested combination of thickness 2.5mm and width 1.900mm is border line in 
- terms of our capabilities\, I need to go via our Inquiry team in the plant
- .\n\nAn answer is expected not before Friday.\n\n \n\nCan you please answe
- r the following general project question:\n\n*	Application (door\, centre 
- console\, etc.)\n*	OEM\n*	Modell\n*	S.O.P.\n*	Annual Volume\n*	timing for 
- a sample order\n\n \n\nPlease find the Basic Price List Quotation attached
- .\n\nFor Q1-2024 you have to add the RM surcharge of 12\,68% to the prices
-  given in the quotation.\n\n \n\nThis is not a confirmation of the desired
-  width of 1.900mm!\n\n \n\nThanks and best regards \n\nThomas\n\n \n\n \n\
- nFrom: Chen\, Xiaojiao <xiaojiao.chen@benecke-changshun.com.cn <mailto:xia
- ojiao.chen@benecke-changshun.com.cn> > \nSent: Freitag\, 15. März 2024 07
- :52\nTo: Frank Jennrich <frank.jennrich@sekisuialveo.com <mailto:frank.jen
- nrich@sekisuialveo.com> >\nSubject: TLA 1502.5\n\n \n\n[EXTERNAL EMAIL]\n\
- n \n\nHello Frank\,\n\n \n\nPlease check if you have following material\, 
- If yes\, please quota a price\, thank you.\n\nTLA 1502.5 1900mm\n\n \n\n \
- n\nBest regards/诚挚问候\n\n \n\nAngellee Chen/陈晓娇\n\nPurchasing
-  Department\n\n \n\nBenecke Changshun Auto Trim(Zhangjiagang)Co.\,Ltd.\n\n
- 贝内克－长顺汽车内饰装饰材料（张家港）有限公司\n\nN
- o.108\,Jianghai South Rd.Jingang Town\, Zhangjiagang\n\n215632 Jiangsu\,P.
- R.China\n\n江苏省张家港市金港镇江海南路108号215632\n\n \n\n
- Mobile phone: +86 (0)177 0624 2801\n\nE-mail:xiaojiao.chen@benecke-changsh
- un.com.cn\n\n\n\n \n\n \n\n \n\nInternal\n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TLA 1502.5-samples
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBS Admin Call July 2025
-DTSTART;TZID="GMT 标准时间":20250730T210000
-DTEND;TZID="GMT 标准时间":20250730T220000
-CLASS:PUBLIC
-DESCRIPTION:Dear CBS Admin Community\,\n\nI would like to invite you to th
- e next CBS Admin Call in July where we will explore the following topics:\
- n\n \n\n- CBS News\n\n- CBS Admin Application Guide\n\n- CBS at the Qualit
- y Day 2025\n\n \n\nLooking forward meeting you again\,\n\nJulia\n\n\n\n\n_
- __________________________________________________________________________
- _____\nMicrosoft Teams Benötigen Sie Hilfe? <https://aka.ms/JoinTeamsMeet
- ing?omkt=de-DE>  \nJetzt an der Besprechung teilnehmen <https://teams.micr
- osoft.com/l/meetup-join/19%3a74b89d531f814be3a79550066a205872%40thread.sky
- pe/1751893586240?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e
- 6265a%22%2c%22Oid%22%3a%22dfef8758-0d06-4144-8413-55a9776d136c%22%7d>  \nB
- esprechungs-ID: 319 980 613 684 1 \nKennung: u2yX3FG7 \n__________________
- ______________\n\nFür Organisatoren: Besprechungsoptionen <https://teams.
- microsoft.com/meetingOptions/?organizerId=dfef8758-0d06-4144-8413-55a9776d
- 136c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_74b89d531f8
- 14be3a79550066a205872@thread.skype&messageId=1751893586240&language=de-DE>
-   \nDatenschutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n_____________________________________
- ___________________________________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:CBS Admin Call July 2025
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250731T083500
 DTEND;TZID="GMT 标准时间":20250731T090500
 CLASS:PUBLIC
@@ -512,6 +121,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7月份TPO险肇、急救事件分析
+DTSTART;TZID="GMT 标准时间":20250801T153000
+DTEND;TZID="GMT 标准时间":20250801T160000
+CLASS:PUBLIC
+DESCRIPTION:\n____________________________________________________________
+ ____________________\nMicrosoft Teams 是否需要帮助? <https://aka.ms/
+ JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.microsof
+ t.com/l/meetup-join/19%3ameeting_NDA1MzIwZTctZGI5Ni00MzJlLWI0MzYtZjZlZjRkZ
+ DM3MWE4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7d>
+   \n会议 ID: 375 823 868 103 1 \n密码: op7Qg9bQ \n____________________
+ ____________\n\n对于组织者: 会议选项 <https://teams.microsoft.com
+ /meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDA1MzIwZTctZGI5
+ Ni00MzJlLWI0MzYtZjZlZjRkZDM3MWE4@thread.v2&messageId=0&language=zh-CN>  \n
+ 隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
+ 832a-1d684ab9ad7e>  \n____________________________________________________
+ ____________________________
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7月份TPO险肇、急救事件分析
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1500,6 +1136,113 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250828T083500
+DTEND;TZID="GMT 标准时间":20250828T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
+ RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
+ hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID="GMT 标准时间":20250828T220000
+DTEND;TZID="GMT 标准时间":20250828T230000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250829T083500
+DTEND;TZID="GMT 标准时间":20250829T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
+ RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
+ hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Customer project review
+DTSTART;TZID="GMT 标准时间":20250829T150000
+DTEND;TZID="GMT 标准时间":20250829T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
+ ill update trial batch status。\n\n@Sun xiaoyong <mailto:xiaoyong.sun@ben
+ ecke-changshun.com.cn> @郭巍 <mailto:wei.2.guo@benecke-changshun.com.cn>
+  \, 所有的试制记录，请及时更新。两人轮流主持\n\n \n\n2
+ .     Process Engineer will update order deviation after G70.\n\n@Chen che
+ nglong <mailto:chenglong.chen@benecke-changshun.com.cn> @Wang congyu <mail
+ to:congyu.wang@benecke-changshun.com.cn> \n\n订单差异更新到KPI\, C:
+ \\Users\\chenh11\\Continental AG\\PPI BCZ - General\\13 KPI\\2025\n\n \n\n
+ 3.     Color CV data updated.\n\n@王芬 <mailto:fen.wang@benecke-changshu
+ n.com.cn> @Chen chenglong <mailto:chenglong.chen@benecke-changshun.com.cn>
+  \n\n \n\n \n\n谢谢！\n\n \n\nSophia 7/22\n\n__________________________
+ ______________________________________________________\n\nMicrosoft Teams 
+ 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
+ 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YT
+ hhYjNkMzMtMGZkZC00OTk5LTliN2MtNWFmYmIwZmY5MDY2%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d413
+ 55c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 373 920 011 044 0 
+ \n\n密码: 7rX94Uf9 \n\n________________________________\n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_meeting_YThhYjNkMzMtMGZkZC00OTk5LTliN2MtNWFmYmIwZmY5
+ MDY2@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Customer project review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
