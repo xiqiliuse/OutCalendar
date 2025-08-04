@@ -58,6 +58,37 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:中小企业数字化项目申报
+DTSTART;TZID="GMT 标准时间":20250805T090000
+DTEND;TZID="GMT 标准时间":20250805T093000
+CLASS:PUBLIC
+DESCRIPTION:Hello all\n\n经过前期的可行性分析，我们最终决
+ 定申报数字化项目，现在邀请大家一起来看一下需要准
+ 备的资料，目前资料都是线上提交的，具体的内容可以
+ 看附件的表格。\n\n如有任何问题，可随时联系我，谢谢
+ ！\n\n___________________________________________________________________
+ _____________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinT
+ eamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_ZTJlYzFhM2UtYTRlNC00ZTc1LWI5NjUtNDUwYjI2NjAy
+ YTgx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d7
+ 9e6265a%22%2c%22Oid%22%3a%22e3009426-2a3e-4a9a-934c-025e9ce2c473%22%7d>  \
+ n\n会议 ID: 346 895 041 568 0 \n\n密码: iX2Ja3u5 \n\n_________________
+ _______________\n\n对于组织者: 会议选项 <https://teams.microsoft.
+ com/meetingOptions/?organizerId=e3009426-2a3e-4a9a-934c-025e9ce2c473&tenan
+ tId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZTJlYzFhM2UtY
+ TRlNC00ZTc1LWI5NjUtNDUwYjI2NjAyYTgx@thread.v2&messageId=0&language=zh-CN> 
+  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
+ 436b-832a-1d684ab9ad7e>  \n\n_____________________________________________
+ ___________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC221_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:中小企业数字化项目申报
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SP部门周会
 DTSTART;TZID="GMT 标准时间":20250805T101500
 DTEND;TZID="GMT 标准时间":20250805T110000
