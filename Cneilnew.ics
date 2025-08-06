@@ -31,6 +31,56 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:中小企业数字化转型申报 — 入库
+DTSTART;TZID="GMT 标准时间":20250806T103000
+DTEND;TZID="GMT 标准时间":20250806T110000
+CLASS:PUBLIC
+DESCRIPTION:两位，我们一起过一下数据，谢谢！\n\n \n\n_____
+ __________________________________________________________________________
+ _\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-U
+ S>  \n\nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_NTJlYjRjMGEtZjQyNy00ZmJkLTk3YzctMjg3ODA0Y2ZhNzg4%40thread.v2/0?
+ context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid
+ %22%3a%22b67c6f96-739d-41ce-a25a-69fd7abd4b2f%22%7d>  \n\nMeeting ID: 367 
+ 820 421 820 0 \n\nPasscode: Pw9Vc3oZ \n\n________________________________\
+ n\nFor organizers: Meeting options <https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=b67c6f96-739d-41ce-a25a-69fd7abd4b2f&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NTJlYjRjMGEtZjQyNy00ZmJkLTk
+ 3YzctMjg3ODA0Y2ZhNzg4@thread.v2&messageId=0&language=en-US>  \n\nPrivacy a
+ nd security <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a
+ -1d684ab9ad7e>  \n\n______________________________________________________
+ __________________________\n\n \n\n \n\n__________________________________
+ ___________\nFrom: TE_ZG_FA\, Sasha <sasha.te_zg_fa@continental.com> \nSen
+ t: Tuesday\, August 5\, 2025 3:28 PM\nTo: Liu\, Xin06 <xin.6.liu@benecke-c
+ hangshun.com.cn>\; Zou\, Yang <yang.zou@benecke-changshun.com.cn>\; Cheng\
+ , Dong01 <dong01.cheng@benecke-changshun.com.cn>\; Lin\, Weiying <Weiying.
+ Lin@benecke-changshun.com.cn>\; Chen\, Tingting02 <tingting.2.chen@benecke
+ -changshun.com.cn>\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.
+ cn>\; Fan\, Xiaohua <xiaohua.fan@benecke-changshun.com.cn>\nSubject: 中
+ 小企业数字化转型申报 — 入库\n\n \n\nHello all\n\n我们目
+ 前正在申报项目：中小企业数字化转型，附件表格里面
+ 的数据需要大家的支持，所需填写的数据是2023年的，还
+ 请大家在8/11之前给到我这边，我统一在网站上进行填写
+ ，谢谢~\n\n目前还在申报初期（入库），后续还会有项目
+ 立项—项目跟踪—项目验收的环节，还会需要大家的支
+ 持，如有任何问题，请随时联系我~\n\n \n\nBest regards\n\n \n
+ \nJun(Sasha) Sha\n\nGA Specialist\n\nContiTech Surface Solutions\n\n \n\nB
+ esucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjia
+ gang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限
+ 公司\n\nNo.8\,Changyang Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 2156
+ 32 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙长阳路8号
+  215632\n\n \n\nMobile: +86 18913636135\n\nE-mail: sasha.te_zg_fa@continen
+ tal.com <mailto:sasha.te_zg_fa@continental.com> \n\nWebsite: www.continent
+ al-industry.com <http://www.continental-industry.com/> \n\n \n\n\n\n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:中小企业数字化转型申报 — 入库
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:立秋
 DTSTART;TZID="GMT 标准时间":20250807T000000
 DTEND;TZID="GMT 标准时间":20250808T000000
@@ -482,6 +532,23 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:色母粒清机料
+DTSTART;TZID="GMT 标准时间":20250818T100000
+DTEND;TZID="GMT 标准时间":20250818T110000
+CLASS:PUBLIC
+DESCRIPTION:@Li\, Xiaodong03 <mailto:xiaodong.3.li@benecke-changshun.com.c
+ n> @Xu\, Jinlong <mailto:jinlong.4.xu@benecke-changshun.com.cn> 18号晓
+ 东在橡塑展上的色母粒清机料供应商过来一起探讨一下
+ 。\n\n \n\n \n
+LOCATION:色母粒现场
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:色母粒清机料
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
