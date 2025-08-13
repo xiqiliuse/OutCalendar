@@ -35,7 +35,20 @@ SUMMARY:公司专利规则制度介绍
 DTSTART;TZID="GMT 标准时间":20250813T160000
 DTEND;TZID="GMT 标准时间":20250813T170000
 CLASS:PUBLIC
-DESCRIPTION: \n
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ODUzNzg5OTUtNjE1Yy00MDJjLTliYTMtMG
+ Q4ZWRkYWEwZWEx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ %22%7d>  \n\n会议 ID: 397 319 804 383 8 \n\n密码: E4jP9wU9 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc47496
+ 80eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ODU
+ zNzg5OTUtNjE1Yy00MDJjLTliYTMtMGQ4ZWRkYWEwZWEx@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -442,6 +455,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX1金属进入螺杆事件分析
+DTSTART;TZID="GMT 标准时间":20250820T120000
+DTEND;TZID="GMT 标准时间":20250820T130000
+CLASS:PUBLIC
+DESCRIPTION:因宝马审核，以及21、22号培训，目前只能挑选
+ 中午时间讨论，望大家理解！\n\n_______________________________
+ _________________________________________________\nMicrosoft Teams 是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWY5MWMxNTg
+ tZTZlNi00MzA2LWE1NzUtZjdiMzM1NTA1M2Rj%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24
+ -42d9-bab2-33daf5f058f4%22%7d>  \n会议 ID: 378 971 705 662 4 \n密码: W
+ J2gG3DS \n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=fe6c1ed6-7a24
+ -42d9-bab2-33daf5f058f4&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_OWY5MWMxNTgtZTZlNi00MzA2LWE1NzUtZjdiMzM1NTA1M2Rj@thread.v2
+ &messageId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcl
+ oud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n____________________
+ ____________________________________________________________
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX1金属进入螺杆事件分析
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
