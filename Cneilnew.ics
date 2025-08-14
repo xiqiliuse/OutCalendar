@@ -31,35 +31,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Review 2026 cost saving 
-DTSTART;TZID="GMT 标准时间":20250814T100000
-DTEND;TZID="GMT 标准时间":20250814T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n我们需要review cost saving 2026 中PPI
-  负责的部分，谢谢!\n\n \n\n \n\nSophia  8/11\n\n   \n\n___________
- _____________________________________________________________________\n\nM
- icrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=z
- h-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/1
- 9%3ameeting_ZmRjZmVhZTUtZmUzNy00ZmM5LWE1YzUtOTU1ZjA1NjU0MjVi%40thread.v2/0
- ?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oi
- d%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 379 
- 645 934 449 3 \n\n密码: uQ6jD3t5 \n\n________________________________\n\
- n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions
- /?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-
- 40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZmRjZmVhZTUtZmUzNy00ZmM5LWE1YzU
- tOTU1ZjA1NjU0MjVi@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab
- 9ad7e>  \n\n______________________________________________________________
- __________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Review 2026 cost saving 
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID="GMT 标准时间":20250814T150000
 DTEND;TZID="GMT 标准时间":20250814T160000
@@ -472,6 +443,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 2026 cost saving 
+DTSTART;TZID="GMT 标准时间":20250821T100000
+DTEND;TZID="GMT 标准时间":20250821T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n根据今天的会议纪要，下周我们
+ 再一起看一下。谢谢！\n\n \n\n \n\n \n\nSophia  8/14\n\n   \n\n__
+ __________________________________________________________________________
+ ____\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeti
+ ng?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_ZmRjZmVhZTUtZmUzNy00ZmM5LWE1YzUtOTU1ZjA1NjU0MjVi%40th
+ read.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%2
+ 2%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议
+  ID: 379 645 934 449 3 \n\n密码: uQ6jD3t5 \n\n__________________________
+ ______\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meeti
+ ngOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZmRjZmVhZTUtZmUzNy00Zm
+ M5LWE1YzUtOTU1ZjA1NjU0MjVi@thread.v2&messageId=0&language=zh-CN>  \n\n隐
+ 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Review 2026 cost saving 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
