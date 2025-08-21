@@ -105,21 +105,8 @@ SUMMARY: EX2 0.3mm验证讨论
 DTSTART;TZID="GMT 标准时间":20250821T162000
 DTEND;TZID="GMT 标准时间":20250821T170000
 CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YTA3YjZlMDktMDRiNS00ODE4LWI0MDAtND
- g0Mjg0NmU0ZDRm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
- %22%7d>  \n\n会议 ID: 336 034 865 582 4 \n\n密码: F2oh9au7 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc47496
- 80eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTA
- 3YjZlMDktMDRiNS00ODE4LWI0MDAtNDg0Mjg0NmU0ZDRm@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
+DESCRIPTION:调整会议室至301\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
