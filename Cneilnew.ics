@@ -5,69 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250825T083500
-DTEND;TZID="GMT 标准时间":20250825T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO产品宽幅优化改善
-DTSTART;TZID="GMT 标准时间":20250825T150000
-DTEND;TZID="GMT 标准时间":20250825T160000
-CLASS:PUBLIC
-DESCRIPTION:Hello all，\n\n鉴于目前部分TPO挤出产品宽幅较宽
- ，导致在切割工序切边料报废较多，造成原材料的浪费
- 。\n\n我们需要开会讨论下，对以下几个产品做出幅宽改
- 善的可行性评估。\n\n成品物料描述\n\n料号\n\nXPRESHN #3026 
- BLACK 2\,60MM\n\nZ2300406A0900A\n\nXPRESHN #2354XL SCHWARZ 2.5MM\n\nZ23003
- 13A0520A\n\nXPRESHN HD #2504 CHARCOAL SOLID 3.0MM\n\nZ2100220Y1200A\n（U2
- 100220L1200）\n\nXPRESHN #3026 BLACK 1\,9MM\n\nZ2300409A0900A\n\nXPRESHN 
- #SAB 335X 1\,0MM SGM\n\nZ2200112A1200A1770\n\nXPRESHN HD #2573XL 9\n\nZ210
- 0213Y0760A\n\nXPRESHN #SAB 600R 3.30MM\n\nZ2300251A0884A1700\n\n \n\n \n\n
- __________________________________________________________________________
- ______\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMee
- ting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/me
- etup-join/19%3ameeting_NTk0ZDdmNDktMzU1NS00ODZlLWFlMGYtYjBjMjRjNzZlYmU1%40
- thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a
- %22%2c%22Oid%22%3a%22070e0e8c-1f34-4abc-b84f-338fe7908f4f%22%7d>  \n\n会
- 议 ID: 379 204 265 648 2 \n\n密码: Ms2zU6iw \n\n_______________________
- _________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/me
- etingOptions/?organizerId=070e0e8c-1f34-4abc-b84f-338fe7908f4f&tenantId=8d
- 4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NTk0ZDdmNDktMzU1NS0
- 0ODZlLWFlMGYtYjBjMjRjNzZlYmU1@thread.v2&messageId=0&language=zh-CN>  \n\n
- 隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
- 832a-1d684ab9ad7e>  \n\n__________________________________________________
- ______________________________\n\n \n
-LOCATION:TPO早会区域
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO产品宽幅优化改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250826T083500
 DTEND;TZID="GMT 标准时间":20250826T090500
 CLASS:PUBLIC
@@ -1344,6 +1281,48 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20250924T083500
+DTEND;TZID="GMT 标准时间":20250924T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
+ RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
+ hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID="GMT 标准时间":20250924T153000
+DTEND;TZID="GMT 标准时间":20250924T163000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
