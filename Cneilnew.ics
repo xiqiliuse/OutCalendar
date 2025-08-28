@@ -72,20 +72,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPC切换讨论会
-DTSTART;TZID="GMT 标准时间":20250828T153000
-DTEND;TZID="GMT 标准时间":20250828T163000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n
-LOCATION:TE_ZG_MR_TE_ZG_MR_PlantOffice304
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SPC切换讨论会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID="GMT 标准时间":20250828T220000
 DTEND;TZID="GMT 标准时间":20250828T230000
@@ -124,6 +110,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC切换讨论会
+DTSTART;TZID="GMT 标准时间":20250829T143000
+DTEND;TZID="GMT 标准时间":20250829T153000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SPC切换讨论会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -330,6 +330,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX1金属进入螺杆事件分析
+DTSTART;TZID="GMT 标准时间":20250902T133000
+DTEND;TZID="GMT 标准时间":20250902T143000
+CLASS:PUBLIC
+DESCRIPTION:根据这次周工的信息分享，我们再次讨论下后
+ 续\n_____________________________________________________________________
+ ___________\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeams
+ Meeting?omkt=zh-CN> \n立即加入会议 <https://teams.microsoft.com/l/me
+ etup-join/19%3ameeting_OWY5MWMxNTgtZTZlNi00MzA2LWE1NzUtZjdiMzM1NTA1M2Rj%40
+ thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a
+ %22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7d>  \n会议
+  ID: 378 971 705 662 4 \n密码: WJ2gG3DS \n______________________________
+ __\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantId=8d4b558f-
+ 7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWY5MWMxNTgtZTZlNi00MzA2LW
+ E1NzUtZjdiMzM1NTA1M2Rj@thread.v2&messageId=0&language=zh-CN>  \n隐私和
+ 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
+ 4ab9ad7e>  \n_____________________________________________________________
+ ___________________
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX1金属进入螺杆事件分析
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
