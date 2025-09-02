@@ -31,7 +31,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID="GMT 标准时间":20250902T101500
 DTEND;TZID="GMT 标准时间":20250902T110000
 CLASS:PUBLIC
@@ -42,7 +42,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:已取消: SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -321,6 +321,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PVC 2409印刷到压花时间管控
+DTSTART;TZID="GMT 标准时间":20250905T153000
+DTEND;TZID="GMT 标准时间":20250905T170000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PVC 2409印刷到压花时间管控
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:中元节
 DTSTART;TZID="GMT 标准时间":20250906T000000
 DTEND;TZID="GMT 标准时间":20250907T000000
@@ -431,6 +445,45 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Invitation: Online Compliance Quiz Game – Sep 9
+DTSTART;TZID="GMT 标准时间":20250909T100000
+DTEND;TZID="GMT 标准时间":20250909T101000
+CLASS:PUBLIC
+DESCRIPTION:Dear colleagues\,\n\n \n\nFollowing Karsten’s message\, we a
+ re pleased to invite you to participate in the upcoming Compliance Quiz Ga
+ me on Sep 9 (Tue.)\n\n \n\nHow to Join:\n\n\nPlease click the link below t
+ o access the game\, which will be available between 10:00 AM and 4:00 PM o
+ n Sep 9.\n\n*	The quiz consists of 10 multiple-choice questions and takes 
+ approximately 5 minutes to complete.\n*	The top 50 participants will be de
+ clared winners. In the event of a tie\, the participant who completes the 
+ quiz first will be ranked higher.\n*	Detailed rules are available in the a
+ ttached event flyer.\n\n           \n\nChinese version <https://forms.offi
+ ce.com/e/0wJkXh3D6X>                               English version <https:
+ //forms.office.com/e/8mqS3j0mSd> \n\n \n\nWe look forward to your particip
+ ation!\n\n \n\nAny queries please do not hesitate to reach out Compliance 
+ APAC Team. \n\n \n\n \n\nBest regards\,\n\n \n\nCompliance APAC\n\n \n\n \
+ n\n_____________________________________________\n发件人: Zhang\, Melod
+ y <melody.zhang@benecke-changshun.com.cn <mailto:melody.zhang@benecke-chan
+ gshun.com.cn> > \n发送时间: 2025年9月2日 13:02\n收件人: TE_ZG_MG
+ _ALL <te_zg_mg_all@continental.com <mailto:te_zg_mg_all@continental.com> >
+ \n抄送: Krestyn\, Jessica <jessica.krestyn@contitech.de <mailto:jessica.
+ krestyn@contitech.de> >\; Zhuang\, Jinfang <Jinfang.Zhuang@continental.com
+  <mailto:Jinfang.Zhuang@continental.com> >\; Liu\, Junming <Junming.Liu@be
+ necke-changshun.com.cn <mailto:Junming.Liu@benecke-changshun.com.cn> >\; K
+ nerr\, Karsten <Karsten.Knerr@continental.com <mailto:Karsten.Knerr@contin
+ ental.com> >\n主题: Upcoming Online Compliance Quiz Game on Sep 9\, 2025
+ ! \n\n \n\nOn behalf of Karsten Knerr\n\n\n\n \n\nClick the attached Flyer
+ \, Join the Event\, Win the Prize!\n\n \n\nBest regards\, \n\nMelody Zhang
+  / 张志雯\n\n \n\n \n\n \n\n \n\nInternal\n
+LOCATION:online event via Forms
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invitation: Online Compliance Quiz Game – Sep 9
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SP部门周会
 DTSTART;TZID="GMT 标准时间":20250909T101500
 DTEND;TZID="GMT 标准时间":20250909T110000
@@ -498,6 +551,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:挤出非完整结构回收项目review
+DTSTART;TZID="GMT 标准时间":20250910T160000
+DTEND;TZID="GMT 标准时间":20250910T170000
+CLASS:PUBLIC
+DESCRIPTION:通过挤出碎片造粒调色再回收的方案\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:挤出非完整结构回收项目review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
