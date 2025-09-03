@@ -5,141 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250902T083500
-DTEND;TZID="GMT 标准时间":20250902T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: SP部门周会
-DTSTART;TZID="GMT 标准时间":20250902T101500
-DTEND;TZID="GMT 标准时间":20250902T110000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n    考虑到其他部门10点前还需开其
- 他会议，参加SP部门周会时间有点紧，所以SP周会时间改
- 为:  10:15-11:00请知晓，麻烦准时参加，谢谢！\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:#2409印刷后放置时间定义
-DTSTART;TZID="GMT 标准时间":20250902T113000
-DTEND;TZID="GMT 标准时间":20250902T123000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n-----原始约会-----\n发件人: Wang\, Congyu \n
- 发送时间: 2025年8月29日 9:46\n收件人: Wang\, Congyu\; Chao Yuan\
- ; Zhu\, Lin\; Qiu\, Xiaohan\; Sun\, Dimin\; Guo\, Wei02\; Chen\, Hongmei\;
-  Zhu\, Jing02\; Jin\, Lei\; Ji\, Yongming\; Tang\, Jiawei03\n抄送: Hou\,
-  Xuewen\n主题: #2409印刷后放置时间定义\n时间: 2025年9月2日
- 星期二 11:30-12:30(UTC+08:00) 北京，重庆，香港特别行政区
- ，乌鲁木齐。\n地点: TE_ZG_MR_PlantOffice301_Zhangjiagang\n\n \n\n 
- \n\n______________________________________________________________________
- __________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeam
- sMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_NjI3NDI4NGQtM2U5Yy00ZjU3LWIyYmQtYTQ0ZDIyOGM5NTd
- m%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22a9e7896a-85d1-4958-ae98-6ca0dea23342%22%7d>  \n\n
- 会议 ID: 363 456 982 655 9 \n\n密码: dS33dS3W \n\n____________________
- ____________\n\n对于组织者: 会议选项 <https://teams.microsoft.com
- /meetingOptions/?organizerId=a9e7896a-85d1-4958-ae98-6ca0dea23342&tenantId
- =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NjI3NDI4NGQtM2U5
- Yy00ZjU3LWIyYmQtYTQ0ZDIyOGM5NTdm@thread.v2&messageId=0&language=zh-CN>  \n
- \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436
- b-832a-1d684ab9ad7e>  \n\n________________________________________________
- ________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:#2409印刷后放置时间定义
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX1金属进入螺杆事件分析
-DTSTART;TZID="GMT 标准时间":20250902T133000
-DTEND;TZID="GMT 标准时间":20250902T143000
-CLASS:PUBLIC
-DESCRIPTION:根据这次周工的信息分享，我们再次讨论下后
- 续\n_____________________________________________________________________
- ___________\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeams
- Meeting?omkt=zh-CN> \n立即加入会议 <https://teams.microsoft.com/l/me
- etup-join/19%3ameeting_OWY5MWMxNTgtZTZlNi00MzA2LWE1NzUtZjdiMzM1NTA1M2Rj%40
- thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a
- %22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7d>  \n会议
-  ID: 378 971 705 662 4 \n密码: WJ2gG3DS \n______________________________
- __\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOp
- tions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenantId=8d4b558f-
- 7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWY5MWMxNTgtZTZlNi00MzA2LW
- E1NzUtZjdiMzM1NTA1M2Rj@thread.v2&messageId=0&language=zh-CN>  \n隐私和
- 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
- 4ab9ad7e>  \n_____________________________________________________________
- ___________________
-LOCATION:TPO关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX1金属进入螺杆事件分析
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX浅色产品报废改善
-DTSTART;TZID="GMT 标准时间":20250902T143000
-DTEND;TZID="GMT 标准时间":20250902T153000
-CLASS:PUBLIC
-DESCRIPTION:大家好！邀请大家对EX浅色产品报废改善做些讨
- 论，共同寻找有效措施和解决方法。挤出机长择机参加\n
- 更新：根据第一次会议的经验，30分钟时间不够，下次开
- 始时间延长至60分钟\n______________________________________________
- __________________________________\nMicrosoft Teams 是否需要帮助? <h
- ttps://aka.ms/JoinTeamsMeeting?omkt=zh-CN> \n立即加入会议 <https://t
- eams.microsoft.com/l/meetup-join/19%3ameeting_YTk3ZTRhZWYtMzllYS00ZDc4LWE3
- ZDYtOTg4YTE5YmFjM2U4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e
- -40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5
- f058f4%22%7d>  \n会议 ID: 328 592 644 131 4 \n密码: 44H2vo3X \n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f0
- 58f4&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTk
- 3ZTRhZWYtMzllYS00ZDc4LWE3ZDYtOTg4YTE5YmFjM2U4@thread.v2&messageId=0&langua
- ge=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n_______________________________________
- _________________________________________
-LOCATION:TPO关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX浅色产品报废改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250903T083500
 DTEND;TZID="GMT 标准时间":20250903T090500
 CLASS:PUBLIC
@@ -1535,6 +1400,61 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:国庆节(第一天)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:国庆节(第二天)
+DTSTART;TZID="GMT 标准时间":20251002T000000
+DTEND;TZID="GMT 标准时间":20251003T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:国庆节(第二天)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:国庆节(第二天)
+DTSTART;TZID="GMT 标准时间":20251002T000000
+DTEND;TZID="GMT 标准时间":20251003T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:国庆节(第二天)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project review
+DTSTART;TZID="GMT 标准时间":20251002T150000
+DTEND;TZID="GMT 标准时间":20251002T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZjU4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNG
+ U0NzdjNDUwNWZk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 363 291 673 202 0 \n\n密码: ov7o3jJ2 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjU
+ 4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNGU0NzdjNDUwNWZk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Project review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
