@@ -5,66 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250903T083500
-DTEND;TZID="GMT 标准时间":20250903T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sesotec Metal Separator 技术选型讨论
-DTSTART;TZID="GMT 标准时间":20250903T160000
-DTEND;TZID="GMT 标准时间":20250903T170000
-CLASS:PUBLIC
-DESCRIPTION:Hello Sesotec Team\,\n\n      本次约会想和各位专家
- 了解下贵公司金属分离器的一些工作原理，及反馈一下
- 目前我们在使用过程中遇到的问题，看接下来如何去改
- 善，是否当初我们在选型上有误，导致我们现在无法正
- 常投入使用，还希望到时候各位专家给下建议输出，评
- 估下我们现在设备上金属分离器是否需要进行重新选型
- 。\n\n___________________________________________________________________
- _____________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinT
- eamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.c
- om/l/meetup-join/19%3ameeting_NzdhYjY3NTYtMzY2Ni00YTNhLTk3ODItOTdkNzFjYzc5
- MmM0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d7
- 9e6265a%22%2c%22Oid%22%3a%221888daed-ff14-49b0-94d8-591aedaa22db%22%7d>  \
- n\n会议 ID: 324 521 160 379 5 \n\n密码: YD7vo6pQ \n\n_________________
- _______________\n\n对于组织者: 会议选项 <https://teams.microsoft.
- com/meetingOptions/?organizerId=1888daed-ff14-49b0-94d8-591aedaa22db&tenan
- tId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NzdhYjY3NTYtM
- zY2Ni00YTNhLTk3ODItOTdkNzFjYzc5MmM0@thread.v2&messageId=0&language=zh-CN> 
-  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
- 436b-832a-1d684ab9ad7e>  \n\n_____________________________________________
- ___________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Sesotec Metal Separator 技术选型讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250904T083500
 DTEND;TZID="GMT 标准时间":20250904T090500
 CLASS:PUBLIC
@@ -1455,6 +1395,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:国庆节(第三天)
+DTSTART;TZID="GMT 标准时间":20251003T000000
+DTEND;TZID="GMT 标准时间":20251004T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:国庆节(第三天)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:国庆节(第三天)
+DTSTART;TZID="GMT 标准时间":20251003T000000
+DTEND;TZID="GMT 标准时间":20251004T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:国庆节(第三天)
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
