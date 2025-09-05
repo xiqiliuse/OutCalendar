@@ -265,6 +265,48 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2025养老储蓄计划在职领取沟通会Savings Plan Online Com
+ munication Session
+DTSTART;TZID="GMT 标准时间":20250910T143000
+DTEND;TZID="GMT 标准时间":20250910T153000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n2025年度员工养老储蓄计划在职领
+ 取将在9月15至9月30日之间开放，在兼顾您长远生活品质
+ 考虑的同时，提升您中期的财务灵活性，为您人生中的
+ 重要阶段保驾护航！\n\nThe company will open annual in-service wit
+ hdrawal soon\, which takes into account your long-term quality of life and
+  also enhances your medium-term financial flexibility\, providing protecti
+ on for important stages of your life!\n\n \n\n \n\n为了让您对养老
+ 储蓄计划（包括计划内容、年度在职领取和个人缴费选
+ 择等）有更清楚的了解，我们将邀请太平养老服务团队
+ 与各位同事进行计划介绍并回答您的问题。您可通过以
+ 下Teams 链接加入。\n\nWe will invite representative from PingAn Pens
+ ion Service Team to present the plan (including employee voluntary individ
+ ual contribution\, annual in-service withdrawal and etc.) and answer your 
+ questions. You can join via below teams link.\n\n \n\n \n\nMicrosoft Teams
+  Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the mee
+ ting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTVjMDk3M
+ jctOTEyZi00Y2RjLWFlMWItMmM5YmRlNDk5YTk2%40thread.v2/0?context=%7b%22Tid%22
+ %3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225640a6a6-b3
+ c3-4ac7-8c80-6e8c86a958fd%22%7d>  \n\nMeeting ID: 368 830 147 267 0 \n\nPa
+ sscode: uU6Lu6ki \n\n________________________________\n\nFor organizers: M
+ eeting options <https://teams.microsoft.com/meetingOptions/?organizerId=56
+ 40a6a6-b3c3-4ac7-8c80-6e8c86a958fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79
+ e6265a&threadId=19_meeting_ZTVjMDk3MjctOTEyZi00Y2RjLWFlMWItMmM5YmRlNDk5YTk
+ 2@thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n
+ __________________________________________________________________________
+ ______\n\n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2025养老储蓄计划在职领取沟通会Savings Plan Online
+  Communication Session
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:挤出非完整结构回收项目review
 DTSTART;TZID="GMT 标准时间":20250910T160000
 DTEND;TZID="GMT 标准时间":20250910T170000
@@ -472,6 +514,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soft 试制前沟通
+DTSTART;TZID="GMT 标准时间":20250912T160000
+DTEND;TZID="GMT 标准时间":20250912T170000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Soft 试制前沟通
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
