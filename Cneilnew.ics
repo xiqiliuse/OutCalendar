@@ -70,7 +70,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID="GMT 标准时间":20250909T101500
 DTEND;TZID="GMT 标准时间":20250909T110000
 CLASS:PUBLIC
@@ -81,7 +81,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:已取消: SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -137,6 +137,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surface CV试制合格率图表
+DTSTART;TZID="GMT 标准时间":20250910T133000
+DTEND;TZID="GMT 标准时间":20250910T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_NmFjMTZkZWItNTJlMy00Y2Q2LTk3ZGYtOG
+ QzMDQwOTMzYmQ3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a5713688c
+ %22%7d>  \n\n会议 ID: 348 565 590 016 5 \n\n密码: Nm2Ah6e7 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-9d06-b06a5713
+ 688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NmF
+ jMTZkZWItNTJlMy00Y2Q2LTk3ZGYtOGQzMDQwOTMzYmQ3@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Surface CV试制合格率图表
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -251,6 +278,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPO安全应急预案、危险源识别更新\\人机工程分析 
+ 启动会
+DTSTART;TZID="GMT 标准时间":20250911T130000
+DTEND;TZID="GMT 标准时间":20250911T140000
+CLASS:PUBLIC
+DESCRIPTION:\n\n__________________________________________________________
+ ______________________\nMicrosoft Teams 是否需要帮助? <https://aka.m
+ s/JoinTeamsMeeting?omkt=zh-CN>  \n立即加入会议 <https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_NDc5MjAyMDgtNmYxOS00Yjg1LWJkNDQtMDZlMDd
+ kNTg4NjY5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5f058f4%22%7
+ d>  \n会议 ID: 315 947 992 027 6 \n密码: iS6FK6uZ \n__________________
+ ______________\n\n对于组织者: 会议选项 <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f058f4&tenant
+ Id=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDc5MjAyMDgtNm
+ YxOS00Yjg1LWJkNDQtMDZlMDdkNTg4NjY5@thread.v2&messageId=0&language=zh-CN>  
+ \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/05d5e17e-9c5b-425
+ 4-bc95-6c511814b0b6>  \n__________________________________________________
+ ______________________________
+LOCATION:TPO在线会议室（关爱小屋）
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO安全应急预案、危险源识别更新\\人机工程分
+ 析 启动会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:彩谱在线测色仪现场确认
 DTSTART;TZID="GMT 标准时间":20250911T140000
 DTEND;TZID="GMT 标准时间":20250911T150000
@@ -330,6 +386,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:年度SP危险源识别更新_Kick off
+DTSTART;TZID="GMT 标准时间":20250912T100000
+DTEND;TZID="GMT 标准时间":20250912T110000
+CLASS:PUBLIC
+DESCRIPTION:请大家务必参加，如时间冲突请一定要委派其
+ 他代表\n\n_____________________________________________________________
+ ___________________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms
+ /JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.micro
+ soft.com/l/meetup-join/19%3ameeting_NmMxZjYyNTMtYTFjMS00MGIwLTllODUtMTRmNm
+ I5NWU4Zjlm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f
+ -e04d79e6265a%22%2c%22Oid%22%3a%229d6cd989-5da1-4735-b9ee-ef6ef7bad4ce%22%
+ 7d>  \n\n会议 ID: 377 850 506 519 1 \n\n密码: ep9Kb7Vy \n\n___________
+ _____________________\n\n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=9d6cd989-5da1-4735-b9ee-ef6ef7bad4ce
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NmMxZjY
+ yNTMtYTFjMS00MGIwLTllODUtMTRmNmI5NWU4Zjlm@thread.v2&messageId=0&language=z
+ h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/05d5e17e
+ -9c5b-4254-bc95-6c511814b0b6>  \n\n_______________________________________
+ _________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:年度SP危险源识别更新_Kick off
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
