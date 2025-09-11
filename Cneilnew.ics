@@ -443,6 +443,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250916T101500
+DTEND;TZID="GMT 标准时间":20250916T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EX浅色产品报废改善
 DTSTART;TZID="GMT 标准时间":20250916T143000
 DTEND;TZID="GMT 标准时间":20250916T153000
@@ -469,6 +483,41 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EX浅色产品报废改善
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Info: 设备能力验证CMK topic 讨论
+DTSTART;TZID="GMT 标准时间":20250916T153000
+DTEND;TZID="GMT 标准时间":20250916T163000
+CLASS:PUBLIC
+DESCRIPTION:Hello all\,\n\n由于在审核中经常提及到CMK 设备能
+ 力验证的Topic\, 现需邀请大家一起讨论下，关于张家港工
+ 厂哪些设备需要去做CMK？怎么做？\n\n同时在新设备引入
+ 的时候应该如何要求供应商做CMK，是否所有设备均需要
+ 在Spec 中去规定，作为验收标准。\n\n@Lu\, Junjie <mailto:junji
+ e.lu@benecke-changshun.com.cn> 烦请到时候也提供下在IE 这边集
+ 团对于CMK 要求的相关文件；\n\n@Xu\, Yan01 <mailto:yan01.xu@bene
+ cke-changshun.com.cn> 帮忙与审核老师沟通下，对于设备CMK 这
+ 项审核的具体要求；\n\n___________________________________________
+ _____________________________________\n\nMicrosoft Teams 是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
+ <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmQxOWZhMDktYThiYy
+ 00ZmQyLTg4YWYtNDM1MzM0MjU2YWM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221888daed-ff14-49b0-9
+ 4d8-591aedaa22db%22%7d>  \n\n会议 ID: 350 383 018 611 7 \n\n密码: t2EK
+ 3st2 \n\n________________________________\n\n对于组织者: 会议选项
+  <https://teams.microsoft.com/meetingOptions/?organizerId=1888daed-ff14-49
+ b0-94d8-591aedaa22db&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
+ d=19_meeting_YmQxOWZhMDktYThiYy00ZmQyLTg4YWYtNDM1MzM0MjU2YWM5@thread.v2&me
+ ssageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralclo
+ ud.com/dl/5/05d5e17e-9c5b-4254-bc95-6c511814b0b6>  \n\n___________________
+ _____________________________________________________________\n\n \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Info: 设备能力验证CMK topic 讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -787,6 +836,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250923T101500
+DTEND;TZID="GMT 标准时间":20250923T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250924T083500
 DTEND;TZID="GMT 标准时间":20250924T090500
@@ -1079,6 +1142,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20250930T101500
+DTEND;TZID="GMT 标准时间":20250930T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EX浅色产品报废改善
 DTSTART;TZID="GMT 标准时间":20250930T143000
 DTEND;TZID="GMT 标准时间":20250930T153000
@@ -1356,6 +1433,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:国庆节(第七天)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20251007T101500
+DTEND;TZID="GMT 标准时间":20251007T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
