@@ -282,6 +282,41 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:新试制系统测试
+DTSTART;TZID="GMT 标准时间":20250917T140000
+DTEND;TZID="GMT 标准时间":20250917T160000
+CLASS:PUBLIC
+DESCRIPTION:不好意思因为有同事会议冲突，会议时间改到
+ 明天下午。\n\n \n\nHello all\,\n\n \n\n新试制系统中建号单已
+ 开发完成，\n\n \n\n邀请大家参加此次会议，测试新系统
+ ，需要创建PVC和TPO测试试单：\n\n \n\n测试团队成员\n\nPM: 
+ @Zhou\, Bin <mailto:Bin.Zhou@benecke-changshun.com.cn>  请安排两位同
+ 事分别创建TPO和PVC试单\n\nTE: Shen Yecheng，Shao Lei，Lu Zhichao
+ \n\nDDI: Liu Ling\n\nPPI: Li Xiaodong\n\n \n\n如果团队成员有需要
+ 请假的，请委派给其他同事~谢谢！\n\n________________________
+ ________________________________________________________\n\nMicrosoft Team
+ s 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
+ 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _MTYyMWQzYjEtZTc3MC00ZDBlLWE0ZjEtNjFhMTE5NzM3YTA3%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226
+ 16728eb-4ef8-4d58-9687-54b6fbc60f4c%22%7d>  \n\n会议 ID: 367 660 482 011
+  7 \n\n密码: zA3aR6DU \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=616728eb-4ef8-4d58-9687-54b6fbc60f4c&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_MTYyMWQzYjEtZTc3MC00ZDBlLWE0ZjEtNjFhMTE5N
+ zM3YTA3@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC223_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:新试制系统测试
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
 DTSTART;TZID="GMT 标准时间":20250917T220000
 DTEND;TZID="GMT 标准时间":20250917T230000
