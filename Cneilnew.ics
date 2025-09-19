@@ -65,6 +65,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:U2100213L1520析出刮伤异常
+DTSTART;TZID="GMT 标准时间":20250919T120000
+DTEND;TZID="GMT 标准时间":20250919T123000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MGQyZTVmYWMtMWYyYi00YmEyLTg2ZjEtNm
+ VlZjFhMWQ3ZGEw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ %22%7d>  \n\n会议 ID: 310 487 878 200 3 \n\n密码: GW7zN74P \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc47496
+ 80eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MGQ
+ yZTVmYWMtMWYyYi00YmEyLTg2ZjEtNmVlZjFhMWQ3ZGEw@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2100213L1520析出刮伤异常
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project review
 DTSTART;TZID="GMT 标准时间":20250919T150000
 DTEND;TZID="GMT 标准时间":20250919T160000
@@ -92,16 +119,32 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:U2100213L1520析出刮伤异常
+SUMMARY:EX1 模头返修讨论
 DTSTART;TZID="GMT 标准时间":20250919T160000
-DTEND;TZID="GMT 标准时间":20250919T170000
+DTEND;TZID="GMT 标准时间":20250919T163000
 CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+DESCRIPTION:Hello all\,\n\n     目前已经收到reifenhauser的预估报
+ 价，金额比较庞大，需要和大家再次讨论下，接下去的
+ 行动措施，便于该项目的进一步推进\n\n______________________
+ __________________________________________________________\n\nMicrosoft Te
+ ams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
+ 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _MWRkZTk5NjktNGJjNS00N2M0LTllNzAtMWU0OGRlNjEzOGRj%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221
+ 888daed-ff14-49b0-94d8-591aedaa22db%22%7d>  \n\n会议 ID: 332 278 654 445
+  0 \n\n密码: uU3Bh37o \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=1888daed-ff14-49b0-94d8-591aedaa22db&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_MWRkZTk5NjktNGJjNS00N2M0LTllNzAtMWU0OGRlN
+ jEzOGRj@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:U2100213L1520析出刮伤异常
+DESCRIPTION:EX1 模头返修讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -198,6 +241,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID="GMT 标准时间":20250923T090000
+DTEND;TZID="GMT 标准时间":20250923T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -910,6 +967,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 BCZ SPRINT Cost Saving
+DTSTART;TZID="GMT 标准时间":20251010T130000
+DTEND;TZID="GMT 标准时间":20251010T140000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 BCZ SPRINT Cost Saving
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
