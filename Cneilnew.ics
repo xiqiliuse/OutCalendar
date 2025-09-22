@@ -5,165 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20250919T083500
-DTEND;TZID="GMT 标准时间":20250919T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YzRhMmMwN2QtYTdhZC00YWU0LWE3YzYtZT
- RkYjdkMTE2OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 351 167 044 420 4 \n\n密码: Xc9mS2Kv \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YzR
- hMmMwN2QtYTdhZC00YWU0LWE3YzYtZTRkYjdkMTE2OTRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Internal Training：项目管理系列课-进阶版
-DTSTART;TZID="GMT 标准时间":20250919T103000
-DTEND;TZID="GMT 标准时间":20250919T110000
-CLASS:PUBLIC
-DESCRIPTION:亲爱的各位同事，\n\n \n\n向大家隆重推出-《项
- 目管理系列内训课-进阶版》，欢迎感兴趣或有需要的同
- 事都来参加！\n\n \n\n*  讲师：Project Management Coach APAC 张
- 晖 \n\n*  适合对象：有项目管理经验，或全程参加完基础
- 课 \n\n*  课程安排：\n\n培训课程\n\n课时\n\n日期\n\n项目
- 节点概念及注意事项\n\n0.5h\n\n2025/8/15\n\n项目管理甘特图\
- n\n0.5h\n\n2025/9/19\n\n项目管理风险管理\n\n0.5h\n\n2025/10/17\n\n
-  \n\n_____________________________________________________________________
- ___________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTea
- msMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com
- /l/meetup-join/19%3ameeting_MjE0NmU3YWMtNzk1YS00NTFmLTk3M2EtN2ExYWJkMjUzNz
- kz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e
- 6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55%22%7d>  \n\
- n会议 ID: 344 510 235 993 \n\n密码: FM6Np6XL \n\n_____________________
- ___________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/
- meetingOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&tenantId=
- 8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MjE0NmU3YWMtNzk1Y
- S00NTFmLTk3M2EtN2ExYWJkMjUzNzkz@thread.v2&messageId=0&language=zh-CN>  \n\
- n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b
- -832a-1d684ab9ad7e>  \n\n_________________________________________________
- _______________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Internal Training：项目管理系列课-进阶版
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:U2100213L1520析出刮伤异常
-DTSTART;TZID="GMT 标准时间":20250919T120000
-DTEND;TZID="GMT 标准时间":20250919T123000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_MGQyZTVmYWMtMWYyYi00YmEyLTg2ZjEtNm
- VlZjFhMWQ3ZGEw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb
- %22%7d>  \n\n会议 ID: 310 487 878 200 3 \n\n密码: GW7zN74P \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc47496
- 80eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MGQ
- yZTVmYWMtMWYyYi00YmEyLTg2ZjEtNmVlZjFhMWQ3ZGEw@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:U2100213L1520析出刮伤异常
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project review
-DTSTART;TZID="GMT 标准时间":20250919T150000
-DTEND;TZID="GMT 标准时间":20250919T160000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZjU4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNG
- U0NzdjNDUwNWZk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 363 291 673 202 0 \n\n密码: ov7o3jJ2 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjU
- 4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNGU0NzdjNDUwNWZk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
- 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议\; My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX1 模头返修讨论
-DTSTART;TZID="GMT 标准时间":20250919T160000
-DTEND;TZID="GMT 标准时间":20250919T163000
-CLASS:PUBLIC
-DESCRIPTION:Hello all\,\n\n     目前已经收到reifenhauser的预估报
- 价，金额比较庞大，需要和大家再次讨论下，接下去的
- 行动措施，便于该项目的进一步推进\n\n______________________
- __________________________________________________________\n\nMicrosoft Te
- ams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
- 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
- _MWRkZTk5NjktNGJjNS00N2M0LTllNzAtMWU0OGRlNjEzOGRj%40thread.v2/0?context=%7
- b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221
- 888daed-ff14-49b0-94d8-591aedaa22db%22%7d>  \n\n会议 ID: 332 278 654 445
-  0 \n\n密码: uU3Bh37o \n\n________________________________\n\n对于组
- 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
- rId=1888daed-ff14-49b0-94d8-591aedaa22db&tenantId=8d4b558f-7b2e-40ba-ad1f-
- e04d79e6265a&threadId=19_meeting_MWRkZTk5NjktNGJjNS00N2M0LTllNzAtMWU0OGRlN
- jEzOGRj@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
- //filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\
- n_________________________________________________________________________
- _______\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX1 模头返修讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:提醒查看CDP打卡
-DTSTART;TZID="GMT 标准时间":20250921T114000
-DTEND;TZID="GMT 标准时间":20250921T114500
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒查看CDP打卡
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20250922T083500
 DTEND;TZID="GMT 标准时间":20250922T090500
 CLASS:PUBLIC
@@ -186,6 +27,93 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sesotec Metal Separator 技术选型讨论
+DTSTART;TZID="GMT 标准时间":20250922T153000
+DTEND;TZID="GMT 标准时间":20250922T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello：\n\n邀请大家按照供应商来测试的结果，
+ 确认金属分离器是否能用于色母粒线\n\n \n\n_________________
+ ____________________________\n发件人: Zhou\, Ye02 \n发送时间: 2025
+ 年9月15日 16:48\n收件人: Sun\, Qiang <qiang.sun@benecke-changshun.co
+ m.cn>\; Yao\, Tomi <mengyue.yao@benecke-changshun.com.cn>\; Chen\, Hongmei
+  <Hongmei.Chen@benecke-changshun.com.cn>\; jiang\, song03 <Song.3.Jiang@be
+ necke-changshun.com.cn>\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun
+ .com.cn>\n抄送: lin\, xiaoqing <xiaoqing.lin@benecke-changshun.com.cn>\;
+  Wu\, Xiaoqian02 <xiaoqian.2.wu@benecke-changshun.com.cn>\n主题: 回复:
+  Sesotec Metal Separator 技术选型讨论\n\n \n\n1/供应商拒绝直
+ 接回答金属分离器能否应用于我们色母粒线这个问题；\n
+ \n2/如截图金属含量最高的标记黄色的54191粒子，设置灵
+ 敏度48%，相位角11.6°，最低可以检测的金属离子直径为FE
+ （铁）不小于3.0mm，NFE（非铁金属）不小于3.5mm，SS（不
+ 锈钢）不小于3.5mm；\n\n\n\n \n\n发件人: Sun\, Qiang <qiang.sun@b
+ enecke-changshun.com.cn <mailto:qiang.sun@benecke-changshun.com.cn> > \n
+ 发送时间: 2025年9月15日 16:38\n收件人: Zhou\, Ye02 <ye.2.zhou@be
+ necke-changshun.com.cn <mailto:ye.2.zhou@benecke-changshun.com.cn> >\; Yao
+ \, Tomi <mengyue.yao@benecke-changshun.com.cn <mailto:mengyue.yao@benecke-
+ changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.c
+ n <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; jiang\, song03 <Song.
+ 3.Jiang@benecke-changshun.com.cn <mailto:Song.3.Jiang@benecke-changshun.co
+ m.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:
+ xiaodong.3.li@benecke-changshun.com.cn> >\n抄送: lin\, xiaoqing <xiaoqin
+ g.lin@benecke-changshun.com.cn <mailto:xiaoqing.lin@benecke-changshun.com.
+ cn> >\; Wu\, Xiaoqian02 <xiaoqian.2.wu@benecke-changshun.com.cn <mailto:xi
+ aoqian.2.wu@benecke-changshun.com.cn> >\n主题: 回复: Sesotec Metal Sep
+ arator 技术选型讨论\n\n \n\n@Zhou\, Ye02 <mailto:ye.2.zhou@benecke-c
+ hangshun.com.cn> 供应商给的结果是什么，该金属分离器是否
+ 能使用于色母粒产线。\n\n \n\n \n\nInternal\n\n发件人: Zhou\, 
+ Ye02 <ye.2.zhou@benecke-changshun.com.cn <mailto:ye.2.zhou@benecke-changsh
+ un.com.cn> > \n发送时间: 2025年9月15日 16:27\n收件人: Yao\, Tomi
+  <mengyue.yao@benecke-changshun.com.cn <mailto:mengyue.yao@benecke-changsh
+ un.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mail
+ to:Hongmei.Chen@benecke-changshun.com.cn> >\; Sun\, Qiang <qiang.sun@benec
+ ke-changshun.com.cn <mailto:qiang.sun@benecke-changshun.com.cn> >\; jiang\
+ , song03 <Song.3.Jiang@benecke-changshun.com.cn <mailto:Song.3.Jiang@benec
+ ke-changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.
+ com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\n抄送: lin\, xi
+ aoqing <xiaoqing.lin@benecke-changshun.com.cn <mailto:xiaoqing.lin@benecke
+ -changshun.com.cn> >\; Wu\, Xiaoqian02 <xiaoqian.2.wu@benecke-changshun.co
+ m.cn <mailto:xiaoqian.2.wu@benecke-changshun.com.cn> >\n主题: 回复: Se
+ sotec Metal Separator 技术选型讨论\n\n \n\nDear all：\n\n这是今
+ 天供应商服务的结论和报告，请查收！\n\n \n\n \n\nInternal\
+ n\n-----原始约会-----\n发件人: Yao\, Tomi <mengyue.yao@benecke-chan
+ gshun.com.cn <mailto:mengyue.yao@benecke-changshun.com.cn> > \n发送时
+ 间: 2025年8月29日 8:50\n收件人: Yao\, Tomi\; Jiangsheng.chen@sesote
+ c.com.cn <mailto:Jiangsheng.chen@sesotec.com.cn> \; Qi.lee@sesotec.com.cn 
+ <mailto:Qi.lee@sesotec.com.cn> \; Roger.zhou@sesotec.com.cn <mailto:Roger.
+ zhou@sesotec.com.cn> \; Chen\, Hongmei\; Sun\, Qiang\; Zhou\, Ye02\; jiang
+ \, song03\; Li\, Xiaodong03\n抄送: lin\, xiaoqing\; Wu\, Xiaoqian02\n主
+ 题: Sesotec Metal Separator 技术选型讨论\n时间: 2025年9月3日
+ 星期三 16:00-17:00(UTC+08:00) 北京，重庆，香港特别行政区
+ ，乌鲁木齐。\n地点: Microsoft Teams 会议\n\n \n\nHello Sesotec T
+ eam\,\n\n      本次约会想和各位专家了解下贵公司金属分
+ 离器的一些工作原理，及反馈一下目前我们在使用过程
+ 中遇到的问题，看接下来如何去改善，是否当初我们在
+ 选型上有误，导致我们现在无法正常投入使用，还希望
+ 到时候各位专家给下建议输出，评估下我们现在设备上
+ 金属分离器是否需要进行重新选型。\n\n______________________
+ __________________________________________________________\n\nMicrosoft Te
+ ams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n
+ 立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting
+ _NzdhYjY3NTYtMzY2Ni00YTNhLTk3ODItOTdkNzFjYzc5MmM0%40thread.v2/0?context=%7
+ b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221
+ 888daed-ff14-49b0-94d8-591aedaa22db%22%7d>  \n\n会议 ID: 324 521 160 379
+  5 \n\n密码: YD7vo6pQ \n\n________________________________\n\n对于组
+ 织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organize
+ rId=1888daed-ff14-49b0-94d8-591aedaa22db&tenantId=8d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a&threadId=19_meeting_NzdhYjY3NTYtMzY2Ni00YTNhLTk3ODItOTdkNzFjY
+ zc5MmM0@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\
+ n_________________________________________________________________________
+ _______\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sesotec Metal Separator 技术选型讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1225,6 +1153,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Internal Training：项目管理系列课-进阶版
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20251021T101500
+DTEND;TZID="GMT 标准时间":20251021T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:提醒查看CDP打卡
+DTSTART;TZID="GMT 标准时间":20251021T114000
+DTEND;TZID="GMT 标准时间":20251021T114500
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒查看CDP打卡
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
