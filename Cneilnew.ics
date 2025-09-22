@@ -31,97 +31,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sesotec Metal Separator 技术选型讨论
-DTSTART;TZID="GMT 标准时间":20250922T153000
-DTEND;TZID="GMT 标准时间":20250922T160000
-CLASS:PUBLIC
-DESCRIPTION:Hello：\n\n邀请大家按照供应商来测试的结果，
- 确认金属分离器是否能用于色母粒线\n\n \n\n_________________
- ____________________________\n发件人: Zhou\, Ye02 \n发送时间: 2025
- 年9月15日 16:48\n收件人: Sun\, Qiang <qiang.sun@benecke-changshun.co
- m.cn <mailto:qiang.sun@benecke-changshun.com.cn> >\; Yao\, Tomi <mengyue.y
- ao@benecke-changshun.com.cn <mailto:mengyue.yao@benecke-changshun.com.cn> 
- >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.
- Chen@benecke-changshun.com.cn> >\; jiang\, song03 <Song.3.Jiang@benecke-ch
- angshun.com.cn <mailto:Song.3.Jiang@benecke-changshun.com.cn> >\; Li\, Xia
- odong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@bene
- cke-changshun.com.cn> >\n抄送: lin\, xiaoqing <xiaoqing.lin@benecke-chan
- gshun.com.cn <mailto:xiaoqing.lin@benecke-changshun.com.cn> >\; Wu\, Xiaoq
- ian02 <xiaoqian.2.wu@benecke-changshun.com.cn <mailto:xiaoqian.2.wu@beneck
- e-changshun.com.cn> >\n主题: 回复: Sesotec Metal Separator 技术选
- 型讨论\n\n \n\n1/供应商拒绝直接回答金属分离器能否应用
- 于我们色母粒线这个问题；\n\n2/如截图金属含量最高的
- 标记黄色的54191粒子，设置灵敏度48%，相位角11.6°，最低
- 可以检测的金属离子直径为FE（铁）不小于3.0mm，NFE（非
- 铁金属）不小于3.5mm，SS（不锈钢）不小于3.5mm；\n\n\n\n \n
- \n发件人: Sun\, Qiang <qiang.sun@benecke-changshun.com.cn <mailto:qiang
- .sun@benecke-changshun.com.cn> > \n发送时间: 2025年9月15日 16:38\n
- 收件人: Zhou\, Ye02 <ye.2.zhou@benecke-changshun.com.cn <mailto:ye.2.zh
- ou@benecke-changshun.com.cn> >\; Yao\, Tomi <mengyue.yao@benecke-changshun
- .com.cn <mailto:mengyue.yao@benecke-changshun.com.cn> >\; Chen\, Hongmei <
- Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changsh
- un.com.cn> >\; jiang\, song03 <Song.3.Jiang@benecke-changshun.com.cn <mail
- to:Song.3.Jiang@benecke-changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.
- li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn
- > >\n抄送: lin\, xiaoqing <xiaoqing.lin@benecke-changshun.com.cn <mailto
- :xiaoqing.lin@benecke-changshun.com.cn> >\; Wu\, Xiaoqian02 <xiaoqian.2.wu
- @benecke-changshun.com.cn <mailto:xiaoqian.2.wu@benecke-changshun.com.cn> 
- >\n主题: 回复: Sesotec Metal Separator 技术选型讨论\n\n \n\n@Zho
- u\, Ye02 <mailto:ye.2.zhou@benecke-changshun.com.cn> 供应商给的结果
- 是什么，该金属分离器是否能使用于色母粒产线。\n\n \n\
- n \n\nInternal\n\n发件人: Zhou\, Ye02 <ye.2.zhou@benecke-changshun.com.
- cn <mailto:ye.2.zhou@benecke-changshun.com.cn> > \n发送时间: 2025年9
- 月15日 16:27\n收件人: Yao\, Tomi <mengyue.yao@benecke-changshun.com.c
- n <mailto:mengyue.yao@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongme
- i.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com
- .cn> >\; Sun\, Qiang <qiang.sun@benecke-changshun.com.cn <mailto:qiang.sun
- @benecke-changshun.com.cn> >\; jiang\, song03 <Song.3.Jiang@benecke-changs
- hun.com.cn <mailto:Song.3.Jiang@benecke-changshun.com.cn> >\; Li\, Xiaodon
- g03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-
- changshun.com.cn> >\n抄送: lin\, xiaoqing <xiaoqing.lin@benecke-changshu
- n.com.cn <mailto:xiaoqing.lin@benecke-changshun.com.cn> >\; Wu\, Xiaoqian0
- 2 <xiaoqian.2.wu@benecke-changshun.com.cn <mailto:xiaoqian.2.wu@benecke-ch
- angshun.com.cn> >\n主题: 回复: Sesotec Metal Separator 技术选型讨
- 论\n\n \n\nDear all：\n\n这是今天供应商服务的结论和报告
- ，请查收！\n\n \n\n \n\nInternal\n\n-----原始约会-----\n发件人
- : Yao\, Tomi <mengyue.yao@benecke-changshun.com.cn <mailto:mengyue.yao@ben
- ecke-changshun.com.cn> > \n发送时间: 2025年8月29日 8:50\n收件人:
-  Yao\, Tomi\; Jiangsheng.chen@sesotec.com.cn <mailto:Jiangsheng.chen@sesot
- ec.com.cn> \; Qi.lee@sesotec.com.cn <mailto:Qi.lee@sesotec.com.cn> \; Roge
- r.zhou@sesotec.com.cn <mailto:Roger.zhou@sesotec.com.cn> \; Chen\, Hongmei
- \; Sun\, Qiang\; Zhou\, Ye02\; jiang\, song03\; Li\, Xiaodong03\n抄送: l
- in\, xiaoqing\; Wu\, Xiaoqian02\n主题: Sesotec Metal Separator 技术选
- 型讨论\n时间: 2025年9月3日星期三 16:00-17:00(UTC+08:00) 北京
- ，重庆，香港特别行政区，乌鲁木齐。\n地点: Microsoft Tea
- ms 会议\n\n \n\nHello Sesotec Team\,\n\n      本次约会想和各位
- 专家了解下贵公司金属分离器的一些工作原理，及反馈
- 一下目前我们在使用过程中遇到的问题，看接下来如何
- 去改善，是否当初我们在选型上有误，导致我们现在无
- 法正常投入使用，还希望到时候各位专家给下建议输出
- ，评估下我们现在设备上金属分离器是否需要进行重新
- 选型。\n\n_____________________________________________________________
- ___________________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms
- /JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.micro
- soft.com/l/meetup-join/19%3ameeting_NzdhYjY3NTYtMzY2Ni00YTNhLTk3ODItOTdkNz
- FjYzc5MmM0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f
- -e04d79e6265a%22%2c%22Oid%22%3a%221888daed-ff14-49b0-94d8-591aedaa22db%22%
- 7d>  \n\n会议 ID: 324 521 160 379 5 \n\n密码: YD7vo6pQ \n\n___________
- _____________________\n\n对于组织者: 会议选项 <https://teams.micr
- osoft.com/meetingOptions/?organizerId=1888daed-ff14-49b0-94d8-591aedaa22db
- &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NzdhYjY
- 3NTYtMzY2Ni00YTNhLTk3ODItOTdkNzFjYzc5MmM0@thread.v2&messageId=0&language=z
- h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
- -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
- _________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Sesotec Metal Separator 技术选型讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:秋分
 DTSTART;TZID="GMT 标准时间":20250923T000000
 DTEND;TZID="GMT 标准时间":20250924T000000
@@ -246,6 +155,97 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sesotec Metal Separator 技术选型讨论
+DTSTART;TZID="GMT 标准时间":20250924T140000
+DTEND;TZID="GMT 标准时间":20250924T143000
+CLASS:PUBLIC
+DESCRIPTION:Hello：\n\n邀请大家按照供应商来测试的结果，
+ 确认金属分离器是否能用于色母粒线\n\n \n\n_________________
+ ____________________________\n发件人: Zhou\, Ye02 \n发送时间: 2025
+ 年9月15日 16:48\n收件人: Sun\, Qiang <qiang.sun@benecke-changshun.co
+ m.cn <mailto:qiang.sun@benecke-changshun.com.cn> >\; Yao\, Tomi <mengyue.y
+ ao@benecke-changshun.com.cn <mailto:mengyue.yao@benecke-changshun.com.cn> 
+ >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.
+ Chen@benecke-changshun.com.cn> >\; jiang\, song03 <Song.3.Jiang@benecke-ch
+ angshun.com.cn <mailto:Song.3.Jiang@benecke-changshun.com.cn> >\; Li\, Xia
+ odong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@bene
+ cke-changshun.com.cn> >\n抄送: lin\, xiaoqing <xiaoqing.lin@benecke-chan
+ gshun.com.cn <mailto:xiaoqing.lin@benecke-changshun.com.cn> >\; Wu\, Xiaoq
+ ian02 <xiaoqian.2.wu@benecke-changshun.com.cn <mailto:xiaoqian.2.wu@beneck
+ e-changshun.com.cn> >\n主题: 回复: Sesotec Metal Separator 技术选
+ 型讨论\n\n \n\n1/供应商拒绝直接回答金属分离器能否应用
+ 于我们色母粒线这个问题；\n\n2/如截图金属含量最高的
+ 标记黄色的54191粒子，设置灵敏度48%，相位角11.6°，最低
+ 可以检测的金属离子直径为FE（铁）不小于3.0mm，NFE（非
+ 铁金属）不小于3.5mm，SS（不锈钢）不小于3.5mm；\n\n\n\n \n
+ \n发件人: Sun\, Qiang <qiang.sun@benecke-changshun.com.cn <mailto:qiang
+ .sun@benecke-changshun.com.cn> > \n发送时间: 2025年9月15日 16:38\n
+ 收件人: Zhou\, Ye02 <ye.2.zhou@benecke-changshun.com.cn <mailto:ye.2.zh
+ ou@benecke-changshun.com.cn> >\; Yao\, Tomi <mengyue.yao@benecke-changshun
+ .com.cn <mailto:mengyue.yao@benecke-changshun.com.cn> >\; Chen\, Hongmei <
+ Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changsh
+ un.com.cn> >\; jiang\, song03 <Song.3.Jiang@benecke-changshun.com.cn <mail
+ to:Song.3.Jiang@benecke-changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.
+ li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn
+ > >\n抄送: lin\, xiaoqing <xiaoqing.lin@benecke-changshun.com.cn <mailto
+ :xiaoqing.lin@benecke-changshun.com.cn> >\; Wu\, Xiaoqian02 <xiaoqian.2.wu
+ @benecke-changshun.com.cn <mailto:xiaoqian.2.wu@benecke-changshun.com.cn> 
+ >\n主题: 回复: Sesotec Metal Separator 技术选型讨论\n\n \n\n@Zho
+ u\, Ye02 <mailto:ye.2.zhou@benecke-changshun.com.cn> 供应商给的结果
+ 是什么，该金属分离器是否能使用于色母粒产线。\n\n \n\
+ n \n\nInternal\n\n发件人: Zhou\, Ye02 <ye.2.zhou@benecke-changshun.com.
+ cn <mailto:ye.2.zhou@benecke-changshun.com.cn> > \n发送时间: 2025年9
+ 月15日 16:27\n收件人: Yao\, Tomi <mengyue.yao@benecke-changshun.com.c
+ n <mailto:mengyue.yao@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongme
+ i.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com
+ .cn> >\; Sun\, Qiang <qiang.sun@benecke-changshun.com.cn <mailto:qiang.sun
+ @benecke-changshun.com.cn> >\; jiang\, song03 <Song.3.Jiang@benecke-changs
+ hun.com.cn <mailto:Song.3.Jiang@benecke-changshun.com.cn> >\; Li\, Xiaodon
+ g03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-
+ changshun.com.cn> >\n抄送: lin\, xiaoqing <xiaoqing.lin@benecke-changshu
+ n.com.cn <mailto:xiaoqing.lin@benecke-changshun.com.cn> >\; Wu\, Xiaoqian0
+ 2 <xiaoqian.2.wu@benecke-changshun.com.cn <mailto:xiaoqian.2.wu@benecke-ch
+ angshun.com.cn> >\n主题: 回复: Sesotec Metal Separator 技术选型讨
+ 论\n\n \n\nDear all：\n\n这是今天供应商服务的结论和报告
+ ，请查收！\n\n \n\n \n\nInternal\n\n-----原始约会-----\n发件人
+ : Yao\, Tomi <mengyue.yao@benecke-changshun.com.cn <mailto:mengyue.yao@ben
+ ecke-changshun.com.cn> > \n发送时间: 2025年8月29日 8:50\n收件人:
+  Yao\, Tomi\; Jiangsheng.chen@sesotec.com.cn <mailto:Jiangsheng.chen@sesot
+ ec.com.cn> \; Qi.lee@sesotec.com.cn <mailto:Qi.lee@sesotec.com.cn> \; Roge
+ r.zhou@sesotec.com.cn <mailto:Roger.zhou@sesotec.com.cn> \; Chen\, Hongmei
+ \; Sun\, Qiang\; Zhou\, Ye02\; jiang\, song03\; Li\, Xiaodong03\n抄送: l
+ in\, xiaoqing\; Wu\, Xiaoqian02\n主题: Sesotec Metal Separator 技术选
+ 型讨论\n时间: 2025年9月3日星期三 16:00-17:00(UTC+08:00) 北京
+ ，重庆，香港特别行政区，乌鲁木齐。\n地点: Microsoft Tea
+ ms 会议\n\n \n\nHello Sesotec Team\,\n\n      本次约会想和各位
+ 专家了解下贵公司金属分离器的一些工作原理，及反馈
+ 一下目前我们在使用过程中遇到的问题，看接下来如何
+ 去改善，是否当初我们在选型上有误，导致我们现在无
+ 法正常投入使用，还希望到时候各位专家给下建议输出
+ ，评估下我们现在设备上金属分离器是否需要进行重新
+ 选型。\n\n_____________________________________________________________
+ ___________________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms
+ /JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.micro
+ soft.com/l/meetup-join/19%3ameeting_NzdhYjY3NTYtMzY2Ni00YTNhLTk3ODItOTdkNz
+ FjYzc5MmM0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f
+ -e04d79e6265a%22%2c%22Oid%22%3a%221888daed-ff14-49b0-94d8-591aedaa22db%22%
+ 7d>  \n\n会议 ID: 324 521 160 379 5 \n\n密码: YD7vo6pQ \n\n___________
+ _____________________\n\n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=1888daed-ff14-49b0-94d8-591aedaa22db
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NzdhYjY
+ 3NTYtMzY2Ni00YTNhLTk3ODItOTdkNzFjYzc5MmM0@thread.v2&messageId=0&language=z
+ h-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sesotec Metal Separator 技术选型讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
