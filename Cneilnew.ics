@@ -141,6 +141,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX1 U2100222L1200白色析出回顾
+DTSTART;TZID="GMT 标准时间":20250928T140000
+DTEND;TZID="GMT 标准时间":20250928T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_MTUwYzZiY2UtZTAwOS00MmIyLTg0ZGYtNT
+ c0NThmZDM2ZDI0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2251af8068-3227-497c-a212-46a9619f63a0
+ %22%7d>  \n\n会议 ID: 382 996 845 628 8 \n\n密码: Ya7oG3Zn \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=51af8068-3227-497c-a212-46a9619f
+ 63a0&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MTU
+ wYzZiY2UtZTAwOS00MmIyLTg0ZGYtNTc0NThmZDM2ZDI0@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX1 U2100222L1200白色析出回顾
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 BCZ SPRINT Cost Saving
 DTSTART;TZID="GMT 标准时间":20250928T150000
 DTEND;TZID="GMT 标准时间":20250928T160000
