@@ -100,6 +100,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:数字化自评
+DTSTART;TZID="GMT 标准时间":20250929T093000
+DTEND;TZID="GMT 标准时间":20250929T103000
+CLASS:PUBLIC
+DESCRIPTION:Dear，all\n\n邀请大家一起线上，我们做一个数字
+ 化测评网上填写，总共15题，用于中小企业数字化项目的
+ 立项使用\n\n\n\n______________________________________________________
+ __________________________\n\nMicrosoft Teams 是否需要帮助? <https:/
+ /aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_MzQxZGUwMmEtNDllNC00OTc0LThlYTQ
+ tMDdlMDI5NWY3Zjky%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e3009426-2a3e-4a9a-934c-025e9ce2c
+ 473%22%7d>  \n\n会议 ID: 356 652 371 008 1 \n\n密码: 9JV76Hn3 \n\n____
+ ____________________________\n\n对于组织者: 会议选项 <https://tea
+ ms.microsoft.com/meetingOptions/?organizerId=e3009426-2a3e-4a9a-934c-025e9
+ ce2c473&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_
+ MzQxZGUwMmEtNDllNC00OTc0LThlYTQtMDdlMDI5NWY3Zjky@thread.v2&messageId=0&lan
+ guage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d
+ 6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n________________________________
+ ________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:数字化自评
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Session
 DTSTART;TZID="GMT 标准时间":20250929T203000
 DTEND;TZID="GMT 标准时间":20250929T210000
