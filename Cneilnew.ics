@@ -45,32 +45,16 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EX浅色产品报废改善
+SUMMARY:已取消: EX浅色产品报废改善
 DTSTART;TZID="GMT 标准时间":20250930T143000
 DTEND;TZID="GMT 标准时间":20250930T153000
 CLASS:PUBLIC
-DESCRIPTION:大家好！邀请大家对EX浅色产品报废改善做些讨
- 论，共同寻找有效措施和解决方法。挤出机长择机参加\n
- 更新：根据第一次会议的经验，30分钟时间不够，下次开
- 始时间延长至60分钟\n______________________________________________
- __________________________________\nMicrosoft Teams 是否需要帮助? <h
- ttps://aka.ms/JoinTeamsMeeting?omkt=zh-CN> \n立即加入会议 <https://t
- eams.microsoft.com/l/meetup-join/19%3ameeting_YTk3ZTRhZWYtMzllYS00ZDc4LWE3
- ZDYtOTg4YTE5YmFjM2U4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e
- -40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22fe6c1ed6-7a24-42d9-bab2-33daf5
- f058f4%22%7d>  \n会议 ID: 328 592 644 131 4 \n密码: 44H2vo3X \n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=fe6c1ed6-7a24-42d9-bab2-33daf5f0
- 58f4&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YTk
- 3ZTRhZWYtMzllYS00ZDc4LWE3ZDYtOTg4YTE5YmFjM2U4@thread.v2&messageId=0&langua
- ge=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n_______________________________________
- _________________________________________
+DESCRIPTION:
 LOCATION:TPO关爱小屋
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:EX浅色产品报废改善
+DESCRIPTION:已取消: EX浅色产品报废改善
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
