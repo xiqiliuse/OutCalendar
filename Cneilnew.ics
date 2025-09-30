@@ -45,6 +45,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ContiTech Excellence Award 2025
+DTSTART;TZID="GMT 标准时间":20250930T140000
+DTEND;TZID="GMT 标准时间":20250930T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们一起讨论一下“幅宽优化项
+ 目”，谢谢！\n\n \n\nSophia  9/30\n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams 是
+ 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即
+ 加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRmM
+ TE2MjktZWI0Yi00MzYyLTg5NmQtZjEyOGU5ODY3NjZl%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c
+ 2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 348 892 510 144 6 \n\
+ n密码: qm2s47AC \n\n________________________________\n\n对于组织者:
+  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41
+ 355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&threadId=19_meeting_YzRmMTE2MjktZWI0Yi00MzYyLTg5NmQtZjEyOGU5ODY3NjZl
+ @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ContiTech Excellence Award 2025
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:已取消: EX浅色产品报废改善
 DTSTART;TZID="GMT 标准时间":20250930T143000
 DTEND;TZID="GMT 标准时间":20250930T153000
@@ -647,6 +676,45 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Internal Training：项目管理系列课-进阶版
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ Digital Talent Team Development Kick-off Meeting
+DTSTART;TZID="GMT 标准时间":20251020T140000
+DTEND;TZID="GMT 标准时间":20251020T150000
+CLASS:PUBLIC
+DESCRIPTION:\n\n亲爱的 BCZ Digital Talent Team 成员们：\n\n诚挚
+ 邀请您参加BCZ Digital Talent Team Development Kick-off Meeting，届
+ 时将详细解读项目运营计划，确保大家清晰了解未来的
+ 目标与任务！\n\n \n\n🎯 会议内容\n\n \n\n🌐 发布项目 Par
+ tner Portal\n\n*  了解项目资源与工具，便于高效协作\n\n \n\
+ n📚 分享课程计划\n\n*  说明培训和学习安排\n\n \n\n📝 
+ 学习输出跟进及反馈方案\n\n*  明确如何跟踪学习成果及
+ 反馈处理机制\n\n \n\n👥 参会要求\n\n \n\n*  ✅ 数字化团
+ 队项目成员：必参\n\n*  👔 管理层：可选\n\n \n\n请各位
+ 提前安排时间，并准时上线参加会议。\n\n让我们一起开
+ 启BCZ Digital Talent Team Development项目的新篇章！\n\n \n\n项目
+ 筹备组\n\n \n\n*Lily Liu is sending this email on behalf of the cross-f
+ unctional project team.\n\n \n\n__________________________________________
+ ______________________________________\n\nMicrosoft Teams Need help? <http
+ s://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ZDYzOWM5MjEtNWJlYy00OTBkLT
+ kxYmUtODRmZTYzZWU0Nzlm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28e
+ b213e712%22%7d>  \n\nMeeting ID: 311 503 391 007 0 \n\nPasscode: XG6MB7pd 
+ \n\n________________________________\n\nFor organizers: Meeting options <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=1e3fea23-7c50-4fb2-
+ a71b-c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_ZDYzOWM5MjEtNWJlYy00OTBkLTkxYmUtODRmZTYzZWU0Nzlm@thread.v2&messa
+ geId=0&language=en-US>  \n\nPrivacy and security <https://filehub.admiralc
+ loud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________
+ _______________________________________________________________\n\n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ Digital Talent Team Development Kick-off Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
