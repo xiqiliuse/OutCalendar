@@ -4,6 +4,23 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
+SUMMARY:TESLA VAVE试制回顾
+DTSTART;TZID="GMT 标准时间":20251009T150000
+DTEND;TZID="GMT 标准时间":20251009T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello all，\n\n大家一起回顾一下D104试制的过程和
+ 下一步的行动方案。\n\n@Hou\, Xuewen <mailto:xuewen.hou@benecke-ch
+ angshun.com.cn> Hello Snow 如果没有时间可以委派个人一起参
+ 加下吧，感谢\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TESLA VAVE试制回顾
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID="GMT 标准时间":20251009T150000
 DTEND;TZID="GMT 标准时间":20251009T160000
@@ -28,6 +45,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:chrysler幅宽切换
+DTSTART;TZID="GMT 标准时间":20251010T110000
+DTEND;TZID="GMT 标准时间":20251010T120000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:chrysler幅宽切换
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -66,6 +97,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025年专利review
+DTSTART;TZID="GMT 标准时间":20251011T130000
+DTEND;TZID="GMT 标准时间":20251011T140000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们一起看一下第1版的大家准
+ 备的情况，谢谢！\n\n\n\n \n\nSophia   10/9\n\n \n\n \n\n__________
+ ______________________________________________________________________\n\n
+ Microsoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=
+ zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NTk0NzNkMzgtYzY1MS00MzNiLWE3NzQtOGE0YWVhODFiZmNj%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 361
+  930 763 891 8 \n\n密码: Js6Jx6Md \n\n________________________________\n
+ \n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOption
+ s/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e
+ -40ba-ad1f-e04d79e6265a&threadId=19_meeting_NTk0NzNkMzgtYzY1MS00MzNiLWE3Nz
+ QtOGE0YWVhODFiZmNj@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920f
+ f7119>  \n\n______________________________________________________________
+ __________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2025年专利review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
