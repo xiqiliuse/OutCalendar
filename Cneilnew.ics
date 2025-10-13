@@ -76,6 +76,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:挤出浅色回收料管改造方案确认
+DTSTART;TZID="GMT 标准时间":20251014T123000
+DTEND;TZID="GMT 标准时间":20251014T130000
+CLASS:PUBLIC
+DESCRIPTION:因为各位反馈有审核，临时调整时间\n\n__________
+ ______________________________________________________________________\n\n
+ Microsoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=
+ zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZGRkYmNlMjMtMWM2YS00NmZjLWE5ZmMtMDhjOGZjZTAxMGI0%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%221888daed-ff14-49b0-94d8-591aedaa22db%22%7d>  \n\n会议 ID: 358
+  737 382 398 \n\n密码: AA9Kq7FB \n\n________________________________\n\n
+ 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
+ ?organizerId=1888daed-ff14-49b0-94d8-591aedaa22db&tenantId=8d4b558f-7b2e-4
+ 0ba-ad1f-e04d79e6265a&threadId=19_meeting_ZGRkYmNlMjMtMWM2YS00NmZjLWE5ZmMt
+ MDhjOGZjZTAxMGI0@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920f
+ f7119>  \n\n______________________________________________________________
+ __________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:挤出浅色回收料管改造方案确认
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EX浅色产品报废改善
 DTSTART;TZID="GMT 标准时间":20251014T143000
 DTEND;TZID="GMT 标准时间":20251014T153000
@@ -276,6 +304,36 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Internal Training：项目管理系列课-进阶版
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Openig Ceremony for 2025 Qualilty&CBS Week
+DTSTART;TZID="GMT 标准时间":20251020T090000
+DTEND;TZID="GMT 标准时间":20251020T093000
+CLASS:PUBLIC
+DESCRIPTION:Dear Colleagues\,\n\n \n\nGlad to announce that there will be 
+ Quality & CBS Week from 10/20~10/24.\n\nHereby you all are invited to the 
+ opening ceremony on 20th October 2025.\n\n \n\nAgenda\n\nTime\n\nActivity\
+ n\n9:00-9:15\n\nSign In\n\n9:15-9:25\n\nOpening Speech\n\n9:25-9:30\n\nAge
+ nda Introduction\n\n \n\nWe look forward to your active participation.\n\n
+  \n\nBest regards\, \n\nJennifer Xu\n\nQMS\n\nContiTech Surface Solutions\
+ n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim 
+ (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港
+ ）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zha
+ ngjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南
+ 沙江海南路108号 215632\n\n \n\nMobile: +86 17706242680\n\nE-mail: ya
+ n01.xu@benecke-changshun.com.cn <mailto:yan01.xu@benecke-changshun.com.cn>
+   \n\nWebsite: www.continental-industry.com <http://www.continental-indust
+ ry.com/> \n\n \n\n\n\n                                                    
+                                                                           
+    \n\nProprietary and confidential. Distribution only by express authorit
+ y of Continental AG or its subsidiaries.\n\n \n\n \n
+LOCATION:Basketball Court 篮球场
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Openig Ceremony for 2025 Qualilty&CBS Week
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -700,6 +758,40 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:立冬
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Training: 协作式谈判-用影响力沟通达成建设性
+ 成果
+DTSTART;TZID="GMT 标准时间":20251107T130000
+DTEND;TZID="GMT 标准时间":20251107T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n当协作陷入僵局，是坚持己见还
+ 是无奈妥协？ 别让分歧成为双方间的那堵墙。\n\n \n\n邀
+ 请大家参加在线培训《协作式谈判-用影响力沟通达成建
+ 设性成果》，带您将对立转化为联接，把分歧拼成共赢
+ 版图。\n\n \n\n讲师：中国平安林紫心理机构 沈老师👏
+ 👏👏\n\n课纲：见附件\n\n \n\n___________________________________
+ _____________________________________________\n\nMicrosoft Teams 是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入
+ 会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjA2YjYxNzM
+ tM2ZiOS00YjAwLTlkZTItNWM3Y2RkNDJkZWI0%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0
+ -4183-80ca-15ac86dc1e55%22%7d>  \n\n会议 ID: 376 342 883 998 \n\n密码:
+  Y238gz2W \n\n________________________________\n\n对于组织者: 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=cfb2d7f6-b
+ 0a0-4183-80ca-15ac86dc1e55&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_YjA2YjYxNzMtM2ZiOS00YjAwLTlkZTItNWM3Y2RkNDJkZWI0@thread
+ .v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admi
+ ralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_____________
+ ___________________________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Online Training: 协作式谈判-用影响力沟通达成建
+ 设性成果
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
