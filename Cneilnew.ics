@@ -18,34 +18,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:挤出浅色回收料管改造方案确认
-DTSTART;TZID="GMT 标准时间":20251014T123000
-DTEND;TZID="GMT 标准时间":20251014T130000
-CLASS:PUBLIC
-DESCRIPTION:因为各位反馈有审核，临时调整时间\n\n__________
- ______________________________________________________________________\n\n
- Microsoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=
- zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/
- 19%3ameeting_ZGRkYmNlMjMtMWM2YS00NmZjLWE5ZmMtMDhjOGZjZTAxMGI0%40thread.v2/
- 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
- id%22%3a%221888daed-ff14-49b0-94d8-591aedaa22db%22%7d>  \n\n会议 ID: 358
-  737 382 398 \n\n密码: AA9Kq7FB \n\n________________________________\n\n
- 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
- ?organizerId=1888daed-ff14-49b0-94d8-591aedaa22db&tenantId=8d4b558f-7b2e-4
- 0ba-ad1f-e04d79e6265a&threadId=19_meeting_ZGRkYmNlMjMtMWM2YS00NmZjLWE5ZmMt
- MDhjOGZjZTAxMGI0@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920f
- f7119>  \n\n______________________________________________________________
- __________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:挤出浅色回收料管改造方案确认
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EX浅色产品报废改善
 DTSTART;TZID="GMT 标准时间":20251014T143000
 DTEND;TZID="GMT 标准时间":20251014T153000
@@ -72,6 +44,51 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EX浅色产品报废改善
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:挤出浅色回收料管改造方案确认
+DTSTART;TZID="GMT 标准时间":20251014T160000
+DTEND;TZID="GMT 标准时间":20251014T163000
+CLASS:PUBLIC
+DESCRIPTION:ESH 临时约了安全应急预案评审会议，我看大家
+ 都要参加，我这边调整一下吧\n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams 是
+ 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即
+ 加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGRkY
+ mNlMjMtMWM2YS00NmZjLWE5ZmMtMDhjOGZjZTAxMGI0%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221888dae
+ d-ff14-49b0-94d8-591aedaa22db%22%7d>  \n\n会议 ID: 358 737 382 398 \n\n
+ 密码: AA9Kq7FB \n\n________________________________\n\n对于组织者: 
+ 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=1888
+ daed-ff14-49b0-94d8-591aedaa22db&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a&threadId=19_meeting_ZGRkYmNlMjMtMWM2YS00NmZjLWE5ZmMtMDhjOGZjZTAxMGI0@
+ thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
+ b.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_______
+ _________________________________________________________________________\
+ n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:挤出浅色回收料管改造方案确认
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:chrysler幅宽切换客户端验证事宜讨论
+DTSTART;TZID="GMT 标准时间":20251015T130000
+DTEND;TZID="GMT 标准时间":20251015T140000
+CLASS:PUBLIC
+DESCRIPTION:@Huang\, Yuyang <mailto:yuyang.huang@benecke-changshun.com.cn>
+  ：\n\n \n\n     黄总监，麻烦委派一下谁参加这个会议，
+ 谢谢！\n
+LOCATION:TE_ZG_MR_CBC223_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:chrysler幅宽切换客户端验证事宜讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
