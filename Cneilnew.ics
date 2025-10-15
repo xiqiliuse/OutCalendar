@@ -4,6 +4,22 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
+SUMMARY:已取消: 浅色回收料清洁问题现场查看清洁点位及
+ 查看有无遗漏的地方 线下
+DTSTART;TZID="GMT 标准时间":20251015T100000
+DTEND;TZID="GMT 标准时间":20251015T103000
+CLASS:PUBLIC
+DESCRIPTION:进军现场开会，另约时间
+LOCATION:EX1现场
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 浅色回收料清洁问题现场查看清洁点位
+ 及查看有无遗漏的地方 线下
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:chrysler幅宽切换客户端验证事宜讨论
 DTSTART;TZID="GMT 标准时间":20251015T130000
 DTEND;TZID="GMT 标准时间":20251015T140000
@@ -21,28 +37,57 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:奥美凯白色析出现场沟通
-DTSTART;TZID="GMT 标准时间":20251015T140000
-DTEND;TZID="GMT 标准时间":20251015T153000
+DTSTART;TZID="GMT 标准时间":20251015T141000
+DTEND;TZID="GMT 标准时间":20251015T154000
 CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_MzE5ODIzYjYtZjY3MC00OGIzLWJkMjItNz
- MyYjhiZTRkNmRk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22babedd67-677b-41ae-8576-5fb00576a8e3
- %22%7d>  \n\n会议 ID: 329 310 796 660 1 \n\n密码: bw3AN3ys \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=babedd67-677b-41ae-8576-5fb00576
- a8e3&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MzE
- 5ODIzYjYtZjY3MC00OGIzLWJkMjItNzMyYjhiZTRkNmRk@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
- 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
+DESCRIPTION:同志们，2点10分开始，谢谢。\n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \
+ n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameet
+ ing_MzE5ODIzYjYtZjY3MC00OGIzLWJkMjItNzMyYjhiZTRkNmRk%40thread.v2/0?context
+ =%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%
+ 22babedd67-677b-41ae-8576-5fb00576a8e3%22%7d>  \n\n会议 ID: 329 310 796 
+ 660 1 \n\n密码: bw3AN3ys \n\n________________________________\n\n对于
+ 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
+ izerId=babedd67-677b-41ae-8576-5fb00576a8e3&tenantId=8d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a&threadId=19_meeting_MzE5ODIzYjYtZjY3MC00OGIzLWJkMjItNzMyYj
+ hiZTRkNmRk@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <htt
+ ps://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  
+ \n\n______________________________________________________________________
+ __________\n\n \n
+LOCATION:
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:奥美凯白色析出现场沟通
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:印刷光泽研究
+DTSTART;TZID="GMT 标准时间":20251015T153000
+DTEND;TZID="GMT 标准时间":20251015T160000
+CLASS:PUBLIC
+DESCRIPTION:东哥，一起研究一下\n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams 是
+ 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即
+ 加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTE1N
+ mUzN2QtZTI1ZC00ZGJmLWJmYmYtMDcxMWViM2MzMGIz%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228cf3641
+ 6-12d5-49c0-ad71-0c261a14b47c%22%7d>  \n\n会议 ID: 340 432 501 612 6 \n\
+ n密码: BH3xJ2M8 \n\n________________________________\n\n对于组织者:
+  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=8cf
+ 36416-12d5-49c0-ad71-0c261a14b47c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&threadId=19_meeting_YTE1NmUzN2QtZTI1ZC00ZGJmLWJmYmYtMDcxMWViM2MzMGIz
+ @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:印刷光泽研究
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
