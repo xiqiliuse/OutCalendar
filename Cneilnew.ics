@@ -468,6 +468,25 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Welcome Party for New Colleagues & Reading Club Activity
+DTSTART;TZID="GMT 标准时间":20251028T140000
+DTEND;TZID="GMT 标准时间":20251028T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello New Colleagues & Reading Club Members，\n\n \n\nThere c
+ omes the agenda for reference.\n\n \n\nLooking forward to seeing you！\n\
+ n \n\nTime\n\nTopic\n\n2m\n\n主持人开场\n\n30m\n\n破冰\n\n60m\n\n
+ 游戏环节\n\n18m\n\nQ&A\n\n10m\n\n结束+合照+伴手礼\n\n \n\n \n\n
+ Best regards\n\nJane XUE / 薛佳蕾\n\nHR Training Specilist\n\nContiTech
+  Surface Solutions\n\n \n\n \n\n \n
+LOCATION:Plant 篮球场
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Welcome Party for New Colleagues & Reading Club Activity
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EX浅色产品报废改善
 DTSTART;TZID="GMT 标准时间":20251028T143000
 DTEND;TZID="GMT 标准时间":20251028T153000
