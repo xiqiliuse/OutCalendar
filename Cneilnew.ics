@@ -4,40 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:Internal Training：项目管理系列课-进阶版
-DTSTART;TZID="GMT 标准时间":20251017T103000
-DTEND;TZID="GMT 标准时间":20251017T110000
-CLASS:PUBLIC
-DESCRIPTION:亲爱的各位同事，\n\n \n\n向大家隆重推出-《项
- 目管理系列内训课-进阶版》，欢迎感兴趣或有需要的同
- 事都来参加！\n\n \n\n*  讲师：Project Management Coach APAC 张
- 晖 \n\n*  适合对象：有项目管理经验，或全程参加完基础
- 课 \n\n*  课程安排：\n\n培训课程\n\n课时\n\n日期\n\n项目
- 节点概念及注意事项\n\n0.5h\n\n2025/8/15\n\n项目管理甘特图\
- n\n0.5h\n\n2025/9/19\n\n项目管理风险管理\n\n0.5h\n\n2025/10/17\n\n
-  \n\n_____________________________________________________________________
- ___________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTea
- msMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com
- /l/meetup-join/19%3ameeting_MjE0NmU3YWMtNzk1YS00NTFmLTk3M2EtN2ExYWJkMjUzNz
- kz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e
- 6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55%22%7d>  \n\
- n会议 ID: 344 510 235 993 \n\n密码: FM6Np6XL \n\n_____________________
- ___________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/
- meetingOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&tenantId=
- 8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MjE0NmU3YWMtNzk1Y
- S00NTFmLTk3M2EtN2ExYWJkMjUzNzkz@thread.v2&messageId=0&language=zh-CN>  \n\
- n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b
- -832a-1d684ab9ad7e>  \n\n_________________________________________________
- _______________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Internal Training：项目管理系列课-进阶版
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Openig Ceremony for 2025 Qualilty&CBS Week
 DTSTART;TZID="GMT 标准时间":20251020T090000
 DTEND;TZID="GMT 标准时间":20251020T093000
@@ -932,6 +898,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2025 review & 2026 outlook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID="GMT 标准时间":20251118T101500
+DTEND;TZID="GMT 标准时间":20251118T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
