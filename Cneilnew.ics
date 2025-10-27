@@ -62,7 +62,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID="GMT 标准时间":20251028T101500
 DTEND;TZID="GMT 标准时间":20251028T110000
 CLASS:PUBLIC
@@ -71,7 +71,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:已取消: SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -811,6 +811,45 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:重阳节
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BDE系统异常应急处置方案讨论
+DTSTART;TZID="GMT 标准时间":20251029T100000
+DTEND;TZID="GMT 标准时间":20251029T103000
+CLASS:PUBLIC
+DESCRIPTION:Hello ALL：\n\n \n\n10月26日车间BDE系统发生异常，
+ 无法正常登入，导致车间员工无法读取计划、工艺参数
+ 等信息，造成车间部分机台无法正常生产只能停机等待
+ ，造成了较大的动用、人工损耗；在紧急线上沟通期间
+ ，BDE系统恢复正常，未实行具体应急方案；\n\n \n\n针对
+ 本次BDE系统故障导致的异常停机，还请各位同事于本周
+ 三（10/29）到TPO现场关爱小屋（SM3斜对面会议室），共同
+ 商讨以下议题：\n\n1.	后续BDE系统更新/短暂停运等情况是
+ 否能提前通知预警；\n2.	在BDE系统故障断线无法确认具体
+ 恢复时间的情况下，确认各模块应急预案具体实施方法
+ ；\n\n \n\n感谢各位同事的支持！\n\n \n\n \n\nBest regards\, \n\
+ nHongxin SUN(Ethan)/孙洪鑫\n\nTPO Production Coordinator\n\nContiTech S
+ urface Solutions\n\n \n\n_________________________________________________
+ _______________________________\n\nMicrosoft Teams 是否需要帮助? <ht
+ tps://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ZTI1ZGQyZGQtMWEzMy00NDlmLT
+ hhMWEtOGEyYWY1Yzg0OGY3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22047b0819-689a-4b5f-b756-be67
+ af596943%22%7d>  \n\n会议 ID: 375 222 977 046 0 \n\n密码: oJ2mV6GF \n\
+ n________________________________\n\n对于组织者: 会议选项 <https:
+ //teams.microsoft.com/meetingOptions/?organizerId=047b0819-689a-4b5f-b756-
+ be67af596943&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
+ ting_ZTI1ZGQyZGQtMWEzMy00NDlmLThhMWEtOGEyYWY1Yzg0OGY3@thread.v2&messageId=
+ 0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/d
+ l/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________
+ _____________________________________________________\n\n \n
+LOCATION:关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDE系统异常应急处置方案讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
