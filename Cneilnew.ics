@@ -5,788 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20251028T083500
-DTEND;TZID="GMT 标准时间":20251028T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
- YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
- xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
- 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: SP部门周会
-DTSTART;TZID="GMT 标准时间":20251028T101500
-DTEND;TZID="GMT 标准时间":20251028T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chrysler Trial Review 
-DTSTART;TZID="GMT 标准时间":20251028T120000
-DTEND;TZID="GMT 标准时间":20251028T130000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Chrysler Trial Review 
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome Party for New Colleagues & Reading Club Activity
-DTSTART;TZID="GMT 标准时间":20251028T140000
-DTEND;TZID="GMT 标准时间":20251028T160000
-CLASS:PUBLIC
-DESCRIPTION:Hello New Colleagues & Reading Club Members，\n\n \n\nThere c
- omes the agenda for reference.\n\n \n\nLooking forward to seeing you！\n\
- n \n\nTime\n\nTopic\n\n2m\n\n主持人开场\n\n30m\n\n破冰\n\n60m\n\n
- 游戏环节\n\n18m\n\nQ&A\n\n10m\n\n结束+合照+伴手礼\n\n \n\n \n\n
- Best regards\n\nJane XUE / 薛佳蕾\n\nHR Training Specilist\n\nContiTech
-  Surface Solutions\n\n \n\n \n\n \n
-LOCATION:Plant 篮球场
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Welcome Party for New Colleagues & Reading Club Activity
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: EX浅色产品报废改善
-DTSTART;TZID="GMT 标准时间":20251028T143000
-DTEND;TZID="GMT 标准时间":20251028T153000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:TPO关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: EX浅色产品报废改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 review&2026 outlook
-DTSTART;TZID="GMT 标准时间":20251028T160000
-DTEND;TZID="GMT 标准时间":20251028T170000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZDQ5ZmQ0ODAtYzE2Yi00MWEyLTkyMmYtOW
- JkYzdlZmUzMTFj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 361 730 082 379 0 \n\n密码: oR2DY2BU \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDQ
- 5ZmQ0ODAtYzE2Yi00MWEyLTkyMmYtOWJkYzdlZmUzMTFj@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
- 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 review&2026 outlook
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power BI  
-DTSTART;TZID="GMT 标准时间":20251028T160000
-DTEND;TZID="GMT 标准时间":20251028T170000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_NzlhMTM3NzEtMjUzNS00YmVjLWJlMTItOW
- RhZGQ5MTYwZGJj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%228f925778-b23f-4e40-9d06-b06a5713688c
- %22%7d>  \n\n会议 ID: 395 230 018 329 1 \n\n密码: v7qS7SX2 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=8f925778-b23f-4e40-9d06-b06a5713
- 688c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Nzl
- hMTM3NzEtMjUzNS00YmVjLWJlMTItOWRhZGQ5MTYwZGJj@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
- 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Power BI  
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: New Die Enquiry for BCZ China_Follow up in Week44
-DTSTART;TZID="GMT 标准时间":20251028T173000
-DTEND;TZID="GMT 标准时间":20251028T180000
-CLASS:PUBLIC
-DESCRIPTION:Dear Nicolas\,\n\n \n\nThank you for your prompt feedback. Upo
- n receiving confirmation of your drawings\, we shall immediately initiate 
- internal review of the technical specifications. \n\nAdditionally\, we sha
- ll schedule a brief meeting on Tuesday to revisit the following agenda ite
- ms: \n\n1) Analysis of structural design differences and application scena
- rios between electrically heated die lips and thermal oil die lips\;\n\n2)
-  Analysis of advantages and disadvantages in replacing existing die heads 
- with thermal oil die lips\; \n\n3) Other matters.\n\n \n\n \n\n___________
- _____________________________________________________________________\n\nM
- icrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=z
- h-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/1
- 9%3ameeting_NGM3OGFiZTctMjgxNC00YjVkLWIwZTMtMjEzNGI0MDkyYTc5%40thread.v2/0
- ?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oi
- d%22%3a%223213188f-7330-486b-aa50-c1ab197afb63%22%7d>  \n\n会议 ID: 391 
- 749 308 104 2 \n\n密码: bN9w5MU2 \n\n________________________________\n\
- n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions
- /?organizerId=3213188f-7330-486b-aa50-c1ab197afb63&tenantId=8d4b558f-7b2e-
- 40ba-ad1f-e04d79e6265a&threadId=19_meeting_NGM3OGFiZTctMjgxNC00YjVkLWIwZTM
- tMjEzNGI0MDkyYTc5@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920f
- f7119>  \n\n______________________________________________________________
- __________________\n\n \n\n \n\n顺颂商祺 / Mit freundlichen Grüßen /
-  Best regards\, \n\n \n\nJian Cheng / 程键\n\n \n\nBCZ Plant Manufacturi
- ng Engineering\n\nInvestment Project Manager \n\nSurface Solutions\n\nGrou
- p Sector ContiTech\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke C
- hangshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内
- 饰材料（张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha
- \, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张
- 家港市金港镇南沙江海南路108号 215632\n\n \n\nMobile: +86 1895
- 1136382\n\nE-mail: jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@
- benecke-changshun.com.cn> \n\n\n\n \n\n \n\n______________________________
- _______________\n发件人: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhaus
- er.com <mailto:Nicolas.Broecher@Reifenhauser.com> > \n发送时间: 2025
- 年10月24日 22:32\n收件人: Cheng\, Jian <jian.cheng@benecke-changshun
- .com.cn <mailto:jian.cheng@benecke-changshun.com.cn> >\n抄送: Lu\, Patri
- ck <patrick.lu@benecke-changshun.com.cn <mailto:patrick.lu@benecke-changsh
- un.com.cn> >\n主题: AW: New Die Enquiry for BCZ China\n\n \n\nCAUTION: T
- his is an external email. Do not click or open any attachments unless you 
- recognize the sender and know that the content is safe. (http://links.cont
- i.de/mailcheck)\n\n \n\nHello Cheng\, \n\n \n\nAfter consulting with our d
- ie design department\, you will receive the latest manufacturing drawings 
- on Monday. \n\n \n\nWould you like to invite me again on Tuesday at the sa
- me time (11:30 a.m.) to discuss the next steps? \n\nI could also bring in 
- a die specialist so that we can talk about the lip heater (electric or oil
- ). \n\n \n\nI look forward to receiving your invitation.\n\n \n\nPlease no
- te that I will be away on business from Wednesday to Friday next week and 
- will be difficult to reach.\n\n \n\nBest Regards\n\n \n\ni.V. Nicolas Brö
- cher\n\nSenior Sales Manager / Components & Modifications\n\nT +49 2241 48
- 1-485\n\nF +49 2241 481-746\n\nnicolas.broecher@reifenhauser.com <mailto:n
- icolas.broecher@reifenhauser.com> \n\n \n\nhttps://reifenhauser.com/de/ser
- vice/ <https://reifenhauser.com/de/service/> \n\nwww.linkedin.com/company/
- reifenhausergroup <http://www.linkedin.com/company/reifenhausergroup> \n\n
-  \n\nVon: Bröcher\,Nicolas \nGesendet: Mittwoch\, 22. Oktober 2025 10:56\
- nAn: Cheng\, Jian <jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@
- benecke-changshun.com.cn> >\nCc: Lu\, Patrick <patrick.lu@benecke-changshu
- n.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\nBetreff: AW: New 
- Die Enquiry for BCZ China\n\n \n\nThank You very much\n\n \n\ni.V. Nicolas
-  Bröcher\n\nSenior Sales Manager / Components & Modifications\n\nT +49 22
- 41 481-485\n\nF +49 2241 481-746\n\nnicolas.broecher@reifenhauser.com <mai
- lto:nicolas.broecher@reifenhauser.com> \n\n \n\nhttps://reifenhauser.com/d
- e/service/ <https://reifenhauser.com/de/service/> \n\nwww.linkedin.com/com
- pany/reifenhausergroup <http://www.linkedin.com/company/reifenhausergroup>
-  \n\n \n\nVon: Cheng\, Jian <jian.cheng@benecke-changshun.com.cn <mailto:j
- ian.cheng@benecke-changshun.com.cn> > \nGesendet: Mittwoch\, 22. Oktober 2
- 025 10:54\nAn: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailt
- o:Nicolas.Broecher@Reifenhauser.com> >\nCc: Lu\, Patrick <patrick.lu@benec
- ke-changshun.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\nBetref
- f: 回复: New Die Enquiry for BCZ China\n\n \n\n	Achtung: Diese E-Mail ka
- m von außerhalb der Organisation. Klicken Sie nicht auf Links oder öffne
- n Sie keine Anhänge\, es sei denn\, Sie kennen den Absender und wissen\, 
- dass der Inhalt sicher ist.\nAttention: This email came from outside the o
- rganization. Do not click on links or open attachments unless you know the
-  sender and that the content is safe. \n\n \n\nNicolas\n\n \n\nI have take
- n screenshots of yesterday's meeting minutes for your review.\n\n\n\n \n\n
- Best regards\, \n\n \n\nJian Cheng / 程键 \n\nMobile: +86 18951136382\n\
- nE-mail: jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-ch
- angshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www.cont
- inental-industry.com/> \n\n \n\n\n\n \n\n \n\n \n\nInternal\n\n发件人: 
- Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Broec
- her@Reifenhauser.com> > \n发送时间: 2025年10月21日 19:38\n收件人
- : Cheng\, Jian <jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@ben
- ecke-changshun.com.cn> >\n抄送: Lu\, Patrick <patrick.lu@benecke-changsh
- un.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\n主题: AW: New 
- Die Enquiry for BCZ China\n\n \n\nCAUTION: This is an external email. Do n
- ot click or open any attachments unless you recognize the sender and know 
- that the content is safe. (http://links.conti.de/mailcheck)\n\n \n\nHello 
- Cheng\,\n\n \n\nThank you again for the good conversation.\n\n \n\nUnfortu
- nately\, I can no longer access the chat from the meeting...\n\nCould you 
- please send me the chat history? \n\nFive points were listed\, when I reme
- mber right. \n\n \n\nI am working on everything and will get back to you s
- oon. \n\n \n\nThank you and best regards\n\n \n\ni.V. Nicolas Bröcher\n\n
- Senior Sales Manager / Components & Modifications\n\nT +49 2241 481-485\n\
- nF +49 2241 481-746\n\nnicolas.broecher@reifenhauser.com <mailto:nicolas.b
- roecher@reifenhauser.com> \n\n \n\nhttps://reifenhauser.com/de/service/ <h
- ttps://reifenhauser.com/de/service/> \n\nwww.linkedin.com/company/reifenha
- usergroup <http://www.linkedin.com/company/reifenhausergroup> \n\n \n\nVon
- : Cheng\, Jian <jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@ben
- ecke-changshun.com.cn> > \nGesendet: Dienstag\, 21. Oktober 2025 12:10\nAn
- : Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Bro
- echer@Reifenhauser.com> >\nCc: Lu\, Patrick <patrick.lu@benecke-changshun.
- com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\nBetreff: 回复: Ne
- w Die Enquiry for BCZ China\n\n \n\n	Achtung: Diese E-Mail kam von außerh
- alb der Organisation. Klicken Sie nicht auf Links oder öffnen Sie keine A
- nhänge\, es sei denn\, Sie kennen den Absender und wissen\, dass der Inha
- lt sicher ist.\nAttention: This email came from outside the organization. 
- Do not click on links or open attachments unless you know the sender and t
- hat the content is safe. \n\n \n\nDear Nicolas\n\n \n\nPlease find attache
- d our current drawings. We would be grateful if your technical team could 
- kindly verify whether these are the latest versions. Thank you.\n\n \n\n \
- n\n \n\nBest regards\, \n\n \n\nJian Cheng / 程键 \n\nMobile: +86 189511
- 36382\n\nE-mail: jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@be
- necke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http://
- www.continental-industry.com/> \n\n \n\n\n\n \n\n \n\n \n\nInternal\n\n---
- --原始约会-----\n发件人: Cheng\, Jian \n发送时间: 2025年10月2
- 1日 12:57\n收件人: Bröcher\,Nicolas\n抄送: Lu\, Patrick\; Xie\, Lei
- \n主题: New Die Enquiry for BCZ China\n时间: 2025年10月21日星期
- 二 17:30-18:00(UTC+08:00) 北京，重庆，香港特别行政区，乌
- 鲁木齐。\n地点: Microsoft Teams 会议 \n\n \n\nDear Nicolas\n\n \n\
- nThanks a lot for your timely reply\, I look forward to our brief discussi
- on regarding the project's progress.\n\n \n\n \n\n \n\nBest regards\, \n\n
-  \n\nJian Cheng / 程键 \n\nMobile: +86 18951136382\n\nE-mail: jian.cheng
- @benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com.cn> \n\
- nWebsite: www.continental-industry.com <http://www.continental-industry.co
- m/> \n\n \n\n\n\n \n\n \n\n_______________________________________________
- _________________________________\n\nMicrosoft Teams 是否需要帮助? <
- https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https
- ://teams.microsoft.com/l/meetup-join/19%3ameeting_NGM3OGFiZTctMjgxNC00YjVk
- LWIwZTMtMjEzNGI0MDkyYTc5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-
- 7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223213188f-7330-486b-aa50-c1
- ab197afb63%22%7d>  \n\n会议 ID: 391 749 308 104 2 \n\n密码: bN9w5MU2 \
- n\n________________________________\n\n对于组织者: 会议选项 <http
- s://teams.microsoft.com/meetingOptions/?organizerId=3213188f-7330-486b-aa5
- 0-c1ab197afb63&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
- eeting_NGM3OGFiZTctMjgxNC00YjVkLWIwZTMtMjEzNGI0MDkyYTc5@thread.v2&messageI
- d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
- _______________________________________________________\n\n \n\n \n\n_____
- ________________________________________\n发件人: Bröcher\,Nicolas <Ni
- colas.Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@Reifenhauser.com>
-  > \n发送时间: 2025年10月20日 17:06\n收件人: Cheng\, Jian <jian.
- cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com.cn
- > >\n主题: AW: New Die Enquiry for BCZ China\n\n \n\nCAUTION: This is an
-  external email. Do not click or open any attachments unless you recognize
-  the sender and know that the content is safe. (http://links.conti.de/mail
- check)\n\n \n\nDear Cheng\, \n\n \n\nthank you for your fast feedback. \n\
- nUnfortunately 10am is not possible…  9:00 or 11:30 will work… is this
-  possible for you? \n\nBest Regards\n\n \n\ni.V. Nicolas Bröcher\n\nSenio
- r Sales Manager / Components & Modifications\n\nT +49 2241 481-485\n\nF +4
- 9 2241 481-746\n\nnicolas.broecher@reifenhauser.com <mailto:nicolas.broech
- er@reifenhauser.com> \n\n \n\nhttps://reifenhauser.com/de/service/ <https:
- //reifenhauser.com/de/service/> \n\nwww.linkedin.com/company/reifenhauserg
- roup <http://www.linkedin.com/company/reifenhausergroup> \n\n \n\nVon: Che
- ng\, Jian <jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-
- changshun.com.cn> > \nGesendet: Montag\, 20. Oktober 2025 10:57\nAn: Bröc
- her\,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@R
- eifenhauser.com> >\nBetreff: 回复: New Die Enquiry for BCZ China\n\n \n\
- n	Achtung: Diese E-Mail kam von außerhalb der Organisation. Klicken Sie n
- icht auf Links oder öffnen Sie keine Anhänge\, es sei denn\, Sie kennen 
- den Absender und wissen\, dass der Inhalt sicher ist.\nAttention: This ema
- il came from outside the organization. Do not click on links or open attac
- hments unless you know the sender and that the content is safe. \n\n \n\nD
- ear Nicolas\n\n \n\nThe project is currently progressing smoothly. Would y
- ou be available at this time tomorrow afternoon (10:00 am German time)? I'
- d like to discuss matters with you via Teams.\n\nIf time permits\, please 
- kindly reserve a slot for yourself\; it should take approximately fifteen 
- minutes.\n\n \n\nShane （BCZ China）\n\n \n\nInternal\n\n发件人: Brö
- cher\,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@
- Reifenhauser.com> > \n发送时间: 2025年10月20日 15:07\n收件人: Ch
- eng\, Jian <jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke
- -changshun.com.cn> >\; Lu\, Patrick <patrick.lu@benecke-changshun.com.cn <
- mailto:patrick.lu@benecke-changshun.com.cn> >\; Yaren\,Bilgin <Bilgin.Yare
- n@reifenhauser.com <mailto:Bilgin.Yaren@reifenhauser.com> >\; Xie\, Lei <l
- ei.xie@continental.com <mailto:lei.xie@continental.com> >\n抄送: Blichen
- berg\, Lars <lars.blichenberg@continental.com <mailto:lars.blichenberg@con
- tinental.com> >\; Tian\, Richard <ming.tian@benecke-changshun.com.cn <mail
- to:ming.tian@benecke-changshun.com.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@be
- necke-changshun.com.cn <mailto:Xiaoying.Liu@benecke-changshun.com.cn> >\; 
- Li\,David <David.Li@Reifenhauser.com <mailto:David.Li@Reifenhauser.com> >\
- ; Zhou\,Yunfan <Yunfan.Zhou@reifenhauser.com <mailto:Yunfan.Zhou@reifenhau
- ser.com> >\; Yao\,Yuan <Yuan.Yao@reifenhauser.com <mailto:Yuan.Yao@reifenh
- auser.com> >\n主题: AW: New Die Enquiry for BCZ China\n\n \n\nCAUTION: T
- his is an external email. Do not click or open any attachments unless you 
- recognize the sender and know that the content is safe. (http://links.cont
- i.de/mailcheck)\n\n \n\nDear Cheng\, \n\n \n\nI hope you are doing well. \
- n\nI would gladly ask about the status of this die project. \n\nAre there 
- any open questions? Is there anything Reifenhäuser can do for you at the 
- moment? \n\nA visit from Reifenhäuser China to your premises at Benecke w
- ould also be possible. Or a teams meeting with our specialists in Germany\
- n\nPlease let me know if there is anything I can do.\n\n \n\nThank you for
-  your feedback and best Regards\n\n \n\ni.V. Nicolas Bröcher\n\nSenior Sa
- les Manager / Components & Modifications\n\nT +49 2241 481-485\n\nF +49 22
- 41 481-746\n\nnicolas.broecher@reifenhauser.com <mailto:nicolas.broecher@r
- eifenhauser.com> \n\n \n\nhttps://reifenhauser.com/de/service/ <https://re
- ifenhauser.com/de/service/> \n\nwww.linkedin.com/company/reifenhausergroup
-  <http://www.linkedin.com/company/reifenhausergroup> \n\n \n\nVon: Bröche
- r\,Nicolas \nGesendet: Montag\, 23. Juni 2025 11:11\nAn: Cheng\, Jian <jia
- n.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com.
- cn> >\; Lu\, Patrick <patrick.lu@benecke-changshun.com.cn <mailto:patrick.
- lu@benecke-changshun.com.cn> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.
- com <mailto:Bilgin.Yaren@reifenhauser.com> >\; Xie\, Lei <lei.xie@continen
- tal.com <mailto:lei.xie@continental.com> >\nCc: Blichenberg\, Lars <lars.b
- lichenberg@continental.com <mailto:lars.blichenberg@continental.com> >\; T
- ian\, Ming <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-c
- hangshun.com.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn
-  <mailto:Xiaoying.Liu@benecke-changshun.com.cn> >\; Li\,David <David.Li@Re
- ifenhauser.com <mailto:David.Li@Reifenhauser.com> >\; Zhou\,Yunfan <Yunfan
- .Zhou@reifenhauser.com <mailto:Yunfan.Zhou@reifenhauser.com> >\; Yao\,Yuan
-  <Yuan.Yao@reifenhauser.com <mailto:Yuan.Yao@reifenhauser.com> >\nBetreff:
-  AW: New Die Enquiry for BCZ China\n\n \n\nDear Cheng\, \n\n \n\nThank you
-  very much for your interim message. \n\nIf there is anything we can do fr
- om Reifenhäuser's side in the meantime\, please gladly let me know.\n\n \
- n\nBest Regards\n\n \n\ni.V. Nicolas Bröcher\n\nSenior Sales Manager / Co
- mponents & Modifications\n\nT +49 2241 481-485\n\nF +49 2241 481-746\n\nni
- colas.broecher@reifenhauser.com <mailto:nicolas.broecher@reifenhauser.com>
-  \n\n \n\nhttps://reifenhauser.com/de/service/ <https://reifenhauser.com/d
- e/service/> \n\nwww.linkedin.com/company/reifenhausergroup <http://www.lin
- kedin.com/company/reifenhausergroup> \n\n \n\nVon: Cheng\, Jian <jian.chen
- g@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com.cn> > 
- \nGesendet: Montag\, 23. Juni 2025 10:56\nAn: Bröcher\,Nicolas <Nicolas.B
- roecher@Reifenhauser.com <mailto:Nicolas.Broecher@Reifenhauser.com> >\; Lu
- \, Patrick <patrick.lu@benecke-changshun.com.cn <mailto:patrick.lu@benecke
- -changshun.com.cn> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mailt
- o:Bilgin.Yaren@reifenhauser.com> >\; Xie\, Lei <lei.xie@continental.com <m
- ailto:lei.xie@continental.com> >\nCc: Blichenberg\, Lars <lars.blichenberg
- @continental.com <mailto:lars.blichenberg@continental.com> >\; Tian\, Ming
-  <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-changshun.c
- om.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn <mailto:X
- iaoying.Liu@benecke-changshun.com.cn> >\; Li\,David <David.Li@Reifenhauser
- .com <mailto:David.Li@Reifenhauser.com> >\; Zhou\,Yunfan <Yunfan.Zhou@reif
- enhauser.com <mailto:Yunfan.Zhou@reifenhauser.com> >\; Yao\,Yuan <Yuan.Yao
- @reifenhauser.com <mailto:Yuan.Yao@reifenhauser.com> >\nBetreff: 回复: N
- ew Die Enquiry for BCZ China\n\n \n\n	Achtung: Diese E-Mail kam von außer
- halb der Organisation. Klicken Sie nicht auf Links oder öffnen Sie keine 
- Anhänge\, es sei denn\, Sie kennen den Absender und wissen\, dass der Inh
- alt sicher ist.\nAttention: This email came from outside the organization.
-  Do not click on links or open attachments unless you know the sender and 
- that the content is safe. \n\n \n\nDear Nicolas\n\n \n\nThank you for the 
- detailed quotation! We are proceeding the project application and will upd
- ate you on the progress in a timely manner.\n\n \n\n \n\n \n\nBest regards
- \, \n\n \n\nJian Cheng / 程键 \n\nMobile: +86 18951136382\n\nE-mail: jia
- n.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com.
- cn> \n\nWebsite: www.continental-industry.com <http://www.continental-indu
- stry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n\n发件人: Bröcher\,Nicolas
-  <Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@Reifenhauser.
- com> > \n发送时间: 2025年6月20日 20:54\n收件人: Cheng\, Jian <ji
- an.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com
- .cn> >\; Lu\, Patrick <patrick.lu@benecke-changshun.com.cn <mailto:patrick
- .lu@benecke-changshun.com.cn> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser
- .com <mailto:Bilgin.Yaren@reifenhauser.com> >\; Xie\, Lei <lei.xie@contine
- ntal.com <mailto:lei.xie@continental.com> >\n抄送: Blichenberg\, Lars <l
- ars.blichenberg@continental.com <mailto:lars.blichenberg@continental.com> 
- >\; Tian\, Richard <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@b
- enecke-changshun.com.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshu
- n.com.cn <mailto:Xiaoying.Liu@benecke-changshun.com.cn> >\; Li\,David <Dav
- id.Li@Reifenhauser.com <mailto:David.Li@Reifenhauser.com> >\; Zhou\,Yunfan
-  <Yunfan.Zhou@reifenhauser.com <mailto:Yunfan.Zhou@reifenhauser.com> >\; Y
- ao\,Yuan <Yuan.Yao@reifenhauser.com <mailto:Yuan.Yao@reifenhauser.com> >\n
- 主题: AW: New Die Enquiry for BCZ China\n\n \n\nCAUTION: This is an exte
- rnal email. Do not click or open any attachments unless you recognize the 
- sender and know that the content is safe. (http://links.conti.de/mailcheck
- )\n\n \n\nDear Cheng\,\n\n \n\nplease find attached our quotation for the 
- flat die 2200mm. \n\nThe die is now calculated 1:1 like your existing die 
- with drawing EDS 17060439-000-04.\n\n \n\nThe existing original die from t
- he Krauss Maffei line is made by EDS. \n\nAs you know\, Reifenhäuser took
-  over the EDS company. \n\nWe therefore have all the drawings of the origi
- nal die and can reproduce them 1:1.\n\n \n\nWe can gladly make slight chan
- ges to the die on request. \n\nPlease note that the bolts for mounting in 
- a die trolley are not included.\n\n \n\nFor commissioning\, I have calcula
- ted a Reifenhäuser process engineer for approx. 4 days at your site. This
-  could be Billy\, for example. \n\nHere we assume that Benecke will instal
- l the die independently and that our technician will carry out the commiss
- ioning.\n\nYou can find a breakdown of the costs in the attached service b
- udget calculation\n\n \n\nI would be very pleased if our quotation appeals
-  to you.\n\n \n\nI will gladly answer any questions you may have. \n\nGlad
- ly also our team from Reifenhäuser China can make a visit on your side to
-  discuss the quotation in detail. \n\n \n\nI look forward to your feedback
- .\n\n \n\nBest regards\n\n \n\ni.V. Nicolas Bröcher\n\nSenior Sales Manag
- er / Components & Modifications\n\nT +49 2241 481-485\n\nF +49 2241 481-74
- 6\n\nnicolas.broecher@reifenhauser.com <mailto:nicolas.broecher@reifenhaus
- er.com> \n\n \n\nhttps://reifenhauser.com/de/service/ <https://reifenhause
- r.com/de/service/> \n\nwww.linkedin.com/company/reifenhausergroup <http://
- www.linkedin.com/company/reifenhausergroup> \n\n \n\nVon: Cheng\, Jian <ji
- an.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com
- .cn> > \nGesendet: Dienstag\, 17. Juni 2025 11:01\nAn: Bröcher\,Nicolas <
- Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@Reifenhauser.co
- m> >\; Lu\, Patrick <patrick.lu@benecke-changshun.com.cn <mailto:patrick.l
- u@benecke-changshun.com.cn> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.c
- om <mailto:Bilgin.Yaren@reifenhauser.com> >\; Xie\, Lei <lei.xie@continent
- al.com <mailto:lei.xie@continental.com> >\nCc: Blichenberg\, Lars <lars.bl
- ichenberg@continental.com <mailto:lars.blichenberg@continental.com> >\; Ti
- an\, Ming <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-ch
- angshun.com.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn 
- <mailto:Xiaoying.Liu@benecke-changshun.com.cn> >\nBetreff: 回复: New Die
-  Enquiry for BCZ China\n\n \n\n	Achtung: Diese E-Mail kam von außerhalb d
- er Organisation. Klicken Sie nicht auf Links oder öffnen Sie keine Anhän
- ge\, es sei denn\, Sie kennen den Absender und wissen\, dass der Inhalt si
- cher ist.\nAttention: This email came from outside the organization. Do no
- t click on links or open attachments unless you know the sender and that t
- he content is safe. \n\n \n\nDear Nicolas\n\n \n\nDue to the urgent nature
-  of the project budget\, this quotation is very important to our company. 
- We hope that your company will give it priority and thank you for your coo
- peration. \n\nWe look forward to receiving your competitive project budget
-  quotation. Thank you.\n\n \n\n \n\nBest regards\, \n\n \n\nJian Cheng / 
- 程键 \n\nMobile: +86 18951136382\n\nE-mail: jian.cheng@benecke-changshun
- .com.cn <mailto:jian.cheng@benecke-changshun.com.cn> \n\nWebsite: www.cont
- inental-industry.com <http://www.continental-industry.com/> \n\n \n\n\n\n 
- \n\n \n\n \n\nInternal\n\n发件人: Cheng\, Jian \n发送时间: 2025年6
- 月13日 16:30\n收件人: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhause
- r.com <mailto:Nicolas.Broecher@Reifenhauser.com> >\; Lu\, Patrick <patrick
- .lu@benecke-changshun.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> 
- >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mailto:Bilgin.Yaren@reif
- enhauser.com> >\; Xie\, Lei <lei.xie@continental.com <mailto:lei.xie@conti
- nental.com> >\n抄送: Blichenberg\, Lars <lars.blichenberg@continental.co
- m <mailto:lars.blichenberg@continental.com> >\; Tian\, Richard <ming.tian@
- benecke-changshun.com.cn <mailto:ming.tian@benecke-changshun.com.cn> >\; L
- iu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn <mailto:Xiaoying.Liu@
- benecke-changshun.com.cn> >\n主题: 回复: New Die Enquiry for BCZ China
- \n\n \n\nDear Nicolas\n\n Thank you very much for your interest and suppor
- t for this project. Currently\, our project is in the project budget quota
- tion stage\, and we urgently need your quotation as an important reference
-  for the subsequent project advancement. \n\nIn order to ensure the smooth
-  progress of the project\, please provide the quotation as soon as possibl
- e so that we can proceed with this project promptly.\n\nLooking forward to
-  your reply soon.\n\n \n\n \n\nBest regards\, \n\n \n\nJian Cheng / 程键
-  \n\nMobile: +86 18951136382\n\nE-mail: jian.cheng@benecke-changshun.com.c
- n <mailto:jian.cheng@benecke-changshun.com.cn> \n\nWebsite: www.continenta
- l-industry.com <http://www.continental-industry.com/> \n\n \n\n\n\n \n\n \
- n\n \n\n发件人: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.com <m
- ailto:Nicolas.Broecher@Reifenhauser.com> > \n发送时间: 2025年6月11
- 日 15:32\n收件人: Cheng\, Jian <jian.cheng@benecke-changshun.com.cn <m
- ailto:jian.cheng@benecke-changshun.com.cn> >\; Lu\, Patrick <patrick.lu@be
- necke-changshun.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\; Ya
- ren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mailto:Bilgin.Yaren@reifenhaus
- er.com> >\; Xie\, Lei <lei.xie@continental.com <mailto:lei.xie@continental
- .com> >\n抄送: Blichenberg\, Lars <lars.blichenberg@continental.com <mai
- lto:lars.blichenberg@continental.com> >\; Tian\, Richard <ming.tian@beneck
- e-changshun.com.cn <mailto:ming.tian@benecke-changshun.com.cn> >\; Liu\, X
- iaoying <Xiaoying.Liu@benecke-changshun.com.cn <mailto:Xiaoying.Liu@beneck
- e-changshun.com.cn> >\n主题: AW: New Die Enquiry for BCZ China\n\n \n\nC
- AUTION: This is an external email. Do not click or open any attachments un
- less you recognize the sender and know that the content is safe. (http://l
- inks.conti.de/mailcheck)\n\n \n\nDear Cheng\, \n\n \n\nthank you for your 
- feedback. \n\nThe die quotation will follow soon. \n\n \n\nBest Regards\n\
- n \n\ni.V. Nicolas Bröcher\n\nSenior Sales Manager / Components & Modific
- ations\n\nT +49 2241 481-485\n\nF +49 2241 481-746\n\nnicolas.broecher@rei
- fenhauser.com <mailto:nicolas.broecher@reifenhauser.com> \n\n \n\nhttps://
- reifenhauser.com/de/service/ <https://reifenhauser.com/de/service/> \n\nww
- w.linkedin.com/company/reifenhausergroup <http://www.linkedin.com/company/
- reifenhausergroup> \n\n \n\n \n\nInternal\n\nVon: Cheng\, Jian <jian.cheng
- @benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com.cn> > \
- nGesendet: Mittwoch\, 11. Juni 2025 09:02\nAn: Bröcher\,Nicolas <Nicolas.
- Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@Reifenhauser.com> >\; L
- u\, Patrick <patrick.lu@benecke-changshun.com.cn <mailto:patrick.lu@beneck
- e-changshun.com.cn> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mail
- to:Bilgin.Yaren@reifenhauser.com> >\; Xie\, Lei <lei.xie@continental.com <
- mailto:lei.xie@continental.com> >\nCc: Blichenberg\, Lars <lars.blichenber
- g@continental.com <mailto:lars.blichenberg@continental.com> >\; Tian\, Min
- g <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-changshun.
- com.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn <mailto:
- Xiaoying.Liu@benecke-changshun.com.cn> >\nBetreff: 回复: New Die Enquiry
-  for BCZ China\n\n \n\n	Achtung: Diese E-Mail kam von außerhalb der Organ
- isation. Klicken Sie nicht auf Links oder öffnen Sie keine Anhänge\, es 
- sei denn\, Sie kennen den Absender und wissen\, dass der Inhalt sicher ist
- .\nAttention: This email came from outside the organization. Do not click 
- on links or open attachments unless you know the sender and that the conte
- nt is safe. \n\n \n\nDear Nicolas\n\n \n\nI am sorry for the lately reply.
- \n\nAfter re-evaluating the current production process and equipment compa
- tibility\, the project team has confirmed the following information. Pleas
- e refer to it.\n\n1.     For the die (for your item 1\,2\,3)： The newly 
- purchased die is consistent with the Ex2 existing die (EDS FSK-RG-2200\, 1
- 7060439-000-04) \, and no changes required.\n\nDue to slight differences i
- n the design standards and process parameters of different die spare parts
- \, additional debugging cycles may be required during actual production\, 
- especially when switching between different dies\, which may affect employ
- ees' operating habits.\n\nAdditionally\, we are satisfied with the product
- ion performance of the existing die.\n\n \n\n2.     For the die service tr
- olley (for your item 4)：Cancel budget quotation for this option.\n\nThe 
- function of the die service trolley can be temporarily handled through coo
- rdinated scheduling in the existing production line layout. In order to co
- ntrol costs reasonably\, this budget is not included in the project budget
-  quotation. The necessity of procurement can be re-evaluated later based o
- n the actual situation.\n\n \n\n \n\nBest regards\,\n\n \n\nJian Cheng / 
- 程键 \n\nMobile: +86 18951136382\n\nE-mail: jian.cheng@benecke-changshun
- .com.cn <mailto:jian.cheng@benecke-changshun.com.cn> \n\nWebsite: www.cont
- inental-industry.com <http://www.continental-industry.com/> \n\n \n\n\n\n 
- \n\n \n\nInternal\n\n发件人: Bröcher\,Nicolas <Nicolas.Broecher@Reifen
- hauser.com <mailto:Nicolas.Broecher@Reifenhauser.com> >\n发送时间: 202
- 5年6月6日 16:25\n收件人: Cheng\, Jian <jian.cheng@benecke-changshun.
- com.cn <mailto:jian.cheng@benecke-changshun.com.cn> >\; Lu\, Patrick <patr
- ick.lu@benecke-changshun.com.cn <mailto:patrick.lu@benecke-changshun.com.c
- n> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mailto:Bilgin.Yaren@r
- eifenhauser.com> >\; Xie\, Lei <lei.xie@continental.com <mailto:lei.xie@co
- ntinental.com> >\n抄送: Blichenberg\, Lars <lars.blichenberg@continental
- .com <mailto:lars.blichenberg@continental.com> >\; Tian\, Richard <ming.ti
- an@benecke-changshun.com.cn <mailto:ming.tian@benecke-changshun.com.cn> >\
- ; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn <mailto:Xiaoying.L
- iu@benecke-changshun.com.cn> >\n主题: AW: New Die Enquiry for BCZ China 
- \n\n \n\nCAUTION: This is an external email. Do not click or open any atta
- chments unless you recognize the sender and know that the content is safe.
-  (http://links.conti.de/mailcheck <http://links.conti.de/mailcheck> )\n\n 
- \n\nHello Cheng\,\n\n \n\nThank you very much for your fast and clear answ
- er.\n\nI think it's good to clarify these questions in advance so that we 
- can meet Benecke's expectations exactly with our die quotation!\n\n \n\nI 
- look forward to your feedback.\n\n \n\nBest regards\n\n \n\ni.V. Nicolas B
- röcher\n\nSenior Sales Manager / Components & Modifications\n\nT +49 2241
-  481-485\n\nF +49 2241 481-746\n\nnicolas.broecher@reifenhauser.com <mailt
- o:nicolas.broecher@reifenhauser.com> \n\n \n\nhttps://reifenhauser.com/de/
- service/ <https://reifenhauser.com/de/service/> \n\nwww.linkedin.com/compa
- ny/reifenhausergroup <http://www.linkedin.com/company/reifenhausergroup> \
- n\n \n\n \n\nInternal\n\nVon: Cheng\, Jian <jian.cheng@benecke-changshun.c
- om.cn <mailto:jian.cheng@benecke-changshun.com.cn> >\nGesendet: Freitag\, 
- 6. Juni 2025 10:14\nAn: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.c
- om <mailto:Nicolas.Broecher@Reifenhauser.com> >\; Lu\, Patrick <patrick.lu
- @benecke-changshun.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\;
-  Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mailto:Bilgin.Yaren@reifenh
- auser.com> >\; Xie\, Lei <lei.xie@continental.com <mailto:lei.xie@continen
- tal.com> >\nCc: Blichenberg\, Lars <lars.blichenberg@continental.com <mail
- to:lars.blichenberg@continental.com> >\; Tian\, Ming <ming.tian@benecke-ch
- angshun.com.cn <mailto:ming.tian@benecke-changshun.com.cn> >\; Liu\, Xiaoy
- ing <Xiaoying.Liu@benecke-changshun.com.cn <mailto:Xiaoying.Liu@benecke-ch
- angshun.com.cn> >\nBetreff: 回复: New Die Enquiry for BCZ China\n\n \n\n
- 	Achtung: Diese E-Mail kam von außerhalb der Organisation. Klicken Sie ni
- cht auf Links oder öffnen Sie keine Anhänge\, es sei denn\, Sie kennen d
- en Absender und wissen\, dass der Inhalt sicher ist.\nAttention: This emai
- l came from outside the organization. Do not click on links or open attach
- ments unless you know the sender and that the content is safe.\n\n \n\nDea
- r Nicolas\n\n \n\nThanks a lot for your timely reply.\n\nConsidering that 
- these matters require cross-departmental communication and confirmation\, 
- I will consolidate internal opinions as soon as possible and endeavor to u
- pdate you on the progress within two working days and provide a clear resp
- onse.\n\nThank you very much for your understanding and support.\n\nWe loo
- k forward to continuing to work with you efficiently to implement this pro
- ject.\n\n \n\nBest regards\,\n\n \n\nJian Cheng / 程键 \n\nMobile: +86 1
- 8951136382\n\nE-mail: jian.cheng@benecke-changshun.com.cn <mailto:jian.che
- ng@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <ht
- tp://www.continental-industry.com/> \n\n \n\n\n\n \n\n \n\n \n\nInternal\n
- \n发件人: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailto:
- Nicolas.Broecher@Reifenhauser.com> >\n发送时间: 2025年6月5日 23:03\
- n收件人: Lu\, Patrick <patrick.lu@benecke-changshun.com.cn <mailto:patr
- ick.lu@benecke-changshun.com.cn> >\; Cheng\, Jian <jian.cheng@benecke-chan
- gshun.com.cn <mailto:jian.cheng@benecke-changshun.com.cn> >\; Yaren\,Bilgi
- n <Bilgin.Yaren@reifenhauser.com <mailto:Bilgin.Yaren@reifenhauser.com> >\
- ; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn <mailto:Xiaoying.L
- iu@benecke-changshun.com.cn> >\n抄送: Blichenberg\, Lars <lars.blichenbe
- rg@continental.com <mailto:lars.blichenberg@continental.com> >\; Tian\, Ri
- chard <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-changs
- hun.com.cn> >\n主题: AW: New Die Enquiry for BCZ China\n\n \n\nCAUTION: 
- This is an external email. Do not click or open any attachments unless you
-  recognize the sender and know that the content is safe. (http://links.con
- ti.de/mailcheck <http://links.conti.de/mailcheck> )\n\n \n\nHello Cheng\,\
- n\nI am pleased to hear from you.\n\nThank you very much for your renewed 
- take on the project.\n\n \n\nI have checked the data again.\n\nWe can rebu
- ild the old FSK-RG-2200 1:1 as follows:\n\n \n\n\n\n \n\nPlease find here 
- questions to the market positions 1\, 2\, 3\n\n \n\n \n\n1.)\n\nAre you sa
- tisfied with the lip opening system on the FSK-RG-2200?\n\nPlease gladly s
- hare your experiences with this system with us!\n\nWe also have an improve
- d chain version.\n\n\n\n \n\nWould this be an alternative for you?\n\n \n\
- n2.)\n\nExperience has shown that the flexible lip system does not work ve
- ry well. Are you happy with it?\n\nWe would gladly offer a slightly modifi
- ed version of the flexlip system. That's certainly OK for you\, isn't it?\
- n\n\n\n \n\n3.)\n\nAre you satisfied with the width adjustment?\n\nWith th
- is type of die including the lip inserts and lip heating\, there is only t
- his variant of width adjustment possible. Please gladly share your experie
- nces with this width adjustment with us.\n\nWe will integrate it the offer
- .\n\n \n\n \n\n4.)\n\nTo the die trolley:\n\nWould you prefer the trolley 
- you know from the Reifenhäuser line?\n\n\n\n \n\nWe could also offer anot
- her newer solution:\n\n\n\n \n\nWhich variant of die trolley may I include
-  in the offer?\n\n \n\n \n\n \n\nAfter your feedback I will send the offer
-  immediately.\n\n \n\nThank you so much and best Regrads\n\n \n\n \n\ni.V.
-  Nicolas Bröcher\n\nSenior Sales Manager / Components & Modifications\n\n
- T +49 2241 481-485\n\nF +49 2241 481-746\n\nnicolas.broecher@reifenhauser.
- com <mailto:nicolas.broecher@reifenhauser.com> \n\n \n\nhttps://reifenhaus
- er.com/de/service/ <https://reifenhauser.com/de/service/> \n\nwww.linkedin
- .com/company/reifenhausergroup <http://www.linkedin.com/company/reifenhaus
- ergroup> \n\n \n\n \n\nInternal\n\nVon: Lu\, Patrick <patrick.lu@benecke-c
- hangshun.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\nGesendet: 
- Donnerstag\, 5. Juni 2025 10:11\nAn: Cheng\, Jian <jian.cheng@benecke-chan
- gshun.com.cn <mailto:jian.cheng@benecke-changshun.com.cn> >\; Bröcher\,Ni
- colas <Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@Reifenha
- user.com> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mailto:Bilgin.
- Yaren@reifenhauser.com> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun
- .com.cn <mailto:Xiaoying.Liu@benecke-changshun.com.cn> >\nCc: Blichenberg\
- , Lars <lars.blichenberg@continental.com <mailto:lars.blichenberg@continen
- tal.com> >\; Tian\, Ming <ming.tian@benecke-changshun.com.cn <mailto:ming.
- tian@benecke-changshun.com.cn> >\nBetreff: 回复: New Die Enquiry for BCZ
-  China\n\n \n\n	Achtung: Diese E-Mail kam von außerhalb der Organisation.
-  Klicken Sie nicht auf Links oder öffnen Sie keine Anhänge\, es sei denn
- \, Sie kennen den Absender und wissen\, dass der Inhalt sicher ist.\nAtten
- tion: This email came from outside the organization. Do not click on links
-  or open attachments unless you know the sender and that the content is sa
- fe.\n\n \n\nHello Nicolas\,\n\n \n\nWould you please make an update budget
-  quotation to us as soon as possible? This is quite urgent for us to check
-  it.\n\nThanks a lot.\n\n \n\nBest regards\,\n\n \n\nPatrick Lu\n\nHead of
-  ME BCZ\n\nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visitor a
- ddress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
- 克长顺汽车内饰材料（张家港）有限公司\n\nNo.108\,Jianghai
-  South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.Ch
- ina\n江苏省张家港市金港镇南沙江海南路108号 215632\n\n \n\
- nMobile: +86 189 5113 6612\n\nE-mail: Patrick.lu@benecke-changshun.com.cn 
- <mailto:Patrick.lu@benecke-changshun.com.cn> \n\nWebsite: www.continental-
- industry.com <http://www.continental-industry.com/> \n\n \n\n\n\n \n\n \n\
- nInternal\n\n发件人: Cheng\, Jian <jian.cheng@benecke-changshun.com.cn 
- <mailto:jian.cheng@benecke-changshun.com.cn> >\n发送时间: 2025年6月4
- 日 10:34\n收件人: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.com
-  <mailto:Nicolas.Broecher@Reifenhauser.com> >\; Yaren\,Bilgin <Bilgin.Yare
- n@reifenhauser.com <mailto:Bilgin.Yaren@reifenhauser.com> >\n抄送: Lu\, 
- Patrick <patrick.lu@benecke-changshun.com.cn <mailto:patrick.lu@benecke-ch
- angshun.com.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn 
- <mailto:Xiaoying.Liu@benecke-changshun.com.cn> >\n主题: 回复: New Die 
- Enquiry for BCZ China\n\n \n\nDear Nicolas\n\n \n\nTime flies\, and it has
-  been six months since our last communication. I have been wanting to cont
- act you\, but due to the impact of the group's investment policy\, the pro
- ject has been temporarily delayed.\n\nAfter communication between our plan
- t management and our central group\, the project is once again moving forw
- ard steadily.\n\nAt this point\, I would like to ask you to provide a proj
- ect budget quotation\, which includes the following: a complete die (same 
- as FSK-RG-2200)\, a complete service trolley\, on-site testing services\, 
- and other relevant items.\n\nLooking forward to your reply soon!\n\n \n\n 
- \n\nBest regards\,\n\n \n\nJian Cheng / 程键 \n\nMobile: +86 18951136382
- \n\nE-mail: jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke
- -changshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www.c
- ontinental-industry.com/> \n\n \n\n\n\n \n\n \n\n \n\n \n\nInternal\n\n发
- 件人: Bröcher\,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailto:Nicol
- as.Broecher@Reifenhauser.com> >\n发送时间: 2024年12月18日 15:59\n
- 收件人: Cheng\, Jian <jian.cheng@benecke-changshun.com.cn <mailto:jian.
- cheng@benecke-changshun.com.cn> >\; Zhou\,Yunfan <Yunfan.Zhou@reifenhauser
- .com <mailto:Yunfan.Zhou@reifenhauser.com> >\; Yaren\,Bilgin <Bilgin.Yaren
- @reifenhauser.com <mailto:Bilgin.Yaren@reifenhauser.com> >\n抄送: Lu\, P
- atrick <patrick.lu@benecke-changshun.com.cn <mailto:patrick.lu@benecke-cha
- ngshun.com.cn> >\; Liu\, Xiaoying <Xiaoying.Liu@benecke-changshun.com.cn <
- mailto:Xiaoying.Liu@benecke-changshun.com.cn> >\n主题: AW: New Die Enqui
- ry for BCZ China\n\n \n\nCAUTION: This is an external email. Do not click 
- or open any attachments unless you recognize the sender and know that the 
- content is safe. (http://links.conti.de/mailcheck <http://links.conti.de/m
- ailcheck> )\n\n \n\nDear Jian Cheng\,\n\n \n\nthank you for your email and
-  die inquiry. Billy and my self are still the right contact partner for yo
- ur.\n\nSo leave it in my hand and I will send our quotation asap.\n\nI wil
- l check now the documentations of EDS\, you know EDS has been transferred 
- to Reifenhäuser…\n\nBecause we are in Christmas Time from 20th of Dec. 
- The quotation will follow in beginning of next year.\n\n \n\nLets gladly s
- tay in contact.\n\n \n\nBest Regards\n\n \n\ni.V. Nicolas Bröcher\n\nSale
- s Manager / Components & Modifications\n\nT +49 2241 481-485\n\nF +49 2241
-  481-746\n\nnicolas.broecher@reifenhauser.com <mailto:nicolas.broecher@rei
- fenhauser.com> \n\n \n\nhttps://reifenhauser.com/de/service/ <https://reif
- enhauser.com/de/service/> \n\nwww.linkedin.com/company/reifenhausergroup <
- http://www.linkedin.com/company/reifenhausergroup> \n\n \n\n \n\nFür alle
-  aktuellen Informationen rund um die Reifenhäuser Gruppe können\n\nSie s
- ich hier <https://seu2.cleverreach.com/f/260886-262135/>  für den Newslet
- ter anmelden.\n\n \n\nFor all current information about the Reifenhäuser 
- Group you can\n\nSign up for the newsletter here <https://seu2.cleverreach
- .com/f/260886-259725/> .\n\n \n\n \n\nInternal\n\nVon: Cheng\, Jian <jian.
- cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-changshun.com.cn
- > >\nGesendet: Mittwoch\, 18. Dezember 2024 08:49\nAn: Zhou\,Yunfan <Yunfa
- n.Zhou@reifenhauser.com <mailto:Yunfan.Zhou@reifenhauser.com> >\; Bröcher
- \,Nicolas <Nicolas.Broecher@Reifenhauser.com <mailto:Nicolas.Broecher@Reif
- enhauser.com> >\; Yaren\,Bilgin <Bilgin.Yaren@reifenhauser.com <mailto:Bil
- gin.Yaren@reifenhauser.com> >\nCc: Lu\, Patrick <patrick.lu@benecke-changs
- hun.com.cn <mailto:patrick.lu@benecke-changshun.com.cn> >\; Liu\, Xiaoying
-  <Xiaoying.Liu@benecke-changshun.com.cn <mailto:Xiaoying.Liu@benecke-chang
- shun.com.cn> >\nBetreff: New Die Enquiry for BCZ China\n\n \n\n	Achtung: D
- iese E-Mail kam von außerhalb der Organisation. Klicken Sie nicht auf Lin
- ks oder öffnen Sie keine Anhänge\, es sei denn\, Sie kennen den Absender
-  und wissen\, dass der Inhalt sicher ist.\nAttention: This email came from
-  outside the organization. Do not click on links or open attachments unles
- s you know the sender and that the content is safe.\n\n \n\nDear Director 
- Zhou\n\n \n\nAs we discussed on the phone\, we (Benecke Changshun) want to
-  prepare a new die for our extrusion line (manufactured by Other)，but we
-  know the original die was made by EDS\, die information as below:\n\n\n\n
-  \n\nNote\, this is only a pre-project inquiry quotation\, it should inclu
- de the die itself (the same one as above) and all the related cost\, such 
- as onsite service for installation and all the auxiliary tolls.  \n\n \n\n
- Hope the demand is clear and we are happy to discuss this further if neces
- sary. Please convey my demand to the your colleagues involved.\n\nYour pro
- mpt response will be most appreciated.\n\n \n\n \n\n@Broecher\,Nicolas <ma
- ilto:Nicolas.Broecher@Reifenhauser.com>  @Yaren\,Bilgin <mailto:Bilgin.Yar
- en@reifenhauser.com> \n\nDear Nicolas\, and my dear friend-Billy\n\nI am n
- ot sure whether you still in charge of this business\, if yes it will be p
- erfect. If not\, please do me a favor to convey it to your related colleag
- ues.\n\n \n\n \n\n \n\n顺颂商祺 / Mit freundlichen Grüßen / Best reg
- ards\,\n\n \n\nJian Cheng / 程键\n\n \n\nBCZ Plant Manufacturing Enginee
- ring\n\nInvestment Project Manager\n\nSurface Solutions\n\nGroup Sector Co
- ntiTech\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Au
- to Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（
- 张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang T
- own\, Zhangjiagang\, 215632 Jiangsu\, P.R.China\n江苏省张家港市金
- 港镇南沙江海南路108号 215632\n\n \n\nMobile: +86 18951136382\n\nE
- -mail: jian.cheng@benecke-changshun.com.cn <mailto:jian.cheng@benecke-chan
- gshun.com.cn> \n\n\n\n \n\n \n\nInternal\n\n \n\nReifenhäuser Cast Sheet 
- Coating GmbH & Co. KG\nSpicher Straße 46\, 53844 Troisdorf\, Germany\nSit
- z der Gesellschaft: Troisdorf\nRegistergericht Siegburg\, Reg.Nr. HR A 464
- 8\, USt-IdNr. DE 814 672 091\, Steuer-Nr. 220/5760/0470\nReifenhäuser Gmb
- H & Co. KG Maschinenfabrik\nRegistergericht Siegburg\, Reg.Nr. HR B 9359\n
- Geschäftsführer: Karsten Kratz\, Dr. Paul Walach\n\nPlease note: This me
- ssage may contain information which is privileged\, confidential and propr
- ietary.\nInformation on the processing of personal data can be found at th
- e following link: Privacy <https://reifenhauser.com/en/data-protection> \n
- Informationen zur Verarbeitung personenbezogener Daten finden Sie unter fo
- lgendem Link: Datenschutz <https://www.reifenhauser.com/de/pages/datenschu
- tz> \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: New Die Enquiry for BCZ China_Follow up in Week44
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:重阳节
-DTSTART;TZID="GMT 标准时间":20251029T000000
-DTEND;TZID="GMT 标准时间":20251030T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:重阳节
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:重阳节
-DTSTART;TZID="GMT 标准时间":20251029T000000
-DTEND;TZID="GMT 标准时间":20251030T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:重阳节
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20251029T083500
 DTEND;TZID="GMT 标准时间":20251029T090500
 CLASS:PUBLIC
@@ -809,6 +27,42 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:系统冻结色母处理方案讨论
+DTSTART;TZID="GMT 标准时间":20251029T100000
+DTEND;TZID="GMT 标准时间":20251029T103000
+CLASS:PUBLIC
+DESCRIPTION:序号\n\n物料\n\n批次\n\n数量(KG)\n\n标准成本(CNY)\
+ n\n金额(CNY)\n\n日期\n\n冻结日期\n\n对应产品\n\n备注\n\n1\n\
+ nFRZ200013V001\n\n8903226\n\n18\n\n82.14\n\n1478.52\n\n25.02.10\n\n25.04.0
+ 9\n\nU2100169L1580\n\n颜色不好\n\n2\n\nFRZ200351V005\n\n8906438\n\n21\
+ n\n119.98\n\n2519.58\n\n25.03.06\n\n25.03.21\n\nZ2300394A0860A\n\n　\n\n3
+ \n\nFRZ200351V005\n\n8909333\n\n30.5\n\n119.98\n\n3659.39\n\n25.03.18\n\n2
+ 5.03.21\n\nZ2300394A0860A\n\n　\n\n4\n\nFRZ200236V006\n\n8926451\n\n29.5\
+ n\n74.71\n\n2203.95\n\n25.06.30\n\n25.07.01\n\nU2100222L1200\n\n白点\n\n
+ 合计\n\n		99\n\n	9861.44\n\n				\n\n \n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams 是
+ 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即
+ 加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDNjZ
+ mY0ODEtM2FjYi00MGEyLWFjYTMtODdmMzUzOTMwY2Jh%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225066149
+ d-ce15-4518-8efa-0b7afc4618db%22%7d>  \n\n会议 ID: 321 816 776 355 5 \n\
+ n密码: V9xi7W2D \n\n________________________________\n\n对于组织者:
+  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=506
+ 6149d-ce15-4518-8efa-0b7afc4618db&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&threadId=19_meeting_NDNjZmY0ODEtM2FjYi00MGEyLWFjYTMtODdmMzUzOTMwY2Jh
+ @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:系统冻结色母处理方案讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2060,6 +1314,75 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20251127T083500
+DTEND;TZID="GMT 标准时间":20251127T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project review
+DTSTART;TZID="GMT 标准时间":20251127T150000
+DTEND;TZID="GMT 标准时间":20251127T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZjU4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNG
+ U0NzdjNDUwNWZk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 363 291 673 202 0 \n\n密码: ov7o3jJ2 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjU
+ 4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNGU0NzdjNDUwNWZk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID="GMT 标准时间":20251127T230000
+DTEND;TZID="GMT 标准时间":20251128T000000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 2
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
