@@ -5,84 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20251029T083500
-DTEND;TZID="GMT 标准时间":20251029T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
- YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
- xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
- 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:系统冻结色母处理方案讨论
-DTSTART;TZID="GMT 标准时间":20251029T100000
-DTEND;TZID="GMT 标准时间":20251029T103000
-CLASS:PUBLIC
-DESCRIPTION:序号\n\n物料\n\n批次\n\n数量(KG)\n\n标准成本(CNY)\
- n\n金额(CNY)\n\n日期\n\n冻结日期\n\n对应产品\n\n备注\n\n1\n\
- nFRZ200013V001\n\n8903226\n\n18\n\n82.14\n\n1478.52\n\n25.02.10\n\n25.04.0
- 9\n\nU2100169L1580\n\n颜色不好\n\n2\n\nFRZ200351V005\n\n8906438\n\n21\
- n\n119.98\n\n2519.58\n\n25.03.06\n\n25.03.21\n\nZ2300394A0860A\n\n　\n\n3
- \n\nFRZ200351V005\n\n8909333\n\n30.5\n\n119.98\n\n3659.39\n\n25.03.18\n\n2
- 5.03.21\n\nZ2300394A0860A\n\n　\n\n4\n\nFRZ200236V006\n\n8926451\n\n29.5\
- n\n74.71\n\n2203.95\n\n25.06.30\n\n25.07.01\n\nU2100222L1200\n\n白点\n\n
- 合计\n\n		99\n\n	9861.44\n\n				\n\n \n\n_______________________________
- _________________________________________________\n\nMicrosoft Teams 是
- 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即
- 加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDNjZ
- mY0ODEtM2FjYi00MGEyLWFjYTMtODdmMzUzOTMwY2Jh%40thread.v2/0?context=%7b%22Ti
- d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225066149
- d-ce15-4518-8efa-0b7afc4618db%22%7d>  \n\n会议 ID: 321 816 776 355 5 \n\
- n密码: V9xi7W2D \n\n________________________________\n\n对于组织者:
-  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=506
- 6149d-ce15-4518-8efa-0b7afc4618db&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
- 6265a&threadId=19_meeting_NDNjZmY0ODEtM2FjYi00MGEyLWFjYTMtODdmMzUzOTMwY2Jh
- @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
- ub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______
- __________________________________________________________________________
- \n\n \n
-LOCATION:关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:系统冻结色母处理方案讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:生产过程改善-Saving
-DTSTART;TZID="GMT 标准时间":20251029T160000
-DTEND;TZID="GMT 标准时间":20251029T170000
-CLASS:PUBLIC
-DESCRIPTION:根据昨天会议，我们需要讨论一下TPO产品的降
- 本措施。\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:生产过程改善-Saving
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20251030T083500
 DTEND;TZID="GMT 标准时间":20251030T090500
 CLASS:PUBLIC
@@ -136,45 +58,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:CMB生产技能员工实操考核
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BDE系统异常应急处置方案讨论
-DTSTART;TZID="GMT 标准时间":20251030T140000
-DTEND;TZID="GMT 标准时间":20251030T143000
-CLASS:PUBLIC
-DESCRIPTION:Hello ALL：\n\n \n\n10月26日车间BDE系统发生异常，
- 无法正常登入，导致车间员工无法读取计划、工艺参数
- 等信息，造成车间部分机台无法正常生产只能停机等待
- ，造成了较大的动用、人工损耗；在紧急线上沟通期间
- ，BDE系统恢复正常，未实行具体应急方案；\n\n \n\n针对
- 本次BDE系统故障导致的异常停机，还请各位同事于本周
- 三（10/29）到TPO现场关爱小屋（SM3斜对面会议室），共同
- 商讨以下议题：\n\n1.	后续BDE系统更新/短暂停运等情况是
- 否能提前通知预警；\n2.	在BDE系统故障断线无法确认具体
- 恢复时间的情况下，确认各模块应急预案具体实施方法
- ；\n\n \n\n感谢各位同事的支持！\n\n \n\n \n\nBest regards\, \n\
- nHongxin SUN(Ethan)/孙洪鑫\n\nTPO Production Coordinator\n\nContiTech S
- urface Solutions\n\n \n\n_________________________________________________
- _______________________________\n\nMicrosoft Teams 是否需要帮助? <ht
- tps://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_ZTI1ZGQyZGQtMWEzMy00NDlmLT
- hhMWEtOGEyYWY1Yzg0OGY3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22047b0819-689a-4b5f-b756-be67
- af596943%22%7d>  \n\n会议 ID: 375 222 977 046 0 \n\n密码: oJ2mV6GF \n\
- n________________________________\n\n对于组织者: 会议选项 <https:
- //teams.microsoft.com/meetingOptions/?organizerId=047b0819-689a-4b5f-b756-
- be67af596943&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_mee
- ting_ZTI1ZGQyZGQtMWEzMy00NDlmLThhMWEtOGEyYWY1Yzg0OGY3@thread.v2&messageId=
- 0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/d
- l/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________
- _____________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BDE系统异常应急处置方案讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -419,6 +302,47 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BDE系统异常应急处置方案讨论
+DTSTART;TZID="GMT 标准时间":20251106T133000
+DTEND;TZID="GMT 标准时间":20251106T140000
+CLASS:PUBLIC
+DESCRIPTION:各位同事，由于时间冲突，本次会议时间修改
+ 到下周四，感谢各位！\n\n \n\n \n\n \n\nHello ALL：\n\n \n\n10
+ 月26日车间BDE系统发生异常，无法正常登入，导致车间员
+ 工无法读取计划、工艺参数等信息，造成车间部分机台
+ 无法正常生产只能停机等待，造成了较大的动用、人工
+ 损耗；在紧急线上沟通期间，BDE系统恢复正常，未实行
+ 具体应急方案；\n\n \n\n针对本次BDE系统故障导致的异常
+ 停机，还请各位同事于本周三（10/29）到TPO现场关爱小屋
+ （SM3斜对面会议室），共同商讨以下议题：\n\n1.	后续BDE
+ 系统更新/短暂停运等情况是否能提前通知预警；\n2.	在BD
+ E系统故障断线无法确认具体恢复时间的情况下，确认各
+ 模块应急预案具体实施方法；\n\n \n\n感谢各位同事的支
+ 持！\n\n \n\n \n\nBest regards\, \n\nHongxin SUN(Ethan)/孙洪鑫\n\nTPO
+  Production Coordinator\n\nContiTech Surface Solutions\n\n \n\n___________
+ _____________________________________________________________________\n\nM
+ icrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=z
+ h-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/1
+ 9%3ameeting_ZTI1ZGQyZGQtMWEzMy00NDlmLThhMWEtOGEyYWY1Yzg0OGY3%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oi
+ d%22%3a%22047b0819-689a-4b5f-b756-be67af596943%22%7d>  \n\n会议 ID: 375 
+ 222 977 046 0 \n\n密码: oJ2mV6GF \n\n________________________________\n\
+ n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions
+ /?organizerId=047b0819-689a-4b5f-b756-be67af596943&tenantId=8d4b558f-7b2e-
+ 40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZTI1ZGQyZGQtMWEzMy00NDlmLThhMWE
+ tOGEyYWY1Yzg0OGY3@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920f
+ f7119>  \n\n______________________________________________________________
+ __________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDE系统异常应急处置方案讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1398,6 +1322,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20251128T083500
+DTEND;TZID="GMT 标准时间":20251128T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
