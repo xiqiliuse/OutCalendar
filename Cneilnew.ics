@@ -1207,6 +1207,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Internal Training- How to make a good presentation
+DTSTART;TZID="GMT 标准时间":20251128T130000
+DTEND;TZID="GMT 标准时间":20251128T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n隆重向您推出内训课 《How to make 
+ a good presentation》\n\n \n\n讲师：Head of Technology Center APAC Dr.
+  Ma Yao 👏👏👏\n\n培训地点：CBC 401\n\n \n\nAgenda:\n\n13:00-14
+ :30 Internal Sharing\n\n14:30-15:00 实操答疑，可自带Presentation
+ 文件，马博将现场诊断评价PPT，给出改善建议\n\n \n\n \n\n
+  \n\n \n\n \n\n \n\n \n\n \n\n____________________________________________
+ ____________________________________\n\nMicrosoft Teams 是否需要帮助
+ ? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <ht
+ tps://teams.microsoft.com/l/meetup-join/19%3ameeting_NTBhMjc5NmMtYWE4Ni00M
+ DljLWJkMzUtNjBjYWU3NGIxZTU3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b55
+ 8f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca
+ -15ac86dc1e55%22%7d>  \n\n会议 ID: 380 094 632 981 04 \n\n密码: 8Yx9aA
+ 97 \n\n________________________________\n\n对于组织者: 会议选项 <
+ https://teams.microsoft.com/meetingOptions/?organizerId=cfb2d7f6-b0a0-4183
+ -80ca-15ac86dc1e55&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=
+ 19_meeting_NTBhMjc5NmMtYWE4Ni00MDljLWJkMzUtNjBjYWU3NGIxZTU3@thread.v2&mess
+ ageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud
+ .com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_____________________
+ ___________________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_CBC401_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Internal Training- How to make a good presentation
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20251201T083500
 DTEND;TZID="GMT 标准时间":20251201T090500
