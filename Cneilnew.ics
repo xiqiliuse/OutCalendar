@@ -5,67 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID="GMT 标准时间":20251104T083500
-DTEND;TZID="GMT 标准时间":20251104T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
- YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
- xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
- 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP部门周会
-DTSTART;TZID="GMT 标准时间":20251104T101500
-DTEND;TZID="GMT 标准时间":20251104T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:tesla VAVE 后续行动讨论
-DTSTART;TZID="GMT 标准时间":20251104T150000
-DTEND;TZID="GMT 标准时间":20251104T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\n\n \n\nTesla VAVE第三次验证已经安排了，
- 在这个量产批次变更配方8281589  Z2300406A0900A\n\n我们需
- 要提前确定好后续行动，不管是这次挤出达到预期还是
- 不及预期\n\n \n\n我们需要各位一起计算如果停机清理造
- 成的损失和实际VAVE的节省对冲后，能否有cost saving，如
- 果还有一笔可观的saving，需要各位一起评估能否立刻进
- 行切换\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:tesla VAVE 后续行动讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20251105T083500
 DTEND;TZID="GMT 标准时间":20251105T090500
 CLASS:PUBLIC
@@ -88,6 +27,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX2 Scalacne Setting and Control Point Reading
+DTSTART;TZID="GMT 标准时间":20251105T130000
+DTEND;TZID="GMT 标准时间":20251105T170000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\, 先把时间book掉以便随时支持。谢谢！\n
+ \n________________________________________________________________________
+ ________\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?om
+ kt=en-US>  \n\nJoin the meeting now <https://teams.microsoft.com/l/meetup-
+ join/19%3ameeting_NGEyZTY5MjMtMjdjMy00ZTkzLThjYTEtNmU2NzgzZDk5MWRj%40threa
+ d.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2
+ c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n\nMeeting I
+ D: 379 154 929 530 \n\nPasscode: qy2nr7Mc \n\n____________________________
+ ____\n\nFor organizers: Meeting options <https://teams.microsoft.com/meeti
+ ngOptions/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NGEyZTY5MjMtMjdjMy00ZT
+ kzLThjYTEtNmU2NzgzZDk5MWRj@thread.v2&messageId=0&language=en-US>  \n\nPriv
+ acy and security <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3
+ -92cf-aaf920ff7119>  \n\n_________________________________________________
+ _______________________________\n\n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2 Scalacne Setting and Control Point Reading
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1283,6 +1250,33 @@ BEGIN:VEVENT
 SUMMARY:PPI 早会
 DTSTART;TZID="GMT 标准时间":20251203T083500
 DTEND;TZID="GMT 标准时间":20251203T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID="GMT 标准时间":20251204T083500
+DTEND;TZID="GMT 标准时间":20251204T090500
 CLASS:PUBLIC
 DESCRIPTION: \n\n_________________________________________________________
  _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
