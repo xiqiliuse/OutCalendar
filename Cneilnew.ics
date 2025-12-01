@@ -1,0 +1,1199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251201T083500
+DTEND;TZID=GMT 标准时间:20251201T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BDE系统异常应急处置方案讨论二次会议
+DTSTART;TZID=GMT 标准时间:20251201T150000
+DTEND;TZID=GMT 标准时间:20251201T160000
+CLASS:PUBLIC
+DESCRIPTION:再次讨论\n\n在BDE系统故障断线无法确认具体恢
+ 复时间的情况下，确认各模块应急预案具体实施方法；\n
+ \n \n\n___________________________________________________________________
+ _____________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinT
+ eamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_OTQyZDBmMzgtOGM5Zi00ODMwLWE0MzktN2FhMjQ4ZTIz
+ ZTIw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d7
+ 9e6265a%22%2c%22Oid%22%3a%221a3733cb-733d-4b4a-aefd-ea890956ae9f%22%7d>  \
+ n\n会议 ID: 361 316 420 869 15 \n\n密码: af9WY6wT \n\n________________
+ ________________\n\n对于组织者: 会议选项 <https://teams.microsoft
+ .com/meetingOptions/?organizerId=1a3733cb-733d-4b4a-aefd-ea890956ae9f&tena
+ ntId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTQyZDBmMzgt
+ OGM5Zi00ODMwLWE0MzktN2FhMjQ4ZTIzZTIw@thread.v2&messageId=0&language=zh-CN>
+   \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775
+ -44b3-92cf-aaf920ff7119>  \n\n____________________________________________
+ ____________________________________\n\n \n
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDE系统异常应急处置方案讨论二次会议
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251202T083500
+DTEND;TZID=GMT 标准时间:20251202T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID=GMT 标准时间:20251202T101500
+DTEND;TZID=GMT 标准时间:20251202T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251203T083500
+DTEND;TZID=GMT 标准时间:20251203T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:tesla VAVE 配方切换讨论
+DTSTART;TZID=GMT 标准时间:20251203T110000
+DTEND;TZID=GMT 标准时间:20251203T113000
+CLASS:PUBLIC
+DESCRIPTION:特斯拉VAVE配方已经做了多轮了，经过工艺调整
+ 基本上可以稳定4000米左右挤出正常生产\n\n大家讨论看一
+ 下后续我们是不是可以批量切换这个配方了\n\n \n\n________
+ ________________________________________________________________________\n
+ \nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omk
+ t=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_Y2FhNjlhYmUtMTU3Yi00YjE1LWJhZDUtOGFhNjkzNzM4NTEy%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%2
+ 2Oid%22%3a%22d0c71fd7-aaa9-48d0-92cd-bf5bf8b39449%22%7d>  \n\n会议 ID: 3
+ 19 318 007 405 62 \n\n密码: xR2H5Fj3 \n\n_______________________________
+ _\n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=d0c71fd7-aaa9-48d0-92cd-bf5bf8b39449&tenantId=8d4b558f-7
+ b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Y2FhNjlhYmUtMTU3Yi00YjE1LWJ
+ hZDUtOGFhNjkzNzM4NTEy@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
+ 安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf9
+ 20ff7119>  \n\n___________________________________________________________
+ _____________________\n\n \n
+LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:tesla VAVE 配方切换讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soft 试制前准备
+DTSTART;TZID=GMT 标准时间:20251203T140000
+DTEND;TZID=GMT 标准时间:20251203T150000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Soft 试制前准备
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Process comparison for embossing and lamination of textile laminat
+ es Eis/BCZ
+DTSTART;TZID=GMT 标准时间:20251203T150000
+DTEND;TZID=GMT 标准时间:20251203T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\nPlease attend meeting together\, thanks!\n
+ \n \n\nSophia   11/27/2025\n\n \n\n-----原始约会-----\n发件人: Thie
+ le\, Marc <marc.thiele@continental.com> \n发送时间: 2025年11月26日 
+ 21:22\n收件人: Thiele\, Marc\; Chen\, Hongmei\; Zohner\, Sven\; Prohask
+ a\, Steven\; Weller\, David\n主题: Process comparison for embossing and 
+ lamination of textile laminates Eis/BCZ\n时间: 2025年12月3日星期三
+  8:00-9:00(UTC+01:00) 阿姆斯特丹，柏林，伯尔尼，罗马，斯
+ 德哥尔摩，维也纳。\n地点: Microsoft Teams-Besprechung\n\n \n\nH
+ ello Sopiha.\n\n \n\nWe want to compare the lamination of textiles.\n\n \n
+ \nOur information from R&D is\, that you are able to laminate and emboss y
+ our textile laminate with a std. web.\n\n \n\nCan you please forward the m
+ eeting to your embossing expert?\n\n \n\nThank you\n\n \n\nMarc\n\n_______
+ _________________________________________________________________________\
+ n\nMicrosoft Teams Benötigen Sie Hilfe? <https://aka.ms/JoinTeamsMeeting?
+ omkt=de-DE>  \n\nJetzt an der Besprechung teilnehmen <https://teams.micros
+ oft.com/l/meetup-join/19%3ameeting_NjZjYjY2ZTktMjY4ZC00OWZiLWJiMzAtYzcxNGY
+ zNjUzNmQw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-
+ e04d79e6265a%22%2c%22Oid%22%3a%22bb5910dc-1963-4ec0-b8f5-8f581552ca3f%22%7
+ d>  \n\nBesprechungs-ID: 374 846 932 220 46 \n\nPasscode: jP3vG6jB \n\n___
+ _____________________________\n\nFür Organisatoren: Besprechungsoptionen 
+ <https://teams.microsoft.com/meetingOptions/?organizerId=bb5910dc-1963-4ec
+ 0-b8f5-8f581552ca3f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId
+ =19_meeting_NjZjYjY2ZTktMjY4ZC00OWZiLWJiMzAtYzcxNGYzNjUzNmQw@thread.v2&mes
+ sageId=0&language=de-DE>  \n\nDatenschutz und Sicherheit <https://filehub.
+ admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________
+ _______________________________________________________________________\n\
+ n \n
+LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Process comparison for embossing and lamination of textile lam
+ inates Eis/BCZ
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251204T083500
+DTEND;TZID=GMT 标准时间:20251204T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251205T083500
+DTEND;TZID=GMT 标准时间:20251205T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20251205T090000
+DTEND;TZID=GMT 标准时间:20251205T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Customer project review
+DTSTART;TZID=GMT 标准时间:20251205T150000
+DTEND;TZID=GMT 标准时间:20251205T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
+ ill update trial batch status。\n\n@Sun xiaoyong <mailto:xiaoyong.sun@ben
+ ecke-changshun.com.cn> @郭巍 <mailto:wei.2.guo@benecke-changshun.com.cn>
+  \, 所有的试制记录，请及时更新。两人轮流主持\n\n \n\n2
+ .     Process Engineer will update order deviation after G70.\n\n@Chen che
+ nglong <mailto:chenglong.chen@benecke-changshun.com.cn> @Wang congyu <mail
+ to:congyu.wang@benecke-changshun.com.cn> \n\n订单差异更新到KPI\, C:
+ \\Users\\chenh11\\Continental AG\\PPI BCZ - General\\13 KPI\\2025\n\n \n\n
+ 3.     Color CV data updated.\n\n@王芬 <mailto:fen.wang@benecke-changshu
+ n.com.cn> @Chen chenglong <mailto:chenglong.chen@benecke-changshun.com.cn>
+  \n\n \n\n \n\n谢谢！\n\n \n\nSophia 7/22\n\n__________________________
+ ______________________________________________________\n\nMicrosoft Teams 
+ 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
+ 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YT
+ hhYjNkMzMtMGZkZC00OTk5LTliN2MtNWFmYmIwZmY5MDY2%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d413
+ 55c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 373 920 011 044 0 
+ \n\n密码: 7rX94Uf9 \n\n________________________________\n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_meeting_YThhYjNkMzMtMGZkZC00OTk5LTliN2MtNWFmYmIwZmY5
+ MDY2@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:大雪
+DTSTART;TZID=GMT 标准时间:20251207T000000
+DTEND;TZID=GMT 标准时间:20251208T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:大雪
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:大雪
+DTSTART;TZID=GMT 标准时间:20251207T000000
+DTEND;TZID=GMT 标准时间:20251208T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:大雪
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251208T083500
+DTEND;TZID=GMT 标准时间:20251208T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: ContiGPT Session
+DTSTART;TZID=GMT 标准时间:20251208T213000
+DTEND;TZID=GMT 标准时间:20251208T220000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: ContiGPT Session
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251209T083500
+DTEND;TZID=GMT 标准时间:20251209T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID=GMT 标准时间:20251209T101500
+DTEND;TZID=GMT 标准时间:20251209T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251210T083500
+DTEND;TZID=GMT 标准时间:20251210T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID=GMT 标准时间:20251210T230000
+DTEND;TZID=GMT 标准时间:20251211T000000
+CLASS:PUBLIC
+DESCRIPTION:This is a continuation of the previous Open Calls\n\n\n\n\n___
+ __________________________________________________________________________
+ ___\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-U
+ S>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3
+ a0a53d13422fa4c21a703569ee88cc19b%40thread.skype/1754325850286?context=%7b
+ %22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2274
+ 7198b6-f9dc-48a8-925a-e78c77260ed8%22%7d>  \nMeeting ID: 365 192 380 447 7
+  \nPasscode: MR2NG3km \n________________________________\n\nFor organizers
+ : Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId
+ =747198b6-f9dc-48a8-925a-e78c77260ed8&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_0a53d13422fa4c21a703569ee88cc19b@thread.skype&messag
+ eId=1754325850286&language=en-US>  \nPrivacy and security <https://filehub
+ .admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__________
+ ______________________________________________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251211T083500
+DTEND;TZID=GMT 标准时间:20251211T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project review
+DTSTART;TZID=GMT 标准时间:20251211T150000
+DTEND;TZID=GMT 标准时间:20251211T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZjU4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNG
+ U0NzdjNDUwNWZk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 363 291 673 202 0 \n\n密码: ov7o3jJ2 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjU
+ 4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNGU0NzdjNDUwNWZk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID=GMT 标准时间:20251211T160000
+DTEND;TZID=GMT 标准时间:20251211T170000
+CLASS:PUBLIC
+DESCRIPTION:This meeting is a continuation of the previous Open Calls \n\n
+ \n\n\n____________________________________________________________________
+ ____________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?
+ omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-
+ join/19%3a0a53d13422fa4c21a703569ee88cc19b%40thread.skype/1754325616852?co
+ ntext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%2
+ 2%3a%22747198b6-f9dc-48a8-925a-e78c77260ed8%22%7d>  \nMeeting ID: 385 908 
+ 144 593 9 \nPasscode: hj9wH7Ls \n________________________________\n\nFor o
+ rganizers: Meeting options <https://teams.microsoft.com/meetingOptions/?or
+ ganizerId=747198b6-f9dc-48a8-925a-e78c77260ed8&tenantId=8d4b558f-7b2e-40ba
+ -ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21a703569ee88cc19b@thread.sky
+ pe&messageId=1754325616852&language=en-US>  \nPrivacy and security <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_
+ __________________________________________________________________________
+ _____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251212T083500
+DTEND;TZID=GMT 标准时间:20251212T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251215T083500
+DTEND;TZID=GMT 标准时间:20251215T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251216T083500
+DTEND;TZID=GMT 标准时间:20251216T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID=GMT 标准时间:20251216T101500
+DTEND;TZID=GMT 标准时间:20251216T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251217T083500
+DTEND;TZID=GMT 标准时间:20251217T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBS@Operations community - Monthly phone-call - Americas & Europe
+DTSTART;TZID=GMT 标准时间:20251217T230000
+DTEND;TZID=GMT 标准时间:20251218T000000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\nHere are the events for our CBS@Operations Commu
+ nity Monthly Phone-Calls in 2024.\n\nThere are 2 slots for the same day:\n
+ \n*	One in the morning (European time) for Asia & Europe\,\n*	One in the a
+ fternoon (European time) for Americas & Europe (this one).\n\nTo have a lo
+ ok on the agenda\, click on this link <https://connext.conti.de/wikis/home
+ ?lang=fr-fr#!/wiki/Wd1b4b99e971c_4cc4_ab6b_cead42265fa6/page/2022a> .\n\nY
+ ou have there a wiki folder 2022a which contains as "daughter" pages the a
+ genda of each call which will be updated step by step as soon as the topic
+ s will be identified and defined.\n\nThanks in advance for your contributi
+ on and participation.\n\nBest Regards\n\nChristophe Escourrou\n\n \n\n \n\
+ n \n\n____________________________________________________________________
+ ____________\n\nRéunion Microsoft Teams\n\nRejoindre sur votre ordinateur
+  ou application mobile\n\nCliquez ici pour participer à la réunion <http
+ s://teams.microsoft.com/l/meetup-join/19%3a4234432bb4f44338bfdf69d59b3fc4b
+ 5%40thread.skype/1634723519017?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22991b7884-66b4-4145-9ede-53c04283a3
+ 8d%22%7d> \n\nOu composer le numéro (audio seulement)\n\n+33 1 73 24 03 9
+ 0\,\,875824270# <tel:+33173240390\,\,875824270#>  France\, Beaumont-Sur-Oi
+ se\n\nID Conférence Téléphone: 875 824 270# \n\nRechercher un numéro l
+ ocal <https://dialin.teams.microsoft.com/97c37549-d499-4e63-9ec0-dc16377f3
+ 7d4?id=875824270>  | Réinitialiser le code confidentiel <https://mysettin
+ gs.lync.com/pstnconferencing> \n\nPour en savoir plus <https://aka.ms/Join
+ TeamsMeeting>  | Options de réunion <https://teams.microsoft.com/meetingO
+ ptions/?organizerId=991b7884-66b4-4145-9ede-53c04283a38d&tenantId=8d4b558f
+ -7b2e-40ba-ad1f-e04d79e6265a&threadId=19_4234432bb4f44338bfdf69d59b3fc4b5@
+ thread.skype&messageId=1634723519017&language=fr-FR>  | Légal <https://fi
+ lehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n\n \n 
+ \n\n______________________________________________________________________
+ __________\n\n 
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CBS@Operations community - Monthly phone-call - Americas & Eur
+ ope
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251218T083500
+DTEND;TZID=GMT 标准时间:20251218T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251219T083500
+DTEND;TZID=GMT 标准时间:20251219T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Customer project review
+DTSTART;TZID=GMT 标准时间:20251219T150000
+DTEND;TZID=GMT 标准时间:20251219T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all:\n\n \n\nUpdate situation:\n\n1.     Launch Manager w
+ ill update trial batch status。\n\n@Sun xiaoyong <mailto:xiaoyong.sun@ben
+ ecke-changshun.com.cn> @郭巍 <mailto:wei.2.guo@benecke-changshun.com.cn>
+  \, 所有的试制记录，请及时更新。两人轮流主持\n\n \n\n2
+ .     Process Engineer will update order deviation after G70.\n\n@Chen che
+ nglong <mailto:chenglong.chen@benecke-changshun.com.cn> @Wang congyu <mail
+ to:congyu.wang@benecke-changshun.com.cn> \n\n订单差异更新到KPI\, C:
+ \\Users\\chenh11\\Continental AG\\PPI BCZ - General\\13 KPI\\2025\n\n \n\n
+ 3.     Color CV data updated.\n\n@王芬 <mailto:fen.wang@benecke-changshu
+ n.com.cn> @Chen chenglong <mailto:chenglong.chen@benecke-changshun.com.cn>
+  \n\n \n\n \n\n谢谢！\n\n \n\nSophia 7/22\n\n__________________________
+ ______________________________________________________\n\nMicrosoft Teams 
+ 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立
+ 即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YT
+ hhYjNkMzMtMGZkZC00OTk5LTliN2MtNWFmYmIwZmY5MDY2%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d413
+ 55c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n会议 ID: 373 920 011 044 0 
+ \n\n密码: 7rX94Uf9 \n\n________________________________\n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_meeting_YThhYjNkMzMtMGZkZC00OTk5LTliN2MtNWFmYmIwZmY5
+ MDY2@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:冬至
+DTSTART;TZID=GMT 标准时间:20251221T000000
+DTEND;TZID=GMT 标准时间:20251222T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:冬至
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:冬至
+DTSTART;TZID=GMT 标准时间:20251221T000000
+DTEND;TZID=GMT 标准时间:20251222T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:冬至
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:提醒查看CDP打卡
+DTSTART;TZID=GMT 标准时间:20251221T114000
+DTEND;TZID=GMT 标准时间:20251221T114500
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒查看CDP打卡
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251222T083500
+DTEND;TZID=GMT 标准时间:20251222T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ContiGPT Session
+DTSTART;TZID=GMT 标准时间:20251222T213000
+DTEND;TZID=GMT 标准时间:20251222T220000
+CLASS:PUBLIC
+DESCRIPTION:Join us every other Monday at 14:30 CET for a 30-minute sessio
+ n to explore Generative AI\, AI and Automation topics\, share insights\, a
+ nd showcase exciting projects!\n💡 Want to present or suggest a topic?\n
+ Reach out directly to @Rodrigues\, Catarina <mailto:catarina.cunha.rodrigu
+ es@conti.de>  with your ideas!\nLet’s collaborate\, learn\, and innovate
+  together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to kn
+ ow about the ContiGPT Community: ContiGPT Community (sharepoint.com) <http
+ s://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-Comm
+ unity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting - a
+ dd it to your calendar <https://teams.microsoft.com/l/message/19:56fa358dd
+ a644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b2e-
+ 40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&parent
+ MessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&cre
+ atedTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetings 
+ - Agenda <https://continental.sharepoint.com/teams/team_10065807/_layouts/
+ OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAssets%2FContiGPT%20Noteboo
+ k&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A7-7F29D3E31727%2FWeekly
+ %20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-BE3C3B0EA1A0%2F%29%20on
+ enote:https://continental.sharepoint.com/teams/team_10065807/SiteAssets/Co
+ ntiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20-%20Agenda&section-id={
+ 5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A464D-4819-4E5E-A4F0-BE3
+ C3B0EA1A0}&end> \n*	Recordings and slides from previous meetings:\n\n	*	We
+ ekly Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams
+ /team_10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%2
+ 0recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://c
+ ontinental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%2
+ 0Organization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Pl
+ aylist format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r
+ /teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	\n	AI @ Con
+ tinental: All-in-One AI Portal <https://continental.sharepoint.com/teams/c
+ s_10001437/SitePages/Artificial-Intelligence-at-Tires.aspx> \n\n\n\n______
+ __________________________________________________________________________
+ \nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-GB> 
+ \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3amee
+ ting_ZDAyODRiZjMtMjM0NC00MTM5LWI2ZTctMTZiNDkxNTBhNmRi%40thread.v2/0?contex
+ t=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a
+ %229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID: 317 881 907 5
+ 59 \nPasscode: ih7Kg7SA \n________________________________\n\nFor organise
+ rs: Meeting options <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e
+ 04d79e6265a&threadId=19_meeting_ZDAyODRiZjMtMjM0NC00MTM5LWI2ZTctMTZiNDkxNT
+ BhNmRi@thread.v2&messageId=0&language=en-GB> \nPrivacy and security <https
+ ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n_
+ __________________________________________________________________________
+ _____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ContiGPT Session
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251223T083500
+DTEND;TZID=GMT 标准时间:20251223T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID=GMT 标准时间:20251223T101500
+DTEND;TZID=GMT 标准时间:20251223T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251224T083500
+DTEND;TZID=GMT 标准时间:20251224T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID=GMT 标准时间:20251224T163000
+DTEND;TZID=GMT 标准时间:20251224T173000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251225T083500
+DTEND;TZID=GMT 标准时间:20251225T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project review
+DTSTART;TZID=GMT 标准时间:20251225T150000
+DTEND;TZID=GMT 标准时间:20251225T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZjU4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNG
+ U0NzdjNDUwNWZk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 363 291 673 202 0 \n\n密码: ov7o3jJ2 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZjU
+ 4YmFjNmEtNWQ0Yi00YWQ3LTk5OGItNGU0NzdjNDUwNWZk@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501
+ 531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID=GMT 标准时间:20251225T230000
+DTEND;TZID=GMT 标准时间:20251226T000000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251226T083500
+DTEND;TZID=GMT 标准时间:20251226T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251229T083500
+DTEND;TZID=GMT 标准时间:20251229T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251230T083500
+DTEND;TZID=GMT 标准时间:20251230T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID=GMT 标准时间:20251230T101500
+DTEND;TZID=GMT 标准时间:20251230T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
