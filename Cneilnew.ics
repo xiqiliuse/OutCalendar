@@ -5,62 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI 早会
-DTSTART;TZID=GMT 标准时间:20251201T083500
-DTEND;TZID=GMT 标准时间:20251201T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
- YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
- _________________________\n\n对于组织者: 会议选项 <https://teams.
- microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
- 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
- xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
- ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
- 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
- _____________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BDE系统异常应急处置方案讨论二次会议
-DTSTART;TZID=GMT 标准时间:20251201T150000
-DTEND;TZID=GMT 标准时间:20251201T160000
-CLASS:PUBLIC
-DESCRIPTION:再次讨论\n\n在BDE系统故障断线无法确认具体恢
- 复时间的情况下，确认各模块应急预案具体实施方法；\n
- \n \n\n___________________________________________________________________
- _____________\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinT
- eamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.c
- om/l/meetup-join/19%3ameeting_OTQyZDBmMzgtOGM5Zi00ODMwLWE0MzktN2FhMjQ4ZTIz
- ZTIw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d7
- 9e6265a%22%2c%22Oid%22%3a%221a3733cb-733d-4b4a-aefd-ea890956ae9f%22%7d>  \
- n\n会议 ID: 361 316 420 869 15 \n\n密码: af9WY6wT \n\n________________
- ________________\n\n对于组织者: 会议选项 <https://teams.microsoft
- .com/meetingOptions/?organizerId=1a3733cb-733d-4b4a-aefd-ea890956ae9f&tena
- ntId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTQyZDBmMzgt
- OGM5Zi00ODMwLWE0MzktN2FhMjQ4ZTIzZTIw@thread.v2&messageId=0&language=zh-CN>
-   \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775
- -44b3-92cf-aaf920ff7119>  \n\n____________________________________________
- ____________________________________\n\n \n
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BDE系统异常应急处置方案讨论二次会议
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI 早会
 DTSTART;TZID=GMT 标准时间:20251202T083500
 DTEND;TZID=GMT 标准时间:20251202T090500
 CLASS:PUBLIC
@@ -589,6 +533,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20251212T090000
+DTEND;TZID=GMT 标准时间:20251212T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1193,6 +1151,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI 早会
+DTSTART;TZID=GMT 标准时间:20251231T083500
+DTEND;TZID=GMT 标准时间:20251231T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_OTcxNjE3MjItOTE3NC00ZTVkLTg5NzktMz
+ YxZmQwNGVlMjRh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 331 186 472 688 1 \n\n密码: 847de2D6 \n\n_______
+ _________________________\n\n对于组织者: 会议选项 <https://teams.
+ microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1
+ 664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OTc
+ xNjE3MjItOTE3NC00ZTVkLTg5NzktMzYxZmQwNGVlMjRh@thread.v2&messageId=0&langua
+ ge=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d698
+ 1e10-1775-44b3-92cf-aaf920ff7119>  \n\n___________________________________
+ _____________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
