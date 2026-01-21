@@ -5,76 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260120T083500
-DTEND;TZID=GMT 标准时间:20260120T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PFMEA 小组成员更新
-DTSTART;TZID=GMT 标准时间:20260120T091500
-DTEND;TZID=GMT 标准时间:20260120T092000
-CLASS:PUBLIC
-DESCRIPTION:Hello all\n\nPFMEA 内审要求：需要增加工厂经理签
- 字+产品安全责任人签字。\n\n \n\n \n
-LOCATION:经理办公室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PFMEA 小组成员更新
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP部门周会
-DTSTART;TZID=GMT 标准时间:20260120T101500
-DTEND;TZID=GMT 标准时间:20260120T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SP部门周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:专利review
-DTSTART;TZID=GMT 标准时间:20260120T160000
-DTEND;TZID=GMT 标准时间:20260120T170000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:专利review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260121T083500
 DTEND;TZID=GMT 标准时间:20260121T090500
 CLASS:PUBLIC
@@ -848,6 +778,44 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:信息分享-2025汽车行业市场信息 Automotive Market Insigh
+ t
+DTSTART;TZID=GMT 标准时间:20260205T130000
+DTEND;TZID=GMT 标准时间:20260205T140000
+CLASS:PUBLIC
+DESCRIPTION:亲爱的各位同事，\n\n \n\n接着上次（2025年6月）
+ 已经开展的2025 上半年市场信息分享，为您带来2025市场
+ 信息年终总结，助你掌握行业动向和市场趋势，提升业
+ 务敏感度。\n\n \n\nAngelina-中国汽车市场宏观趋势\n\nQiuping
+ -中国汽车内饰材料市场 - 主机厂和竞争对手视角\n\n \n\n@
+ Wu\, Zheng01 <mailto:zheng01.wu@benecke-changzhou.com.cn> \, please kindly
+  forward to BCC colleagues based on your needs\, thank you!\n\n \n\n \n\n_
+ __________________________________________________________________________
+ _____\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/me
+ et/35717216520381?p=YNkNgJTMGYisEewhKF <https://teams.microsoft.com/meet/3
+ 5717216520381?p=YNkNgJTMGYisEewhKF>  \n\n会议 ID: 357 172 165 203 81 \n\
+ n密码: 3Qz6hj7f \n\n________________________________\n\n是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_NTMwMjZhODMtODdjNy00OTQ5LW
+ FjNDctZDliNjNjZTY2MTA0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
+ 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac
+ 86dc1e55%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsof
+ t.com/meetingOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&ten
+ antId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NTMwMjZhODM
+ tODdjNy00OTQ5LWFjNDctZDliNjNjZTY2MTA0@thread.v2&messageId=0&language=zh-CN
+ >  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-177
+ 5-44b3-92cf-aaf920ff7119>  \n\n___________________________________________
+ _____________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:信息分享-2025汽车行业市场信息 Automotive Market In
+ sight
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260206T083500
 DTEND;TZID=GMT 标准时间:20260206T090500
@@ -1471,6 +1439,61 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:CBS@Operations community - Monthly phone-call - Americas & Eur
  ope
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:春节(初三)
+DTSTART;TZID=GMT 标准时间:20260219T000000
+DTEND;TZID=GMT 标准时间:20260220T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:春节(初三)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:春节(初三)
+DTSTART;TZID=GMT 标准时间:20260219T000000
+DTEND;TZID=GMT 标准时间:20260220T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:春节(初三)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260219T083500
+DTEND;TZID=GMT 标准时间:20260219T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
