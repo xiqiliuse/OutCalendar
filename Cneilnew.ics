@@ -191,6 +191,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPO-设备周会
+DTSTART;TZID=GMT 标准时间:20260123T103000
+DTEND;TZID=GMT 标准时间:20260123T110000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位领导：\n         本周召开设备周会，主
+ 要讨论近期几个突出问题：\n1、工艺相关的话题：EX工段
+ 国产支撑板后续拆装使用和清洁具体标准\n@Li\, Xiaodong03 <
+ mailto:xiaodong.3.li@benecke-changshun.com.cn> \n2、1.17 EX1/EX2拆模清
+ 洁之后，在生产期间均发生不同程度的漏料，并EX1反馈
+ 侧板铝片装反，后续如何避免类似漏料问题发生。\n3、
+ 近期多次反馈EM2温控波动较大，待验证具体方案\n\n\n以
+ 上为本次周会的主要议题，其余设备异常将在会上进行
+ 分享，感谢各位的支持！\n\n \nBest regards\,\nHongxin SUN(Ethan)
+ /孙洪鑫\nTPO Production Coordinator\nContiTech Surface Solutions\n \nBe
+ sucheradresse / Visitor address:\nBenecke Changshun Auto Trim (Zhangjiagan
+ g) Co.\, Ltd.\n贝内克长顺汽车内饰材料（张家港）有限公
+ 司\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 21
+ 5632 Jiangsu\, P.R.China\n江苏省张家港市金港镇南沙江海南路
+ 108号 215632\n \nMobile: +86 18951132875\nE-mail: hongxin.sun@benecke-cha
+ ngshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> \n
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO-设备周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project review
 DTSTART;TZID=GMT 标准时间:20260123T150000
 DTEND;TZID=GMT 标准时间:20260123T160000
@@ -736,44 +765,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:信息分享-2025汽车行业市场信息 Automotive Market Insigh
- t
-DTSTART;TZID=GMT 标准时间:20260205T130000
-DTEND;TZID=GMT 标准时间:20260205T140000
-CLASS:PUBLIC
-DESCRIPTION:亲爱的各位同事，\n\n \n\n接着上次（2025年6月）
- 已经开展的2025 上半年市场信息分享，为您带来2025市场
- 信息年终总结，助你掌握行业动向和市场趋势，提升业
- 务敏感度。\n\n \n\nAngelina-中国汽车市场宏观趋势\n\nQiuping
- -中国汽车内饰材料市场 - 主机厂和竞争对手视角\n\n \n\n@
- Wu\, Zheng01 <mailto:zheng01.wu@benecke-changzhou.com.cn> \, please kindly
-  forward to BCC colleagues based on your needs\, thank you!\n\n \n\n \n\n_
- __________________________________________________________________________
- _____\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/me
- et/35717216520381?p=YNkNgJTMGYisEewhKF <https://teams.microsoft.com/meet/3
- 5717216520381?p=YNkNgJTMGYisEewhKF>  \n\n会议 ID: 357 172 165 203 81 \n\
- n密码: 3Qz6hj7f \n\n________________________________\n\n是否需要帮
- 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_NTMwMjZhODMtODdjNy00OTQ5LW
- FjNDctZDliNjNjZTY2MTA0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b
- 2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22cfb2d7f6-b0a0-4183-80ca-15ac
- 86dc1e55%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsof
- t.com/meetingOptions/?organizerId=cfb2d7f6-b0a0-4183-80ca-15ac86dc1e55&ten
- antId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NTMwMjZhODM
- tODdjNy00OTQ5LWFjNDctZDliNjNjZTY2MTA0@thread.v2&messageId=0&language=zh-CN
- >  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-177
- 5-44b3-92cf-aaf920ff7119>  \n\n___________________________________________
- _____________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:信息分享-2025汽车行业市场信息 Automotive Market In
- sight
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
