@@ -65,6 +65,68 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:过程异常处理讨论
+DTSTART;TZID=GMT 标准时间:20260122T140000
+DTEND;TZID=GMT 标准时间:20260122T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n基于昨天现场发生N批次过程异
+ 常，导致PVC压花机直接停止生产，我们一起讨论一下外
+ 观的过程异常授权现场班长&QC的职责。\n\n \n\n谢谢！\n\n 
+ \n\nSophia   1/22\n\n \n\n \n\n \n\n \n\n_________________________________
+ _______________________________________________\n\nMicrosoft Teams 会议 
+ \n\n加入: https://teams.microsoft.com/meet/39446255586505?p=hlBSi1ZD9ajL
+ LG71ny <https://teams.microsoft.com/meet/39446255586505?p=hlBSi1ZD9ajLLG71
+ ny>  \n\n会议 ID: 394 462 555 865 05 \n\n密码: a29KD7cT \n\n__________
+ ______________________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMee
+ ting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_ODU1M2NhMzYtMGU5OC00ZDc3LWE2YzQtODJmZGMzMzZmYjQ1%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%2
+ 2Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_meeting_ODU1M2NhMzYtMGU5OC00ZDc3LWE2YzQtODJmZGMzMzZm
+ YjQ1@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
+ ilehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n__
+ __________________________________________________________________________
+ ____\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:过程异常处理讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EM4 配方工艺参数导入
+DTSTART;TZID=GMT 标准时间:20260122T160000
+DTEND;TZID=GMT 标准时间:20260122T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/37042138732060?p=b10aYZp1RpfFdnckIY <https://teams.mi
+ crosoft.com/meet/37042138732060?p=b10aYZp1RpfFdnckIY>  \n\n会议 ID: 370 
+ 421 387 320 60 \n\n密码: uq3wW3Qu \n\n________________________________\n
+ \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
+ 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWNiMGY1
+ OWUtODg3MC00MjE5LTkzZjYtNjU5M2IzMzBiZDJk%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d
+ 3bc-410d-9bb1-26d8f9224084%22%7d>  \n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb
+ 1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_YWNiMGY1OWUtODg3MC00MjE5LTkzZjYtNjU5M2IzMzBiZDJk@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
+ _______________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EM4 配方工艺参数导入
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 2
 DTSTART;TZID=GMT 标准时间:20260122T230000
 DTEND;TZID=GMT 标准时间:20260123T000000
