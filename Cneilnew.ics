@@ -5,109 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260123T083500
-DTEND;TZID=GMT 标准时间:20260123T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO-设备周会
-DTSTART;TZID=GMT 标准时间:20260123T103000
-DTEND;TZID=GMT 标准时间:20260123T110000
-CLASS:PUBLIC
-DESCRIPTION:Hello 各位领导：\n         本周召开设备周会，主
- 要讨论近期几个突出问题：\n1、工艺相关的话题：EX工段
- 国产支撑板后续拆装使用和清洁具体标准\n@Li\, Xiaodong03 <
- mailto:xiaodong.3.li@benecke-changshun.com.cn> \n2、1.17 EX1/EX2拆模清
- 洁之后，在生产期间均发生不同程度的漏料，并EX1反馈
- 侧板铝片装反，后续如何避免类似漏料问题发生。\n3、
- 近期多次反馈EM2温控波动较大，待验证具体方案\n\n\n以
- 上为本次周会的主要议题，其余设备异常将在会上进行
- 分享，感谢各位的支持！\n\n \nBest regards\,\nHongxin SUN(Ethan)
- /孙洪鑫\nTPO Production Coordinator\nContiTech Surface Solutions\n \nBe
- sucheradresse / Visitor address:\nBenecke Changshun Auto Trim (Zhangjiagan
- g) Co.\, Ltd.\n贝内克长顺汽车内饰材料（张家港）有限公
- 司\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 21
- 5632 Jiangsu\, P.R.China\n江苏省张家港市金港镇南沙江海南路
- 108号 215632\n \nMobile: +86 18951132875\nE-mail: hongxin.sun@benecke-cha
- ngshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> \n
-LOCATION:TPO关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO-设备周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project review
-DTSTART;TZID=GMT 标准时间:20260123T150000
-DTEND;TZID=GMT 标准时间:20260123T160000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZDA1MjA3ODYtZGMzMi00OWNiLWEwNGItNm
- Y2MWI4OWE1OThm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 379 358 398 426 73 \n\n密码: 9yU3DY6P \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZD
- A1MjA3ODYtZGMzMi00OWNiLWEwNGItNmY2MWI4OWE1OThm@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SP Team building
-DTSTART;TZID=GMT 标准时间:20260123T173000
-DTEND;TZID=GMT 标准时间:20260123T203000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n       感谢大家在2025年里对SP的帮助
- 和协助，特邀请大家一起参加此次的Team building活动，谢
- 谢！\n\n       时间：2026/01/23  17:30-20:30 \n\n       地点：金
- 港镇金桥路106号楠海家宴二楼(包厢:8201)\n\n@Cheng\, Lei <mail
- to:lei.4.cheng@benecke-changshun.com.cn> @Xue\, Jinlong02 <mailto:jinlong.
- 2.xue@benecke-changshun.com.cn> 把何忠健，陈剑虎，严伟，张国
- 强，李方圆叫上。\n\n \n\n \n\n \n
-LOCATION:楠海家宴
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:SP Team building
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260126T083500
 DTEND;TZID=GMT 标准时间:20260126T090500
 CLASS:PUBLIC
@@ -1393,6 +1290,74 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:提醒查看CDP打卡
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260223T083500
+DTEND;TZID=GMT 标准时间:20260223T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260224T083500
+DTEND;TZID=GMT 标准时间:20260224T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SP部门周会
+DTSTART;TZID=GMT 标准时间:20260224T101500
+DTEND;TZID=GMT 标准时间:20260224T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
