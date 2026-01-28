@@ -85,6 +85,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tesla HLD材料偏硬问题分析
+DTSTART;TZID=GMT 标准时间:20260128T163000
+DTEND;TZID=GMT 标准时间:20260128T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/35449555349865?p=WAJ9STgoNs04AzrK3X <https://teams.mi
+ crosoft.com/meet/35449555349865?p=WAJ9STgoNs04AzrK3X>  \n\n会议 ID: 354 
+ 495 553 498 65 \n\n密码: 9Fx7BG9J \n\n________________________________\n
+ \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
+ 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzA2MDA4
+ MDAtYjVhNC00ZTlhLWI5NWEtOTZmOWE4OTg2NWMx%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221a6b7954-3
+ 116-4d36-aedd-cd95639de621%22%7d>  \n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=1a6b7954-3116-4d36-aed
+ d-cd95639de621&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_YzA2MDA4MDAtYjVhNC00ZTlhLWI5NWEtOTZmOWE4OTg2NWMx@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
+ _______________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tesla HLD材料偏硬问题分析
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 1
 DTSTART;TZID=GMT 标准时间:20260128T163000
 DTEND;TZID=GMT 标准时间:20260128T173000
@@ -238,6 +267,37 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:公司快递宣讲（快递寄件规范 & 快递室管理规则）
+DTSTART;TZID=GMT 标准时间:20260202T130000
+DTEND;TZID=GMT 标准时间:20260202T131500
+CLASS:PUBLIC
+DESCRIPTION:为加强公司快递管理，使快递寄件/快递室管理 
+ 更高效，更规范。 结合公司实际情况，我们特意将 快递
+ 寄件规范 & 快递室管理 进行了梳理。\n\n \n\n \n\n \n\n \n\n_
+ __________________________________________________________________________
+ _____\n\nMicrosoft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeet
+ ing?omkt=zh-CN>  \n\n立即加入会议 <https://teams.microsoft.com/l/mee
+ tup-join/19%3ameeting_OGY0MTg2ZjUtMDA3MC00YTdjLWE4NjQtM2I2ZDQzYTUyMWNi%40t
+ hread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%
+ 22%2c%22Oid%22%3a%2234fe0df4-28d5-4101-b01d-9972a28f1c99%22%7d>  \n\n会
+ 议 ID: 346 813 489 794 35 \n\n密码: Mu6Xg9m9 \n\n______________________
+ __________\n\n对于组织者: 会议选项 <https://teams.microsoft.com/m
+ eetingOptions/?organizerId=34fe0df4-28d5-4101-b01d-9972a28f1c99&tenantId=8
+ d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OGY0MTg2ZjUtMDA3MC
+ 00YTdjLWE4NjQtM2I2ZDQzYTUyMWNi@thread.v2&messageId=0&language=zh-CN>  \n\n
+ 隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-
+ 92cf-aaf920ff7119>  \n\n__________________________________________________
+ ______________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:公司快递宣讲（快递寄件规范 & 快递室管理规
+ 则）
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -495,6 +555,31 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:信息分享-2025汽车行业市场信息 Automotive Market In
  sight
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025Y BCZ Plant Town Hall Meeting
+DTSTART;TZID=GMT 标准时间:20260205T153000
+DTEND;TZID=GMT 标准时间:20260205T160000
+CLASS:PUBLIC
+DESCRIPTION:亲爱的同事们：\n\n \n\n为总结2025年度工作成果
+ ，表彰在安全、质量及管理方面表现突出的先进个人和
+ 团队，进一步推动公司持续改进与卓越运营，并抽取CIM20
+ 25年度幸运抽奖，工厂将召开2025年度员工大会。\n\n*  请
+ 各部门提前做好工作安排，确保按时参会；\n\n*  生产相
+ 关人员请按现场安排有序参会，确保安全生产不受影响
+ ；\n\n*  请部门负责人将邀请转发给其他没有邮箱和需要
+ 参加会议的同事；\n\n*  @Jia\, Xiaoge <mailto:xiaoge.jia@benecke-ch
+ angshun.com.cn> @Chen\, Tingting02 <mailto:tingting.2.chen@benecke-changsh
+ un.com.cn> @Xu\, Yan01 <mailto:yan01.xu@benecke-changshun.com.cn> 请提
+ 前准备好奖杯，谢谢！\n\n \n\n感谢大家的参与和配合\n\n 
+ \n\nBR\n\nLuna \n
+LOCATION:TPO车间
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2025Y BCZ Plant Town Hall Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
