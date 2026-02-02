@@ -62,6 +62,43 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:原材料国产化客户端加工料号选择（Tesla）
+DTSTART;TZID=GMT 标准时间:20260202T153000
+DTEND;TZID=GMT 标准时间:20260202T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n-----原始约会-----\n发件人: Duan\, Haitao <ha
+ itao.duan@benecke-changshun.com.cn <mailto:haitao.duan@benecke-changshun.c
+ om.cn> > \n发送时间: 2026年2月2日 13:36\n收件人: Duan\, Haitao\;
+  Huang\, Hao\; Sun\, Xiaoyong\; Wang\, Haifeng03\; Xu\, Jinkai\n抄送: Pe
+ ng\, Shuping\; Chen\, Hongmei\n主题: 原材料国产化客户端加工
+ 料号选择（Tesla）\n时间: 2026年2月2日星期一 15:30-16:00(UTC+
+ 08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n地点: 
+ Microsoft Teams 会议\n\n \n\n \n\n______________________________________
+ __________________________________________\n\nMicrosoft Teams 会议 \n\n
+ 加入: https://teams.microsoft.com/meet/31751886811273?p=iSBz1tSdVN6poeoa
+ Xc <https://teams.microsoft.com/meet/31751886811273?p=iSBz1tSdVN6poeoaXc> 
+  \n\n会议 ID: 317 518 868 112 73 \n\n密码: QK2X4AK6 \n\n______________
+ __________________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting
+ ?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_MzY5YzE1ZDEtNDIzMS00Mzc2LTk2N2QtOTQwMjZhNTU2Nzgw%40thread.v2/0?
+ context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid
+ %22%3a%22c52cb7ed-7a47-4f18-a7fe-d31e7ca0b950%22%7d>  \n\n对于组织者:
+  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=c52
+ cb7ed-7a47-4f18-a7fe-d31e7ca0b950&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&threadId=19_meeting_MzY5YzE1ZDEtNDIzMS00Mzc2LTk2N2QtOTQwMjZhNTU2Nzgw
+ @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:原材料国产化客户端加工料号选择（Tesla）
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:服务器迁移/重启
 DTSTART;TZID=GMT 标准时间:20260202T180000
 DTEND;TZID=GMT 标准时间:20260202T190000
@@ -195,6 +232,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:颜色数据增加SPC管控
+DTSTART;TZID=GMT 标准时间:20260203T150000
+DTEND;TZID=GMT 标准时间:20260203T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/32723414671002?p=a35vog6Lhs3MIS79Ci <https://teams.mi
+ crosoft.com/meet/32723414671002?p=a35vog6Lhs3MIS79Ci>  \n\n会议 ID: 327 
+ 234 146 710 02 \n\n密码: GS29hS9r \n\n________________________________\n
+ \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
+ 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTdhYWJi
+ OGYtZjcxNi00NTcyLTg3Y2EtMzgxMDU4OTExMjQ2%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d
+ 3bc-410d-9bb1-26d8f9224084%22%7d>  \n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb
+ 1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_NTdhYWJiOGYtZjcxNi00NTcyLTg3Y2EtMzgxMDU4OTExMjQ2@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
+ _______________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:颜色数据增加SPC管控
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
