@@ -31,7 +31,21 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:油漆&色母粒周会
+DTSTART;TZID=GMT 标准时间:20260203T101500
+DTEND;TZID=GMT 标准时间:20260203T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID=GMT 标准时间:20260203T101500
 DTEND;TZID=GMT 标准时间:20260203T110000
 CLASS:PUBLIC
@@ -70,6 +84,385 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:颜色数据增加SPC管控
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALV PE-TLA LV-15025// width 1000mm
+DTSTART;TZID=GMT 标准时间:20260203T163000
+DTEND;TZID=GMT 标准时间:20260203T170000
+CLASS:PUBLIC
+DESCRIPTION:针对客户提的问题，一起讨论下提供那些信息
+ ！\n\n___________________________________________________________________
+ _____________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsof
+ t.com/meet/36312904539241?p=HUxrFzSlHOsO2FWk88 <https://teams.microsoft.co
+ m/meet/36312904539241?p=HUxrFzSlHOsO2FWk88>  \n\n会议 ID: 363 129 045 39
+ 2 41 \n\n密码: Si9zs33b \n\n________________________________\n\n是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用
+  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTA0ZDAwYmEtYWNlZ
+ C00ODMwLTkzOWYtMDA2ODYyODMyNTM3%40thread.v2/0?context=%7b%22Tid%22%3a%228d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-
+ b1c7-2cc4749680eb%22%7d>  \n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749
+ 680eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MT
+ A0ZDAwYmEtYWNlZC00ODMwLTkzOWYtMDA2ODYyODMyNTM3@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n\n \n\n______________
+ _______________________________\n发件人: Wang\, Liang14 <liang.14.wang@
+ benecke-changshun.com.cn> \n发送时间: 2026年2月3日 13:56\n收件人
+ : dai\, Anna <ye.dai@benecke-changshun.com.cn>\; Li\, Xiaodong03 <xiaodong
+ .3.li@benecke-changshun.com.cn>\n抄送: Zhu\, Lin <Lin.Zhu@benecke-changs
+ hun.com.cn>\; Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn>\; C
+ hen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn>\; Ding\, Zhongxie <z
+ hongxie.ding@benecke-changshun.com.cn>\; Wang\, Haifeng03 <haifeng.3.wang@
+ benecke-changshun.com.cn>\; Jiang\, Xin <xin.jiang@benecke-changshun.com.c
+ n>\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn>\n主题: 回复: ALV
+  PE-TLA LV-15025// width 1000mm\n\n \n\n晓东\n\n \n\n你看看下面的
+ 信息第二和第三点你是否可以提供一下英文版\n\n \n\nHello
+  Benecke Team\,\n\nCould you please provide clearer information on the pro
+ posed change?\nSpecifically\, we would appreciate details on:\n\n*	What ma
+ terial you would like to change?\n*	Relevant technical data of current & n
+ ew?\n*	The reason for the change and its impact?\n\nPlease share this info
+ rmation with us asap.\n\nThank you for your cooperation.\n\n顺颂商祺 /
+  Mit freundlichen Grüßen / Best regards\, \n\nIsaac Wang / 王亮 \n\nsa
+ les engineer\n\nTier Customers\n\nContiTech Surface Solutions\n\nBesuchera
+ dresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co
+ .\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限公司\n
+ \nNo.8\,Changyang Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiang
+ su\, P.R.China \n江苏省张家港市金港镇南沙长阳路8号 215632\
+ n\nMobile: +86 189 5113 1622\n\nE-mail: liang.14.wang@benecke-changshun.co
+ m.cn <mailto:liang.14.wang@benecke-changshun.com.cn> \n\n \n\n \n\nInterna
+ l\n\n发件人: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai
+ @benecke-changshun.com.cn> > \n发送时间: 2026年1月29日 10:46\n收
+ 件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xi
+ aodong.3.li@benecke-changshun.com.cn> >\; Wang\, Liang14 <liang.14.wang@be
+ necke-changshun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\n
+ 抄送: Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@beneck
+ e-changshun.com.cn> >\; Chen\, Angellee <xiaojiao.chen@benecke-changshun.c
+ om.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\; Chen\, Hongmei <
+ Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changsh
+ un.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <ma
+ ilto:zhongxie.ding@benecke-changshun.com.cn> >\; Wang\, Haifeng03 <haifeng
+ .3.wang@benecke-changshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.
+ com.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.ji
+ ang@benecke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-changshun
+ .com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> >\n主题: 回复: ALV
+  PE-TLA LV-15025// width 1000mm\n\n \n\nHello All\n\n \n\n1000mm幅款的A
+ lveo海绵供应商反馈2.9号可以备好，结合海运船期，预计
+ 可以在3月底到厂，按照这个进度能赶上173Y的需求。\n\n \
+ n\n谢谢！\n\n \n\n注意：我司国四以及国四以下车辆禁止
+ 入内，请知悉！\n\n1.	仓库收货时间：上午8：30--下午15：
+ 30 \n2.	进入厂区请服从门卫安排，有序进入\n3.	请正确佩
+ 戴安全帽以及反光背心\n4.	请勿随意走动\n5.	随货携带正
+ 确的送货单& 质检单\n\n \n\nBest regards\, \n\nYe Dai(Anna) / 戴
+ 烨\n\nRaw Material Planner-BCZ Plant/ 原材料计划员－张家港工
+ 厂 \n\nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visitor addr
+ ess:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克
+ 长顺汽车内饰材料（张家港）有限公司\n\nNo.108\,Jianghai So
+ uth Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China
+  \n江苏省张家港市金港镇南沙江海南路108号 215632\n\n \n\nM
+ obile: +86 189 511 37970\n\nE-mail: ye.dai@benecke-changshun.com.cn <mailt
+ o:ye.dai@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.c
+ om <http://www.continental-industry.com/> \n\n \n\n\n\n \n\n \n\nInternal\
+ n\n发件人: dai\, Anna \n发送时间: 2026年1月28日 15:44\n收件人
+ : Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong
+ .3.li@benecke-changshun.com.cn> >\; Wang\, Liang14 <liang.14.wang@benecke-
+ changshun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\n抄送
+ : Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-chan
+ gshun.com.cn> >\; Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn 
+ <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongme
+ i.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com
+ .cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:z
+ hongxie.ding@benecke-changshun.com.cn> >\; Wang\, Haifeng03 <haifeng.3.wan
+ g@benecke-changshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn
+ > >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@be
+ necke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.c
+ n <mailto:jinkai.xu@benecke-changshun.com.cn> >\n主题: 回复: ALV PE-TL
+ A LV-15025// width 1000mm\n\n \n\nHello 晓东\n\n \n\nYB的海绵对应
+ 产出的成品可以覆盖到客户5月中旬的需求，预计4月底生
+ 产的时候会需要用到Alveo海绵，目前新幅款的Alveo海绵订
+ 单已释放，还在催货好时间，有消息更新给大家。\n\n \n\
+ n谢谢！\n\n \n\n \n\n \n\n注意：我司国四以及国四以下车辆
+ 禁止入内，请知悉！\n\n6.	仓库收货时间：上午8：30--下
+ 午15：30 \n7.	进入厂区请服从门卫安排，有序进入\n8.	请
+ 正确佩戴安全帽以及反光背心\n9.	请勿随意走动\n10.	随货
+ 携带正确的送货单& 质检单\n\n \n\nBest regards\, \n\nYe Dai(Anna
+ ) / 戴烨\n\nRaw Material Planner-BCZ Plant/ 原材料计划员－张家
+ 港工厂 \n\nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visito
+ r address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝
+ 内克长顺汽车内饰材料（张家港）有限公司\n\nNo.108\,Jiang
+ hai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R
+ .China \n江苏省张家港市金港镇南沙江海南路108号 215632\n\n
+  \n\nMobile: +86 189 511 37970\n\nE-mail: ye.dai@benecke-changshun.com.cn 
+ <mailto:ye.dai@benecke-changshun.com.cn> \n\nWebsite: www.continental-indu
+ stry.com <http://www.continental-industry.com/> \n\n \n\n\n\n \n\n发件
+ 人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaod
+ ong.3.li@benecke-changshun.com.cn> > \n发送时间: 2026年1月28日 15:3
+ 5\n收件人: Wang\, Liang14 <liang.14.wang@benecke-changshun.com.cn <mail
+ to:liang.14.wang@benecke-changshun.com.cn> >\; dai\, Anna <ye.dai@benecke-
+ changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n抄送: Zhu\,
+  Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.c
+ om.cn> >\; Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto
+ :xiaojiao.chen@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@
+ benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\
+ ; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie
+ .ding@benecke-changshun.com.cn> >\; Wang\, Haifeng03 <haifeng.3.wang@benec
+ ke-changshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn> >\; J
+ iang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@benecke-c
+ hangshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke-changshun.com.cn <mail
+ to:jinkai.xu@benecke-changshun.com.cn> >\n主题: 回复: ALV PE-TLA LV-15
+ 025// width 1000mm\n\n \n\nHi Wangliang：\n\n       @Wang\, Liang14 <mail
+ to:liang.14.wang@benecke-changshun.com.cn>  客户有反馈了吗？什么
+ 时候能开始发出去试？\n\n       @dai\, Anna <mailto:ye.dai@beneck
+ e-changshun.com.cn>  帮忙更新下库存海绵及产品能坚持到什
+ 么时候？\n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nIntern
+ al\n\n发件人: Li\, Xiaodong03 \n发送时间: 2026年1月23日 12:02\n
+ 收件人: Wang\, Liang14 <liang.14.wang@benecke-changshun.com.cn <mailto:
+ liang.14.wang@benecke-changshun.com.cn> >\; Xu\, Jinkai <jinkai.xu@benecke
+ -changshun.com.cn <mailto:jinkai.xu@benecke-changshun.com.cn> >\n抄送: Z
+ hu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changsh
+ un.com.cn> >\; Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <ma
+ ilto:xiaojiao.chen@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.C
+ hen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn
+ > >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhon
+ gxie.ding@benecke-changshun.com.cn> >\; dai\, Anna <ye.dai@benecke-changsh
+ un.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\; Wang\, Haifeng03 <h
+ aifeng.3.wang@benecke-changshun.com.cn <mailto:haifeng.3.wang@benecke-chan
+ gshun.com.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:
+ xin.jiang@benecke-changshun.com.cn> >\n主题: 回复: ALV PE-TLA LV-15025
+ // width 1000mm\n\n \n\n@Xu\, Jinkai <mailto:jinkai.xu@benecke-changshun.c
+ om.cn>  8286347 Z2100173Y0900A已切割完，托盘号：5723783-00 234m²
+ / 5723791-00 61.2 m²请把对应批次锁定。\n\n@Wang\, Liang14 <mailt
+ o:liang.14.wang@benecke-changshun.com.cn>  后续是按量产号还是试
+ 制号发货？具体发货的数量到时候告知下。\n\n \n\n \n\nTha
+ nks\n\n \n\nNeil Li /李晓东\n\n \n\n发件人: Li\, Xiaodong03 \n发送
+ 时间: 2026年1月22日 16:46\n收件人: Zhu\, Lin <Lin.Zhu@benecke-chan
+ gshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Chen\, Angellee
+  <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-cha
+ ngshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <
+ mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxi
+ e.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.co
+ m.cn> >\; dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benec
+ ke-changshun.com.cn> >\n抄送: Wang\, Liang14 <liang.14.wang@benecke-chan
+ gshun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\n主题: 
+ 回复: ALV PE-TLA LV-15025// width 1000mm\n\n \n\n使用ALV切割成1000
+ 幅宽的海绵\n\n8286349 U2100173L0900 半成品已于21日压花完入
+ 库，\n\n8286347 Z2100173Y0900A 成品等待电子交联！\n\n \n\nThank
+ s\n\n \n\nNeil Li /李晓东\n\n \n\n发件人: Zhu\, Lin <Lin.Zhu@benecke
+ -changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> > \n发送时
+ 间: 2026年1月22日 16:09\n收件人: Chen\, Angellee <xiaojiao.chen@ben
+ ecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\; 
+ Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3
+ .li@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-cha
+ ngshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Ding\, Zh
+ ongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benec
+ ke-changshun.com.cn> >\; dai\, Anna <ye.dai@benecke-changshun.com.cn <mail
+ to:ye.dai@benecke-changshun.com.cn> >\n主题: 回复: ALV PE-TLA LV-15025
+ // width 1000mm\n\n \n\n@Chen\, Hongmei <mailto:Hongmei.Chen@benecke-chang
+ shun.com.cn> @Li\, Xiaodong03 <mailto:xiaodong.3.li@benecke-changshun.com.
+ cn> :\n\n \n\n       自己裁切完的Alveo的1000幅宽的海绵有什
+ 么进展消息的时候分享一下，另外我们基于供应商那边
+ 的信息已经在今天释放了2个订单，后进厂消息第一时间
+ 反馈。\n\n \n\n@dai\, Anna <mailto:ye.dai@benecke-changshun.com.cn> ：
+ \n\n \n\n基于之前按照YB剩余库存评估的订单情况，Alveo的1
+ 000幅宽的海绵需要在3月底前进厂，你那边跟供应商确认
+ 一下订单交付情况，如果来不及我们要评估一下通知内
+ 部继续裁切1900的用于满足173Y的交付。\n\n \n\n谢谢！\n\n \
+ n\nBest regards\, \n\nLucy Zhu / 朱琳\n\nHead of SCM BCZ \n\nContiTech S
+ urface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Cha
+ ngshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰
+ 材料（张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, 
+ Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家
+ 港市金港镇南沙江海南路108号 215632\n\n \n\nMobile: +86 1895113
+ 6332\n\nE-mail: lin.zhu@benecke-changshun.com.cn <mailto:lin.zhu@benecke-c
+ hangshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www.con
+ tinental-industry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n\n发件人: Chen
+ \, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@
+ benecke-changshun.com.cn> > \n发送时间: 2026年1月21日 11:02\n收件
+ 人: Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-c
+ hangshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.
+ cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hon
+ gmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.
+ com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailt
+ o:zhongxie.ding@benecke-changshun.com.cn> >\n主题: 回复: ALV PE-TLA LV
+ -15025// width 1000mm\n\n \n\nHello  Lucy，\n\n \n\n材料价格Toray是
+ 便宜的，就是生产成本相较于1900mm幅宽就没有saving了，
+ 但是对于MV还是有帮助的。\n\n \n\n现在是确定用1000mm了，
+ 不考虑1950mm？\n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \n
+ \n陈晓娇/Angellee Chen\n\nRegional Category Manager – Carrier Materia
+ ls\n\nPurchasing\n\nSurface Solutions\n\n \n\nBesucheradresse / Visitor ad
+ dress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
+ 克长顺汽车内饰材料（张家港）有限公司\n\nNo.1\,Jianghai S
+ outh Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.Chin
+ a \n江苏省张家港市金港镇南沙长阳路1号 215632\n\n \n\nMobil
+ : +86 177 0624 2801\n\nE-Mail: xiaojiao.chen@benecke-changshun.com.cn <mai
+ lto:xiaojiao.chen@benecke-changshun.com.cn> \n\nWebsite: www.continental-i
+ ndustry.com <http://www.continental-industry.com/> \n\n \n\nDear Suppliers
+ \, please read the following documents and comply with ContiTech requireme
+ nts:\n\nSuppliers | Continental - Continental AG <https://www.continental.
+ com/en/company/suppliers/supplier-information/>  \n\n \n\n \n\nInternal\n\
+ n发件人: Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@be
+ necke-changshun.com.cn> > \n发送时间: 2026年1月21日 8:41\n收件人
+ : Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong
+ .3.li@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-c
+ hangshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Chen\, 
+ Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@ben
+ ecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshu
+ n.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\n主题: 转发
+ : ALV PE-TLA LV-15025// width 1000mm\n重要性: 高\n\n \n\n@Ding\, Zhong
+ xie <mailto:zhongxie.ding@benecke-changshun.com.cn> ：\n\n \n\n       Alv
+ eo幅宽1000的料号建号了没有，Alveo那边确认平米单价可以
+ 跟1900一样，问我们要订单了，抓紧建一下。\n\n \n\n@Chen\,
+  Angellee <mailto:xiaojiao.chen@benecke-changshun.com.cn> ：\n\n \n\n    
+  我看了一下YB的单价是14.46/M2，Alveo的单价1.33€/M2，加上
+ 运输清关应该也比YB便宜哇！\n\n \n\n谢谢！\n\n \n\n \n\nBest
+  regards\, \n\nLucy Zhu / 朱琳\n\nHead of SCM BCZ \n\nContiTech Surface 
+ Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun 
+ Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料
+ （张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingan
+ g Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市
+ 金港镇南沙江海南路108号 215632\n\n \n\nMobile: +86 18951136332\n
+ \nE-mail: lin.zhu@benecke-changshun.com.cn <mailto:lin.zhu@benecke-changsh
+ un.com.cn> \n\nWebsite: www.continental-industry.com <http://www.continent
+ al-industry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n\n发件人: Thomas Ros
+ s <thomas.ross@sekisuialveo.com <mailto:thomas.ross@sekisuialveo.com> > \n
+ 发送时间: 2026年1月21日 2:29\n收件人: dai\, Anna <ye.dai@benecke
+ -changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\; Chen\, Ange
+ llee <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke
+ -changshun.com.cn> >\n抄送: Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn 
+ <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Sales Support <sales.support
+ @sekisuialveo.com <mailto:sales.support@sekisuialveo.com> >\n主题: RE: A
+ LV PE-TLA LV-15025// width 1000mm\n重要性: 高\n\n \n\nCAUTION: This is
+  an external email. Do not click or open any attachments unless you recogn
+ ize the sender and know that the content is safe. (http://links.conti.de/m
+ ailcheck)\n\n \n\nHello Anna\, hello Angellee\,\n\nthis is possible\, the 
+ product will be produced in double width and will be packaged single width
+  1.0m.\n\n \n\nNo surcharge!\n\nThe price is the same as width1.900m : 133
+ .66 €/100m² \n\n \n\nPlease place your order a.s.a.p.!!! \n\n \n\nIf we
+ 're lucky\, we can produce after one of the regular orders for width 1.900
+ mm. I will check in parallel with our planning department.\n\nI hope I can
+  rush the creation of the material number.\n\n \n\nBest regards Thomas\n\n
+  \n\n \n\n \n\n \n\nFrom: ye.dai@benecke-changshun.com.cn <mailto:ye.dai@b
+ enecke-changshun.com.cn>  <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@
+ benecke-changshun.com.cn> > \nSent: Montag\, 19. Januar 2026 07:56\nTo: Th
+ omas Ross <thomas.ross@sekisuialveo.com <mailto:thomas.ross@sekisuialveo.c
+ om> >\; Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto:xi
+ aojiao.chen@benecke-changshun.com.cn> >\nCc: Zhu\, Lin <Lin.Zhu@benecke-ch
+ angshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\nSubject: 回
+ 复: ALV PE-TLA LV-15025// width 1000mm\n\n \n\n[EXTERNAL EMAIL]\n\n \n\nH
+ ello Thomas\n\n \n\n1000mm width foam\, can it packaged in PE film by each
+  roll? And price keep same?\n\n \n\n \n\n \n\n注意：我司国四以及
+ 国四以下车辆禁止入内，请知悉！\n\n11.	仓库收货时间：
+ 上午8：30--下午15：30 \n12.	进入厂区请服从门卫安排，有
+ 序进入\n13.	请正确佩戴安全帽以及反光背心\n14.	请勿随
+ 意走动\n15.	随货携带正确的送货单& 质检单\n\n \n\nBest rega
+ rds\, \n\nYe Dai(Anna) / 戴烨\n\nRaw Material Planner-BCZ Plant/ 原材
+ 料计划员－张家港工厂 \n\nContiTech Surface Solutions\n\n \n\nBes
+ ucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiaga
+ ng) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限
+ 公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang
+ \, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙江海
+ 南路108号 215632\n\n \n\nMobile: +86 189 511 37970\n\nE-mail: ye.dai@be
+ necke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> \n\nWebsit
+ e: www.continental-industry.com <http://www.continental-industry.com/> \n\
+ n \n\n\n\n \n\n \n\nInternal\n\n发件人: Thomas Ross <thomas.ross@sekisu
+ ialveo.com <mailto:thomas.ross@sekisuialveo.com> > \n发送时间: 2026年
+ 1月16日 18:04\n收件人: Chen\, Angellee <xiaojiao.chen@benecke-changsh
+ un.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\; dai\, Anna <
+ ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >
+ \n抄送: Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@bene
+ cke-changshun.com.cn> >\n主题: RE: ALV PE-TLA LV-15025// width 1000mm\n\
+ n \n\nCAUTION: This is an external email. Do not click or open any attachm
+ ents unless you recognize the sender and know that the content is safe. (h
+ ttp://links.conti.de/mailcheck <http://links.conti.de/mailcheck> )\n\n \n\
+ nHello Angellee\, hello Anna\,\n\nI have good news for you:\n\n \n\nWe can
+  produce the following widths\n\n*	1.000/1.000mm with centre slit   --> 2 
+ rolls produced side-by-side\, wrapped together in PE-film = 1 handling uni
+ t (HU). Weight of one HU: max 137 kg \n*	1.950mm\, no centre slit         
+     --> 1 roll = 1 HU. max Weight 132 kg\n*	2.000mm\, no centre slit      
+        --> 1 roll = 1 HU. max Weight 135 kg\n\n \n\nall rolls will have a 
+ roll length of 400m.\n\n \n\nThe price is the same as for the 1.900mm vers
+ ion.\n\n \n\nPlease let me know which version you prefer and we will start
+  with the Product Inquiry.\n\n \n\nAnna\,\n\nplease let us have the order 
+ a.s.a.p.\n\n \n\nThe MOQ is as always 1 ton\, here are the correlating lm 
+ / m² / rolls-HU. \n\nAdditionally I give you the container loads for 20ft
+  / 40ft full container loads.\n\n \n\n\n\n \n\nHave a great weekend and lo
+ oking forward to hearing from you soon\n\n \n\nbest regards Thomas\n\n \n\
+ n \n\nFrom: Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailt
+ o:xiaojiao.chen@benecke-changshun.com.cn> > \nSent: Freitag\, 16. Januar 2
+ 026 02:52\nTo: Thomas Ross <thomas.ross@sekisuialveo.com <mailto:thomas.ro
+ ss@sekisuialveo.com> >\; ye.dai@benecke-changshun.com.cn <mailto:ye.dai@be
+ necke-changshun.com.cn> \nCc: Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn 
+ <mailto:Lin.Zhu@benecke-changshun.com.cn> >\nSubject: 回复: ALV PE-TLA L
+ V-15025// width 1000mm\n\n \n\n[EXTERNAL EMAIL]\n\n \n\nHello Thomas，\n\
+ n \n\nWould you please check the maximum width you can produce? If the wid
+ th can be more than 1950mm\, then we may have a try to use it instead of 1
+ 000mm.\n\n \n\nYour quickly feedback will be highly appreciated. \n\n \n\n
+ Mit freundlichen Grüßen / Best Regards\n\n \n\n陈晓娇/Angellee Chen\n
+ \nRegional Category Manager – Carrier Materials\n\nPurchasing\n\nSurface
+  Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun
+  Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料
+ （张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang 
+ Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市
+ 金港镇南沙长阳路1号 215632\n\n \n\nMobil: +86 177 0624 2801\n\nE-
+ Mail: xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke
+ -changshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www.c
+ ontinental-industry.com/> \n\n \n\nDear Suppliers\, please read the follow
+ ing documents and comply with ContiTech requirements:\n\nSuppliers | Conti
+ nental - Continental AG <https://www.continental.com/en/company/suppliers/
+ supplier-information/>  \n\n \n\n \n\nInternal\n\n发件人: Thomas Ross <
+ thomas.ross@sekisuialveo.com <mailto:thomas.ross@sekisuialveo.com> > \n发
+ 送时间: 2026年1月15日 17:56\n收件人: dai\, Anna <ye.dai@benecke-c
+ hangshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\; Chen\, Angell
+ ee <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-c
+ hangshun.com.cn> >\n抄送: Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <m
+ ailto:Lin.Zhu@benecke-changshun.com.cn> >\n主题: RE: ALV PE-TLA LV-15025
+ // width 1000mm\n重要性: 高\n\n \n\nCAUTION: This is an external email
+ . Do not click or open any attachments unless you recognize the sender and
+  know that the content is safe. (http://links.conti.de/mailcheck <http://l
+ inks.conti.de/mailcheck> )\n\n \n\nHi Anna\, hi Angellee\,\n\ntechnically 
+ it's possible to make 1.000mm wide foam\, but it's not efficient at all --
+ > impact on the price!\n\n \n\nWe don't have a material number and the pro
+ duction lines are full. Therefore January 2026 is impossible.\n\nLet me ch
+ eck the capacity situation\, I will come back to you a.s.a.p.\n\n \n\nAnge
+ llee\, is this additional volume or will it go at the expense of the 1.900
+ mm wide TLA LV 15-02.5 volume?\n\nI need to have clarity about this point 
+ to lobby for speed in the factory.\n\n \n\nThanks and best regards Thomas\
+ n\n \n\nFrom: ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-chang
+ shun.com.cn>  <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-chan
+ gshun.com.cn> > \nSent: Donnerstag\, 15. Januar 2026 09:58\nTo: Thomas Ros
+ s <thomas.ross@sekisuialveo.com <mailto:thomas.ross@sekisuialveo.com> >\; 
+ Sybille Dorow <sybille.dorow@sekisuialveo.com <mailto:sybille.dorow@sekisu
+ ialveo.com> >\; Sales Support <sales.support@sekisuialveo.com <mailto:sale
+ s.support@sekisuialveo.com> >\nCc: Zhu\, Lin <Lin.Zhu@benecke-changshun.co
+ m.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Chen\, Angellee <xiaoji
+ ao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.c
+ om.cn> >\nSubject: ALV PE-TLA LV-15025// width 1000mm\nImportance: High\n\
+ n \n\n[EXTERNAL EMAIL]\n\n \n\nHello Thomas and Sybille\n\n \n\nGood day!\
+ n\n \n\nPls help to check if you have 1000mm width foam for such specifica
+ tion - ALV PE-TLA LV-15025-CA Version A? we have urgent demand now\, what
+ ’s your earliest pick up date? Can we pick up this month?\n\n \n\nFuture
+  demand is around 4000m per month.\n\n \n\nWaiting for your early reply.\n
+ \n \n\n注意：我司国四以及国四以下车辆禁止入内，请知
+ 悉！\n\n16.	仓库收货时间：上午8：30--下午15：30 \n17.	进
+ 入厂区请服从门卫安排，有序进入\n18.	请正确佩戴安全
+ 帽以及反光背心\n19.	请勿随意走动\n20.	随货携带正确的
+ 送货单& 质检单\n\n \n\nBest regards\, \n\nYe Dai(Anna) / 戴烨\n\nR
+ aw Material Planner-BCZ Plant/ 原材料计划员－张家港工厂 \n\nCo
+ ntiTech Surface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBe
+ necke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽
+ 车内饰材料（张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,
+ Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏
+ 省张家港市金港镇南沙江海南路108号 215632\n\n \n\nMobile: +8
+ 6 189 511 37970\n\nE-mail: ye.dai@benecke-changshun.com.cn <mailto:ye.dai@
+ benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http:
+ //www.continental-industry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ALV PE-TLA LV-15025// width 1000mm
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -327,7 +720,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID=GMT 标准时间:20260210T101500
 DTEND;TZID=GMT 标准时间:20260210T110000
 CLASS:PUBLIC
@@ -336,7 +729,21 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:已取消: SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:油漆&色母粒周会
+DTSTART;TZID=GMT 标准时间:20260210T101500
+DTEND;TZID=GMT 标准时间:20260210T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆&色母粒周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -706,7 +1113,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:油漆&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260217T101500
 DTEND;TZID=GMT 标准时间:20260217T110000
 CLASS:PUBLIC
@@ -715,7 +1122,21 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: SP部门周会
+DTSTART;TZID=GMT 标准时间:20260217T101500
+DTEND;TZID=GMT 标准时间:20260217T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1023,7 +1444,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID=GMT 标准时间:20260224T101500
 DTEND;TZID=GMT 标准时间:20260224T110000
 CLASS:PUBLIC
@@ -1032,7 +1453,21 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:已取消: SP部门周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:油漆&色母粒周会
+DTSTART;TZID=GMT 标准时间:20260224T101500
+DTEND;TZID=GMT 标准时间:20260224T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆&色母粒周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1378,7 +1813,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SP部门周会
+SUMMARY:已取消: SP部门周会
 DTSTART;TZID=GMT 标准时间:20260303T101500
 DTEND;TZID=GMT 标准时间:20260303T110000
 CLASS:PUBLIC
@@ -1387,7 +1822,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SP部门周会
+DESCRIPTION:已取消: SP部门周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
