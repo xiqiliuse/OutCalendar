@@ -73,7 +73,10 @@ SUMMARY:2025Y BCZ Plant Town Hall Meeting
 DTSTART;TZID=GMT 标准时间:20260205T153000
 DTEND;TZID=GMT 标准时间:20260205T160000
 CLASS:PUBLIC
-DESCRIPTION:亲爱的同事们：\n\n \n\n为总结2025年度工作成果
+DESCRIPTION:Dear all\,\n\n由于TPO场地无法临时腾出使用，会议
+ 地点临时改至篮球场，请大家相互转告，谢谢！\n\n-------
+ --------------------------------------------------------------------------
+ --------\n\n亲爱的同事们：\n\n \n\n为总结2025年度工作成果
  ，表彰在安全、质量及管理方面表现突出的先进个人和
  团队，进一步推动公司持续改进与卓越运营，并抽取CIM20
  25年度幸运抽奖，工厂将召开2025年度员工大会。\n\n*  请
@@ -85,7 +88,7 @@ DESCRIPTION:亲爱的同事们：\n\n \n\n为总结2025年度工作成果
  un.com.cn> @Xu\, Yan01 <mailto:yan01.xu@benecke-changshun.com.cn> 请提
  前准备好奖杯，谢谢！\n\n \n\n感谢大家的参与和配合\n\n 
  \n\nBR\n\nLuna \n
-LOCATION:TPO车间
+LOCATION:篮球场
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -133,6 +136,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260206T090000
+DTEND;TZID=GMT 标准时间:20260206T173000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
