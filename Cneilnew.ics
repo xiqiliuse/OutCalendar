@@ -5,62 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260209T083500
-DTEND;TZID=GMT 标准时间:20260209T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EM4/LM3 Grafana 界面优化
-DTSTART;TZID=GMT 标准时间:20260209T140000
-DTEND;TZID=GMT 标准时间:20260209T160000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/31400574167894?p=hUgqur1YPcYKKWwafy <https://teams.mi
- crosoft.com/meet/31400574167894?p=hUgqur1YPcYKKWwafy>  \n\n会议 ID: 314 
- 005 741 678 94 \n\n密码: 6GW7CU3x \n\n________________________________\n
- \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
- 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjI2NzA4
- ZTItZmJiYS00MjZmLTg5YjctYjU3MWMxYWY1NzRj%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d
- 3bc-410d-9bb1-26d8f9224084%22%7d>  \n\n对于组织者: 会议选项 <http
- s://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb
- 1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
- eeting_ZjI2NzA4ZTItZmJiYS00MjZmLTg5YjctYjU3MWMxYWY1NzRj@thread.v2&messageI
- d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
- _______________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EM4/LM3 Grafana 界面优化
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260210T083500
 DTEND;TZID=GMT 标准时间:20260210T090500
 CLASS:PUBLIC
@@ -1366,6 +1310,85 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260311T083500
+DTEND;TZID=GMT 标准时间:20260311T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026TNM and TPOC actions monthly review meeting
+DTSTART;TZID=GMT 标准时间:20260311T143000
+DTEND;TZID=GMT 标准时间:20260311T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\nAs we aligned\, 2026TNM and TPOC actions mo
+ nthly review invited\, this is series meeting\, so pls accept all\, we can
+  reschedule if any confliction happened for specific month.\n\n \n\nI will
+  adjust participants according to project start and finish time monthly.\n
+ \n \n\npls. update  TNM2026.xlsx <https://continental.sharepoint.com/:x:/r
+ /teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/TNM20
+ 26.xlsx?d=w4efa06e4c9e249fc8b484a4ab581b829&csf=1&web=1&e=sOxuAQ>  and upl
+ oad report to  monthly review meeting <https://continental.sharepoint.com/
+ :f:/r/teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/
+ monthly%20review%20meeting?csf=1&web=1&e=9yVbg9>  in advance. For project\
+ , pls. prepare A3 report\, for JDI\, pls. prepare project one-pager.\n\n \
+ n\nThank you.\n\n \n\nBest Regards\,\n\nFiona Huang\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026TNM and TPOC actions monthly review meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID=GMT 标准时间:20260311T220000
+DTEND;TZID=GMT 标准时间:20260311T230000
+CLASS:PUBLIC
+DESCRIPTION:This is a continuation of the previous Open Calls\n\n\n\n\n___
+ __________________________________________________________________________
+ ___\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-U
+ S>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3
+ a0a53d13422fa4c21a703569ee88cc19b%40thread.skype/1754325850286?context=%7b
+ %22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2274
+ 7198b6-f9dc-48a8-925a-e78c77260ed8%22%7d>  \nMeeting ID: 365 192 380 447 7
+  \nPasscode: MR2NG3km \n________________________________\n\nFor organizers
+ : Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId
+ =747198b6-f9dc-48a8-925a-e78c77260ed8&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_0a53d13422fa4c21a703569ee88cc19b@thread.skype&messag
+ eId=1754325850286&language=en-US>  \nPrivacy and security <https://filehub
+ .admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__________
+ ______________________________________________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
