@@ -31,7 +31,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:油漆&色母粒周会
+SUMMARY:已取消: 油漆&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260210T101500
 DTEND;TZID=GMT 标准时间:20260210T110000
 CLASS:PUBLIC
@@ -40,7 +40,65 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:油漆&色母粒周会
+DESCRIPTION:已取消: 油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:amk色母粒析出
+DTSTART;TZID=GMT 标准时间:20260210T130000
+DTEND;TZID=GMT 标准时间:20260210T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/38822191639260?p=Y468SdHmMwJFBNYWp3 <https://teams.mi
+ crosoft.com/meet/38822191639260?p=Y468SdHmMwJFBNYWp3>  \n\n会议 ID: 388 
+ 221 916 392 60 \n\n密码: Zz6Qh952 \n\n________________________________\n
+ \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
+ 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWZlMTkw
+ NDItOTAwZi00YmFhLWEwYTAtNDhhMDhhMzM0NGQy%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22babedd67-6
+ 77b-41ae-8576-5fb00576a8e3%22%7d>  \n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=babedd67-677b-41ae-857
+ 6-5fb00576a8e3&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_YWZlMTkwNDItOTAwZi00YmFhLWEwYTAtNDhhMDhhMzM0NGQy@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
+ _______________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:amk色母粒析出
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grafana
+DTSTART;TZID=GMT 标准时间:20260210T153000
+DTEND;TZID=GMT 标准时间:20260210T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/32166514784412?p=caRj9iHDJphTKdXmrD <https://teams.mi
+ crosoft.com/meet/32166514784412?p=caRj9iHDJphTKdXmrD>  \n\n会议 ID: 321 
+ 665 147 844 12 \n\n密码: Wx9jF3XZ \n\n________________________________\n
+ \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
+ 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGM2ZDE0
+ YWQtNjY2Ny00OGQwLThlMWYtYzY5NjY0OTNlYjdk%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d
+ 3bc-410d-9bb1-26d8f9224084%22%7d>  \n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb
+ 1-26d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_ZGM2ZDE0YWQtNjY2Ny00OGQwLThlMWYtYzY5NjY0OTNlYjdk@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
+ _______________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Grafana
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -68,6 +126,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260211T090000
+DTEND;TZID=GMT 标准时间:20260211T143000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -147,6 +219,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260212T090000
+DTEND;TZID=GMT 标准时间:20260212T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
