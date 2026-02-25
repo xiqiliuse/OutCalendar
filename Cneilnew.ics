@@ -5,47 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260224T083500
-DTEND;TZID=GMT 标准时间:20260224T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 油漆&色母粒周会
-DTSTART;TZID=GMT 标准时间:20260224T101500
-DTEND;TZID=GMT 标准时间:20260224T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 油漆&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260225T083500
 DTEND;TZID=GMT 标准时间:20260225T090500
 CLASS:PUBLIC
@@ -1268,6 +1227,111 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260326T083500
+DTEND;TZID=GMT 标准时间:20260326T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Quarterly Cross-Group Learning Review & Sharing Meeting｜202
+ 6季度跨小组学习回顾与成果分享会议
+DTSTART;TZID=GMT 标准时间:20260326T133000
+DTEND;TZID=GMT 标准时间:20260326T153000
+CLASS:PUBLIC
+DESCRIPTION:Dear D Talent Team\,\n\n尊敬的 D Talent 团队，\n\n \n\nW
+ e are pleased to invite you to our 2026 Quarterly Cross-Group Learning Rev
+ iew & Sharing Meeting. 🎉\n\n我们诚挚地邀请您参加2026 年度
+ 季度跨小组学习回顾与成果分享会议。\n\n \n\nThis quarterly
+  meeting is designed to enhance learning communication and collaboration a
+ cross different groups. The session will focus on reviewing the progress o
+ f ongoing training programs\, sharing learning outcomes\, and aligning on 
+ learning priorities and course content for the upcoming quarter.\n\n本次
+ 季度会议旨在加强不同小组之间的学习沟通与协作，重
+ 点回顾当前培训项目的整体进展，分享学习成果，并对
+ 齐下一阶段的学习重点与课程内容。\n\n \n\n*  👥Participan
+ ts / 参与人员：\n\n*   All D Talent Program group members are require
+ d to attend.\n\n*   D Talent Program 小组成员需必须参加。\n\n*  
+  Management level members are welcome to attend on an optional basis.\n\n*
+    管理层可自愿参加。\n\n \n\nDuring the meeting\, we will:\n\n
+ 会议将主要包括以下内容：\n\n \n\n*  🗂️Review Coursera acc
+ ount usage and accumulated training hours across groups\n\n  回顾各小
+ 组 Coursera 账户使用情况及培训时长\n\n*  🌟Share key learnin
+ g outcomes\, application cases\, and achievements from different groups\n\
+ n    分享各小组的学习成果、实践应用案例及阶段性成果
+ \n\n*  🧭Align on upcoming learning tasks\, priorities\, and course cont
+ ent for the next quarter\n\n    对齐下一季度的学习任务、重点
+ 方向及课程规划\n\n*  💡Collect feedback and suggestions to contin
+ uously improve our group learning initiatives\n\n    收集反馈与建议
+ ，持续优化小组学习机制\n\n \n\nThis meeting will serve as an im
+ portant platform for cross-group knowledge sharing and mutual learning. We
+  look forward to your participation and valuable insights.\n\n本次会议
+ 将作为跨小组知识共享与经验交流的重要平台，期待您
+ 的积极参与和宝贵建议。\n\n \n\nThank you\, and we look forward 
+ to seeing you at the meeting.\n\n感谢您的支持，期待您的参与
+ ！😊\n\n \n\nBest regards\,\n\nLily Liu is sending this email on behalf
+  of the cross-functional project team.\n\n________________________________
+ ________________________________________________\n\nMicrosoft Teams meetin
+ g \n\nJoin: https://teams.microsoft.com/meet/33180525913651?p=j847C7N2TA1p
+ jQXm1V <https://teams.microsoft.com/meet/33180525913651?p=j847C7N2TA1pjQXm
+ 1V>  \n\nMeeting ID: 331 805 259 136 51 \n\nPasscode: mB6PU6zC \n\n_______
+ _________________________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?o
+ mkt=en-US>  | System reference <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MmZkODhmOWMtYWY0Yi00NjExLTk4MmYtYWNhNjI5YmM4YTFm%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n\nFor organizers
+ : Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId
+ =1e3fea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_meeting_MmZkODhmOWMtYWY0Yi00NjExLTk4MmYtYWNhNjI5YmM4
+ YTFm@thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security <http
+ s://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \
+ n\n_______________________________________________________________________
+ _________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 Quarterly Cross-Group Learning Review & Sharing Meeting
+ ｜2026季度跨小组学习回顾与成果分享会议
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID=GMT 标准时间:20260326T230000
+DTEND;TZID=GMT 标准时间:20260327T000000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 2
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
