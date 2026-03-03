@@ -5,421 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260302T083500
-DTEND;TZID=GMT 标准时间:20260302T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chrysler WD project foam transfer-YAFI Tailand trial request
-DTSTART;TZID=GMT 标准时间:20260302T100000
-DTEND;TZID=GMT 标准时间:20260302T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/39780696538176?p=9rbHwBY7Ox4A6y30lI <https://teams.mi
- crosoft.com/meet/39780696538176?p=9rbHwBY7Ox4A6y30lI>  \n\n会议 ID: 397 
- 806 965 381 76 \n\n密码: FP7oZ2LG \n\n________________________________\n
- \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
- 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWM3N2Vm
- ZGItMjUxNy00OTgyLWE3MjctNWY1MTY2YjQwN2Q3%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-6
- 8a5-4cad-b1c7-2cc4749680eb%22%7d>  \n\n对于组织者: 会议选项 <http
- s://teams.microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c
- 7-2cc4749680eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
- eeting_ZWM3N2VmZGItMjUxNy00OTgyLWE3MjctNWY1MTY2YjQwN2Q3@thread.v2&messageI
- d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
- _______________________________________________________\n\n \n\n \n\n_____
- ________________________________________\n发件人: Sasithorn\,Ramsuk (Ch
- onburi\,TH) <sasithorn.ramsuk@yanfeng.com <mailto:sasithorn.ramsuk@yanfeng
- .com> > \n发送时间: 2026年2月26日 11:49\n收件人: Wu\, Wei03 <wei
- .3.wu@benecke-changshun.com.cn <mailto:wei.3.wu@benecke-changshun.com.cn> 
- >\; Penkhae Puyim (Chonburi\,TH) <penkhae.puyim@yanfeng.com <mailto:penkha
- e.puyim@yanfeng.com> >\; Gu\,Xiaoying (YFI\,Cherry\,Shanghai\,CN) <xiaoyin
- g.gu@yanfeng.com <mailto:xiaoying.gu@yanfeng.com> >\; Napaporn Saehoung (C
- honburi\,TH) <napaporn.saehoung@yanfeng.com <mailto:napaporn.saehoung@yanf
- eng.com> >\; Rittiyo\,Parsonk (Chonburi\,TH) <parsonk.rittiyo@yanfeng.com 
- <mailto:parsonk.rittiyo@yanfeng.com> >\; Li\, Xiaodong03 <xiaodong.3.li@be
- necke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\;
-  Wang\, Liang14 <liang.14.wang@benecke-changshun.com.cn <mailto:liang.14.w
- ang@benecke-changshun.com.cn> >\n主题: Re: Chrysler WD project foam tran
- sfer-YAFI Tailand trial request\n\n \n\nCAUTION: This is an external email
- . Do not click or open any attachments unless you recognize the sender and
-  know that the content is safe. (http://links.conti.de/mailcheck)\n\n \n\n
- Hello Wilson\,\n\n \n\nPlease see the defect picture you requested. The fo
- am has a dent after wrapping. When compared with the current \, the new fo
- am is more easily dents\, which is why the reject rate is 5–10%.\n\n \n\
- n\n\n \n\n \n\nThank you &  Regards\,\n\nMs. Sasithorn Ramsuk (Baifern)\n\
- nSupplier Quality Engineer\n\nYanfeng Interiors\n\n-----------------------
- -------------\n\nM +66 98 515 1548\n\n \n\n_______________________________
- _\n\nFrom: Wu\, Wei03 <wei.3.wu@benecke-changshun.com.cn <mailto:wei.3.wu@
- benecke-changshun.com.cn> >\nSent: Wednesday\, February 25\, 2026 3:30 PM\
- nTo: Sasithorn\,Ramsuk (Chonburi\,TH) <sasithorn.ramsuk@yanfeng.com <mailt
- o:sasithorn.ramsuk@yanfeng.com> >\; Penkhae Puyim (Chonburi\,TH) <penkhae.
- puyim@yanfeng.com <mailto:penkhae.puyim@yanfeng.com> >\; Gu\,Xiaoying (YFI
- \,Cherry\,Shanghai\,CN) <xiaoying.gu@yanfeng.com <mailto:xiaoying.gu@yanfe
- ng.com> >\; Napaporn Saehoung (Chonburi\,TH) <napaporn.saehoung@yanfeng.co
- m <mailto:napaporn.saehoung@yanfeng.com> >\; Rittiyo\,Parsonk (Chonburi\,T
- H) <parsonk.rittiyo@yanfeng.com <mailto:parsonk.rittiyo@yanfeng.com> >\; L
- i\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.
- li@benecke-changshun.com.cn> >\; Wang\, Liang14 <liang.14.wang@benecke-cha
- ngshun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\nSubject: 
- 回复: Chrysler WD project foam transfer-YAFI Tailand trial request \n\n 
- \n\nDear Baifern\n\nWe checked that #8282111 used Alveo foam\, and #828007
- 0 used Youngbo foam.\n\nIt seems like it’s not about the foam that cause
- d the increase of scrap rate.\n\nWhat about share us some defect pictures 
- ?  And it’s better for us if we can know the directly difference between
-  these two batches.\n\nThanks !\n\n***************************************
- ***************************************************\n\nWilson Wu \n\nCusto
- mer Quality Engineer\n\nQuality Management Department\n\nBusiness Area Con
- tiTech\n\n \n\nMobile: +86 18036850611\n\nE-Mail: wei.3.wu@benecke-changsh
- un.com.cn <mailto:wei.3.wu@benecke-changshun.com.cn> \n\n*****************
- **************************************************************************
- \n\n \n\n \n\nInternal\n\n发件人: Sasithorn\,Ramsuk (Chonburi\,TH) <sas
- ithorn.ramsuk@yanfeng.com <mailto:sasithorn.ramsuk@yanfeng.com> > \n发送
- 时间: 2026年2月25日 15:55\n收件人: Wu\, Wei03 <wei.3.wu@benecke-ch
- angshun.com.cn <mailto:wei.3.wu@benecke-changshun.com.cn> >\; Penkhae Puyi
- m (Chonburi\,TH) <penkhae.puyim@yanfeng.com <mailto:penkhae.puyim@yanfeng.
- com> >\; Gu\,Xiaoying (YFI\,Cherry\,Shanghai\,CN) <xiaoying.gu@yanfeng.com
-  <mailto:xiaoying.gu@yanfeng.com> >\; Napaporn Saehoung (Chonburi\,TH) <na
- paporn.saehoung@yanfeng.com <mailto:napaporn.saehoung@yanfeng.com> >\; Rit
- tiyo\,Parsonk (Chonburi\,TH) <parsonk.rittiyo@yanfeng.com <mailto:parsonk.
- rittiyo@yanfeng.com> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.
- com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Wang\, Liang14 
- <liang.14.wang@benecke-changshun.com.cn <mailto:liang.14.wang@benecke-chan
- gshun.com.cn> >\n主题: Re: Chrysler WD project foam transfer-YAFI Tailan
- d trial request\n\n \n\nCAUTION: This is an external email. Do not click o
- r open any attachments unless you recognize the sender and know that the c
- ontent is safe. (http://links.conti.de/mailcheck)\n\n \n\nHello Wilson\,\n
- \n \n\nBatch number : Z0000541 ( #8282111 / #8280070 )\n\n \n\n \n\n \n\nT
- hank you &  Regards\,\n\nMs. Sasithorn Ramsuk (Baifern)\n\nSupplier Qualit
- y Engineer\n\nYanfeng Interiors\n\n------------------------------------\n\
- nM +66 98 515 1548\n\n \n\n________________________________\n\nFrom: Wu\, 
- Wei03 <wei.3.wu@benecke-changshun.com.cn <mailto:wei.3.wu@benecke-changshu
- n.com.cn> >\nSent: Wednesday\, February 25\, 2026 12:52 PM\nTo: Sasithorn\
- ,Ramsuk (Chonburi\,TH) <sasithorn.ramsuk@yanfeng.com <mailto:sasithorn.ram
- suk@yanfeng.com> >\; Penkhae Puyim (Chonburi\,TH) <penkhae.puyim@yanfeng.c
- om <mailto:penkhae.puyim@yanfeng.com> >\; Gu\,Xiaoying (YFI\,Cherry\,Shang
- hai\,CN) <xiaoying.gu@yanfeng.com <mailto:xiaoying.gu@yanfeng.com> >\; Nap
- aporn Saehoung (Chonburi\,TH) <napaporn.saehoung@yanfeng.com <mailto:napap
- orn.saehoung@yanfeng.com> >\; Rittiyo\,Parsonk (Chonburi\,TH) <parsonk.rit
- tiyo@yanfeng.com <mailto:parsonk.rittiyo@yanfeng.com> >\; Li\, Xiaodong03 
- <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-chan
- gshun.com.cn> >\; Wang\, Liang14 <liang.14.wang@benecke-changshun.com.cn <
- mailto:liang.14.wang@benecke-changshun.com.cn> >\nSubject: 回复: Chrysle
- r WD project foam transfer-YAFI Tailand trial request \n\n \n\nDear Ms. Ba
- ifern \n\ndear Penkhae Puyim\,\n\nSorry for disturbing\, I send this e-mai
- l just to know more information about changing foam supplier form Youngbo 
- to Alveo.\n\nWould you mind share us the batch number which resulted in in
- creasing 5%~10% scrap rate .\n\nThanks a lot !\n\n************************
- ******************************************************************\n\nWils
- on Wu \n\nCustomer Quality Engineer\n\nQuality Management Department\n\nBu
- siness Area ContiTech\n\n \n\nMobile: +86 18036850611\n\nE-Mail: wei.3.wu@
- benecke-changshun.com.cn <mailto:wei.3.wu@benecke-changshun.com.cn> \n\n**
- **************************************************************************
- ***************\n\n \n\n \n\nInternal\n\n发件人: Li\, Xiaodong03 <xiaod
- ong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.
- com.cn> > \n发送时间: 2026年2月24日 9:01\n收件人: Wu\, Wei03 <we
- i.3.wu@benecke-changshun.com.cn <mailto:wei.3.wu@benecke-changshun.com.cn>
-  >\n主题: 转发: Chrysler WD project foam transfer-YAFI Tailand trial r
- equest\n\n \n\n \n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nIn
- ternal\n\n发件人: Penkhae Puyim (Chonburi\,TH) <penkhae.puyim@yanfeng.c
- om <mailto:penkhae.puyim@yanfeng.com> > \n发送时间: 2026年2月11日 1
- 2:17\n收件人: C\n抄送: Xu\, Hua <Hua.Xu@benecke-changshun.com.cn <mai
- lto:Hua.Xu@benecke-changshun.com.cn> >\; Wang\,Lijun (WangLiJun\,Chonburi\
- ,TH) <lijun.wang@yanfeng.com <mailto:lijun.wang@yanfeng.com> >\n主题: Re
- : Chrysler WD project foam transfer-YAFI Tailand trial request\n\n \n\nCAU
- TION: This is an external email. Do not click or open any attachments unle
- ss you recognize the sender and know that the content is safe. (http://lin
- ks.conti.de/mailcheck)\n\n \n\nI have confirmed with process team that aft
- er producing the small batch you shipped to us last year\, quality reject 
- rate for Alveo foam was around 5–10%\, which is worse than the current f
- oam from Youngbo. You may conduct verification at the beginning of March. 
- If reject rate remains high\, we may reject this change request. Please co
- nfirm which date you wish to proceed the trial.\n\n \n\n__________________
- ______________\n\nFrom: Wang\, Liang14 <liang.14.wang@benecke-changshun.co
- m.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\nSent: Wednesday\, 
- February 11\, 2026 9:16 AM\nTo: Penkhae Puyim (Chonburi\,TH) <penkhae.puyi
- m@yanfeng.com <mailto:penkhae.puyim@yanfeng.com> >\; Gu\,Xiaoying (YFI\,Ch
- erry\,Shanghai\,CN) <xiaoying.gu@yanfeng.com <mailto:xiaoying.gu@yanfeng.c
- om> >\; Napaporn Saehoung (Chonburi\,TH) <napaporn.saehoung@yanfeng.com <m
- ailto:napaporn.saehoung@yanfeng.com> >\; Rittiyo\,Parsonk (Chonburi\,TH) <
- parsonk.rittiyo@yanfeng.com <mailto:parsonk.rittiyo@yanfeng.com> >\nCc: Xu
- \, Hua <Hua.Xu@benecke-changshun.com.cn <mailto:Hua.Xu@benecke-changshun.c
- om.cn> >\; Wang\,Lijun (WangLiJun\,Chonburi\,TH) <lijun.wang@yanfeng.com <
- mailto:lijun.wang@yanfeng.com> >\nSubject: 回复: Chrysler WD project foa
- m transfer-YAFI Tailand trial request \n\n \n\nMorning @'Penkhae Puyim (Ch
- onburi\,TH)' <mailto:penkhae.puyim@yanfeng.com> \n\n \n\nDo you have the o
- ther questions about this trial?\n\n \n\nAnd if your part has suitable tim
- e for us to arrange this trial?\n\n \n\nThank you for your continued suppo
- rt.\n\n顺颂商祺 / Mit freundlichen Grüßen / Best regards\,\n\nIsaac 
- Wang / 王亮\n\nsales engineer\n\nTier Customers\n\nContiTech Surface Sol
- utions\n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto Tri
- m (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家
- 港）有限公司\n\nNo.8\,Changyang Rd.\,Nansha\, Jingang Town\, Zhangji
- agang\, 215632 Jiangsu\, P.R.China\n江苏省张家港市金港镇南沙
- 长阳路8号 215632\n\nMobile: +86 189 5113 1622\n\nE-mail: liang.14.wang
- @benecke-changshun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> 
- \n\n \n\n \n\nInternal\n\n发件人: Wang\, Liang14\n发送时间: 2026年
- 2月4日 14:17\n收件人: 'Penkhae Puyim (Chonburi\,TH)' <penkhae.puyim@y
- anfeng.com <mailto:penkhae.puyim@yanfeng.com> >\; Gu\,Xiaoying (YFI\,Cherr
- y\,Shanghai\,CN) <xiaoying.gu@yanfeng.com <mailto:xiaoying.gu@yanfeng.com>
-  >\; Napaporn Saehoung (Chonburi\,TH) <napaporn.saehoung@yanfeng.com <mail
- to:napaporn.saehoung@yanfeng.com> >\; Rittiyo\,Parsonk (Chonburi\,TH) <par
- sonk.rittiyo@yanfeng.com <mailto:parsonk.rittiyo@yanfeng.com> >\n抄送: X
- u\, Hua <Hua.Xu@benecke-changshun.com.cn <mailto:Hua.Xu@benecke-changshun.
- com.cn> >\; Wang\,Lijun (WangLiJun\,Shanghai\,CN) <lijun.wang@yanfeng.com 
- <mailto:lijun.wang@yanfeng.com> >\n主题: 回复: Chrysler WD project foa
- m transfer-YAFI Tailand trial request\n\n \n\nHello @Penkhae Puyim (Chonbu
- ri\,TH) <mailto:penkhae.puyim@yanfeng.com> \n\n \n\nI have next answer for
-  your question:\n\n*	What material you would like to change?\n\nThe TPO fo
- am supplier changes from Youngbo to Alveo.\n\n*	Relevant technical data of
-  current & new?\n\nYou can see the result of test report that TPO use Alve
- o and Youngbo foam in the attachment.\n\n*	The reason for the change and i
- ts impact?\n\nThe change reason: The previous foam supplier had insufficie
- nt production capacity.\n\nThe impact: The change just pertains to the foa
- m supplier\, with no impact on any other areas.\n\n \n\nThank you for your
-  continued support.\n\n顺颂商祺 / Mit freundlichen Grüßen / Best reg
- ards\,\n\nIsaac Wang / 王亮\n\nsales engineer\n\nTier Customers\n\nConti
- Tech Surface Solutions\n\nBesucheradresse / Visitor address:\n\nBenecke Ch
- angshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰
- 材料（张家港）有限公司\n\nNo.8\,Changyang Rd.\,Nansha\, Jingang
-  Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China\n江苏省张家港市
- 金港镇南沙长阳路8号 215632\n\nMobile: +86 189 5113 1622\n\nE-mail
- : liang.14.wang@benecke-changshun.com.cn <mailto:liang.14.wang@benecke-cha
- ngshun.com.cn> \n\n \n\n发件人: Penkhae Puyim (Chonburi\,TH) <penkhae.p
- uyim@yanfeng.com <mailto:penkhae.puyim@yanfeng.com> >\n发送时间: 2026
- 年2月3日 13:45\n收件人: Wang\, Liang14 <liang.14.wang@benecke-changs
- hun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\; Gu\,Xiaoyin
- g (YFI\,Cherry\,Shanghai\,CN) <xiaoying.gu@yanfeng.com <mailto:xiaoying.gu
- @yanfeng.com> >\; Napaporn Saehoung (Chonburi\,TH) <napaporn.saehoung@yanf
- eng.com <mailto:napaporn.saehoung@yanfeng.com> >\; Rittiyo\,Parsonk (Chonb
- uri\,TH) <parsonk.rittiyo@yanfeng.com <mailto:parsonk.rittiyo@yanfeng.com>
-  >\n抄送: Xu\, Hua <Hua.Xu@benecke-changshun.com.cn <mailto:Hua.Xu@benec
- ke-changshun.com.cn> >\; Wang\,Lijun (WangLiJun\,Shanghai\,CN) <lijun.wang
- @yanfeng.com <mailto:lijun.wang@yanfeng.com> >\n主题: Re: Chrysler WD pr
- oject foam transfer-YAFI Tailand trial request\n重要性: 高\n\n \n\nCAU
- TION: This is an external email. Do not click or open any attachments unle
- ss you recognize the sender and know that the content is safe. (http://lin
- ks.conti.de/mailcheck <http://links.conti.de/mailcheck> )\n\n \n\nHello Be
- necke Team\,\n\nCould you please provide clearer information on the propos
- ed change?\nSpecifically\, we would appreciate details on:\n\n*	What mater
- ial you would like to change?\n*	Relevant technical data of current & new?
- \n*	The reason for the change and its impact?\n\nPlease share this informa
- tion with us asap.\n\nThank you for your cooperation.\n\n \n\n\nPenkhae Pu
- yim | เพ็ญแข ภู่ยิ้ม\n\nM (+66) 088-9828131\n\nQ
- uality Manager\, Quality Department\n\nYanfeng Interiors\n\n______________
- __________________\n\nFrom: Wang\, Liang14 <liang.14.wang@benecke-changshu
- n.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\nSent: Tuesday\
- , February 3\, 2026 12:36 PM\nTo: Gu\,Xiaoying (YFI\,Cherry\,Shanghai\,CN)
-  <xiaoying.gu@yanfeng.com <mailto:xiaoying.gu@yanfeng.com> >\; Penkhae Puy
- im (Chonburi\,TH) <penkhae.puyim@yanfeng.com <mailto:penkhae.puyim@yanfeng
- .com> >\; Napaporn Saehoung (Chonburi\,TH) <napaporn.saehoung@yanfeng.com 
- <mailto:napaporn.saehoung@yanfeng.com> >\; Rittiyo\,Parsonk (Chonburi\,TH)
-  <parsonk.rittiyo@yanfeng.com <mailto:parsonk.rittiyo@yanfeng.com> >\nCc: 
- Xu\, Hua <Hua.Xu@benecke-changshun.com.cn <mailto:Hua.Xu@benecke-changshun
- .com.cn> >\; Wang\,Lijun (WangLiJun\,Shanghai\,CN) <lijun.wang@yanfeng.com
-  <mailto:lijun.wang@yanfeng.com> >\nSubject: 回复: Chrysler WD project f
- oam transfer-YAFI Tailand trial request\n\n \n\n注意: 本邮件来自外
- 部组织\, 除非您能确定发件人及内容是安全的\, 请不要
- 点击邮件中的超链接或附件.\n\nCAUTION: This email originated fr
- om outside of the organization. DO NOT click links or open attachments unl
- ess you recognize the sender and know the content is safe.\n\nHello @Penkh
- ae Puyim (Chonburi\,TH) <mailto:penkhae.puyim@yanfeng.com> \n\n \n\nCan yo
- u help to arrange your suitable time for this foam transfer trial?\n\n \n\
- nThank you for your continued support.\n\n顺颂商祺 / Mit freundlichen 
- Grüßen / Best regards\,\n\nIsaac Wang / 王亮\n\nsales engineer\n\nTier
-  Customers\n\nContiTech Surface Solutions\n\nBesucheradresse / Visitor add
- ress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
- 克长顺汽车内饰材料（张家港）有限公司\n\nNo.8\,Changyang 
- Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China\n
- 江苏省张家港市金港镇南沙长阳路8号 215632\n\nMobile: +86 18
- 9 5113 1622\n\nE-mail: liang.14.wang@benecke-changshun.com.cn <mailto:lian
- g.14.wang@benecke-changshun.com.cn> \n\n \n\n \n\nInternal\n\n发件人: G
- u\,Xiaoying (YFI\,Cherry\,Shanghai\,CN) <xiaoying.gu@yanfeng.com <mailto:x
- iaoying.gu@yanfeng.com> >\n发送时间: 2026年2月2日 17:20\n收件人:
-  Wang\, Liang14 <liang.14.wang@benecke-changshun.com.cn <mailto:liang.14.w
- ang@benecke-changshun.com.cn> >\; Penkhae Puyim (Chonburi\,TH) <penkhae.pu
- yim@yanfeng.com <mailto:penkhae.puyim@yanfeng.com> >\; Napaporn Saehoung (
- Chonburi\,TH) <napaporn.saehoung@yanfeng.com <mailto:napaporn.saehoung@yan
- feng.com> >\; Rittiyo\,Parsonk (Chonburi\,TH) <parsonk.rittiyo@yanfeng.com
-  <mailto:parsonk.rittiyo@yanfeng.com> >\n抄送: Xu\, Hua <Hua.Xu@benecke-
- changshun.com.cn <mailto:Hua.Xu@benecke-changshun.com.cn> >\; Wang\,Lijun 
- (WangLiJun\,Shanghai\,CN) <lijun.wang@yanfeng.com <mailto:lijun.wang@yanfe
- ng.com> >\n主题: 回复: Chrysler WD project foam transfer-YAFI Tailand 
- trial request\n\n \n\nCAUTION: This is an external email. Do not click or 
- open any attachments unless you recognize the sender and know that the con
- tent is safe. (http://links.conti.de/mailcheck <http://links.conti.de/mail
- check> )\n\n \n\nHi Penkhae\,\n\n \n\nCan you please check below mail from
-  Benecke of WD TPO PPF change?  It is same as previous one.  Thank you.\n\
- n \n\n \n\nBest regards\,\n\n \n\n顾晓颖/Cherry Gu\n\nManager\, Commodi
- ty Procurement AP\n\nYanfeng Automative Interiors\n\n---------------------
- ---------------\n\nM +86 13524192170\n\nxiaoying.gu@yanfeng.com <mailto:xi
- aoying.gu@yanfeng.com> \n\n \n\n发件人: Wang\, Liang14 <liang.14.wang@b
- enecke-changshun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> >\
- n发送时间: 2026年1月28日 16:33\n收件人: Gu\,Xiaoying (YFI\,Cherr
- y\,Shanghai\,CN) <xiaoying.gu@yanfeng.com <mailto:xiaoying.gu@yanfeng.com>
-  >\n抄送: Xu\, Hua <Hua.Xu@benecke-changshun.com.cn <mailto:Hua.Xu@benec
- ke-changshun.com.cn> >\n主题: Chrysler WD project foam transfer-YAFI Tai
- land trial request\n\n \n\nHello Cherry\,\n\n \n\nThank you very much for 
- your strong support during the foam‑switching trial for our WD project. 
- And the new Alveo foam performed well with no issues during processing or 
- application rely on last trial. Based on the Thailand plant’s orders and
-  forecast\, we expect to start supplying materials using Alveo foam in ear
- ly March.\n\n \n\nAs the WD project includes two materials with only grain
-  differences\, our application colleagues completed the trial for the high
- ‑volume material during the last visit. The low‑volume material was no
- t tested due to time limitations.\n\n \n\nWe have now produced a batch of 
- materials using Alveo foam. To ensure a smooth transition\, we kindly ask 
- for your assistance in coordinating with the Thailand plant to arrange a s
- uitable trial time. Our application engineers will travel to Thailand to s
- upport the on‑site trial.\n\n \n\nThank you for your continued support.\
- n\n顺颂商祺 / Mit freundlichen Grüßen / Best regards\,\n\nIsaac Wang
-  / 王亮\n\nsales engineer\n\nTier Customers\n\nContiTech Surface Solutio
- ns\n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Z
- hangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港
- ）有限公司\n\nNo.8\,Changyang Rd.\,Nansha\, Jingang Town\, Zhangjiaga
- ng\, 215632 Jiangsu\, P.R.China\n江苏省张家港市金港镇南沙长
- 阳路8号 215632\n\nMobile: +86 189 5113 1622\n\nE-mail: liang.14.wang@be
- necke-changshun.com.cn <mailto:liang.14.wang@benecke-changshun.com.cn> \n\
- n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Chrysler WD project foam transfer-YAFI Tailand trial request
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX工段长时间停机后开机首单碳化物严重
-DTSTART;TZID=GMT 标准时间:20260302T130000
-DTEND;TZID=GMT 标准时间:20260302T133000
-CLASS:PUBLIC
-DESCRIPTION:Hello 晓东：\n          本次春节假期后EX工段正常
- 开机，在排料阶段均发现较多黑色杂志带出，疑似长时
- 间停机导致物料碳化附着在螺杆和螺筒内壁，开机后随
- 着摩擦脱落带出。\n         由于黑色杂质持续产生，必须
- 排净后生产，且由于开机首单订单批量较小，无法回收
- ，本次开机报废EX1+EX2共计报废1430m。\n\n为降低长时间停
- 机后开机排料损耗，特邀请共同讨论解决方案，谢谢！
-LOCATION:TPO关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX工段长时间停机后开机首单碳化物严重
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ContiGPT Session
-DTSTART;TZID=GMT 标准时间:20260302T213000
-DTEND;TZID=GMT 标准时间:20260302T220000
-CLASS:PUBLIC
-DESCRIPTION:Join us every other Monday at 14:30 CET for a 30-minute sessio
- n to explore Generative AI\, AI and Automation topics\, share insights\, a
- nd showcase exciting projects!\n💡 Want to present or suggest a topic?\n
- Reach out directly to @Rodrigues\, Catarina <mailto:catarina.cunha.rodrigu
- es@conti.de>  with your ideas!\nLet’s collaborate\, learn\, and innovate
-  together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to kn
- ow about the ContiGPT Community: ContiGPT Community (sharepoint.com) <http
- s://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-Comm
- unity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting - a
- dd it to your calendar <https://teams.microsoft.com/l/message/19:56fa358dd
- a644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b2e-
- 40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&parent
- MessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&cre
- atedTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetings 
- - Agenda <https://continental.sharepoint.com/teams/team_10065807/_layouts/
- OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAssets%2FContiGPT%20Noteboo
- k&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A7-7F29D3E31727%2FWeekly
- %20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-BE3C3B0EA1A0%2F%29%20on
- enote:https://continental.sharepoint.com/teams/team_10065807/SiteAssets/Co
- ntiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20-%20Agenda&section-id={
- 5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A464D-4819-4E5E-A4F0-BE3
- C3B0EA1A0}&end> \n*	Recordings and slides from previous meetings:\n\n	*	We
- ekly Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams
- /team_10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%2
- 0recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://c
- ontinental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%2
- 0Organization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Pl
- aylist format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r
- /teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	\n	AI @ Con
- tinental: All-in-One AI Portal <https://continental.sharepoint.com/teams/c
- s_10001437/SitePages/Artificial-Intelligence-at-Tires.aspx> \n\n\n\n______
- __________________________________________________________________________
- \nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-GB> 
- \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3amee
- ting_ZDAyODRiZjMtMjM0NC00MTM5LWI2ZTctMTZiNDkxNTBhNmRi%40thread.v2/0?contex
- t=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a
- %229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID: 317 881 907 5
- 59 \nPasscode: ih7Kg7SA \n________________________________\n\nFor organise
- rs: Meeting options <https://teams.microsoft.com/meetingOptions/?organizer
- Id=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e
- 04d79e6265a&threadId=19_meeting_ZDAyODRiZjMtMjM0NC00MTM5LWI2ZTctMTZiNDkxNT
- BhNmRi@thread.v2&messageId=0&language=en-GB> \nPrivacy and security <https
- ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n_
- __________________________________________________________________________
- _____
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ContiGPT Session
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:元宵节
-DTSTART;TZID=GMT 标准时间:20260303T000000
-DTEND;TZID=GMT 标准时间:20260304T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:元宵节
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:元宵节
-DTSTART;TZID=GMT 标准时间:20260303T000000
-DTEND;TZID=GMT 标准时间:20260304T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:元宵节
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260303T083500
 DTEND;TZID=GMT 标准时间:20260303T090500
 CLASS:PUBLIC
@@ -483,6 +68,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260304T090000
+DTEND;TZID=GMT 标准时间:20260304T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1688,6 +1287,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260401T083500
+DTEND;TZID=GMT 标准时间:20260401T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
