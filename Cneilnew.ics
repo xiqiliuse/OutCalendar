@@ -272,6 +272,37 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026年work loading和PPI 职责
+DTSTART;TZID=GMT 标准时间:20260310T130000
+DTEND;TZID=GMT 标准时间:20260310T140000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们大家花1个小时一起捋一下
+ ，谢谢！\n\n \n\nSophia   3/5\n\n_____________________________________
+ ___________________________________________\n\nMicrosoft Teams 会议 \n\n
+ 加入: https://teams.microsoft.com/meet/34698361518421?p=83HxV87aF1gZ2tvq
+ mJ <https://teams.microsoft.com/meet/34698361518421?p=83HxV87aF1gZ2tvqmJ> 
+  \n\n会议 ID: 346 983 615 184 21 \n\n密码: 8Sp6TM3y \n\n______________
+ __________________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting
+ ?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_OWUxZjgzMmMtZWRhZS00YmEyLTljMWYtNGYxOGNmMzJhOTUw%40thread.v2/0?
+ context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid
+ %22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n对于组织者:
+  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41
+ 355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&threadId=19_meeting_OWUxZjgzMmMtZWRhZS00YmEyLTljMWYtNGYxOGNmMzJhOTUw
+ @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:Sophia‘s room
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026年work loading和PPI 职责
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260311T083500
 DTEND;TZID=GMT 标准时间:20260311T090500
