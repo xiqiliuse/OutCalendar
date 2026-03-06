@@ -5,59 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260305T083500
-DTEND;TZID=GMT 标准时间:20260305T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO呆滞海绵/色母粒处置讨论
-DTSTART;TZID=GMT 标准时间:20260305T130000
-DTEND;TZID=GMT 标准时间:20260305T140000
-CLASS:PUBLIC
-DESCRIPTION:Hello 各位同事：\n经过盘点确认，TPO现场存放有
- 较多超期海绵/色母粒未使用，部分原料放置时间已超过1
- 年，部分订单超过一年未排产，由于呆滞物料总金额较
- 大，特邀请各位同事对呆滞物料进行处置确认！\n\n呆滞
- 物料信息附件已整理，请提前查看，谢谢！\n\n \nBest regar
- ds\,\nHongxin SUN(Ethan)/孙洪鑫\nTPO Production Coordinator\nContiTech 
- Surface Solutions\n \nBesucheradresse / Visitor address:\nBenecke Changshu
- n Auto Trim (Zhangjiagang) Co.\, Ltd.\n贝内克长顺汽车内饰材料
- （张家港）有限公司\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang 
- Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China\n江苏省张家港市金
- 港镇南沙江海南路108号 215632\n \nMobile: +86 18951132875\nE-mail:
-  hongxin.sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshu
- n.com.cn> \n\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO呆滞海绵/色母粒处置讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260306T083500
 DTEND;TZID=GMT 标准时间:20260306T090500
 CLASS:PUBLIC
@@ -719,6 +666,47 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+DTSTART;TZID=GMT 标准时间:20260319T100000
+DTEND;TZID=GMT 标准时间:20260319T113000
+CLASS:PUBLIC
+DESCRIPTION:FYI. ❤\n\n \n\n-----Original Appointment-----\nFrom: Liu\, X
+ in06 \nSent: Monday\, December 8\, 2025 2:30 PM\nTo: Liu\, Xin06\; Shi\, G
+ ino\; Peng\, Lirong\; Chen\, Jiajun\; Tang\, Jiawei04\nCc: Sun\, Juan\; Xu
+ e\, Jialei\nSubject: Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+ \nWhen: Thursday\, March 19\, 2026 10:00 AM-11:30 AM (UTC+08:00) Beijing\,
+  Chongqing\, Hong Kong\, Urumqi.\nWhere: TE_ZG_MR_PlantOffice301_Zhangjiag
+ ang\n\n \n\nDear Group Leader\,\n\n \n\nYou are invited to our biweekly of
+ fline **Jaw Talk** session (20 minutes) to discuss recent learning progres
+ s\, suggestions\, and any support you may need.\n\n \n\nEN Name\n\nCN Name
+ \n\nDept.\n\nGroup\n\nGroup Leader\n\nTime Schedule\n\nGaofeng Shi\n\n石
+ 高峰\n\nLab\n\n1\n\n1\n\n10:00 - 10:20\n\nPeng Lirong\n\n彭丽容\n\nHR
+ \n\n2\n\n1\n\n10:20 - 10:40\n\nChen Jiajun\n\n陈家骏\n\nFacility\n\n3\n
+ \n1\n\n10:40 - 11:00\n\nTang Jiawei\n\n汤佳炜\n\nME\n\n4\n\n1\n\n11:00 
+ - 11:20\n\n \n\nLooking forward to your participation!\n\nBest regards\,\n
+ \nBCZ Digital Talent Team\n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams Need help? <ht
+ tps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https
+ ://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTRjNWVmOWUtY2VlOC00NWZj
+ LWFiMmEtODhjZmFkZWM0ODgx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-
+ 7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c2
+ 8eb213e712%22%7d>  \n\nMeeting ID: 319 507 209 816 97 \n\nPasscode: Cr7Fx2
+ nA \n\n________________________________\n\nFor organizers: Meeting options
+  <https://teams.microsoft.com/meetingOptions/?organizerId=1e3fea23-7c50-4f
+ b2-a71b-c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
+ d=19_meeting_ZTRjNWVmOWUtY2VlOC00NWZjLWFiMmEtODhjZmFkZWM0ODgx@thread.v2&me
+ ssageId=0&language=en-US>  \n\nPrivacy and security <https://filehub.admir
+ alcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______________
+ __________________________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
