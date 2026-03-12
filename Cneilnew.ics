@@ -188,6 +188,41 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:锦湖510P（XR67082）新造粒设备验证
+DTSTART;TZID=GMT 标准时间:20260316T103000
+DTEND;TZID=GMT 标准时间:20260316T110000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位：\n\n锦湖510P供应商升级了造粒设备，
+ 切粒由风冷改为了水冷。第一批样品粒子测试NG，熔指基
+ 本不可测，第二批样品粒子熔指在0.04~0.05，满足SPEC范围
+ 。\n\n目前来看不同的切粒冷却方式对粒子的流动性存在
+ 影响，能否直接用于生产有待验证，约大家一起讨论小
+ 批量验证试制计划。\n\n___________________________________________
+ _____________________________________\n\nMicrosoft Teams 会议 \n\n加入
+ : https://teams.microsoft.com/meet/37871991366165?p=rGZFXyEUIJ35rm1kH8 <ht
+ tps://teams.microsoft.com/meet/37871991366165?p=rGZFXyEUIJ35rm1kH8>  \n\n
+ 会议 ID: 378 719 913 661 65 \n\n密码: Vu626ft2 \n\n___________________
+ _____________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt
+ =zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ame
+ eting_OWJkNWNkZGYtZThlZi00MDYwLWI5NGItMWE3YjM4NTEwN2Q4%40thread.v2/0?conte
+ xt=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3
+ a%227c604b22-261c-427c-ac76-7247982d3dce%22%7d>  \n\n对于组织者: 会
+ 议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=7c604b2
+ 2-261c-427c-ac76-7247982d3dce&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
+ a&threadId=19_meeting_OWJkNWNkZGYtZThlZi00MDYwLWI5NGItMWE3YjM4NTEwN2Q4@thr
+ ead.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.a
+ dmiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________
+ ______________________________________________________________________\n\n
+  \n
+LOCATION:TE_ZG_MR_CBC222_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:锦湖510P（XR67082）新造粒设备验证
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Session
 DTSTART;TZID=GMT 标准时间:20260316T213000
 DTEND;TZID=GMT 标准时间:20260316T220000
@@ -297,6 +332,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:172Y #2232产品EM2转移至EM4生产辊子saving CIM
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260318T080000
+DTEND;TZID=GMT 标准时间:20260318T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -435,6 +484,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:印刷知识分享
+DTSTART;TZID=GMT 标准时间:20260319T140000
+DTEND;TZID=GMT 标准时间:20260319T153000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:印刷知识分享
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
