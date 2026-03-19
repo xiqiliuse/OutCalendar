@@ -31,57 +31,16 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+SUMMARY:Chrysler WD 172Y交付
 DTSTART;TZID=GMT 标准时间:20260319T100000
-DTEND;TZID=GMT 标准时间:20260319T113000
-CLASS:PUBLIC
-DESCRIPTION:FYI. ❤\n\n \n\n-----Original Appointment-----\nFrom: Liu\, X
- in06 \nSent: Monday\, December 8\, 2025 2:30 PM\nTo: Liu\, Xin06\; Shi\, G
- ino\; Peng\, Lirong\; Chen\, Jiajun\; Tang\, Jiawei04\nCc: Sun\, Juan\; Xu
- e\, Jialei\nSubject: Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
- \nWhen: Thursday\, March 19\, 2026 10:00 AM-11:30 AM (UTC+08:00) Beijing\,
-  Chongqing\, Hong Kong\, Urumqi.\nWhere: TE_ZG_MR_PlantOffice301_Zhangjiag
- ang\n\n \n\nDear Group Leader\,\n\n \n\nYou are invited to our biweekly of
- fline **Jaw Talk** session (20 minutes) to discuss recent learning progres
- s\, suggestions\, and any support you may need.\n\n \n\nEN Name\n\nCN Name
- \n\nDept.\n\nGroup\n\nGroup Leader\n\nTime Schedule\n\nGaofeng Shi\n\n石
- 高峰\n\nLab\n\n1\n\n1\n\n10:00 - 10:20\n\nPeng Lirong\n\n彭丽容\n\nHR
- \n\n2\n\n1\n\n10:20 - 10:40\n\nChen Jiajun\n\n陈家骏\n\nFacility\n\n3\n
- \n1\n\n10:40 - 11:00\n\nTang Jiawei\n\n汤佳炜\n\nME\n\n4\n\n1\n\n11:00 
- - 11:20\n\n \n\nLooking forward to your participation!\n\nBest regards\,\n
- \nBCZ Digital Talent Team\n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams Need help? <ht
- tps://aka.ms/JoinTeamsMeeting?omkt=en-US>  \n\nJoin the meeting now <https
- ://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTRjNWVmOWUtY2VlOC00NWZj
- LWFiMmEtODhjZmFkZWM0ODgx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-
- 7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea23-7c50-4fb2-a71b-c2
- 8eb213e712%22%7d>  \n\nMeeting ID: 319 507 209 816 97 \n\nPasscode: Cr7Fx2
- nA \n\n________________________________\n\nFor organizers: Meeting options
-  <https://teams.microsoft.com/meetingOptions/?organizerId=1e3fea23-7c50-4f
- b2-a71b-c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
- d=19_meeting_ZTRjNWVmOWUtY2VlOC00NWZjLWFiMmEtODhjZmFkZWM0ODgx@thread.v2&me
- ssageId=0&language=en-US>  \n\nPrivacy and security <https://filehub.admir
- alcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______________
- __________________________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:印刷知识分享
-DTSTART;TZID=GMT 标准时间:20260319T140000
-DTEND;TZID=GMT 标准时间:20260319T153000
+DTEND;TZID=GMT 标准时间:20260319T110000
 CLASS:PUBLIC
 DESCRIPTION: \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+LOCATION:PPI 办公室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:印刷知识分享
+DESCRIPTION:Chrysler WD 172Y交付
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -299,6 +258,40 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:定期review设备改善项目
+DTSTART;TZID=GMT 标准时间:20260324T140000
+DTEND;TZID=GMT 标准时间:20260324T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们需要定期review 相关的设备
+ 改善进度。\n\n@Chen chenglong <mailto:chenglong.chen@benecke-changshu
+ n.com.cn> ，如果我无法参加会议的话，请帮忙定期回顾，
+ 谢谢！\n\n@Yao\, Tomi <mailto:mengyue.yao@benecke-changshun.com.cn> \,M
+ E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n_____
+ __________________________________________________________________________
+ _\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/3
+ 5564427492136?p=NlAZUwk1UitrGdKIBm <https://teams.microsoft.com/meet/35564
+ 427492136?p=NlAZUwk1UitrGdKIBm>  \n\n会议 ID: 355 644 274 921 36 \n\n密
+ 码: kN7dy6wx \n\n________________________________\n\n是否需要帮助? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDI
+ tMzdjODU1ZDEzZDNk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade16
+ 64a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com
+ /meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWExMjE0N2ItMjQ4
+ OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@thread.v2&messageId=0&language=zh-CN>  \n
+ \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b
+ 3-92cf-aaf920ff7119>  \n\n________________________________________________
+ ________________________________\n\n \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:定期review设备改善项目
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260325T083500
 DTEND;TZID=GMT 标准时间:20260325T090500
@@ -376,6 +369,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Invitation: D-Talent! Biweekly Group Learning Session_Team_2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:印刷知识分享
+DTSTART;TZID=GMT 标准时间:20260325T150000
+DTEND;TZID=GMT 标准时间:20260325T160000
+CLASS:PUBLIC
+DESCRIPTION:有人出差，我们换个时间\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:印刷知识分享
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -889,6 +896,40 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:定期review设备改善项目
+DTSTART;TZID=GMT 标准时间:20260407T140000
+DTEND;TZID=GMT 标准时间:20260407T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们需要定期review 相关的设备
+ 改善进度。\n\n@Chen chenglong <mailto:chenglong.chen@benecke-changshu
+ n.com.cn> ，如果我无法参加会议的话，请帮忙定期回顾，
+ 谢谢！\n\n@Yao\, Tomi <mailto:mengyue.yao@benecke-changshun.com.cn> \,M
+ E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n_____
+ __________________________________________________________________________
+ _\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/3
+ 5564427492136?p=NlAZUwk1UitrGdKIBm <https://teams.microsoft.com/meet/35564
+ 427492136?p=NlAZUwk1UitrGdKIBm>  \n\n会议 ID: 355 644 274 921 36 \n\n密
+ 码: kN7dy6wx \n\n________________________________\n\n是否需要帮助? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDI
+ tMzdjODU1ZDEzZDNk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade16
+ 64a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com
+ /meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWExMjE0N2ItMjQ4
+ OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@thread.v2&messageId=0&language=zh-CN>  \n
+ \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b
+ 3-92cf-aaf920ff7119>  \n\n________________________________________________
+ ________________________________\n\n \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:定期review设备改善项目
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
