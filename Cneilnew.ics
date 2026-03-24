@@ -193,6 +193,36 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:关于TPO降本配方的使用及挤出下料罐的现状
+DTSTART;TZID=GMT 标准时间:20260325T103000
+DTEND;TZID=GMT 标准时间:20260325T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n\n1、工艺提出如下问题需要各位共同
+ 讨论：\n\n由于目前降本配方D105，D104\,T377等配方的试制
+ 及新项目上的大量使用，目前挤出配方料基本要7个料，
+ 加色母粒要8个料\n\n\n\n挤出1有5个主料罐+1个色母粒+2个
+ 回收料罐，已经严重限制挤出1 的使用\n\n挤出2有6个主料
+ 罐+2个色母粒料罐+2个回收料罐，使用该配方时已经占用
+ 一个色母粒料罐\n\n但目前趋势越来越多，色母粒的预混
+ 机已经来不及预混，会严重限制EX1的生产。\n\n\n2、TPO目
+ 前线边已经有10箱不同类型的混合料，严重影响了现场存
+ 放空间，商讨一下如何消耗！\n\n\n \nBest regards\,\nHongxin SU
+ N(Ethan)/孙洪鑫\nTPO Production Coordinator\nContiTech Surface Solution
+ s\n \nBesucheradresse / Visitor address:\nBenecke Changshun Auto Trim (Zha
+ ngjiagang) Co.\, Ltd.\n贝内克长顺汽车内饰材料（张家港）有
+ 限公司\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagan
+ g\, 215632 Jiangsu\, P.R.China\n江苏省张家港市金港镇南沙江海
+ 南路108号 215632\n \nMobile: +86 18951132875\nE-mail: hongxin.sun@benec
+ ke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> \n\n\n\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:关于TPO降本配方的使用及挤出下料罐的现状
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:印刷知识分享
 DTSTART;TZID=GMT 标准时间:20260325T150000
 DTEND;TZID=GMT 标准时间:20260325T160000
@@ -354,6 +384,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260327T090000
+DTEND;TZID=GMT 标准时间:20260327T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:customer project review
 DTSTART;TZID=GMT 标准时间:20260327T150000
 DTEND;TZID=GMT 标准时间:20260327T160000
@@ -386,6 +430,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260330T083000
+DTEND;TZID=GMT 标准时间:20260331T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -539,6 +597,64 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2409特殊纹理生产过程管控要求回顾
+DTSTART;TZID=GMT 标准时间:20260401T120000
+DTEND;TZID=GMT 标准时间:20260401T130000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/3393511805275?p=a61Lj1OYLReyzhcBuJ <https://teams.mic
+ rosoft.com/meet/3393511805275?p=a61Lj1OYLReyzhcBuJ>  \n\n会议 ID: 339 35
+ 1 180 527 5 \n\n密码: Yz3MG3cK \n\n________________________________\n\n
+ 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统
+ 引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjQ3MWVhNmE
+ tZGE1NS00NTA3LTk1OGQtNjQxMGQzNDVmZmI2%40thread.v2/0?context=%7b%22Tid%22%3
+ a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22a9e7896a-85d1
+ -4958-ae98-6ca0dea23342%22%7d>  \n\n对于组织者: 会议选项 <https:/
+ /teams.microsoft.com/meetingOptions/?organizerId=a9e7896a-85d1-4958-ae98-6
+ ca0dea23342&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
+ ing_NjQ3MWVhNmEtZGE1NS00NTA3LTk1OGQtNjQxMGQzNDVmZmI2@thread.v2&messageId=0
+ &language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl
+ /5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n____________________________
+ ____________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2409特殊纹理生产过程管控要求回顾
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX1内部管线大清
+DTSTART;TZID=GMT 标准时间:20260401T160000
+DTEND;TZID=GMT 标准时间:20260401T170000
+CLASS:PUBLIC
+DESCRIPTION: \n___________________________________________________________
+ _____________________\nMicrosoft Teams 会议 \n加入: https://teams.micr
+ osoft.com/meet/32313434816266?p=Z73U8XazzdkAaAXuPq <https://teams.microsof
+ t.com/meet/32313434816266?p=Z73U8XazzdkAaAXuPq>  \n会议 ID: 323 134 348 
+ 162 66 \n密码: ND9Kd7Ck \n________________________________\n\n是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Q1YmJmY2MtODQ4MC00
+ MWQ2LTk2NzEtZWYwODY2NTllNTAy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c
+ 7-2cc4749680eb%22%7d>  \n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Y2Q1YmJ
+ mY2MtODQ4MC00MWQ2LTk2NzEtZWYwODY2NTllNTAy@thread.v2&messageId=0&language=z
+ h-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1
+ 775-44b3-92cf-aaf920ff7119>  \n___________________________________________
+ _____________________________________\n 
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX1内部管线大清
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
