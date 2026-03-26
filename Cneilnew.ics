@@ -60,6 +60,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ALVEO 海绵梳理
+DTSTART;TZID=GMT 标准时间:20260326T123000
+DTEND;TZID=GMT 标准时间:20260326T133000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ALVEO 海绵梳理
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:已取消: 现场挤出混合原料处理
 DTSTART;TZID=GMT 标准时间:20260326T130000
 DTEND;TZID=GMT 标准时间:20260326T133000
@@ -133,6 +147,38 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:2026 Quarterly Cross-Group Learning Review & Sharing Meeting
  ｜2026季度跨小组学习回顾与成果分享会议
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:安全现状评价-----工艺流程确认
+DTSTART;TZID=GMT 标准时间:20260326T133000
+DTEND;TZID=GMT 标准时间:20260326T140000
+CLASS:PUBLIC
+DESCRIPTION:all，\n\n因ESH安全现状评价需求，需要各位确认
+ 下当前的工艺流程如附件是否一致\n\n约个短会大家过一
+ 下\n\n \n\n \n\n谢谢\n\n \n\n \n\nKlay 3/26\n\n \n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams 会议 \n\n加入: https://teams.microsoft.com/meet/37916385561612?
+ p=4zuc41bQDUQKycabuc <https://teams.microsoft.com/meet/37916385561612?p=4z
+ uc41bQDUQKycabuc>  \n\n会议 ID: 379 163 855 616 12 \n\n密码: 3oa7mb9S 
+ \n\n________________________________\n\n是否需要帮助? <https://aka.m
+ s/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.co
+ m/l/meetup-join/19%3ameeting_NTM3NTExMjMtYjNjYy00ZWI4LWI3NjUtMjc4MmFmZTZiN
+ mFh%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79
+ e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8f9224084%22%7d>  \n
+ \n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOption
+ s/?organizerId=e80660d7-d3bc-410d-9bb1-26d8f9224084&tenantId=8d4b558f-7b2e
+ -40ba-ad1f-e04d79e6265a&threadId=19_meeting_NTM3NTExMjMtYjNjYy00ZWI4LWI3Nj
+ UtMjc4MmFmZTZiNmFh@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
+ 全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920f
+ f7119>  \n\n______________________________________________________________
+ __________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:安全现状评价-----工艺流程确认
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
