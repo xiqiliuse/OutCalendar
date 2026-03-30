@@ -4,20 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID=GMT 标准时间:20260330T083000
-DTEND;TZID=GMT 标准时间:20260331T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:booking
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260330T083500
 DTEND;TZID=GMT 标准时间:20260330T090500
@@ -41,6 +27,37 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Points of TPO3
+DTSTART;TZID=GMT 标准时间:20260330T133000
+DTEND;TZID=GMT 标准时间:20260330T140000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n1.	看一下TPO 3的问题点。\n2.	TPO3 
+ 挤出/压花改善前/后的工艺流程图。\n\n \n\n谢谢!\n\n \n\nSo
+ phia  3/30\n\n  \n\n______________________________________________________
+ __________________________\n\nMicrosoft Teams 会议 \n\n加入: https://t
+ eams.microsoft.com/meet/33637232584983?p=mlNrrsfmJMicwAEvOj <https://teams
+ .microsoft.com/meet/33637232584983?p=mlNrrsfmJMicwAEvOj>  \n\n会议 ID: 3
+ 36 372 325 849 83 \n\n密码: 5kY7eE7B \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGEwM
+ mQxMTEtMDFiNC00ZTNkLWI4YjktNjJjYWI4NzdlYThl%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c
+ 2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-
+ 88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=1
+ 9_meeting_NGEwMmQxMTEtMDFiNC00ZTNkLWI4YjktNjJjYWI4NzdlYThl@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pain Points of TPO3
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -182,6 +199,62 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:健康小课堂：甲状腺结节管理
+DTSTART;TZID=GMT 标准时间:20260331T140000
+DTEND;TZID=GMT 标准时间:20260331T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear All：\n\n作息不规律、情绪波动，让甲状腺
+ 结节成为现代人不容忽视的健康隐患。\n\n \n\n早发现、
+ 早干预、科学管理，既能减轻对日常工作与生活的影响
+ ，也能有效降低病变风险。\n\n \n\n为帮助大家系统了解
+ 甲状腺结节知识、掌握实用防护与管理技巧。\n\n \n\n健
+ 康中心特筹备本次甲状腺健康小课堂，诚邀各位同事参
+ 与！\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:健康小课堂：甲状腺结节管理
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:customer project review
+DTSTART;TZID=GMT 标准时间:20260331T140000
+DTEND;TZID=GMT 标准时间:20260331T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n1.	确认开发过程中的客户项目状
+ 况。\n\n1.1   试制不合格情况讨论。\n\n1.2   试制多轮次情
+ 况讨论。\n\n==》TPO\, PVC launch 负责\n\n2.	G70之后的，5批次
+ 的量产订单的报废率改善说明。\n\n==》@wang Congyu @Chen chen
+ glong\n\n3.	颜色合格率讨论。\n\n@Wang\, Fen <mailto:fen.wang@benec
+ ke-changshun.com.cn> @Chen\, Chenglong <mailto:chenglong.chen@benecke-chan
+ gshun.com.cn> \n\n \n\n \n\n谢谢！\n\n \n\nSophia   1/20\n\n \n\n \n\n 
+ \n\n______________________________________________________________________
+ __________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.c
+ om/meet/37099182941006?p=QFHYF1gmL6gbUHdKvp <https://teams.microsoft.com/m
+ eet/37099182941006?p=QFHYF1gmL6gbUHdKvp>  \n\n会议 ID: 370 991 829 410 0
+ 6 \n\n密码: tm2Ln7J8 \n\n________________________________\n\n是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFiMTdkNTUtMmExMC00
+ MDYyLTg3YzItM2VmZDFlMzU1MjE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88b
+ b-0d07ade1664a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade166
+ 4a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZGFiM
+ TdkNTUtMmExMC00MDYyLTg3YzItM2VmZDFlMzU1MjE2@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e
+ 10-1775-44b3-92cf-aaf920ff7119>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:customer project review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -368,20 +441,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:清明节
-DTSTART;TZID=GMT 标准时间:20260405T000000
-DTEND;TZID=GMT 标准时间:20260406T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:清明节
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
