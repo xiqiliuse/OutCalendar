@@ -73,7 +73,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:油漆&色母粒周会
+SUMMARY:已取消: 油漆&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260331T101500
 DTEND;TZID=GMT 标准时间:20260331T110000
 CLASS:PUBLIC
@@ -82,7 +82,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:油漆&色母粒周会
+DESCRIPTION:已取消: 油漆&色母粒周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -97,7 +97,22 @@ DESCRIPTION:Dear All：\n\n作息不规律、情绪波动，让甲状腺
  ，也能有效降低病变风险。\n\n \n\n为帮助大家系统了解
  甲状腺结节知识、掌握实用防护与管理技巧。\n\n \n\n健
  康中心特筹备本次甲状腺健康小课堂，诚邀各位同事参
- 与！\n\n \n
+ 与！\n\n \n\n___________________________________________________________
+ _____________________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.
+ microsoft.com/meet/342274451045911?p=9oDmKb75KORxQrXXjs <https://teams.mic
+ rosoft.com/meet/342274451045911?p=9oDmKb75KORxQrXXjs>  \n\n会议 ID: 342 
+ 274 451 045 911 \n\n密码: F8Kn7ma6 \n\n________________________________\
+ n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
+ 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM4Mzc3
+ MDYtNmQxYy00MTc3LWIxMmQtMGU5ZTZmOTdhZWM4%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22851dac70-0
+ e45-4c40-b2e3-1b88eb2c79ba%22%7d>  \n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=851dac70-0e45-4c40-b2e
+ 3-1b88eb2c79ba&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
+ eeting_ZjM4Mzc3MDYtNmQxYy00MTc3LWIxMmQtMGU5ZTZmOTdhZWM4@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
+ _______________________________________________________\n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -271,6 +286,97 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chrysler WD 172Y&173Y交付 
+DTSTART;TZID=GMT 标准时间:20260402T120000
+DTEND;TZID=GMT 标准时间:20260402T130000
+CLASS:PUBLIC
+DESCRIPTION:分享下30-31号延锋试模情况，\n\n试单批次产品
+ 发往泰国验证\n\n后续产品发货等信息。\n\n__________________
+ ______________________________________________________________\n\nMicrosof
+ t Teams 会议 \n\n加入: https://teams.microsoft.com/meet/31722809163203
+ ?p=5R03xsHoIPmaESSk17 <https://teams.microsoft.com/meet/31722809163203?p=5
+ R03xsHoIPmaESSk17>  \n\n会议 ID: 317 228 091 632 03 \n\n密码: qu2Gf3JH
+  \n\n________________________________\n\n是否需要帮助? <https://aka.
+ ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_MjQ4MzRhYjAtMzc2ZC00NDFhLWFlODgtMzYyYzBhNTZh
+ YzQz%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d7
+ 9e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb%22%7d>  \
+ n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptio
+ ns/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&tenantId=8d4b558f-7b2
+ e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MjQ4MzRhYjAtMzc2ZC00NDFhLWFlO
+ DgtMzYyYzBhNTZhYzQz@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
+ 安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf9
+ 20ff7119>  \n\n___________________________________________________________
+ _____________________\n\n \n\n \n\n_______________________________________
+ ______\n发件人: Li\, Xiaodong03 \n发送时间: 2026年3月20日 16:18\
+ n收件人: Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailt
+ o:xiaojiao.chen@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.di
+ ng@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn
+ > >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-
+ changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.c
+ n <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Song\, Hao <hao.song@
+ benecke-changshun.com.cn <mailto:hao.song@benecke-changshun.com.cn> >\; Ji
+ ang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@benecke-ch
+ angshun.com.cn> >\; dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye
+ .dai@benecke-changshun.com.cn> >\; Wang\, Haifeng03 <haifeng.3.wang@beneck
+ e-changshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn> >\n抄
+ 送: Xu\, Hua <Hua.Xu@benecke-changshun.com.cn <mailto:Hua.Xu@benecke-chan
+ gshun.com.cn> >\; Wu\, Wei03 <wei.3.wu@benecke-changshun.com.cn <mailto:we
+ i.3.wu@benecke-changshun.com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-
+ changshun.com.cn <mailto:yuyang.huang@benecke-changshun.com.cn> >\; Pan\, 
+ Sheng <sheng.pan@benecke-changshun.com.cn <mailto:sheng.pan@benecke-changs
+ hun.com.cn> >\n主题: 回复: Chrysler WD 172Y&173Y交付 \n\n \n\n会议
+ 纪要：\n\n1.        ALVEO 在泰国延锋试制的异常产品的分析
+ 报告——李晓东/丁中协/吴伟/王海峰\n\n2.        约ALVEO供
+ 应商会议，提供中值以上的海绵产品——丁中协/陈晓娇 
+ 3/20\n\n3.        后续ALVEO海绵原材料的标准确认（厚度，重
+ 量，密度），基于No2——丁中协 \n\n4.        XR32876/1900 ALVE
+ O海绵库存，数据测量——宋浩 3/22\n\n5.        下一批次的
+ 4000米XR32876/1900 ALVEO1900供货（筛选后的海绵密度>65，TPO表
+ 皮走上限）——All 4/3发货\n\n6.        试单验证（60低密度
+ 的XR32876/1900 ALVEO海绵+0.55mmTPO表皮 ）——李晓东\n\n7.      
+   No5和No6的各取一卷60米，DHL发往泰国延锋配合CTS试制（S
+ CM在3.24给出产出时间及到泰国时间）——王海峰\n\n8.     
+    讨论YB海绵恢复供应（首批交付9个月；确认供应商MOQ
+ ）——陈晓娇\n\n9.        和泰国延锋确认9个月的预测—
+ —蒋欣 \n\n10.     3/27和泰国延锋确认客户端试制过程——
+ 吴伟  3/27\n\n11.     增加Chrysler WD项目的成品（No5和No6交联
+ 后每卷）测试：常温打点拉伸强度——丁中协/宋浩\n\n12.
+       \n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n-----原始约会
+ -----\n发件人: Li\, Xiaodong03 \n发送时间: 2026年3月20日 12:42\n
+ 收件人: Li\, Xiaodong03\; Chen\, Angellee\; Ding\, Zhongxie\; Zhu\, Lin
+ \; Chen\, Hongmei\; Pan\, Sheng\; Song\, Hao\; Jiang\, Xin\; dai\, Anna\n
+ 抄送: Xu\, Hua\; Wu\, Wei03\n主题: Chrysler WD 172Y&173Y交付 \n时
+ 间: 2026年3月20日星期五 15:00-16:00(UTC+08:00) 北京，重庆，
+ 香港特别行政区，乌鲁木齐。\n地点: TE_ZG_MR_CBC222_Zhangjiag
+ ang\n\n \n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Chrysler WD 172Y&173Y交付 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:设备每两周例会
+DTSTART;TZID=GMT 标准时间:20260402T150000
+DTEND;TZID=GMT 标准时间:20260402T153000
+CLASS:PUBLIC
+DESCRIPTION:Hello ALL:\n本次会议总结3月份设备异常，另有以
+ 下几个话题需要讨论：\n1、EX2新螺杆安装需求及时间（TP
+ O清洁料已全部使用，如更换螺杆需要向SP借用）\n2、EM4
+ 安全绳安装进度\n3、EM4模温机验收\n4、EM2安全连锁安装
+ 时间\n\n附件为设备异常总结，请查收，谢谢！
+LOCATION:TPO关爱小屋
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:设备每两周例会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
