@@ -84,23 +84,8 @@ SUMMARY:EX1内部管线大清
 DTSTART;TZID=GMT 标准时间:20260401T160000
 DTEND;TZID=GMT 标准时间:20260401T170000
 CLASS:PUBLIC
-DESCRIPTION: \n___________________________________________________________
- _____________________\nMicrosoft Teams 会议 \n加入: https://teams.micr
- osoft.com/meet/32313434816266?p=Z73U8XazzdkAaAXuPq <https://teams.microsof
- t.com/meet/32313434816266?p=Z73U8XazzdkAaAXuPq>  \n会议 ID: 323 134 348 
- 162 66 \n密码: ND9Kd7Ck \n________________________________\n\n是否需
- 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
- ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2Q1YmJmY2MtODQ4MC00
- MWQ2LTk2NzEtZWYwODY2NTllNTAy%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
- 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c
- 7-2cc4749680eb%22%7d>  \n对于组织者: 会议选项 <https://teams.micr
- osoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb
- &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Y2Q1YmJ
- mY2MtODQ4MC00MWQ2LTk2NzEtZWYwODY2NTllNTAy@thread.v2&messageId=0&language=z
- h-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1
- 775-44b3-92cf-aaf920ff7119>  \n___________________________________________
- _____________________________________\n 
-LOCATION:Microsoft Teams 会议
+DESCRIPTION: \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -250,6 +235,37 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:工厂文化落地
+DTSTART;TZID=GMT 标准时间:20260403T130000
+DTEND;TZID=GMT 标准时间:20260403T140000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n需要大家参加，做个内部调查，
+ 谢谢!\n\n \n\n \n\nSophia  4/1\n\n______________________________________
+ __________________________________________\n\nMicrosoft Teams 会议 \n\n
+ 加入: https://teams.microsoft.com/meet/37525929525379?p=2vDPM6uC8noTOFom
+ Ux <https://teams.microsoft.com/meet/37525929525379?p=2vDPM6uC8noTOFomUx> 
+  \n\n会议 ID: 375 259 295 253 79 \n\n密码: mW3HG9J6 \n\n______________
+ __________________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting
+ ?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_ZDNkNTA3NmItMDhlMi00MDFhLTk4YmMtNWUwZjVhNmE4MzRi%40thread.v2/0?
+ context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid
+ %22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n对于组织者:
+  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d41
+ 355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e
+ 6265a&threadId=19_meeting_ZDNkNTA3NmItMDhlMi00MDFhLTk4YmMtNWUwZjVhNmE4MzRi
+ @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
+LOCATION:Sophia office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:工厂文化落地
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
