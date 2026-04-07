@@ -5,33 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260406T083500
-DTEND;TZID=GMT 标准时间:20260406T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260407T083500
 DTEND;TZID=GMT 标准时间:20260407T090500
 CLASS:PUBLIC
@@ -68,61 +41,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:油漆&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D Talent Program Incentive Allocation Alignment Meeting
-DTSTART;TZID=GMT 标准时间:20260407T130000
-DTEND;TZID=GMT 标准时间:20260407T140000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\n感谢各位的大力支持，D Talent Prog
- ram 2026 Q1季度交流会完美收官。约个会，现场讨论下项目
- 激励如何分配。谢谢！\n\n \n\n下附为最终结果和补充信
- 息，附件为评分细节表。\n\n \n\n\n\n \n\n\n\n \n\n\n\nBest Regar
- ds\,\n\nLily Liu\n\n \n\n_________________________________________________
- _______________________________\n\nMicrosoft Teams meeting \n\nJoin: https
- ://teams.microsoft.com/meet/35388594589159?p=NwppDc37vEzOr51LTP <https://t
- eams.microsoft.com/meet/35388594589159?p=NwppDc37vEzOr51LTP>  \n\nMeeting 
- ID: 353 885 945 891 59 \n\nPasscode: ni62FW76 \n\n________________________
- ________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  | Sys
- tem reference <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE2
- MTQzZGItNTA4Ny00YzA4LWE0NjAtNTM5ZDRhNTQyYjli%40thread.v2/0?context=%7b%22T
- id%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea
- 23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n\nFor organizers: Meeting options
-  <https://teams.microsoft.com/meetingOptions/?organizerId=1e3fea23-7c50-4f
- b2-a71b-c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
- d=19_meeting_NjE2MTQzZGItNTA4Ny00YzA4LWE0NjAtNTM5ZDRhNTQyYjli@thread.v2&me
- ssageId=0&language=en-US>  \n\nPrivacy and security <https://filehub.admir
- alcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______________
- __________________________________________________________________\n\n \n\
- n \n\n_____________________________________________\nFrom: Liu\, Xin06 \nS
- ent: Friday\, March 20\, 2026 8:42 AM\nTo: Jia\, Xiaoge <xiaoge.jia@beneck
- e-changshun.com.cn>\; Tian\, Richard <ming.tian@benecke-changshun.com.cn>\
- ; Yang\, Laraine <liping.yang@benecke-changshun.com.cn>\nCc: Sun\, Juan <j
- uan.sun@benecke-changshun.com.cn>\; Xue\, Jialei <jialei.xue@benecke-chang
- shun.com.cn>\nSubject: Budget Proposal for the D Talent Program Award\n\n 
- \n\nDear all\,\n\n \n\nFor information only\; a formal e‑sign will follo
- w shortly. Thank you!\n\n \n\nThis award recognizes teams and individuals 
- who have demonstrated outstanding performance in the D Talent Program. The
-  final recipients will be determined through a group voting process on Mar
- ch 26\, 2026.\n\nWe request budget allocation to support this award\, cove
- ring the planned cash incentives for the selected recipients. The awards w
- ill be paid together with payroll\, charged to Cost Center 43100 and Accou
- nt K40702\, with taxes withheld collectively.\n\n \n\nThis budget will ena
- ble us to:\n\n*  Recognize and reward outstanding contributions\n\n*  Enco
- urage team engagement and high-quality project delivery\n\n*  Promote best
-  practices and experience sharing across the D Talent Program\n\n \n\nBest
-  regards\,\n\n \n\nLily Liu(Liu Xin)\n\nME Engineer BCZ\n\nContiTech Surfa
- ce Solutions\n\n \n\nMobile: +86 189 5113 2980\n\nE-mail: xin.6.liu@beneck
- e-changshun.com.cn <mailto:xin.6.liu@benecke-changshun.com.cn> \n\nWebsite
- : www.continental-industry.com <http://www.continental-industry.com/> \n\n
-  \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:D Talent Program Incentive Allocation Alignment Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -356,6 +274,64 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D Talent Program Incentive Allocation Alignment Meeting
+DTSTART;TZID=GMT 标准时间:20260410T103000
+DTEND;TZID=GMT 标准时间:20260410T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n感谢各位的大力支持，D Talent Prog
+ ram 2026 Q1季度交流会完美收官。约个会，现场讨论下项目
+ 激励如何分配。谢谢！\n\n \n\n下附为最终结果和补充信
+ 息，附件为评分细节表。\n\n \n\n\n\n \n\n\n\n \n\n\n\nBest Regar
+ ds\,\n\nLily Liu\n\n \n\n_________________________________________________
+ _______________________________\n\nMicrosoft Teams meeting \n\nJoin: https
+ ://teams.microsoft.com/meet/35388594589159?p=NwppDc37vEzOr51LTP <https://t
+ eams.microsoft.com/meet/35388594589159?p=NwppDc37vEzOr51LTP>  \n\nMeeting 
+ ID: 353 885 945 891 59 \n\nPasscode: ni62FW76 \n\n________________________
+ ________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  | Sys
+ tem reference <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE2
+ MTQzZGItNTA4Ny00YzA4LWE0NjAtNTM5ZDRhNTQyYjli%40thread.v2/0?context=%7b%22T
+ id%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%221e3fea
+ 23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n\nFor organizers: Meeting options
+  <https://teams.microsoft.com/meetingOptions/?organizerId=1e3fea23-7c50-4f
+ b2-a71b-c28eb213e712&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadI
+ d=19_meeting_NjE2MTQzZGItNTA4Ny00YzA4LWE0NjAtNTM5ZDRhNTQyYjli@thread.v2&me
+ ssageId=0&language=en-US>  \n\nPrivacy and security <https://filehub.admir
+ alcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n______________
+ __________________________________________________________________\n\n \n\
+ n \n\n_____________________________________________\nFrom: Liu\, Xin06 \nS
+ ent: Friday\, March 20\, 2026 8:42 AM\nTo: Jia\, Xiaoge <xiaoge.jia@beneck
+ e-changshun.com.cn <mailto:xiaoge.jia@benecke-changshun.com.cn> >\; Tian\,
+  Richard <ming.tian@benecke-changshun.com.cn <mailto:ming.tian@benecke-cha
+ ngshun.com.cn> >\; Yang\, Laraine <liping.yang@benecke-changshun.com.cn <m
+ ailto:liping.yang@benecke-changshun.com.cn> >\nCc: Sun\, Juan <juan.sun@be
+ necke-changshun.com.cn <mailto:juan.sun@benecke-changshun.com.cn> >\; Xue\
+ , Jialei <jialei.xue@benecke-changshun.com.cn <mailto:jialei.xue@benecke-c
+ hangshun.com.cn> >\nSubject: Budget Proposal for the D Talent Program Awar
+ d\n\n \n\nDear all\,\n\n \n\nFor information only\; a formal e‑sign will
+  follow shortly. Thank you!\n\n \n\nThis award recognizes teams and indivi
+ duals who have demonstrated outstanding performance in the D Talent Progra
+ m. The final recipients will be determined through a group voting process 
+ on March 26\, 2026.\n\nWe request budget allocation to support this award\
+ , covering the planned cash incentives for the selected recipients. The aw
+ ards will be paid together with payroll\, charged to Cost Center 43100 and
+  Account K40702\, with taxes withheld collectively.\n\n \n\nThis budget wi
+ ll enable us to:\n\n*  Recognize and reward outstanding contributions\n\n*
+   Encourage team engagement and high-quality project delivery\n\n*  Promot
+ e best practices and experience sharing across the D Talent Program\n\n \n
+ \nBest regards\,\n\n \n\nLily Liu(Liu Xin)\n\nME Engineer BCZ\n\nContiTech
+  Surface Solutions\n\n \n\nMobile: +86 189 5113 2980\n\nE-mail: xin.6.liu@
+ benecke-changshun.com.cn <mailto:xin.6.liu@benecke-changshun.com.cn> \n\nW
+ ebsite: www.continental-industry.com <http://www.continental-industry.com/
+ > \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D Talent Program Incentive Allocation Alignment Meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1505,6 +1481,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:定期review设备改善项目
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260506T083500
+DTEND;TZID=GMT 标准时间:20260506T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
