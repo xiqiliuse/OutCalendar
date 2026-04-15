@@ -5,114 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260414T083500
-DTEND;TZID=GMT 标准时间:20260414T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:油漆&色母粒周会
-DTSTART;TZID=GMT 标准时间:20260414T101500
-DTEND;TZID=GMT 标准时间:20260414T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:油漆&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ POR Meeting
-DTSTART;TZID=GMT 标准时间:20260414T140000
-DTEND;TZID=GMT 标准时间:20260414T150000
-CLASS:PUBLIC
-DESCRIPTION:Fyi\n\n \n\n-----原始约会-----\n发件人: Yang\, Luna <ti
- an.yang@benecke-changshun.com.cn> \n发送时间: 2025年12月24日 10:35\
- n收件人: Yang\, Luna\; Blichenberg\, Lars\; Blume\, Jens\; Ferrari\, Gi
- anlorenzo\; Seeger\, Christoph\; Knerr\, Karsten\; Gao\, Yuegang\; Shan\, 
- Lan\; Zhu\, Zachary\; Wang\, Fenghua\; Tian\, Richard\; Huang\, Qing\; Lu\
- , Patrick\; Chen\, Hongmei\; Ge\, Yiqiang\; Sun\, Dimin\; Kang\, Bill\; Su
- n\, Juan\; Chen\, Miaoyan\; jiang\, song03\; Hou\, Xuewen\; Jin\, Lei\; Ch
- eng\, Dong01\; Zhu\, Lin\; Li\, Min05\; Yang\, Laraine\n抄送: Liehr\, An
- nick\; Heuss\, Maren\; Dohmen\, Christian\; Dudek\, Christoph\; Reinsch\, 
- Steffen\; Maetschke\, Andreas\; Eggers\, Marco01\; Huang\, Jian02\; Ge\, J
- ianfen\; yuegang.gao@contitech.com\; Wagner\, Bettina\n主题: BCZ POR Mee
- ting\n时间: 2026年4月14日星期二 14:00-15:00(UTC+08:00) 北京，
- 重庆，香港特别行政区，乌鲁木齐。\n地点: Microsoft Teams 
- 会议\; TE_ZG_MR_PlantOffice301_Zhangjiagang\n\n \n\n \n\n_______________
- _________________________________________________________________\n\nMicro
- soft Teams 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN
- >  \n\n立即加入会议 <https://teams.microsoft.com/l/meetup-join/19%3a
- meeting_NmE3ZDZlNGItYzA1NC00NGVkLTgxYzMtYjk0N2ZkYTQwY2Y0%40thread.v2/0?con
- text=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22
- %3a%22cf92f571-b846-4591-8f05-9b83fbed9e46%22%7d>  \n\n会议 ID: 376 447 
- 691 397 16 \n\n密码: Vj7zY7z6 \n\n________________________________\n\n
- 对于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/
- ?organizerId=cf92f571-b846-4591-8f05-9b83fbed9e46&tenantId=8d4b558f-7b2e-4
- 0ba-ad1f-e04d79e6265a&threadId=19_meeting_NmE3ZDZlNGItYzA1NC00NGVkLTgxYzMt
- Yjk0N2ZkYTQwY2Y0@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安
- 全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920f
- f7119>  \n\n______________________________________________________________
- __________________\n\n \n
-LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ POR Meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:清洁生产审核的方案讨论
-DTSTART;TZID=GMT 标准时间:20260414T150000
-DTEND;TZID=GMT 标准时间:20260414T160000
-CLASS:PUBLIC
-DESCRIPTION:Hello Xiaodong：\n\n \n\n帮忙参加，谢谢！\n\n \n\nSop
- hia   4/14\n\n \n\n \n\n-----原始约会-----\n发件人: Chen\, Tingting
- 02 <tingting.2.chen@benecke-changshun.com.cn> \n发送时间: 2026年4月1
- 0日 15:43\n收件人: Chen\, Tingting02\; Chen\, Tingting02\; Ge\, Yiqian
- g\; Sun\, Dimin\; Hou\, Xuewen\; jiang\, song03\; Chen\, Jiajun\; Meng\, F
- ancheng\; Sun\, Hongxin\; Chen\, Hongmei\; Zou\, Yang\; Ji\, Yongming\; Su
- n\, Qiang\; Yao\, Tomi\; Kang\, Bill\; Cai\, Jun02\; Li\, Xiaoping02\; Yan
- g\, Luna\n抄送: Qiu\, Xiaohan\n主题: 清洁生产审核的方案讨论
- \n时间: 2026年4月14日星期二 15:00-16:00(UTC+08:00) 北京，重庆
- ，香港特别行政区，乌鲁木齐。\n地点: TE_ZG_MR_PlantOffice30
- 1_Zhangjiagang\n\n \n\nHi，all：\n\n关于各位提交的清洁生产审
- 核相关项目内容，邀请各位与远创的辅导老师一起讨论
- 一下。\n\n请各位准时参加，谢谢！\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:清洁生产审核的方案讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260415T083500
 DTEND;TZID=GMT 标准时间:20260415T090500
 CLASS:PUBLIC
@@ -1531,6 +1423,61 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260514T083500
+DTEND;TZID=GMT 标准时间:20260514T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID=GMT 标准时间:20260514T150000
+DTEND;TZID=GMT 标准时间:20260514T160000
+CLASS:PUBLIC
+DESCRIPTION:This meeting is a continuation of the previous Open Calls \n\n
+ \n\n\n____________________________________________________________________
+ ____________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?
+ omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-
+ join/19%3a0a53d13422fa4c21a703569ee88cc19b%40thread.skype/1754325616852?co
+ ntext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%2
+ 2%3a%22747198b6-f9dc-48a8-925a-e78c77260ed8%22%7d>  \nMeeting ID: 385 908 
+ 144 593 9 \nPasscode: hj9wH7Ls \n________________________________\n\nFor o
+ rganizers: Meeting options <https://teams.microsoft.com/meetingOptions/?or
+ ganizerId=747198b6-f9dc-48a8-925a-e78c77260ed8&tenantId=8d4b558f-7b2e-40ba
+ -ad1f-e04d79e6265a&threadId=19_0a53d13422fa4c21a703569ee88cc19b@thread.sky
+ pe&messageId=1754325616852&language=en-US>  \nPrivacy and security <https:
+ //filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_
+ __________________________________________________________________________
+ _____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
