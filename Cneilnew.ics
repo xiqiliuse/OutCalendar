@@ -31,16 +31,19 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:油漆&色母粒周会
+SUMMARY:已取消: 油漆&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260421T101500
 DTEND;TZID=GMT 标准时间:20260421T110000
 CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
+DESCRIPTION:Hello各位，今天没有新话题讨论，重点还是油漆
+ 配方核对和配方优化。\n\n@Lu\, Jiaqi <mailto:jiaqi.lu@benecke-cha
+ ngshun.com.cn> @Xue\, Jinlong02 <mailto:jinlong.2.xue@benecke-changshun.co
+ m.cn> 相关事项有事单独联系。\n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:油漆&色母粒周会
+DESCRIPTION:已取消: 油漆&色母粒周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -970,31 +973,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2026TNM and TPOC actions monthly review meeting
-DTSTART;TZID=GMT 标准时间:20260513T143000
-DTEND;TZID=GMT 标准时间:20260513T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\nAs we aligned\, 2026TNM and TPOC actions mo
- nthly review invited\, this is series meeting\, so pls accept all\, we can
-  reschedule if any confliction happened for specific month.\n\n \n\nI will
-  adjust participants according to project start and finish time monthly.\n
- \n \n\npls. update  TNM2026.xlsx <https://continental.sharepoint.com/:x:/r
- /teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/TNM20
- 26.xlsx?d=w4efa06e4c9e249fc8b484a4ab581b829&csf=1&web=1&e=sOxuAQ>  and upl
- oad report to  monthly review meeting <https://continental.sharepoint.com/
- :f:/r/teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/
- monthly%20review%20meeting?csf=1&web=1&e=9yVbg9>  in advance. For project\
- , pls. prepare A3 report\, for JDI\, pls. prepare project one-pager.\n\n \
- n\nThank you.\n\n \n\nBest Regards\,\n\nFiona Huang\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2026TNM and TPOC actions monthly review meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Call - RPA Developers Worldwide Option 1
 DTSTART;TZID=GMT 标准时间:20260513T220000
 DTEND;TZID=GMT 标准时间:20260513T230000
@@ -1045,6 +1023,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 2026TNM and TPOC actions monthly review meeting
+DTSTART;TZID=GMT 标准时间:20260514T133000
+DTEND;TZID=GMT 标准时间:20260514T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\nAs we aligned\, 2026TNM and TPOC actions mo
+ nthly review invited\, this is series meeting\, so pls accept all\, we can
+  reschedule if any confliction happened for specific month.\n\n \n\nI will
+  adjust participants according to project start and finish time monthly.\n
+ \n \n\npls. update  TNM2026.xlsx <https://continental.sharepoint.com/:x:/r
+ /teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/TNM20
+ 26.xlsx?d=w4efa06e4c9e249fc8b484a4ab581b829&csf=1&web=1&e=sOxuAQ>  and upl
+ oad report to  monthly review meeting <https://continental.sharepoint.com/
+ :f:/r/teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/
+ monthly%20review%20meeting?csf=1&web=1&e=9yVbg9>  in advance. For project\
+ , pls. prepare A3 report\, for JDI\, pls. prepare project one-pager.\n\n \
+ n\nThank you.\n\n \n\nBest Regards\,\n\nFiona Huang\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 2026TNM and TPOC actions monthly review meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
