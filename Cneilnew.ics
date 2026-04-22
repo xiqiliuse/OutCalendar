@@ -5,99 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260421T083500
-DTEND;TZID=GMT 标准时间:20260421T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 油漆&色母粒周会
-DTSTART;TZID=GMT 标准时间:20260421T101500
-DTEND;TZID=GMT 标准时间:20260421T110000
-CLASS:PUBLIC
-DESCRIPTION:Hello各位，今天没有新话题讨论，重点还是油漆
- 配方核对和配方优化。\n\n@Lu\, Jiaqi <mailto:jiaqi.lu@benecke-cha
- ngshun.com.cn> @Xue\, Jinlong02 <mailto:jinlong.2.xue@benecke-changshun.co
- m.cn> 相关事项有事单独联系。\n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 油漆&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:提醒查看CDP打卡
-DTSTART;TZID=GMT 标准时间:20260421T114000
-DTEND;TZID=GMT 标准时间:20260421T114500
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒查看CDP打卡
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 定期review设备改善项目
-DTSTART;TZID=GMT 标准时间:20260421T140000
-DTEND;TZID=GMT 标准时间:20260421T150000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n我们需要定期review 相关的设备
- 改善进度。\n\n@Chen chenglong <mailto:chenglong.chen@benecke-changshu
- n.com.cn> ，如果我无法参加会议的话，请帮忙定期回顾，
- 谢谢！\n\n@Yao\, Tomi <mailto:mengyue.yao@benecke-changshun.com.cn> \,M
- E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n \n\n
- 由于橡塑展，很多人员不在，会议取消，谢谢！\n\n \n\nSo
- phia  4/21\n\n____________________________________________________________
- ____________________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.m
- icrosoft.com/meet/35564427492136?p=NlAZUwk1UitrGdKIBm <https://teams.micro
- soft.com/meet/35564427492136?p=NlAZUwk1UitrGdKIBm>  \n\n会议 ID: 355 644
-  274 921 36 \n\n密码: kN7dy6wx \n\n________________________________\n\n
- 是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统
- 引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWExMjE0N2I
- tMjQ4OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk%40thread.v2/0?context=%7b%22Tid%22%3
- a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da
- -4f3e-88bb-0d07ade1664a%22%7d>  \n\n对于组织者: 会议选项 <https:/
- /teams.microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0
- d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
- ing_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@thread.v2&messageId=0
- &language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl
- /5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n____________________________
- ____________________________________________________\n\n \n
-LOCATION:维修会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 定期review设备改善项目
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260422T083500
 DTEND;TZID=GMT 标准时间:20260422T090500
 CLASS:PUBLIC
@@ -1302,6 +1209,75 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:CBS@Operations community - Monthly phone-call - Americas & Eur
  ope
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:小满
+DTSTART;TZID=GMT 标准时间:20260521T000000
+DTEND;TZID=GMT 标准时间:20260522T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:小满
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:小满
+DTSTART;TZID=GMT 标准时间:20260521T000000
+DTEND;TZID=GMT 标准时间:20260522T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:小满
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260521T083500
+DTEND;TZID=GMT 标准时间:20260521T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:提醒查看CDP打卡
+DTSTART;TZID=GMT 标准时间:20260521T114000
+DTEND;TZID=GMT 标准时间:20260521T114500
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒查看CDP打卡
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
