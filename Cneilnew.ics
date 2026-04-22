@@ -31,6 +31,21 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:压延辊专项讨论
+DTSTART;TZID=GMT 标准时间:20260422T110000
+DTEND;TZID=GMT 标准时间:20260422T113000
+CLASS:PUBLIC
+DESCRIPTION:Hello ALL：\n近期压延辊反馈粗糙度较低，讨论一
+ 下压延辊更换的相关事宜，谢谢！
+LOCATION:TPO早会会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:压延辊专项讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Invitation: D-Talent! Biweekly Group Learning Session_Team_2
 DTSTART;TZID=GMT 标准时间:20260422T143000
 DTEND;TZID=GMT 标准时间:20260422T153000
@@ -1166,6 +1181,42 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Townhall Meeting _ BCC&BCZ 
+DTSTART;TZID=GMT 标准时间:20260520T103000
+DTEND;TZID=GMT 标准时间:20260520T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\nAs part of our “Internal Communication ec
+ osystem”\, which will focus on Strategy-Led\, Transparent & Efficient\, 
+ Feedback-Driven and one "China Team” spirits\,\n\nBesides the plant leve
+ l townhall\, we’re going to hold cross location on-line Townhall communi
+ cation together with all Office Staff of BCC&BCZ.\n\n \n\nHere book your t
+ ime for the first one\, other details will follow-up later.\n\n \n\nYours\
+ ,\n\nLaraine & MC team  \n\n______________________________________________
+ __________________________________\n\nMicrosoft Teams meeting \n\nJoin: ht
+ tps://teams.microsoft.com/meet/398957600432870?p=V0TjbqOJLfh8obvMlD <https
+ ://teams.microsoft.com/meet/398957600432870?p=V0TjbqOJLfh8obvMlD>  \n\nMee
+ ting ID: 398 957 600 432 870 \n\nPasscode: Vd7k8XC6 \n\n__________________
+ ______________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> 
+  | System reference <https://teams.microsoft.com/l/meetup-join/19%3ameetin
+ g_ZjA0YjU4MjUtNTZhZC00ZGFkLTg4NjctN2Y2YWU1N2E2ZmM1%40thread.v2/0?context=%
+ 7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22
+ 10b6c72c-a55b-46cf-9dbf-b6d9320dbdc2%22%7d>  \n\nFor organizers: Meeting o
+ ptions <https://teams.microsoft.com/meetingOptions/?organizerId=10b6c72c-a
+ 55b-46cf-9dbf-b6d9320dbdc2&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_ZjA0YjU4MjUtNTZhZC00ZGFkLTg4NjctN2Y2YWU1N2E2ZmM1@thread
+ .v2&messageId=0&language=en-US>  \n\nPrivacy and security <https://filehub
+ .admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n________
+ ________________________________________________________________________\n
+ \n \n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Townhall Meeting _ BCC&BCZ 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
