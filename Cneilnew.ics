@@ -136,6 +136,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPO设备周会
+DTSTART;TZID=GMT 标准时间:20260427T103000
+DTEND;TZID=GMT 标准时间:20260427T110000
+CLASS:PUBLIC
+DESCRIPTION:Hello ALL：\n本次例会邀请各位确认如下议题：\n1
+ 、熔体泵拆卸清理安排\n2、挤出拆包机设备改造可能性\n
+ 3、EM4安全绳后续改造方案\n\n以上还请各位知悉！
+LOCATION:TPO早会会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO设备周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Session
 DTSTART;TZID=GMT 标准时间:20260427T203000
 DTEND;TZID=GMT 标准时间:20260427T210000
@@ -231,6 +247,38 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:安全现状评价报告审核
+DTSTART;TZID=GMT 标准时间:20260428T123000
+DTEND;TZID=GMT 标准时间:20260428T140000
+CLASS:PUBLIC
+DESCRIPTION:Hi，all：\n针对评价单位更新完成的《安全现状
+ 评价报告》初稿，邀请各部门一起审核及讨论，\n\n请各
+ 位安排专人提前查阅报告内容并参加本次会议，如有问
+ 题可及时反馈并在会议讨论。\n\n \n\n \n\n@Sun\, Dimin <mailto:
+ dimin.sun@benecke-changshun.com.cn>  @Hou\, Xuewen <mailto:xuewen.hou@bene
+ cke-changshun.com.cn>  @jiang\, song03 <mailto:Song.3.Jiang@benecke-changs
+ hun.com.cn>  @Song\, Hao <mailto:hao.song@benecke-changshun.com.cn> @Shi\,
+  Gino <mailto:gaofeng.shi@benecke-changshun.com.cn>  请在会议前仔细
+ 查阅报告中本部门相关内容，如有问题，务必在会议时
+ 及时提出讨论。\n\n \n\n@Li\, Xiaodong03 <mailto:xiaodong.3.li@benec
+ ke-changshun.com.cn>  请在会议前仔细查阅工艺流程相关内容
+ ，如有问题，及时反馈。\n\n \n\n@Kang\, Bill <mailto:Fujun.Kang@
+ benecke-changshun.com.cn> @Yao\, Tomi <mailto:mengyue.yao@benecke-changshu
+ n.com.cn>  请在会议前仔细查阅并核对，报告中生产设备、
+ 公辅设施、消防设施等相关内容，如有问题，务必在会
+ 议时及时提出讨论。\n\n \n\n@Zhu\, Lin <mailto:Lin.Zhu@benecke-cha
+ ngshun.com.cn>  @Xu\, Liuhui <mailto:Liuhui.Xu@benecke-changshun.com.cn>  
+ 请在会议前仔细查阅原辅材料相关内容，如有问题，及
+ 时反馈。\n\n \n\n \n
+LOCATION:工厂301会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:安全现状评价报告审核
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
