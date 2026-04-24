@@ -168,6 +168,39 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Cross-site audit-PVC/SP/Roller
+DTSTART;TZID=GMT 标准时间:20260428T080000
+DTEND;TZID=GMT 标准时间:20260428T110000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n请大家各自提前准备过程参数和
+ 相关作业指导书，谢谢！\n\n \n\nSophia   4/24\n\n \n\n-----原
+ 始约会-----\n发件人: Xu\, Yan01 <yan01.xu@benecke-changshun.com.cn> 
+ \n发送时间: 2026年4月20日 15:17\n收件人: Xu\, Yan01\; Sun\, Dimi
+ n\; Qiu\, Xiaohan\; Chen\, Hongmei\; Yao\, Tomi\; Zhu\, Jing02\; Ji\, Yong
+ ming\; Sun\, Qiang\; jiang\, song03\; Chen\, Yan06\; Sun\, Yong\n抄送: C
+ hao Yuan\; yan06.chen@contitech.com\; yong.sun@contitech.com\n主题: 2026
+  Cross-site audit-PVC/SP/Roller\n时间: 2026年4月28日星期二 8:00-11
+ :00(UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n
+ 地点: PVC Printing&Embossing\,CMB\,Roller\n\n \n\nHello all\,\n\nBook yo
+ ur time for audit.\n\nDate / Time\n\nSubject / Process\n\nReference\n\nUni
+ t / Dept. / Process Owner\n\nAuditors \n\nIATF\n\nDay2\n\n08:00-11:00\n\nC
+ 3 Fulfill from Demand to Deliver\n\nR_05 Production\n\nGR Methods \n\nS_18
+  Problem solving and corrective actions\, S_19 Control of non_conforming p
+ roducts\n\nTraining\, FIFO\, Identification and Traceability\, WIP\, Rewor
+ k\, reprocess management\n\n(Change shift: 8:30)\n\nRemark:\n\nPrinting\n\
+ nEmbossing\n\nCMB\n\nRoller\n\n8.5\, 8.6\, 8.7\, 9.1.1\, 10.1\n\n8.5\n\n7.
+ 1\n\nProduction-PVC \n\nDimin Sun\n\nProduction-SP\n\nJason Jiang\n\nSCM-P
+ L\n\nChao Yuan\n\nPPI\n\nSophia Chen\n\nQM\n\nLei Jin\n\nMaintenance\n\nTo
+ mi Yao\n\nRoller\n\nYongming Ji\n\nTeam 1\n\n \n
+LOCATION:PVC Printing&Embossing\,CMB\,Roller
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 Cross-site audit-PVC/SP/Roller
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260428T083500
 DTEND;TZID=GMT 标准时间:20260428T090500
