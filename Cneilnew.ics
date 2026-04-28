@@ -5,155 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260427T083500
-DTEND;TZID=GMT 标准时间:20260427T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO设备周会
-DTSTART;TZID=GMT 标准时间:20260427T103000
-DTEND;TZID=GMT 标准时间:20260427T110000
-CLASS:PUBLIC
-DESCRIPTION:Hello ALL：\n本次例会邀请各位确认如下议题：\n1
- 、熔体泵拆卸清理安排\n2、挤出拆包机设备改造可能性\n
- 3、EM4安全绳后续改造方案\n\n以上还请各位知悉！
-LOCATION:TPO早会会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO设备周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:宁德新泉446K 凹凸点/异物问题
-DTSTART;TZID=GMT 标准时间:20260427T123000
-DTEND;TZID=GMT 标准时间:20260427T130000
-CLASS:PUBLIC
-DESCRIPTION:Hello all\,\n\n \n\n约大家看下宁德新泉反馈的446K
- 凹凸点/异物的问题，非常感谢！\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:宁德新泉446K 凹凸点/异物问题
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ContiGPT Session
-DTSTART;TZID=GMT 标准时间:20260427T203000
-DTEND;TZID=GMT 标准时间:20260427T210000
-CLASS:PUBLIC
-DESCRIPTION:Join us every other Monday at 14:30 CET for a 30-minute sessio
- n to explore Generative AI\, AI and Automation topics\, share insights\, a
- nd showcase exciting projects!\n💡 Want to present or suggest a topic?\n
- Reach out directly to @Rodrigues\, Catarina <mailto:catarina.cunha.rodrigu
- es@conti.de>  with your ideas!\nLet’s collaborate\, learn\, and innovate
-  together. See you there!\n\nQuick Links\n\n*	\n	Everything you need to kn
- ow about the ContiGPT Community: ContiGPT Community (sharepoint.com) <http
- s://continental.sharepoint.com/teams/team_10065807/SitePages/ContiGPT-Comm
- unity.aspx> \n*	\n	Add these meetings to your calendar: Weekly Meeting - a
- dd it to your calendar <https://teams.microsoft.com/l/message/19:56fa358dd
- a644e9b90f35fbdedcbc080@thread.tacv2/1693830314815?tenantId=8d4b558f-7b2e-
- 40ba-ad1f-e04d79e6265a&groupId=aa0b116e-6ae8-499b-94c2-a5bc76cb7243&parent
- MessageId=1693830314815&teamName=ContiGPT&channelName=1%20Organization&cre
- atedTime=1693830314815> \n*	Agenda for upcoming meetings: Weekly Meetings 
- - Agenda <https://continental.sharepoint.com/teams/team_10065807/_layouts/
- OneNote.aspx?id=%2Fteams%2Fteam_10065807%2FSiteAssets%2FContiGPT%20Noteboo
- k&wd=target%280%20Wiki.one%7C5157854F-5BEC-42F8-90A7-7F29D3E31727%2FWeekly
- %20Meetings%20-%20Agenda%7C0B9A464D-4819-4E5E-A4F0-BE3C3B0EA1A0%2F%29%20on
- enote:https://continental.sharepoint.com/teams/team_10065807/SiteAssets/Co
- ntiGPT%20Notebook/0%20Wiki.one#Weekly%20Meetings%20-%20Agenda&section-id={
- 5157854F-5BEC-42F8-90A7-7F29D3E31727}&page-id={0B9A464D-4819-4E5E-A4F0-BE3
- C3B0EA1A0}&end> \n*	Recordings and slides from previous meetings:\n\n	*	We
- ekly Meetings - recordings <https://continental.sharepoint.com/:f:/r/teams
- /team_10065807/Shared%20Documents/1%20Organization/Weekly%20Meetings%20-%2
- 0recordings?csf=1&web=1&e=4VnAfU> \n	*	Weekly Meetings - slides <https://c
- ontinental.sharepoint.com/:f:/r/teams/team_10065807/Shared%20Documents/1%2
- 0Organization/Weekly%20Meetings%20-%20slides?csf=1&web=1&e=ogrfmK> \n	*	Pl
- aylist format: ContiGPT Sessions <https://continental.sharepoint.com/:l:/r
- /teams/team_10065807/Lists/ContiGPT%20Sessions?e=T3ujUP> \n\n*	\n	AI @ Con
- tinental: All-in-One AI Portal <https://continental.sharepoint.com/teams/c
- s_10001437/SitePages/Artificial-Intelligence-at-Tires.aspx> \n\n\n\n______
- __________________________________________________________________________
- \nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-GB> 
- \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3amee
- ting_ZDAyODRiZjMtMjM0NC00MTM5LWI2ZTctMTZiNDkxNTBhNmRi%40thread.v2/0?contex
- t=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a
- %229dcbc281-c8ae-405d-ae55-8104b929d5fd%22%7d> \nMeeting ID: 317 881 907 5
- 59 \nPasscode: ih7Kg7SA \n________________________________\n\nFor organise
- rs: Meeting options <https://teams.microsoft.com/meetingOptions/?organizer
- Id=9dcbc281-c8ae-405d-ae55-8104b929d5fd&tenantId=8d4b558f-7b2e-40ba-ad1f-e
- 04d79e6265a&threadId=19_meeting_ZDAyODRiZjMtMjM0NC00MTM5LWI2ZTctMTZiNDkxNT
- BhNmRi@thread.v2&messageId=0&language=en-GB> \nPrivacy and security <https
- ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e> \n_
- __________________________________________________________________________
- _____
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ContiGPT Session
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Cross-site audit-PVC/SP/Roller
-DTSTART;TZID=GMT 标准时间:20260428T080000
-DTEND;TZID=GMT 标准时间:20260428T110000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n请大家各自提前准备过程参数和
- 相关作业指导书，谢谢！\n\n \n\nSophia   4/24\n\n \n\n-----原
- 始约会-----\n发件人: Xu\, Yan01 <yan01.xu@benecke-changshun.com.cn> 
- \n发送时间: 2026年4月20日 15:17\n收件人: Xu\, Yan01\; Sun\, Dimi
- n\; Qiu\, Xiaohan\; Chen\, Hongmei\; Yao\, Tomi\; Zhu\, Jing02\; Ji\, Yong
- ming\; Sun\, Qiang\; jiang\, song03\; Chen\, Yan06\; Sun\, Yong\n抄送: C
- hao Yuan\; yan06.chen@contitech.com\; yong.sun@contitech.com\n主题: 2026
-  Cross-site audit-PVC/SP/Roller\n时间: 2026年4月28日星期二 8:00-11
- :00(UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n
- 地点: PVC Printing&Embossing\,CMB\,Roller\n\n \n\nHello all\,\n\nBook yo
- ur time for audit.\n\nDate / Time\n\nSubject / Process\n\nReference\n\nUni
- t / Dept. / Process Owner\n\nAuditors \n\nIATF\n\nDay2\n\n08:00-11:00\n\nC
- 3 Fulfill from Demand to Deliver\n\nR_05 Production\n\nGR Methods \n\nS_18
-  Problem solving and corrective actions\, S_19 Control of non_conforming p
- roducts\n\nTraining\, FIFO\, Identification and Traceability\, WIP\, Rewor
- k\, reprocess management\n\n(Change shift: 8:30)\n\nRemark:\n\nPrinting\n\
- nEmbossing\n\nCMB\n\nRoller\n\n8.5\, 8.6\, 8.7\, 9.1.1\, 10.1\n\n8.5\n\n7.
- 1\n\nProduction-PVC \n\nDimin Sun\n\nProduction-SP\n\nJason Jiang\n\nSCM-P
- L\n\nChao Yuan\n\nPPI\n\nSophia Chen\n\nQM\n\nLei Jin\n\nMaintenance\n\nTo
- mi Yao\n\nRoller\n\nYongming Ji\n\nTeam 1\n\n \n
-LOCATION:PVC Printing&Embossing\,CMB\,Roller
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2026 Cross-site audit-PVC/SP/Roller
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260428T083500
 DTEND;TZID=GMT 标准时间:20260428T090500
 CLASS:PUBLIC
@@ -180,7 +31,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:油漆&色母粒周会
+SUMMARY:已取消: 油漆&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260428T101500
 DTEND;TZID=GMT 标准时间:20260428T110000
 CLASS:PUBLIC
@@ -189,7 +40,7 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:油漆&色母粒周会
+DESCRIPTION:已取消: 油漆&色母粒周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -222,6 +73,244 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:安全现状评价报告审核
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U2100173L0900后续使用XR29114/1900海绵
+DTSTART;TZID=GMT 标准时间:20260428T140000
+DTEND;TZID=GMT 标准时间:20260428T143000
+CLASS:PUBLIC
+DESCRIPTION:约大家一起聊下这个话题，谢谢！\n\n_____________
+ ___________________________________________________________________\n\nMic
+ rosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/378666749
+ 837536?p=L4mQIORnX5QcXVpEPj <https://teams.microsoft.com/meet/378666749837
+ 536?p=L4mQIORnX5QcXVpEPj>  \n\n会议 ID: 378 666 749 837 536 \n\n密码: 
+ MC6NM9cc \n\n________________________________\n\n是否需要帮助? <http
+ s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.mic
+ rosoft.com/l/meetup-join/19%3ameeting_YmY2YmIyMzMtNmRlYi00ODdhLWI0ZmItZWU2
+ MDY4MjQxMTU0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad
+ 1f-e04d79e6265a%22%2c%22Oid%22%3a%2225655bab-daba-4429-bd83-54a1e36ded86%2
+ 2%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meet
+ ingOptions/?organizerId=25655bab-daba-4429-bd83-54a1e36ded86&tenantId=8d4b
+ 558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YmY2YmIyMzMtNmRlYi00O
+ DdhLWI0ZmItZWU2MDY4MjQxMTU0@thread.v2&messageId=0&language=zh-CN>  \n\n隐
+ 私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92c
+ f-aaf920ff7119>  \n\n_____________________________________________________
+ ___________________________\n\n \n\n \n\n_________________________________
+ ____________\n发件人: Chen\, Angellee \n发送时间: 2026年4月24日 
+ 13:32\n收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn>
+ \n抄送: dai\, Anna <ye.dai@benecke-changshun.com.cn>\; Chen\, Hongmei <H
+ ongmei.Chen@benecke-changshun.com.cn>\; Ding\, Zhongxie <zhongxie.ding@ben
+ ecke-changshun.com.cn>\n主题: 回复: U2100173L0900后续使用XR29114/1
+ 900海绵\n\n \n\nHello Xiaodong\n\n \n\n供应商的理解是高密度的
+ 海绵跟目前的产品不是同一个产品，需要增加成本。如
+ 果按照目前的spec，他们不能保证密度做上限。\n\n \n\n昨
+ 天的成本核算有误，每平米的价格增加是0.8-1元，供应商
+ 报价是per 100的，我核算成per 10了。综合看下来，每个月
+ 的成本要增加1.6万-1.9万之间，按照每个月10000米的预测
+ 量来计算的话。\n\n \n\n \n\nMit freundlichen Grüßen / Best Regard
+ s\n\n \n\n陈晓娇/Angellee Chen\n\nRegional Category Manager – Carrier
+  Materials\n\nPurchasing\n\nSurface Solutions\n\n \n\nBesucheradresse / Vi
+ sitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\
+ n贝内克长顺汽车内饰材料（张家港）有限公司\n\nNo.1\,Jia
+ nghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P
+ .R.China \n江苏省张家港市金港镇南沙长阳路1号 215632\n\n \n
+ \nMobil: +86 177 0624 2801\n\nE-Mail: xiaojiao.chen@benecke-changshun.com.
+ cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> \n\nWebsite: www.contin
+ ental-industry.com <http://www.continental-industry.com/> \n\n \n\nDear Su
+ ppliers\, please read the following documents and comply with ContiTech re
+ quirements:\n\nSuppliers | Continental - Continental AG <https://www.conti
+ nental.com/en/company/suppliers/supplier-information/>  \n\n \n\n发件人
+ : Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong
+ .3.li@benecke-changshun.com.cn> > \n发送时间: 2026年4月23日 17:09\n
+ 收件人: Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto
+ :xiaojiao.chen@benecke-changshun.com.cn> >\n抄送: dai\, Anna <ye.dai@ben
+ ecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\; Chen\, 
+ Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@beneck
+ e-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.c
+ om.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\n主题: 回复: U
+ 2100173L0900后续使用XR29114/1900海绵\n\n \n\n晓娇：\n\n       基
+ 于这次泰国试制结果来看，高密度的海绵能改善现场应
+ 用的报废，现有的ALVEO与YB对比还是有差异的，并不能百
+ 分百的解决。和泰国客户沟通后我们这边的方案是改善
+ 海绵，客户也会持续优化他们的模具来匹配新的ALVEO海绵
+ 。\n\n       还有这个海绵的密度SPEC是60.0 - 74.0 kg/m³ ，只
+ 是要求他按照中上限生产67-74 kg/m³，我们没有改变海绵SP
+ EC，为啥会涨价呢？\n\n       \n\nThanks\n\n \n\nNeil Li /李晓东
+ \n\n \n\n \n\nInternal\n\n发件人: Chen\, Angellee <xiaojiao.chen@beneck
+ e-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> > \n发
+ 送时间: 2026年4月23日 17:01\n收件人: Li\, Xiaodong03 <xiaodong.3.
+ li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn
+ > >\n抄送: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@be
+ necke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun
+ .com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Ding\, Zhongxie
+  <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-cha
+ ngshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR29114/1900海
+ 绵\n\n \n\nHello Xiaodong\,\n\n \n\n确认是低密度的问题导致的
+ 吗？改成高密度的话，确保能100%解决问题吗？\n\n \n\n现
+ 在因为要改密度，海绵要涨8-10块钱一米，涨幅太大，已
+ 经把改幅宽的saving吃完了还要倒贴呢！\n\n \n\n \n\nMit freun
+ dlichen Grüßen / Best Regards\n\n \n\n陈晓娇/Angellee Chen\n\nRegiona
+ l Category Manager – Carrier Materials\n\nPurchasing\n\nSurface Solution
+ s\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto Tri
+ m (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家
+ 港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zh
+ angjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇
+ 南沙长阳路1号 215632\n\n \n\nMobil: +86 177 0624 2801\n\nE-Mail: xia
+ ojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshu
+ n.com.cn> \n\nWebsite: www.continental-industry.com <http://www.continenta
+ l-industry.com/> \n\n \n\nDear Suppliers\, please read the following docum
+ ents and comply with ContiTech requirements:\n\nSuppliers | Continental - 
+ Continental AG <https://www.continental.com/en/company/suppliers/supplier-
+ information/>  \n\n \n\n \n\nInternal\n\n发件人: dai\, Anna <ye.dai@ben
+ ecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> > \n发送
+ 时间: 2026年4月23日 16:58\n收件人: Chen\, Angellee <xiaojiao.chen@
+ benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >
+ \n主题: 转发: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nFYI\
+ n\n \n\n \n\n \n\n注意：我司国四以及国四以下车辆禁止入
+ 内，请知悉！\n\n1.	仓库收货时间：上午8：30--下午15：30 
+ \n2.	进入厂区请服从门卫安排，有序进入\n3.	请正确佩戴
+ 安全帽以及反光背心\n4.	请勿随意走动\n5.	随货携带正确
+ 的送货单& 质检单\n\n \n\nBest regards\, \n\nYe Dai(Anna) / 戴烨\n
+ \nRaw Material Planner-BCZ Plant/ 原材料计划员－张家港工厂 \n\
+ nContiTech Surface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\
+ nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺
+ 汽车内饰材料（张家港）有限公司\n\nNo.108\,Jianghai South Rd
+ .\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江
+ 苏省张家港市金港镇南沙江海南路108号 215632\n\n \n\nMobile:
+  +86 189 511 37970\n\nE-mail: ye.dai@benecke-changshun.com.cn <mailto:ye.d
+ ai@benecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <ht
+ tp://www.continental-industry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n\n发
+ 件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xi
+ aodong.3.li@benecke-changshun.com.cn> > \n发送时间: 2026年4月23日 1
+ 2:36\n收件人: Wang\, Haifeng03 <haifeng.3.wang@benecke-changshun.com.cn
+  <mailto:haifeng.3.wang@benecke-changshun.com.cn> >\; Wu\, Wei03 <wei.3.wu
+ @benecke-changshun.com.cn <mailto:wei.3.wu@benecke-changshun.com.cn> >\n
+ 抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hong
+ mei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshu
+ n.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewe
+ n.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn
+ > >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn <mailto:hongxin.
+ sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun
+ .com.cn <mailto:xin.jiang@benecke-changshun.com.cn> >\; Ding\, Zhongxie <z
+ hongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-changs
+ hun.com.cn> >\; Chen\, Chenglong <chenglong.chen@benecke-changshun.com.cn 
+ <mailto:chenglong.chen@benecke-changshun.com.cn> >\; Huang\, Yuyang <yuyan
+ g.huang@benecke-changshun.com.cn <mailto:yuyang.huang@benecke-changshun.co
+ m.cn> >\; dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benec
+ ke-changshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR29114/1
+ 900海绵\n\n \n\nHello 海峰：\n\n       现场调试的内容我这边
+ 没有其他补充了。\n\n@Wu\, Wei03 <mailto:wei.3.wu@benecke-changshun
+ .com.cn>  后期WD项目报废还是要拜托泰国延锋的SQE追踪下
+ 的每轮生产数据哇。\n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n 
+ \n\n \n\nInternal\n\n发件人: Wang\, Haifeng03 <haifeng.3.wang@benecke-c
+ hangshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn> > \n发
+ 送时间: 2026年4月22日 10:05\n收件人: Li\, Xiaodong03 <xiaodong.3.
+ li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn
+ > >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto
+ :Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-cha
+ ngshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Hou\, Xuewen <
+ xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.c
+ om.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn <mailto:hon
+ gxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.jiang@benecke-chan
+ gshun.com.cn <mailto:xin.jiang@benecke-changshun.com.cn> >\; Ding\, Zhongx
+ ie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-c
+ hangshun.com.cn> >\; Chen\, Chenglong <chenglong.chen@benecke-changshun.co
+ m.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >\; Huang\, Yuyang <
+ yuyang.huang@benecke-changshun.com.cn <mailto:yuyang.huang@benecke-changsh
+ un.com.cn> >\; dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@
+ benecke-changshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR29
+ 114/1900海绵\n\n \n\nDear all\,\n\n \n\n附近是这次验证整理的
+ 简要报告，请查收！\n\n通过模具优化及参数调整，目前A
+ lveo海绵材料是可以生产的，并且客户也答应就目前0.8%左
+ 右的不良会持续优化工艺，优化方向此次也已经和客户
+ 工艺达成了一致意见。\n\n大家看下有没有问题，如果没
+ 有问题，我将会把这份报告发给客户Sunisa（客户要求）
+ 。\n\n \n\n谢谢！\n\n \n\nBest regards\, \n\n \n\nBruce Wang / 王海
+ 峰\n\nApplication Engineer\n\nTC-CM4 Coordinator\n\nTechnical Consulting\
+ n\nContiTech Surface Solutions\n\n \n\n \n\nInternal\n\n发件人: Li\, Xi
+ aodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@ben
+ ecke-changshun.com.cn> > \n发送时间: 2026年4月21日 15:55\n收件人
+ : dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-chang
+ shun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com
+ .cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@
+ benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Hou
+ \, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-
+ changshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn 
+ <mailto:hongxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.jiang@b
+ enecke-changshun.com.cn <mailto:xin.jiang@benecke-changshun.com.cn> >\; Di
+ ng\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.din
+ g@benecke-changshun.com.cn> >\; Chen\, Chenglong <chenglong.chen@benecke-c
+ hangshun.com.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >\; Wang\
+ , Haifeng03 <haifeng.3.wang@benecke-changshun.com.cn <mailto:haifeng.3.wan
+ g@benecke-changshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR
+ 29114/1900海绵\n\n \n\nHello Anna：\n\n       根据今天泰国延锋
+ 现场试制结果，现有的ALVEO还是会有若干的不良，具体等
+ 海峰的试制报告。现有的库存及在途海绵正常排产，后
+ 续要求供应商ALVEO提供高密度海绵67-74。\n\n \n\nThanks\n\n \n
+ \nNeil Li /李晓东\n\n \n\n \n\nInternal\n\n发件人: dai\, Anna <ye.da
+ i@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> > \n
+ 发送时间: 2026年4月10日 13:29\n收件人: Li\, Xiaodong03 <xiaodong
+ .3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com
+ .cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mai
+ lto:Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-
+ changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Hou\, Xuewe
+ n <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshu
+ n.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn <mailto:
+ hongxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.jiang@benecke-c
+ hangshun.com.cn <mailto:xin.jiang@benecke-changshun.com.cn> >\; Ding\, Zho
+ ngxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@beneck
+ e-changshun.com.cn> >\; Chen\, Chenglong <chenglong.chen@benecke-changshun
+ .com.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >\n主题: 回复
+ : U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello 晓东\n\n \n\
+ n好的，1000幅宽海绵还有几个未交订单，我这边先跟供应
+ 商确认下能不能把订单改成1900幅宽，有信息了再更新1000
+ 幅宽海绵预计消耗时间。\n\n \n\n另外，目前因为密度问
+ 题以及我们客户端验证，Alveo暂时没有生产，现在CTS跟单
+ 时间延后到了Week17周，而我们现在手头确认的订单库存
+ 预计可以消耗到7月中，我们需要在4月底或者5月初提到
+ 新订单，结合现有客户端的试制结果，我们是否可以先
+ 让Alveo再安排生产一个1900的订单?以避免后面又缺口风险
+ 。\n\n \n\n感谢确认！\n\n \n\n \n\n \n\n注意：我司国四以及
+ 国四以下车辆禁止入内，请知悉！\n\n6.	仓库收货时间：
+ 上午8：30--下午15：30 \n7.	进入厂区请服从门卫安排，有
+ 序进入\n8.	请正确佩戴安全帽以及反光背心\n9.	请勿随意
+ 走动\n10.	随货携带正确的送货单& 质检单\n\n \n\nBest regards
+ \, \n\nYe Dai(Anna) / 戴烨\n\nRaw Material Planner-BCZ Plant/ 原材料
+ 计划员－张家港工厂 \n\nContiTech Surface Solutions\n\n \n\nBesuch
+ eradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang)
+  Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限公
+ 司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 
+ 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙江海南
+ 路108号 215632\n\n \n\nMobile: +86 189 511 37970\n\nE-mail: ye.dai@benec
+ ke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> \n\nWebsite: 
+ www.continental-industry.com <http://www.continental-industry.com/> \n\n \
+ n\n\n\n \n\n \n\nInternal\n\n发件人: Li\, Xiaodong03 <xiaodong.3.li@ben
+ ecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> > \n
+ 发送时间: 2026年4月10日 13:09\n收件人: dai\, Anna <ye.dai@beneck
+ e-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n抄送: Che
+ n\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@be
+ necke-changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <m
+ ailto:Lin.Zhu@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benec
+ ke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\,
+  Hongxin <hongxin.sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke
+ -changshun.com.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <ma
+ ilto:xin.jiang@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.din
+ g@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn>
+  >\; Chen\, Chenglong <chenglong.chen@benecke-changshun.com.cn <mailto:che
+ nglong.chen@benecke-changshun.com.cn> >\n主题: U2100173L0900后续使用
+ XR29114/1900海绵\n\n \n\nHello Anna:\n\n       U2100173L0900待ALVEO XR2
+ 9114/1000海绵消耗完后使用XR29114/1900海绵(和U2100173L0900共用
+ )。\n\n       初步计算若由YB1000米幅宽切换为ALVEO 1900海绵
+ ，不考虑增加的切割工序，预计可以saving 2.7 cny/㎡ （未
+ 考虑印刷工序减半的saving）\n\n \n\n \n\nThanks\n\n \n\nNeil Li /
+ 李晓东\n\n \n\n \n\nInternal\n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2100173L0900后续使用XR29114/1900海绵
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -291,6 +380,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260430T090000
+DTEND;TZID=GMT 标准时间:20260430T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1428,6 +1531,102 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260527T083500
+DTEND;TZID=GMT 标准时间:20260527T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invitation: D-Talent! Biweekly Group Learning Session_Team_2
+DTSTART;TZID=GMT 标准时间:20260527T143000
+DTEND;TZID=GMT 标准时间:20260527T153000
+CLASS:PUBLIC
+DESCRIPTION:Dear D Talent Team\,\n\n尊敬的D Talent团队，\n\n \n\nWe 
+ are pleased to invite you to our upcoming Biweekly Group Learning Session.
+  This session will provide an opportunity to review progress on the ongoin
+ g training courses\, discuss usage of Coursera accounts\, and track the tr
+ aining hours. It is also an opportunity to align on upcoming tasks and cou
+ rse content.\n\n我们诚挚地邀请您参加即将举行的 双周学习
+ 会议。本次会议将为大家提供一个回顾正在进行的培训
+ 课程进展、讨论Coursera账户使用情况以及跟踪培训时长的
+ 机会，同时也是一个对接即将开展的任务和课程内容的
+ 平台。\n\n \n\n会议主持人：小组长\n\nMeeting Host：Group Lead
+ er\n\n \n\nThe meeting will cover:\n\n会议内容包括：\n\n*	Review of
+  Coursera account usage and training hours.\n\nCoursera账户使用情况
+ 和培训时长的回顾。\n\n*	Discussion of upcoming tasks and course c
+ ontent.\n\n即将开展的任务和课程内容的讨论。\n\n*	Feedback 
+ and suggestions for improving our learning initiatives.\n\n提供改进学
+ 习计划的反馈和建议。\n\n \n\nNo.\n\nSelected by Group\n\nTopics\
+ n\nCategory\n\n1\n\n1\n\nEmployee Full Lifecycle Platform/员工全生命
+ 周期平台\n\nHR\n\n2\n\n1\n\nBuild BCZ‘s Own Digital Ecosystem/自有
+ AI生态\n\nIT\n\n3\n\n2\n\nAI Best Parameter Recommendations/AI Best 参
+ 数推荐\n\nPPI\n\n4\n\n2\n\nAI Knowledge Assistant/AI 知识助手\n\nIT
+ \n\n5\n\n3\n\nEquipment Full Lifecycle Platform/设备全生命周期平
+ 台\n\nMachine\n\n6\n\n3\n\nAI Safety Behavior Observation/AI 安全行为
+ 观察\n\nESH\n\n7\n\n4\n\nAI Product Anomaly Analysis/AI Recipe Auto Opti
+ mization/AI 产品异常分析/AI配方自动化\n\nQuality/PPI\n\n8\n\n4\
+ n\nQuality Issues - AI Smart Solutions/质量问题AI智能解决方案\n\
+ nQuality\n\n \n\nLooking forward to seeing you there!\n\n期待与您共
+ 聚一堂！\n\n \n\nBest regards\,\n\nBCZ Digital Talent Team\n\n \n\n___
+ __________________________________________________________________________
+ ___\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en
+ -US>  \n\nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZmU5YWQ2MjQtMzVmMi00ZTc2LThhN2MtOTJhMTdiODc2YTcz%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22O
+ id%22%3a%221e3fea23-7c50-4fb2-a71b-c28eb213e712%22%7d>  \n\nMeeting ID: 32
+ 8 243 189 982 62 \n\nPasscode: bs97tn7n \n\n______________________________
+ __\n\nFor organizers: Meeting options <https://teams.microsoft.com/meeting
+ Options/?organizerId=1e3fea23-7c50-4fb2-a71b-c28eb213e712&tenantId=8d4b558
+ f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZmU5YWQ2MjQtMzVmMi00ZTc2
+ LThhN2MtOTJhMTdiODc2YTcz@thread.v2&messageId=0&language=en-US>  \n\nPrivac
+ y and security <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-9
+ 2cf-aaf920ff7119>  \n\n___________________________________________________
+ _____________________________\n\n \n
+LOCATION:Microsoft Teams Meeting\; TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invitation: D-Talent! Biweekly Group Learning Session_Team_2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID=GMT 标准时间:20260527T153000
+DTEND;TZID=GMT 标准时间:20260527T163000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
