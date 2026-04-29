@@ -5,319 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260428T083500
-DTEND;TZID=GMT 标准时间:20260428T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 油漆&色母粒周会
-DTSTART;TZID=GMT 标准时间:20260428T101500
-DTEND;TZID=GMT 标准时间:20260428T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 油漆&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:安全现状评价报告审核
-DTSTART;TZID=GMT 标准时间:20260428T123000
-DTEND;TZID=GMT 标准时间:20260428T140000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n针对评价单位更新完成的《安全现状
- 评价报告》初稿，邀请各部门一起审核及讨论，\n\n请各
- 位安排专人提前查阅报告内容并参加本次会议，如有问
- 题可及时反馈并在会议讨论。\n\n \n\n \n\n@Sun\, Dimin <mailto:
- dimin.sun@benecke-changshun.com.cn>  @Hou\, Xuewen <mailto:xuewen.hou@bene
- cke-changshun.com.cn>  @jiang\, song03 <mailto:Song.3.Jiang@benecke-changs
- hun.com.cn>  @Song\, Hao <mailto:hao.song@benecke-changshun.com.cn> @Shi\,
-  Gino <mailto:gaofeng.shi@benecke-changshun.com.cn>  请在会议前仔细
- 查阅报告中本部门相关内容，如有问题，务必在会议时
- 及时提出讨论。\n\n \n\n@Li\, Xiaodong03 <mailto:xiaodong.3.li@benec
- ke-changshun.com.cn>  请在会议前仔细查阅工艺流程相关内容
- ，如有问题，及时反馈。\n\n \n\n@Kang\, Bill <mailto:Fujun.Kang@
- benecke-changshun.com.cn> @Yao\, Tomi <mailto:mengyue.yao@benecke-changshu
- n.com.cn>  请在会议前仔细查阅并核对，报告中生产设备、
- 公辅设施、消防设施等相关内容，如有问题，务必在会
- 议时及时提出讨论。\n\n \n\n@Zhu\, Lin <mailto:Lin.Zhu@benecke-cha
- ngshun.com.cn>  @Xu\, Liuhui <mailto:Liuhui.Xu@benecke-changshun.com.cn>  
- 请在会议前仔细查阅原辅材料相关内容，如有问题，及
- 时反馈。\n\n \n\n \n
-LOCATION:工厂301会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:安全现状评价报告审核
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:U2100173L0900后续使用XR29114/1900海绵
-DTSTART;TZID=GMT 标准时间:20260428T133000
-DTEND;TZID=GMT 标准时间:20260428T140000
-CLASS:PUBLIC
-DESCRIPTION:约大家一起聊下这个话题，谢谢！\n\n_____________
- ___________________________________________________________________\n\nMic
- rosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/378666749
- 837536?p=L4mQIORnX5QcXVpEPj <https://teams.microsoft.com/meet/378666749837
- 536?p=L4mQIORnX5QcXVpEPj>  \n\n会议 ID: 378 666 749 837 536 \n\n密码: 
- MC6NM9cc \n\n________________________________\n\n是否需要帮助? <http
- s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.mic
- rosoft.com/l/meetup-join/19%3ameeting_YmY2YmIyMzMtNmRlYi00ODdhLWI0ZmItZWU2
- MDY4MjQxMTU0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad
- 1f-e04d79e6265a%22%2c%22Oid%22%3a%2225655bab-daba-4429-bd83-54a1e36ded86%2
- 2%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meet
- ingOptions/?organizerId=25655bab-daba-4429-bd83-54a1e36ded86&tenantId=8d4b
- 558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_YmY2YmIyMzMtNmRlYi00O
- DdhLWI0ZmItZWU2MDY4MjQxMTU0@thread.v2&messageId=0&language=zh-CN>  \n\n隐
- 私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b3-92c
- f-aaf920ff7119>  \n\n_____________________________________________________
- ___________________________\n\n \n\n \n\n_________________________________
- ____________\n发件人: Chen\, Angellee \n发送时间: 2026年4月24日 
- 13:32\n收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn 
- <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\n抄送: dai\, Anna <ye.
- dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\; 
- Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen
- @benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-chan
- gshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\n主题: 
- 回复: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello Xiaodong
- \n\n \n\n供应商的理解是高密度的海绵跟目前的产品不是
- 同一个产品，需要增加成本。如果按照目前的spec，他们
- 不能保证密度做上限。\n\n \n\n昨天的成本核算有误，每
- 平米的价格增加是0.8-1元，供应商报价是per 100的，我核
- 算成per 10了。综合看下来，每个月的成本要增加1.6万-1.9
- 万之间，按照每个月10000米的预测量来计算的话。\n\n \n\n
-  \n\nMit freundlichen Grüßen / Best Regards\n\n \n\n陈晓娇/Angellee C
- hen\n\nRegional Category Manager – Carrier Materials\n\nPurchasing\n\nSu
- rface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Chan
- gshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰
- 材料（张家港）有限公司\n\nNo.1\,Jianghai South Rd.\,Nansha\, Ji
- ngang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家
- 港市金港镇南沙长阳路1号 215632\n\n \n\nMobil: +86 177 0624 2801
- \n\nE-Mail: xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@b
- enecke-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http:/
- /www.continental-industry.com/> \n\n \n\nDear Suppliers\, please read the 
- following documents and comply with ContiTech requirements:\n\nSuppliers |
-  Continental - Continental AG <https://www.continental.com/en/company/supp
- liers/supplier-information/>  \n\n \n\n发件人: Li\, Xiaodong03 <xiaodon
- g.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.co
- m.cn> > \n发送时间: 2026年4月23日 17:09\n收件人: Chen\, Angellee
-  <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-cha
- ngshun.com.cn> >\n抄送: dai\, Anna <ye.dai@benecke-changshun.com.cn <mai
- lto:ye.dai@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@bene
- cke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Di
- ng\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.din
- g@benecke-changshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR
- 29114/1900海绵\n\n \n\n晓娇：\n\n       基于这次泰国试制结
- 果来看，高密度的海绵能改善现场应用的报废，现有的AL
- VEO与YB对比还是有差异的，并不能百分百的解决。和泰国
- 客户沟通后我们这边的方案是改善海绵，客户也会持续
- 优化他们的模具来匹配新的ALVEO海绵。\n\n       还有这个
- 海绵的密度SPEC是60.0 - 74.0 kg/m³ ，只是要求他按照中上限
- 生产67-74 kg/m³，我们没有改变海绵SPEC，为啥会涨价呢？\
- n\n       \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nInternal\n\n
- 发件人: Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto
- :xiaojiao.chen@benecke-changshun.com.cn> > \n发送时间: 2026年4月23
- 日 17:01\n收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com
- .cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\n抄送: dai\, Anna 
- <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> 
- >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.
- Chen@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-
- changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\n主题
- : 回复: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello Xiaodo
- ng\,\n\n \n\n确认是低密度的问题导致的吗？改成高密度的
- 话，确保能100%解决问题吗？\n\n \n\n现在因为要改密度，
- 海绵要涨8-10块钱一米，涨幅太大，已经把改幅宽的saving
- 吃完了还要倒贴呢！\n\n \n\n \n\nMit freundlichen Grüßen / Best 
- Regards\n\n \n\n陈晓娇/Angellee Chen\n\nRegional Category Manager – C
- arrier Materials\n\nPurchasing\n\nSurface Solutions\n\n \n\nBesucheradress
- e / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, L
- td.\n\n贝内克长顺汽车内饰材料（张家港）有限公司\n\nNo.
- 1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiang
- su\, P.R.China \n江苏省张家港市金港镇南沙长阳路1号 215632\
- n\n \n\nMobil: +86 177 0624 2801\n\nE-Mail: xiaojiao.chen@benecke-changshu
- n.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> \n\nWebsite: www.
- continental-industry.com <http://www.continental-industry.com/> \n\n \n\nD
- ear Suppliers\, please read the following documents and comply with ContiT
- ech requirements:\n\nSuppliers | Continental - Continental AG <https://www
- .continental.com/en/company/suppliers/supplier-information/>  \n\n \n\n \n
- \nInternal\n\n发件人: dai\, Anna <ye.dai@benecke-changshun.com.cn <mail
- to:ye.dai@benecke-changshun.com.cn> > \n发送时间: 2026年4月23日 16:
- 58\n收件人: Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <ma
- ilto:xiaojiao.chen@benecke-changshun.com.cn> >\n主题: 转发: U2100173L0
- 900后续使用XR29114/1900海绵\n\n \n\nFYI\n\n \n\n \n\n \n\n注意：
- 我司国四以及国四以下车辆禁止入内，请知悉！\n\n1.	仓
- 库收货时间：上午8：30--下午15：30 \n2.	进入厂区请服从
- 门卫安排，有序进入\n3.	请正确佩戴安全帽以及反光背心
- \n4.	请勿随意走动\n5.	随货携带正确的送货单& 质检单\n\n 
- \n\nBest regards\, \n\nYe Dai(Anna) / 戴烨\n\nRaw Material Planner-BCZ P
- lant/ 原材料计划员－张家港工厂 \n\nContiTech Surface Solutions
- \n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim
-  (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家
- 港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, 
- Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇
- 南沙江海南路108号 215632\n\n \n\nMobile: +86 189 511 37970\n\nE-mai
- l: ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn
- > \n\nWebsite: www.continental-industry.com <http://www.continental-indust
- ry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n\n发件人: Li\, Xiaodong03 <xi
- aodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changsh
- un.com.cn> > \n发送时间: 2026年4月23日 12:36\n收件人: Wang\, Hai
- feng03 <haifeng.3.wang@benecke-changshun.com.cn <mailto:haifeng.3.wang@ben
- ecke-changshun.com.cn> >\; Wu\, Wei03 <wei.3.wu@benecke-changshun.com.cn <
- mailto:wei.3.wu@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongm
- ei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.co
- m.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@bene
- cke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.c
- n <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.
- sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn>
-  >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@ben
- ecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshu
- n.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, Chengl
- ong <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@beneck
- e-changshun.com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-changshun.com
- .cn <mailto:yuyang.huang@benecke-changshun.com.cn> >\; dai\, Anna <ye.dai@
- benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n主
- 题: 回复: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello 海
- 峰：\n\n       现场调试的内容我这边没有其他补充了。\n\
- n@Wu\, Wei03 <mailto:wei.3.wu@benecke-changshun.com.cn>  后期WD项目报
- 废还是要拜托泰国延锋的SQE追踪下的每轮生产数据哇。\n
- \n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nInternal\n\n发件
- 人: Wang\, Haifeng03 <haifeng.3.wang@benecke-changshun.com.cn <mailto:hai
- feng.3.wang@benecke-changshun.com.cn> > \n发送时间: 2026年4月22日 1
- 0:05\n收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <
- mailto:xiaodong.3.li@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <
- Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changsh
- un.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu
- @benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.
- com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hon
- gxin.sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.co
- m.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jian
- g@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-cha
- ngshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, C
- henglong <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@b
- enecke-changshun.com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-changshu
- n.com.cn <mailto:yuyang.huang@benecke-changshun.com.cn> >\; dai\, Anna <ye
- .dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n
- 主题: 回复: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nDear a
- ll\,\n\n \n\n附近是这次验证整理的简要报告，请查收！\n\n
- 通过模具优化及参数调整，目前Alveo海绵材料是可以生产
- 的，并且客户也答应就目前0.8%左右的不良会持续优化工
- 艺，优化方向此次也已经和客户工艺达成了一致意见。\n
- \n大家看下有没有问题，如果没有问题，我将会把这份报
- 告发给客户Sunisa（客户要求）。\n\n \n\n谢谢！\n\n \n\nBest 
- regards\, \n\n \n\nBruce Wang / 王海峰\n\nApplication Engineer\n\nTC-CM
- 4 Coordinator\n\nTechnical Consulting\n\nContiTech Surface Solutions\n\n \
- n\n \n\nInternal\n\n发件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-chan
- gshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> > \n发送时
- 间: 2026年4月21日 15:55\n收件人: dai\, Anna <ye.dai@benecke-changsh
- un.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n抄送: Chen\, Hongm
- ei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-cha
- ngshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin
- .Zhu@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changs
- hun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin 
- <hongxin.sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshu
- n.com.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.
- jiang@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke
- -changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen
- \, Chenglong <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong.ch
- en@benecke-changshun.com.cn> >\; Wang\, Haifeng03 <haifeng.3.wang@benecke-
- changshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn> >\n主
- 题: 回复: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello Ann
- a：\n\n       根据今天泰国延锋现场试制结果，现有的ALVEO
- 还是会有若干的不良，具体等海峰的试制报告。现有的
- 库存及在途海绵正常排产，后续要求供应商ALVEO提供高密
- 度海绵67-74。\n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nI
- nternal\n\n发件人: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:
- ye.dai@benecke-changshun.com.cn> > \n发送时间: 2026年4月10日 13:29\
- n收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailt
- o:xiaodong.3.li@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongm
- ei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.co
- m.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@bene
- cke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.c
- n <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.
- sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn>
-  >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@ben
- ecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshu
- n.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, Chengl
- ong <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@beneck
- e-changshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR29114/19
- 00海绵\n\n \n\nHello 晓东\n\n \n\n好的，1000幅宽海绵还有几
- 个未交订单，我这边先跟供应商确认下能不能把订单改
- 成1900幅宽，有信息了再更新1000幅宽海绵预计消耗时间。
- \n\n \n\n另外，目前因为密度问题以及我们客户端验证，Al
- veo暂时没有生产，现在CTS跟单时间延后到了Week17周，而
- 我们现在手头确认的订单库存预计可以消耗到7月中，我
- 们需要在4月底或者5月初提到新订单，结合现有客户端的
- 试制结果，我们是否可以先让Alveo再安排生产一个1900的
- 订单?以避免后面又缺口风险。\n\n \n\n感谢确认！\n\n \n\n 
- \n\n \n\n注意：我司国四以及国四以下车辆禁止入内，请
- 知悉！\n\n6.	仓库收货时间：上午8：30--下午15：30 \n7.	进
- 入厂区请服从门卫安排，有序进入\n8.	请正确佩戴安全帽
- 以及反光背心\n9.	请勿随意走动\n10.	随货携带正确的送货
- 单& 质检单\n\n \n\nBest regards\, \n\nYe Dai(Anna) / 戴烨\n\nRaw Mat
- erial Planner-BCZ Plant/ 原材料计划员－张家港工厂 \n\nContiTec
- h Surface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke 
- Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内
- 饰材料（张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha
- \, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张
- 家港市金港镇南沙江海南路108号 215632\n\n \n\nMobile: +86 189 
- 511 37970\n\nE-mail: ye.dai@benecke-changshun.com.cn <mailto:ye.dai@beneck
- e-changshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www.
- continental-industry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n\n发件人: L
- i\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.
- li@benecke-changshun.com.cn> > \n发送时间: 2026年4月10日 13:09\n收
- 件人: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke
- -changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changsh
- un.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Li
- n.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >
- \; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@be
- necke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.c
- om.cn <mailto:hongxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.j
- iang@benecke-changshun.com.cn <mailto:xin.jiang@benecke-changshun.com.cn> 
- >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongx
- ie.ding@benecke-changshun.com.cn> >\; Chen\, Chenglong <chenglong.chen@ben
- ecke-changshun.com.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >\n
- 主题: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello Anna:\n\
- n       U2100173L0900待ALVEO XR29114/1000海绵消耗完后使用XR29114/
- 1900海绵(和U2100173L0900共用)。\n\n       初步计算若由YB1000
- 米幅宽切换为ALVEO 1900海绵，不考虑增加的切割工序，预
- 计可以saving 2.7 cny/㎡ （未考虑印刷工序减半的saving）\n\n
-  \n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nInternal\n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:U2100173L0900后续使用XR29114/1900海绵
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260429T083500
 DTEND;TZID=GMT 标准时间:20260429T090500
 CLASS:PUBLIC
@@ -363,234 +50,229 @@ SUMMARY:U2100173L0900后续使用XR29114/1900海绵
 DTSTART;TZID=GMT 标准时间:20260429T153000
 DTEND;TZID=GMT 标准时间:20260429T163000
 CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/37811314881852?p=x1Pkm5ofAlKhAd7VxL <https://teams.mi
- crosoft.com/meet/37811314881852?p=x1Pkm5ofAlKhAd7VxL>  \n\n会议 ID: 378 
- 113 148 818 52 \n\n密码: NK3YA9Dz \n\n________________________________\n
- \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
- 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDE4MWRi
- ZDItNjZlNC00Y2IzLTk2ODItY2ZiNjZmYWQ0MTUw%40thread.v2/0?context=%7b%22Tid%2
- 2%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-6
- 8a5-4cad-b1c7-2cc4749680eb%22%7d>  \n\n对于组织者: 会议选项 <http
- s://teams.microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c
- 7-2cc4749680eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_m
- eeting_NDE4MWRiZDItNjZlNC00Y2IzLTk2ODItY2ZiNjZmYWQ0MTUw@thread.v2&messageI
- d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_________________________
- _______________________________________________________\n\n \n\n \n\n_____
- ________________________________________\n发件人: Chen\, Angellee <xiao
- jiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun
- .com.cn> > \n发送时间: 2026年4月24日 13:32\n收件人: Li\, Xiaodon
- g03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-
- changshun.com.cn> >\n抄送: dai\, Anna <ye.dai@benecke-changshun.com.cn <
- mailto:ye.dai@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@b
- enecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\;
-  Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.
- ding@benecke-changshun.com.cn> >\n主题: 回复: U2100173L0900后续使
- 用XR29114/1900海绵\n\n \n\nHello Xiaodong\n\n \n\n供应商的理解是
- 高密度的海绵跟目前的产品不是同一个产品，需要增加
- 成本。如果按照目前的spec，他们不能保证密度做上限。\
- n\n \n\n昨天的成本核算有误，每平米的价格增加是0.8-1元
- ，供应商报价是per 100的，我核算成per 10了。综合看下来
- ，每个月的成本要增加1.6万-1.9万之间，按照每个月10000
- 米的预测量来计算的话。\n\n \n\n \n\nMit freundlichen Grüßen /
-  Best Regards\n\n \n\n陈晓娇/Angellee Chen\n\nRegional Category Manager
-  – Carrier Materials\n\nPurchasing\n\nSurface Solutions\n\n \n\nBesucher
- adresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangjiagang) C
- o.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有限公司\
- n\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632
-  Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙长阳路1号 2
- 15632\n\n \n\nMobil: +86 177 0624 2801\n\nE-Mail: xiaojiao.chen@benecke-ch
- angshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> \n\nWebsite
- : www.continental-industry.com <http://www.continental-industry.com/> \n\n
-  \n\nDear Suppliers\, please read the following documents and comply with 
- ContiTech requirements:\n\nSuppliers | Continental - Continental AG <https
- ://www.continental.com/en/company/suppliers/supplier-information/>  \n\n \
- n\n \n\nInternal\n\n发件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-chan
- gshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> > \n发送时
- 间: 2026年4月23日 17:09\n收件人: Chen\, Angellee <xiaojiao.chen@ben
- ecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\n
+DESCRIPTION: \n___________________________________________________________
+ _____________________\nMicrosoft Teams 会议 \n加入: https://teams.micr
+ osoft.com/meet/37811314881852?p=x1Pkm5ofAlKhAd7VxL <https://teams.microsof
+ t.com/meet/37811314881852?p=x1Pkm5ofAlKhAd7VxL>  \n会议 ID: 378 113 148 
+ 818 52 \n密码: NK3YA9Dz \n________________________________\n\n是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_NDE4MWRiZDItNjZlNC00
+ Y2IzLTk2ODItY2ZiNjZmYWQ0MTUw%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c
+ 7-2cc4749680eb%22%7d>  \n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb
+ &tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NDE4MWR
+ iZDItNjZlNC00Y2IzLTk2ODItY2ZiNjZmYWQ0MTUw@thread.v2&messageId=0&language=z
+ h-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1
+ 775-44b3-92cf-aaf920ff7119>  \n___________________________________________
+ _____________________________________\n \n \n_____________________________
+ ________________\n发件人: Chen\, Angellee <xiaojiao.chen@benecke-changs
+ hun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> > \n发送时
+ 间: 2026年4月24日 13:32\n收件人: Li\, Xiaodong03 <xiaodong.3.li@ben
+ ecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\n
  抄送: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke
  -changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.
  cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zho
  ngxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-changshu
  n.com.cn> >\n主题: 回复: U2100173L0900后续使用XR29114/1900海绵\n
- \n \n\n晓娇：\n\n       基于这次泰国试制结果来看，高密
- 度的海绵能改善现场应用的报废，现有的ALVEO与YB对比还
- 是有差异的，并不能百分百的解决。和泰国客户沟通后
- 我们这边的方案是改善海绵，客户也会持续优化他们的
- 模具来匹配新的ALVEO海绵。\n\n       还有这个海绵的密度S
- PEC是60.0 - 74.0 kg/m³ ，只是要求他按照中上限生产67-74 kg/m
- ³，我们没有改变海绵SPEC，为啥会涨价呢？\n\n       \n\nTh
- anks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nInternal\n\n发件人: Chen\,
-  Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@be
- necke-changshun.com.cn> > \n发送时间: 2026年4月23日 17:01\n收件
- 人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaod
- ong.3.li@benecke-changshun.com.cn> >\n抄送: dai\, Anna <ye.dai@benecke-c
- hangshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\; Chen\, Hongme
- i <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-chan
- gshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn 
- <mailto:zhongxie.ding@benecke-changshun.com.cn> >\n主题: 回复: U210017
- 3L0900后续使用XR29114/1900海绵\n\n \n\nHello Xiaodong\,\n\n \n\n确
- 认是低密度的问题导致的吗？改成高密度的话，确保能10
- 0%解决问题吗？\n\n \n\n现在因为要改密度，海绵要涨8-10
- 块钱一米，涨幅太大，已经把改幅宽的saving吃完了还要
- 倒贴呢！\n\n \n\n \n\nMit freundlichen Grüßen / Best Regards\n\n \n\
- n陈晓娇/Angellee Chen\n\nRegional Category Manager – Carrier Material
- s\n\nPurchasing\n\nSurface Solutions\n\n \n\nBesucheradresse / Visitor add
- ress:\n\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内
- 克长顺汽车内饰材料（张家港）有限公司\n\nNo.1\,Jianghai S
- outh Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.Chin
- a \n江苏省张家港市金港镇南沙长阳路1号 215632\n\n \n\nMobil
- : +86 177 0624 2801\n\nE-Mail: xiaojiao.chen@benecke-changshun.com.cn <mai
- lto:xiaojiao.chen@benecke-changshun.com.cn> \n\nWebsite: www.continental-i
- ndustry.com <http://www.continental-industry.com/> \n\n \n\nDear Suppliers
- \, please read the following documents and comply with ContiTech requireme
- nts:\n\nSuppliers | Continental - Continental AG <https://www.continental.
- com/en/company/suppliers/supplier-information/>  \n\n \n\n \n\nInternal\n\
- n发件人: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@ben
- ecke-changshun.com.cn> > \n发送时间: 2026年4月23日 16:58\n收件人
- : Chen\, Angellee <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao
- .chen@benecke-changshun.com.cn> >\n主题: 转发: U2100173L0900后续使
- 用XR29114/1900海绵\n\n \n\nFYI\n\n \n\n \n\n \n\n注意：我司国四
- 以及国四以下车辆禁止入内，请知悉！\n\n1.	仓库收货时
- 间：上午8：30--下午15：30 \n2.	进入厂区请服从门卫安排
- ，有序进入\n3.	请正确佩戴安全帽以及反光背心\n4.	请勿
- 随意走动\n5.	随货携带正确的送货单& 质检单\n\n \n\nBest re
- gards\, \n\nYe Dai(Anna) / 戴烨\n\nRaw Material Planner-BCZ Plant/ 原
- 材料计划员－张家港工厂 \n\nContiTech Surface Solutions\n\n \n\n
- Besucheradresse / Visitor address:\n\nBenecke Changshun Auto Trim (Zhangji
- agang) Co.\, Ltd.\n\n贝内克长顺汽车内饰材料（张家港）有
- 限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangjiag
- ang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙江
- 海南路108号 215632\n\n \n\nMobile: +86 189 511 37970\n\nE-mail: ye.dai
- @benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> \n\nWeb
- site: www.continental-industry.com <http://www.continental-industry.com/> 
- \n\n \n\n\n\n \n\n \n\nInternal\n\n发件人: Li\, Xiaodong03 <xiaodong.3.
- li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn
- > > \n发送时间: 2026年4月23日 12:36\n收件人: Wang\, Haifeng03 <h
- aifeng.3.wang@benecke-changshun.com.cn <mailto:haifeng.3.wang@benecke-chan
- gshun.com.cn> >\; Wu\, Wei03 <wei.3.wu@benecke-changshun.com.cn <mailto:we
- i.3.wu@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@b
- enecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\;
-  Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-chang
- shun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto
- :xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benec
- ke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> >\; Jian
- g\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@benecke-chan
- gshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn 
- <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, Chenglong <chen
- glong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@benecke-changsh
- un.com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-changshun.com.cn <mail
- to:yuyang.huang@benecke-changshun.com.cn> >\; dai\, Anna <ye.dai@benecke-c
- hangshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n主题: 回复
- : U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello 海峰：\n\n 
-       现场调试的内容我这边没有其他补充了。\n\n@Wu\, Wei0
- 3 <mailto:wei.3.wu@benecke-changshun.com.cn>  后期WD项目报废还是
- 要拜托泰国延锋的SQE追踪下的每轮生产数据哇。\n\n \n\nTh
- anks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nInternal\n\n发件人: Wang\,
-  Haifeng03 <haifeng.3.wang@benecke-changshun.com.cn <mailto:haifeng.3.wang
- @benecke-changshun.com.cn> > \n发送时间: 2026年4月22日 10:05\n收
- 件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xi
- aodong.3.li@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.C
- hen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn
- > >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-
- changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <m
- ailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@
- benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> >\;
-  Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@benecke
- -changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.co
- m.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, Chenglong 
- <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@benecke-ch
- angshun.com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-changshun.com.cn 
- <mailto:yuyang.huang@benecke-changshun.com.cn> >\; dai\, Anna <ye.dai@bene
- cke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n主题: 
- 回复: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nDear all\,\n\n
-  \n\n附近是这次验证整理的简要报告，请查收！\n\n通过
- 模具优化及参数调整，目前Alveo海绵材料是可以生产的，
- 并且客户也答应就目前0.8%左右的不良会持续优化工艺，
- 优化方向此次也已经和客户工艺达成了一致意见。\n\n大
- 家看下有没有问题，如果没有问题，我将会把这份报告
- 发给客户Sunisa（客户要求）。\n\n \n\n谢谢！\n\n \n\nBest reg
- ards\, \n\n \n\nBruce Wang / 王海峰\n\nApplication Engineer\n\nTC-CM4 C
- oordinator\n\nTechnical Consulting\n\nContiTech Surface Solutions\n\n \n\n
-  \n\nInternal\n\n发件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changsh
- un.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> > \n发送时间
- : 2026年4月21日 15:55\n收件人: dai\, Anna <ye.dai@benecke-changshun.
- com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei 
- <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changs
- hun.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zh
- u@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun
- .com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <ho
- ngxin.sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.c
- om.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jia
- ng@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-ch
- angshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, 
- Chenglong <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@
- benecke-changshun.com.cn> >\; Wang\, Haifeng03 <haifeng.3.wang@benecke-cha
- ngshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn> >\n主题: 
- 回复: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello Anna：\
- n\n       根据今天泰国延锋现场试制结果，现有的ALVEO还
+  \nHello Xiaodong\n \n供应商的理解是高密度的海绵跟目前的
+ 产品不是同一个产品，需要增加成本。如果按照目前的sp
+ ec，他们不能保证密度做上限。\n \n昨天的成本核算有误
+ ，每平米的价格增加是0.8-1元，供应商报价是per 100的，
+ 我核算成per 10了。综合看下来，每个月的成本要增加1.6
+ 万-1.9万之间，按照每个月10000米的预测量来计算的话。\n
+  \n \nMit freundlichen Grüßen / Best Regards\n \n陈晓娇/Angellee Chen
+ \nRegional Category Manager – Carrier Materials\nPurchasing\nSurface Sol
+ utions\n \nBesucheradresse / Visitor address:\nBenecke Changshun Auto Trim
+  (Zhangjiagang) Co.\, Ltd.\n贝内克长顺汽车内饰材料（张家港
+ ）有限公司\nNo.1\,Jianghai South Rd.\,Nansha\, Jingang Town\, Zhangji
+ agang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市金港镇南沙
+ 长阳路1号 215632\n \nMobil: +86 177 0624 2801\nE-Mail: xiaojiao.chen@b
+ enecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> \n
+ Website: www.continental-industry.com <http://www.continental-industry.com
+ /> \n \nDear Suppliers\, please read the following documents and comply wi
+ th ContiTech requirements:\nSuppliers | Continental - Continental AG <http
+ s://www.continental.com/en/company/suppliers/supplier-information/>  \n \n
+  \nInternal\n发件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.c
+ om.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> > \n发送时间: 20
+ 26年4月23日 17:09\n收件人: Chen\, Angellee <xiaojiao.chen@benecke-ch
+ angshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> >\n抄送: 
+ dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changsh
+ un.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mail
+ to:Hongmei.Chen@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.di
+ ng@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn
+ > >\n主题: 回复: U2100173L0900后续使用XR29114/1900海绵\n \n晓
+ 娇：\n       基于这次泰国试制结果来看，高密度的海绵
+ 能改善现场应用的报废，现有的ALVEO与YB对比还是有差异
+ 的，并不能百分百的解决。和泰国客户沟通后我们这边
+ 的方案是改善海绵，客户也会持续优化他们的模具来匹
+ 配新的ALVEO海绵。\n       还有这个海绵的密度SPEC是60.0 - 7
+ 4.0 kg/m³ ，只是要求他按照中上限生产67-74 kg/m³，我们没
+ 有改变海绵SPEC，为啥会涨价呢？\n       \nThanks\n \nNeil Li /
+ 李晓东\n \n \nInternal\n发件人: Chen\, Angellee <xiaojiao.chen@benec
+ ke-changshun.com.cn <mailto:xiaojiao.chen@benecke-changshun.com.cn> > \n
+ 发送时间: 2026年4月23日 17:01\n收件人: Li\, Xiaodong03 <xiaodong
+ .3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com
+ .cn> >\n抄送: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai
+ @benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changs
+ hun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Ding\, Zhong
+ xie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@benecke-
+ changshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR29114/1900
+ 海绵\n \nHello Xiaodong\,\n \n确认是低密度的问题导致的吗？
+ 改成高密度的话，确保能100%解决问题吗？\n \n现在因为
+ 要改密度，海绵要涨8-10块钱一米，涨幅太大，已经把改
+ 幅宽的saving吃完了还要倒贴呢！\n \n \nMit freundlichen Grüße
+ n / Best Regards\n \n陈晓娇/Angellee Chen\nRegional Category Manager 
+ – Carrier Materials\nPurchasing\nSurface Solutions\n \nBesucheradresse /
+  Visitor address:\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n
+ 贝内克长顺汽车内饰材料（张家港）有限公司\nNo.1\,Jiangh
+ ai South Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.
+ China \n江苏省张家港市金港镇南沙长阳路1号 215632\n \nMobil
+ : +86 177 0624 2801\nE-Mail: xiaojiao.chen@benecke-changshun.com.cn <mailt
+ o:xiaojiao.chen@benecke-changshun.com.cn> \nWebsite: www.continental-indus
+ try.com <http://www.continental-industry.com/> \n \nDear Suppliers\, pleas
+ e read the following documents and comply with ContiTech requirements:\nSu
+ ppliers | Continental - Continental AG <https://www.continental.com/en/com
+ pany/suppliers/supplier-information/>  \n \n \nInternal\n发件人: dai\, 
+ Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com
+ .cn> > \n发送时间: 2026年4月23日 16:58\n收件人: Chen\, Angellee 
+ <xiaojiao.chen@benecke-changshun.com.cn <mailto:xiaojiao.chen@benecke-chan
+ gshun.com.cn> >\n主题: 转发: U2100173L0900后续使用XR29114/1900海
+ 绵\n \nFYI\n \n \n \n注意：我司国四以及国四以下车辆禁止
+ 入内，请知悉！\n1.	仓库收货时间：上午8：30--下午15：30
+  \n2.	进入厂区请服从门卫安排，有序进入\n3.	请正确佩戴
+ 安全帽以及反光背心\n4.	请勿随意走动\n5.	随货携带正确
+ 的送货单& 质检单\n \nBest regards\, \nYe Dai(Anna) / 戴烨\nRaw Ma
+ terial Planner-BCZ Plant/ 原材料计划员－张家港工厂 \nContiTech
+  Surface Solutions\n \nBesucheradresse / Visitor address:\nBenecke Changsh
+ un Auto Trim (Zhangjiagang) Co.\, Ltd.\n贝内克长顺汽车内饰材料
+ （张家港）有限公司\nNo.108\,Jianghai South Rd.\,Nansha\, Jingang 
+ Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家港市
+ 金港镇南沙江海南路108号 215632\n \nMobile: +86 189 511 37970\nE-
+ mail: ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changshun.com
+ .cn> \nWebsite: www.continental-industry.com <http://www.continental-indus
+ try.com/> \n \n\n \n \nInternal\n发件人: Li\, Xiaodong03 <xiaodong.3.li
+ @benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> 
+ > \n发送时间: 2026年4月23日 12:36\n收件人: Wang\, Haifeng03 <hai
+ feng.3.wang@benecke-changshun.com.cn <mailto:haifeng.3.wang@benecke-changs
+ hun.com.cn> >\; Wu\, Wei03 <wei.3.wu@benecke-changshun.com.cn <mailto:wei.
+ 3.wu@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@ben
+ ecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Z
+ hu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changsh
+ un.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:x
+ uewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke
+ -changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> >\; Jiang\
+ , Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@benecke-changs
+ hun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <m
+ ailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, Chenglong <chengl
+ ong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@benecke-changshun
+ .com.cn> >\; Huang\, Yuyang <yuyang.huang@benecke-changshun.com.cn <mailto
+ :yuyang.huang@benecke-changshun.com.cn> >\; dai\, Anna <ye.dai@benecke-cha
+ ngshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n主题: 回复: 
+ U2100173L0900后续使用XR29114/1900海绵\n \nHello 海峰：\n       
+ 现场调试的内容我这边没有其他补充了。\n@Wu\, Wei03 <mailt
+ o:wei.3.wu@benecke-changshun.com.cn>  后期WD项目报废还是要拜托
+ 泰国延锋的SQE追踪下的每轮生产数据哇。\n \nThanks\n \nNeil
+  Li /李晓东\n \n \nInternal\n发件人: Wang\, Haifeng03 <haifeng.3.wan
+ g@benecke-changshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn
+ > > \n发送时间: 2026年4月22日 10:05\n收件人: Li\, Xiaodong03 <xi
+ aodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@benecke-changsh
+ un.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.c
+ n <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@be
+ necke-changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Hou\,
+  Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-ch
+ angshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn <m
+ ailto:hongxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.jiang@ben
+ ecke-changshun.com.cn <mailto:xin.jiang@benecke-changshun.com.cn> >\; Ding
+ \, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding@
+ benecke-changshun.com.cn> >\; Chen\, Chenglong <chenglong.chen@benecke-cha
+ ngshun.com.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >\; Huang\,
+  Yuyang <yuyang.huang@benecke-changshun.com.cn <mailto:yuyang.huang@beneck
+ e-changshun.com.cn> >\; dai\, Anna <ye.dai@benecke-changshun.com.cn <mailt
+ o:ye.dai@benecke-changshun.com.cn> >\n主题: 回复: U2100173L0900后续
+ 使用XR29114/1900海绵\n \nDear all\,\n \n附近是这次验证整理的
+ 简要报告，请查收！\n通过模具优化及参数调整，目前Alv
+ eo海绵材料是可以生产的，并且客户也答应就目前0.8%左
+ 右的不良会持续优化工艺，优化方向此次也已经和客户
+ 工艺达成了一致意见。\n大家看下有没有问题，如果没有
+ 问题，我将会把这份报告发给客户Sunisa（客户要求）。\n
+  \n谢谢！\n \nBest regards\, \n \nBruce Wang / 王海峰\nApplication E
+ ngineer\nTC-CM4 Coordinator\nTechnical Consulting\nContiTech Surface Solut
+ ions\n \n \nInternal\n发件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-ch
+ angshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> > \n发送
+ 时间: 2026年4月21日 15:55\n收件人: dai\, Anna <ye.dai@benecke-chan
+ gshun.com.cn <mailto:ye.dai@benecke-changshun.com.cn> >\n抄送: Chen\, Ho
+ ngmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-
+ changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:
+ Lin.Zhu@benecke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-cha
+ ngshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongx
+ in <hongxin.sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-chang
+ shun.com.cn> >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:x
+ in.jiang@benecke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@bene
+ cke-changshun.com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; C
+ hen\, Chenglong <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong
+ .chen@benecke-changshun.com.cn> >\; Wang\, Haifeng03 <haifeng.3.wang@benec
+ ke-changshun.com.cn <mailto:haifeng.3.wang@benecke-changshun.com.cn> >\n
+ 主题: 回复: U2100173L0900后续使用XR29114/1900海绵\n \nHello Anna
+ ：\n       根据今天泰国延锋现场试制结果，现有的ALVEO还
  是会有若干的不良，具体等海峰的试制报告。现有的库
  存及在途海绵正常排产，后续要求供应商ALVEO提供高密度
- 海绵67-74。\n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nInte
- rnal\n\n发件人: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.
- dai@benecke-changshun.com.cn> > \n发送时间: 2026年4月10日 13:29\n
- 收件人: Li\, Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto
- :xiaodong.3.li@benecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongme
- i.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com
- .cn> >\; Zhu\, Lin <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benec
- ke-changshun.com.cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn
-  <mailto:xuewen.hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.s
- un@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> 
- >\; Jiang\, Xin <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@bene
- cke-changshun.com.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun
- .com.cn <mailto:zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, Chenglo
- ng <chenglong.chen@benecke-changshun.com.cn <mailto:chenglong.chen@benecke
- -changshun.com.cn> >\n主题: 回复: U2100173L0900后续使用XR29114/190
- 0海绵\n\n \n\nHello 晓东\n\n \n\n好的，1000幅宽海绵还有几个
- 未交订单，我这边先跟供应商确认下能不能把订单改成19
- 00幅宽，有信息了再更新1000幅宽海绵预计消耗时间。\n\n 
- \n\n另外，目前因为密度问题以及我们客户端验证，Alveo
- 暂时没有生产，现在CTS跟单时间延后到了Week17周，而我
- 们现在手头确认的订单库存预计可以消耗到7月中，我们
- 需要在4月底或者5月初提到新订单，结合现有客户端的试
- 制结果，我们是否可以先让Alveo再安排生产一个1900的订
- 单?以避免后面又缺口风险。\n\n \n\n感谢确认！\n\n \n\n \n\
- n \n\n注意：我司国四以及国四以下车辆禁止入内，请知
- 悉！\n\n6.	仓库收货时间：上午8：30--下午15：30 \n7.	进入
- 厂区请服从门卫安排，有序进入\n8.	请正确佩戴安全帽以
- 及反光背心\n9.	请勿随意走动\n10.	随货携带正确的送货单
- & 质检单\n\n \n\nBest regards\, \n\nYe Dai(Anna) / 戴烨\n\nRaw Materi
- al Planner-BCZ Plant/ 原材料计划员－张家港工厂 \n\nContiTech S
- urface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBenecke Cha
- ngshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车内饰
- 材料（张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nansha\, 
- Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \n江苏省张家
- 港市金港镇南沙江海南路108号 215632\n\n \n\nMobile: +86 189 511
-  37970\n\nE-mail: ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-c
- hangshun.com.cn> \n\nWebsite: www.continental-industry.com <http://www.con
- tinental-industry.com/> \n\n \n\n\n\n \n\n \n\nInternal\n\n发件人: Li\,
-  Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@
- benecke-changshun.com.cn> > \n发送时间: 2026年4月10日 13:09\n收件
+ 海绵67-74。\n \nThanks\n \nNeil Li /李晓东\n \n \nInternal\n发件
  人: dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-ch
- angshun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.
- com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Lin.Z
- hu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; 
- Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benec
- ke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.com.
- cn <mailto:hongxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.jian
- g@benecke-changshun.com.cn <mailto:xin.jiang@benecke-changshun.com.cn> >\;
-  Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.
- ding@benecke-changshun.com.cn> >\; Chen\, Chenglong <chenglong.chen@beneck
- e-changshun.com.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >\n主
- 题: U2100173L0900后续使用XR29114/1900海绵\n\n \n\nHello Anna:\n\n  
-      U2100173L0900待ALVEO XR29114/1000海绵消耗完后使用XR29114/190
- 0海绵(和U2100173L0900共用)。\n\n       初步计算若由YB1000米
- 幅宽切换为ALVEO 1900海绵，不考虑增加的切割工序，预计
- 可以saving 2.7 cny/㎡ （未考虑印刷工序减半的saving）\n\n \n
- \n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n \n\nInternal\n
+ angshun.com.cn> > \n发送时间: 2026年4月10日 13:29\n收件人: Li\, 
+ Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@b
+ enecke-changshun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-c
+ hangshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, L
+ in <Lin.Zhu@benecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com
+ .cn> >\; Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.
+ hou@benecke-changshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-chang
+ shun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin 
+ <xin.jiang@benecke-changshun.com.cn <mailto:xin.jiang@benecke-changshun.co
+ m.cn> >\; Ding\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:
+ zhongxie.ding@benecke-changshun.com.cn> >\; Chen\, Chenglong <chenglong.ch
+ en@benecke-changshun.com.cn <mailto:chenglong.chen@benecke-changshun.com.c
+ n> >\n主题: 回复: U2100173L0900后续使用XR29114/1900海绵\n \nHell
+ o 晓东\n \n好的，1000幅宽海绵还有几个未交订单，我这边
+ 先跟供应商确认下能不能把订单改成1900幅宽，有信息了
+ 再更新1000幅宽海绵预计消耗时间。\n \n另外，目前因为
+ 密度问题以及我们客户端验证，Alveo暂时没有生产，现在
+ CTS跟单时间延后到了Week17周，而我们现在手头确认的订
+ 单库存预计可以消耗到7月中，我们需要在4月底或者5月
+ 初提到新订单，结合现有客户端的试制结果，我们是否
+ 可以先让Alveo再安排生产一个1900的订单?以避免后面又缺
+ 口风险。\n \n感谢确认！\n \n \n \n注意：我司国四以及国
+ 四以下车辆禁止入内，请知悉！\n6.	仓库收货时间：上午
+ 8：30--下午15：30 \n7.	进入厂区请服从门卫安排，有序进
+ 入\n8.	请正确佩戴安全帽以及反光背心\n9.	请勿随意走动\
+ n10.	随货携带正确的送货单& 质检单\n \nBest regards\, \nYe Dai
+ (Anna) / 戴烨\nRaw Material Planner-BCZ Plant/ 原材料计划员－张
+ 家港工厂 \nContiTech Surface Solutions\n \nBesucheradresse / Visitor a
+ ddress:\nBenecke Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n贝内克
+ 长顺汽车内饰材料（张家港）有限公司\nNo.108\,Jianghai Sout
+ h Rd.\,Nansha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China \
+ n江苏省张家港市金港镇南沙江海南路108号 215632\n \nMobile:
+  +86 189 511 37970\nE-mail: ye.dai@benecke-changshun.com.cn <mailto:ye.dai
+ @benecke-changshun.com.cn> \nWebsite: www.continental-industry.com <http:/
+ /www.continental-industry.com/> \n \n\n \n \nInternal\n发件人: Li\, Xia
+ odong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@bene
+ cke-changshun.com.cn> > \n发送时间: 2026年4月10日 13:09\n收件人:
+  dai\, Anna <ye.dai@benecke-changshun.com.cn <mailto:ye.dai@benecke-changs
+ hun.com.cn> >\n抄送: Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.
+ cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Zhu\, Lin <Lin.Zhu@b
+ enecke-changshun.com.cn <mailto:Lin.Zhu@benecke-changshun.com.cn> >\; Hou\
+ , Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-c
+ hangshun.com.cn> >\; Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn <
+ mailto:hongxin.sun@benecke-changshun.com.cn> >\; Jiang\, Xin <xin.jiang@be
+ necke-changshun.com.cn <mailto:xin.jiang@benecke-changshun.com.cn> >\; Din
+ g\, Zhongxie <zhongxie.ding@benecke-changshun.com.cn <mailto:zhongxie.ding
+ @benecke-changshun.com.cn> >\; Chen\, Chenglong <chenglong.chen@benecke-ch
+ angshun.com.cn <mailto:chenglong.chen@benecke-changshun.com.cn> >\n主题:
+  U2100173L0900后续使用XR29114/1900海绵\n \nHello Anna:\n       U2100
+ 173L0900待ALVEO XR29114/1000海绵消耗完后使用XR29114/1900海绵(
+ 和U2100173L0900共用)。\n       初步计算若由YB1000米幅宽切换
+ 为ALVEO 1900海绵，不考虑增加的切割工序，预计可以saving 
+ 2.7 cny/㎡ （未考虑印刷工序减半的saving）\n \n \nThanks\n \nN
+ eil Li /李晓东\n \n \nInternal
 LOCATION:teams
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1870,6 +1552,48 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260528T083500
+DTEND;TZID=GMT 标准时间:20260528T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 2
+DTSTART;TZID=GMT 标准时间:20260528T220000
+DTEND;TZID=GMT 标准时间:20260528T230000
+CLASS:PUBLIC
+DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
+ ki soon.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 2
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
