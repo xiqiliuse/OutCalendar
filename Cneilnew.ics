@@ -4,164 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:青年节
-DTSTART;TZID=GMT 标准时间:20260504T000000
-DTEND;TZID=GMT 标准时间:20260505T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:青年节
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:青年节
-DTSTART;TZID=GMT 标准时间:20260504T000000
-DTEND;TZID=GMT 标准时间:20260505T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:青年节
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260504T083500
-DTEND;TZID=GMT 标准时间:20260504T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:立夏
-DTSTART;TZID=GMT 标准时间:20260505T000000
-DTEND;TZID=GMT 标准时间:20260506T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:立夏
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:立夏
-DTSTART;TZID=GMT 标准时间:20260505T000000
-DTEND;TZID=GMT 标准时间:20260506T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:立夏
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260505T083500
-DTEND;TZID=GMT 标准时间:20260505T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:油漆&色母粒周会
-DTSTART;TZID=GMT 标准时间:20260505T101500
-DTEND;TZID=GMT 标准时间:20260505T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:油漆&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:定期review设备改善项目
-DTSTART;TZID=GMT 标准时间:20260505T140000
-DTEND;TZID=GMT 标准时间:20260505T150000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n我们需要定期review 相关的设备
- 改善进度。\n\n@Chen chenglong <mailto:chenglong.chen@benecke-changshu
- n.com.cn> ，如果我无法参加会议的话，请帮忙定期回顾，
- 谢谢！\n\n@Yao\, Tomi <mailto:mengyue.yao@benecke-changshun.com.cn> \,M
- E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n_____
- __________________________________________________________________________
- _\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/3
- 5564427492136?p=NlAZUwk1UitrGdKIBm <https://teams.microsoft.com/meet/35564
- 427492136?p=NlAZUwk1UitrGdKIBm>  \n\n会议 ID: 355 644 274 921 36 \n\n密
- 码: kN7dy6wx \n\n________________________________\n\n是否需要帮助? 
- <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://team
- s.microsoft.com/l/meetup-join/19%3ameeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDI
- tMzdjODU1ZDEzZDNk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
- ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade16
- 64a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com
- /meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId
- =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWExMjE0N2ItMjQ4
- OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@thread.v2&messageId=0&language=zh-CN>  \n
- \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b
- 3-92cf-aaf920ff7119>  \n\n________________________________________________
- ________________________________\n\n \n
-LOCATION:维修会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:定期review设备改善项目
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260506T083500
 DTEND;TZID=GMT 标准时间:20260506T090500
@@ -223,6 +65,49 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration Unterstützung - DE
+DTSTART;TZID=GMT 标准时间:20260506T173000
+DTEND;TZID=GMT 标准时间:20260506T180000
+CLASS:PUBLIC
+DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
+ öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
+ regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
+ zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
+ n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
+ live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
+ r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
+ n der IT‑Migration betroffen sind oder sich dafür interessieren – una
+ bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
+ r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
+ ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
+ \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
+ n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
+ igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
+ arsten und Günter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM8sjWVsy5 
+ \nBesprechungs-ID: 334 563 246 451 205 \nPasscode: Qp7SA6fv \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777884024237?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777884024237&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Unterstützung - DE
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260507T083500
 DTEND;TZID=GMT 标准时间:20260507T090500
@@ -246,6 +131,47 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260507T213000
+DTEND;TZID=GMT 标准时间:20260507T220000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ 🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
+ ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
+ ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
+ d experiences.\n\n \n\nOur goal is to learn together and support each othe
+ r throughout the migration.\n\nWe’re looking forward to your participati
+ on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
+ ________________________________________\nMicrosoft Teams-Besprechung \nTe
+ ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
+ SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
+ __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
+ amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
+ etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
+ 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
+ Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
+ ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
+ anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
+ aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
+ 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
+ ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
+   \n______________________________________________________________________
+ __________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -439,6 +365,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260512T143000
+DTEND;TZID=GMT 标准时间:20260512T150000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
+ osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
+ Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
+ n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
+ riences.\n\n \n\nOur goal is to learn together and support each other thro
+ ughout the migration.\n\nWe’re looking forward to your participation!\n\
+ nCarsten & Guenter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
+ \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260513T083500
 DTEND;TZID=GMT 标准时间:20260513T090500
@@ -462,6 +429,49 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Unterstützung - DE
+DTSTART;TZID=GMT 标准时间:20260513T173000
+DTEND;TZID=GMT 标准时间:20260513T180000
+CLASS:PUBLIC
+DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
+ öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
+ regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
+ zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
+ n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
+ live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
+ r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
+ n der IT‑Migration betroffen sind oder sich dafür interessieren – una
+ bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
+ r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
+ ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
+ \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
+ n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
+ igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
+ arsten und Günter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM8sjWVsy5 
+ \nBesprechungs-ID: 334 563 246 451 205 \nPasscode: Qp7SA6fv \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777884024237?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777884024237&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Unterstützung - DE
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -569,6 +579,47 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260514T213000
+DTEND;TZID=GMT 标准时间:20260514T220000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ 🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
+ ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
+ ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
+ d experiences.\n\n \n\nOur goal is to learn together and support each othe
+ r throughout the migration.\n\nWe’re looking forward to your participati
+ on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
+ ________________________________________\nMicrosoft Teams-Besprechung \nTe
+ ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
+ SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
+ __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
+ amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
+ etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
+ 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
+ Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
+ ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
+ anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
+ aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
+ 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
+ ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
+   \n______________________________________________________________________
+ __________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -729,6 +780,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260519T143000
+DTEND;TZID=GMT 标准时间:20260519T150000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
+ osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
+ Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
+ n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
+ riences.\n\n \n\nOur goal is to learn together and support each other thro
+ ughout the migration.\n\nWe’re looking forward to your participation!\n\
+ nCarsten & Guenter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
+ \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260520T083500
 DTEND;TZID=GMT 标准时间:20260520T090500
@@ -788,6 +880,49 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Townhall Meeting _ BCC&BCZ 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Unterstützung - DE
+DTSTART;TZID=GMT 标准时间:20260520T173000
+DTEND;TZID=GMT 标准时间:20260520T180000
+CLASS:PUBLIC
+DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
+ öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
+ regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
+ zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
+ n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
+ live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
+ r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
+ n der IT‑Migration betroffen sind oder sich dafür interessieren – una
+ bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
+ r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
+ ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
+ \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
+ n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
+ igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
+ arsten und Günter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM8sjWVsy5 
+ \nBesprechungs-ID: 334 563 246 451 205 \nPasscode: Qp7SA6fv \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777884024237?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777884024237&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Unterstützung - DE
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -900,6 +1035,47 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:提醒查看CDP打卡
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260521T213000
+DTEND;TZID=GMT 标准时间:20260521T220000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ 🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
+ ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
+ ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
+ d experiences.\n\n \n\nOur goal is to learn together and support each othe
+ r throughout the migration.\n\nWe’re looking forward to your participati
+ on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
+ ________________________________________\nMicrosoft Teams-Besprechung \nTe
+ ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
+ SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
+ __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
+ amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
+ etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
+ 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
+ Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
+ ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
+ anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
+ aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
+ 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
+ ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
+   \n______________________________________________________________________
+ __________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1093,6 +1269,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260526T143000
+DTEND;TZID=GMT 标准时间:20260526T150000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
+ osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
+ Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
+ n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
+ riences.\n\n \n\nOur goal is to learn together and support each other thro
+ ughout the migration.\n\nWe’re looking forward to your participation!\n\
+ nCarsten & Guenter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
+ \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260527T083500
 DTEND;TZID=GMT 标准时间:20260527T090500
@@ -1189,6 +1406,49 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration Unterstützung - DE
+DTSTART;TZID=GMT 标准时间:20260527T173000
+DTEND;TZID=GMT 标准时间:20260527T180000
+CLASS:PUBLIC
+DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
+ öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
+ regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
+ zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
+ n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
+ live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
+ r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
+ n der IT‑Migration betroffen sind oder sich dafür interessieren – una
+ bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
+ r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
+ ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
+ \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
+ n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
+ igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
+ arsten und Günter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM8sjWVsy5 
+ \nBesprechungs-ID: 334 563 246 451 205 \nPasscode: Qp7SA6fv \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777884024237?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777884024237&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Unterstützung - DE
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260528T083500
 DTEND;TZID=GMT 标准时间:20260528T090500
@@ -1212,6 +1472,47 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260528T213000
+DTEND;TZID=GMT 标准时间:20260528T220000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ 🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
+ ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
+ ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
+ d experiences.\n\n \n\nOur goal is to learn together and support each othe
+ r throughout the migration.\n\nWe’re looking forward to your participati
+ on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
+ ________________________________________\nMicrosoft Teams-Besprechung \nTe
+ ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
+ SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
+ __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
+ amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
+ etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
+ 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
+ Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
+ ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
+ anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
+ aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
+ 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
+ ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
+   \n______________________________________________________________________
+ __________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1281,6 +1582,315 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:儿童节
+DTSTART;TZID=GMT 标准时间:20260601T000000
+DTEND;TZID=GMT 标准时间:20260602T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:儿童节
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:儿童节
+DTSTART;TZID=GMT 标准时间:20260601T000000
+DTEND;TZID=GMT 标准时间:20260602T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:儿童节
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260601T083500
+DTEND;TZID=GMT 标准时间:20260601T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260602T083500
+DTEND;TZID=GMT 标准时间:20260602T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:油漆&色母粒周会
+DTSTART;TZID=GMT 标准时间:20260602T101500
+DTEND;TZID=GMT 标准时间:20260602T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:定期review设备改善项目
+DTSTART;TZID=GMT 标准时间:20260602T140000
+DTEND;TZID=GMT 标准时间:20260602T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们需要定期review 相关的设备
+ 改善进度。\n\n@Chen chenglong <mailto:chenglong.chen@benecke-changshu
+ n.com.cn> ，如果我无法参加会议的话，请帮忙定期回顾，
+ 谢谢！\n\n@Yao\, Tomi <mailto:mengyue.yao@benecke-changshun.com.cn> \,M
+ E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n_____
+ __________________________________________________________________________
+ _\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/3
+ 5564427492136?p=NlAZUwk1UitrGdKIBm <https://teams.microsoft.com/meet/35564
+ 427492136?p=NlAZUwk1UitrGdKIBm>  \n\n会议 ID: 355 644 274 921 36 \n\n密
+ 码: kN7dy6wx \n\n________________________________\n\n是否需要帮助? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDI
+ tMzdjODU1ZDEzZDNk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade16
+ 64a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com
+ /meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWExMjE0N2ItMjQ4
+ OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@thread.v2&messageId=0&language=zh-CN>  \n
+ \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b
+ 3-92cf-aaf920ff7119>  \n\n________________________________________________
+ ________________________________\n\n \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:定期review设备改善项目
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260602T143000
+DTEND;TZID=GMT 标准时间:20260602T150000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
+ osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
+ Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
+ n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
+ riences.\n\n \n\nOur goal is to learn together and support each other thro
+ ughout the migration.\n\nWe’re looking forward to your participation!\n\
+ nCarsten & Guenter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
+ \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260603T083500
+DTEND;TZID=GMT 标准时间:20260603T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Unterstützung - DE
+DTSTART;TZID=GMT 标准时间:20260603T173000
+DTEND;TZID=GMT 标准时间:20260603T180000
+CLASS:PUBLIC
+DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
+ öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
+ regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
+ zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
+ n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
+ live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
+ r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
+ n der IT‑Migration betroffen sind oder sich dafür interessieren – una
+ bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
+ r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
+ ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
+ \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
+ n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
+ igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
+ arsten und Günter\n\n\n\n\n______________________________________________
+ __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
+ en: https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM8sjWVsy5 
+ \nBesprechungs-ID: 334 563 246 451 205 \nPasscode: Qp7SA6fv \n____________
+ ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
+ ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
+ oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777884024237?con
+ text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
+ %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
+ esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
+ Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
+ 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
+ ageId=1777884024237&language=de-DE>  \nDatenschutz und Sicherheit <https:/
+ /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
+ __________________________________________________________________________
+ ____
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Unterstützung - DE
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260604T083500
+DTEND;TZID=GMT 标准时间:20260604T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
+ YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
+ M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260604T213000
+DTEND;TZID=GMT 标准时间:20260604T220000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ 🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
+ ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
+ ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
+ d experiences.\n\n \n\nOur goal is to learn together and support each othe
+ r throughout the migration.\n\nWe’re looking forward to your participati
+ on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
+ ________________________________________\nMicrosoft Teams-Besprechung \nTe
+ ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
+ SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
+ __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
+ amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
+ etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
+ 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
+ Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
+ ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
+ anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
+ aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
+ 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
+ ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
+   \n______________________________________________________________________
+ __________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
