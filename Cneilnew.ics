@@ -31,6 +31,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EX2模头快开螺丝问题紧急讨论
+DTSTART;TZID=GMT 标准时间:20260506T143000
+DTEND;TZID=GMT 标准时间:20260506T150000
+CLASS:PUBLIC
+DESCRIPTION:Hello All:\n\n    EX2模头快开螺丝丝牙损坏，影响
+ 快开间隙调整及间隙稳定性，对产品有一定影响，特邀
+ 大家一起讨论后续解决方案，谢谢！\n\n \n\n_________________
+ _______________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?om
+ kt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3a
+ meeting_YmRhNGE3NWMtZDM3MC00MGQ4LWIxZTYtNjQ4YmU3ZjcwYzhj%40thread.v2/0?con
+ text=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22
+ %3a%2266f6b865-b7c2-4249-af46-0f068a5b5b8f%22%7d>  \n\n对于组织者: 
+ 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=66f6
+ b865-b7c2-4249-af46-0f068a5b5b8f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a&threadId=19_meeting_YmRhNGE3NWMtZDM3MC00MGQ4LWIxZTYtNjQ4YmU3ZjcwYzhj@
+ thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
+ b.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_______
+ _________________________________________________________________________\
+ n\n \n
+LOCATION:EX2
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX2模头快开螺丝问题紧急讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Final reminder before migration
 DTSTART;TZID=GMT 标准时间:20260506T170000
 DTEND;TZID=GMT 标准时间:20260507T080000
@@ -235,6 +263,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:booking
+DTSTART;TZID=GMT 标准时间:20260509T083000
+DTEND;TZID=GMT 标准时间:20260509T170000
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
