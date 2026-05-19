@@ -116,6 +116,40 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:测试申请系统临时方案_Option1
+DTSTART;TZID=GMT 标准时间:20260519T163000
+DTEND;TZID=GMT 标准时间:20260519T170000
+CLASS:PUBLIC
+DESCRIPTION:Dear Test Requestors\,\n\n因测试申请系统的SharePoint
+ 明天开始迁移，将导致数据无法正常访问，工作流和一
+ 些列嵌入程序需要重新设置。所以临时创建的Excel offline
+ 方式的申请单提交方式。\n\n特邀请大家介绍一下使用方
+ 法。本次介绍分了两个Options，选择适合的时间段参加即
+ 可。\n\n使用期间出现任何问题，可直接联系我。谢谢\n\n
+ BR\nGino\n\n______________________________________________________________
+ __________________\nMicrosoft Teams 会议 \n加入: https://teams.microso
+ ft.com/meet/327452234457970?p=jvwaOB0eV7HhTmlNEq \n会议 ID: 327 452 234 
+ 457 970 \n密码: 6cW2uq3t \n________________________________\n\n是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE1NTNhYTQtNDRhZC00
+ MjQzLTlhMWItMGExMzRiZTc1ODJl%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf
+ 5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2247310fdf-0173-4e5e-af5
+ 3-4714c41294b1%22%7d>  \n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=47310fdf-0173-4e5e-af53-4714c41294b1
+ &tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_NWE1NTN
+ hYTQtNDRhZC00MjQzLTlhMWItMGExMzRiZTc1ODJl@thread.v2&messageId=0&language=z
+ h-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
+ _____________________________________
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:测试申请系统临时方案_Option1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260520T083500
 DTEND;TZID=GMT 标准时间:20260520T090500
@@ -177,6 +211,40 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Townhall Meeting _ BCC&BCZ 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:测试申请系统临时方案_Option2
+DTSTART;TZID=GMT 标准时间:20260520T130000
+DTEND;TZID=GMT 标准时间:20260520T133000
+CLASS:PUBLIC
+DESCRIPTION:Dear Test Requestors\,\n\n因测试申请系统的SharePoint
+ 明天开始迁移，将导致数据无法正常访问，工作流和一
+ 些列嵌入程序需要重新设置。所以临时创建的Excel offline
+ 方式的申请单提交方式。\n\n特邀请大家介绍一下使用方
+ 法。本次介绍分了两个Options，选择适合的时间段参加即
+ 可。\n\n使用期间出现任何问题，可直接联系我。谢谢\n\n
+ BR\nGino\n\n______________________________________________________________
+ __________________\nMicrosoft Teams 会议 \n加入: https://teams.microso
+ ft.com/meet/35201429770847?p=9Ty9ZYAeX5FEoqETX3 \n会议 ID: 352 014 297 7
+ 08 47 \n密码: mC6P7BM2 \n________________________________\n\n是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_MWM5NTljMWQtNTJkYi00
+ ZGZjLWE0NzQtZGYxYmI0ZTg1NmNi%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf
+ 5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2247310fdf-0173-4e5e-af5
+ 3-4714c41294b1%22%7d>  \n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=47310fdf-0173-4e5e-af53-4714c41294b1
+ &tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_MWM5NTl
+ jMWQtNTJkYi00ZGZjLWE0NzQtZGYxYmI0ZTg1NmNi@thread.v2&messageId=0&language=z
+ h-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
+ _____________________________________
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:测试申请系统临时方案_Option2
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
