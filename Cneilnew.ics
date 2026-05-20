@@ -460,6 +460,41 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Review investment plan from PPI
+DTSTART;TZID=GMT 标准时间:20260525T143000
+DTEND;TZID=GMT 标准时间:20260525T153000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n一起看一下上周提到的investment p
+ lan\, 谢谢！\n\n \n\n \n\n\n\n\n \n\n \n\n_____________________________
+ ___________________________________________________\n\nMicrosoft Teams 会
+ 议 \n\n加入: https://teams.microsoft.com/meet/33784237172424?p=exR4vRxn
+ KH4Vqh671K <https://teams.microsoft.com/meet/33784237172424?p=exR4vRxnKH4V
+ qh671K>  \n\n会议 ID: 337 842 371 724 24 \n\n密码: mh23V8PV \n\n______
+ __________________________\n\n是否需要帮助 <https://aka.ms/JoinTeams
+ Meeting?omkt=zh-CN> ? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | <htt
+ ps://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWE0MjMyZjgtYTU5Ny00Yj
+ MxLTgwOWQtODQ2NGNlNDZiMGY5%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a
+ 3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7b-a4b9-4a5a-9863-
+ 844ef4386e6b%22%7d> 系统引用 <https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_ZWE0MjMyZjgtYTU5Ny00YjMxLTgwOWQtODQ2NGNlNDZiMGY5%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%2
+ 2Oid%22%3a%2265af9c7b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =65af9c7b-a4b9-4a5a-9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-262
+ 5c7e55082&threadId=19_meeting_ZWE0MjMyZjgtYTU5Ny00YjMxLTgwOWQtODQ2NGNlNDZi
+ MGY5@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____\n\n \n
+LOCATION:Sophia's Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Review investment plan from PPI
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Session
 DTSTART;TZID=GMT 标准时间:20260525T203000
 DTEND;TZID=GMT 标准时间:20260525T210000
