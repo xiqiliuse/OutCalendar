@@ -31,6 +31,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPO设备变更单签收—EX/LM3工段 线下
+DTSTART;TZID=GMT 标准时间:20260521T110000
+DTEND;TZID=GMT 标准时间:20260521T120000
+CLASS:PUBLIC
+DESCRIPTION:如有之前PPI提的变更需求，两位可一起参加，
+ 谢谢\n \n________________________________\n\n发件人: Sun\, Hongxin <h
+ ongxin.sun@contitech.com>\n已发送: 2026年5月20日 12:05:13 (UTC+08:00
+ ) Beijing\, Chongqing\, Hong Kong\, Urumqi\n收件人: Hou\, Xuewen <xuewe
+ n.hou@contitech.com>\; Ge\, Yiqiang <yiqiang.ge@contitech.com>\; Yao\, Tom
+ i <mengyue.yao@contitech.com>\; lin\, xiaoqing <xiaoqing.lin@contitech.com
+ >\; Cai\, Jun02 <jun.2.cai@contitech.com>\n抄送: Li\, Xiaodong03 <xiaodo
+ ng.3.li@contitech.com>\n主题: TPO设备变更单签收—EX/LM3工段 
+ 线下\n时间: 2026年5月21日 11:00-12:00。\n位置: EX工段\n\n\nHel
+ lo 各位领导：\n过去一年我们在TPO进行了很多设备变更，
+ 按照变更流程应该对变更进行评审变更工作，现邀请各
+ 位参与TPO EX/LM3工段设备变更现场评审\n\n@lin\, xiaoqing <mail
+ to:xiaoqing.lin@contitech.com> 请提前准备好EX/LM3相关设备变更
+ 单，谢谢！\n\nBest regards\,\nHongxin SUN(Ethan)/孙洪鑫\nTPO Produ
+ ction Coordinator\n\n\n
+LOCATION:EX工段
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO设备变更单签收—EX/LM3工段 线下
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:提醒查看CDP打卡
 DTSTART;TZID=GMT 标准时间:20260521T114000
 DTEND;TZID=GMT 标准时间:20260521T114500
@@ -229,20 +257,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:customer project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:0.3mm表皮在EX2生产试制确认
-DTSTART;TZID=GMT 标准时间:20260522T160000
-DTEND;TZID=GMT 标准时间:20260522T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:0.3mm表皮在EX2生产试制确认
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
