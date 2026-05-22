@@ -148,8 +148,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Review investment plan from PPI
-DTSTART;TZID=GMT 标准时间:20260525T143000
-DTEND;TZID=GMT 标准时间:20260525T153000
+DTSTART;TZID=GMT 标准时间:20260525T140000
+DTEND;TZID=GMT 标准时间:20260525T150000
 CLASS:PUBLIC
 DESCRIPTION:Dear all：\n\n \n\n一起看一下上周提到的investment p
  lan\, 谢谢！\n\n \n\n \n\n\n\n\n \n\n \n\n_____________________________
@@ -1842,6 +1842,50 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:绿色工厂_申报项目资料汇总回顾
+DTSTART;TZID=GMT 标准时间:20260618T100000
+DTEND;TZID=GMT 标准时间:20260618T110000
+CLASS:PUBLIC
+DESCRIPTION:hello all\,\n\n感谢各位参加今天上午的第一次需
+ 求梳理与答疑会。\n现已更新需求收集清单并上传至Team c
+ hannel中，请注意查收。\n另外，计划于6月中旬初步完成
+ 数据收集工作，请各位能按时提交。\n如有任何疑问，请
+ 随时与我联系。\n谢谢~\n​国家级绿色工厂资料收集清单
+ （2025年度）.xlsx <https://contitechind.sharepoint.com/:x:/r/teams/tea
+ m_10071033/Shared%20Documents/%E5%9B%BD%E5%AE%B6%E7%BA%A7%E7%BB%BF%E8%89%B
+ 2%E5%B7%A5%E5%8E%82%E7%94%B3%E6%8A%A5-2026/%E5%9B%BD%E5%AE%B6%E7%BA%A7%E7%
+ BB%BF%E8%89%B2%E5%B7%A5%E5%8E%82%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86%E6%B8
+ %85%E5%8D%95%EF%BC%882025%E5%B9%B4%E5%BA%A6%EF%BC%89.xlsx?d=w3ea181a5be674
+ 512a14b785e6da6f10f&csf=1&web=1&e=SyW9X3> ​\n​GHG活动数据-采集
+ 表（2025）.xlsx <https://contitechind.sharepoint.com/:x:/r/teams/team_1
+ 0071033/Shared%20Documents/%E5%9B%BD%E5%AE%B6%E7%BA%A7%E7%BB%BF%E8%89%B2%E
+ 5%B7%A5%E5%8E%82%E7%94%B3%E6%8A%A5-2026/GHG%E6%B4%BB%E5%8A%A8%E6%95%B0%E6%
+ 8D%AE-%E9%87%87%E9%9B%86%E8%A1%A8%EF%BC%882025%EF%BC%89.xlsx?d=wb3fa105fab
+ 4241018c8f0c83e11c33eb&csf=1&web=1&e=vLaafR> ​\n\n\n____________________
+ ____________________________________________________________\nMicrosoft Te
+ ams 会议 \n加入: https://teams.microsoft.com/meet/362572592050325?p=ur
+ IDwT7Wx2D5D5uw3s \n会议 ID: 362 572 592 050 325 \n密码: aN6AK2uf \n___
+ _____________________________\n\n是否需要帮助? <https://aka.ms/JoinT
+ eamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/mee
+ tup-join/19%3ameeting_YWRiNWQ5NjktZDAyYi00MGMwLWI5ZDctOTFmMDc0MGM4YjU1%40t
+ hread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%
+ 22%2c%22Oid%22%3a%2250772bc7-3a06-4cda-8e16-0064cf76e418%22%7d>  \n对于
+ 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
+ izerId=50772bc7-3a06-4cda-8e16-0064cf76e418&tenantId=49bcf5a3-8181-4f6c-aa
+ 5a-2625c7e55082&threadId=19_meeting_YWRiNWQ5NjktZDAyYi00MGMwLWI5ZDctOTFmMD
+ c0MGM4YjU1@thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https
+ ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n
+ __________________________________________________________________________
+ ______
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:绿色工厂_申报项目资料汇总回顾
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
