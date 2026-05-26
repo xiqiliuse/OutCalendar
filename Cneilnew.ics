@@ -31,16 +31,46 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:油漆&色母粒周会
+SUMMARY:已取消: 油漆&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260526T101500
 DTEND;TZID=GMT 标准时间:20260526T110000
 CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+DESCRIPTION:ALL\,今天会议取消，配合PPI现场处理异常\n\n \n\n
+  \n
+LOCATION:
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:油漆&色母粒周会
+DESCRIPTION:已取消: 油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Li W10 3000m生产前讨论
+DTSTART;TZID=GMT 标准时间:20260526T130000
+DTEND;TZID=GMT 标准时间:20260526T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/361616876022451?p=R2xCoTq4RHemaLlh1d <https://teams.m
+ icrosoft.com/meet/361616876022451?p=R2xCoTq4RHemaLlh1d>  \n\n会议 ID: 36
+ 1 616 876 022 451 \n\n密码: 7US7Km32 \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTczN
+ GUzYTYtYTgyZi00NWRkLThjNjUtY2QxMTQ1M2M4M2Ew%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22b28100f
+ 9-3a32-46d2-9e0a-5d0707e7c7c4%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=b28100f9-3a32-46d2-
+ 9e0a-5d0707e7c7c4&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
+ 9_meeting_ZTczNGUzYTYtYTgyZi00NWRkLThjNjUtY2QxMTQ1M2M4M2Ew@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Li W10 3000m生产前讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1199,6 +1229,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:更新G70的试制问题点清单讨论会
+DTSTART;TZID=GMT 标准时间:20260611T140000
+DTEND;TZID=GMT 标准时间:20260611T160000
+CLASS:PUBLIC
+DESCRIPTION:\n____________________________________________________________
+ ____________________\nMicrosoft Teams 会议 \n加入: https://teams.micro
+ soft.com/meet/31666139601409?p=hYlopy5nvizNHsiMdz \n会议 ID: 316 661 396
+  014 09 \n密码: e5nw3kK6 \n________________________________\n\n是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjNmYTIyYjktYjAxMS00
+ ODg2LTkwZWYtOTdkMjY0MTFiZjc3%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf
+ 5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%229f4ba998-96f4-4f04-b54
+ 4-841970435c67%22%7d>  \n对于组织者: 会议选项 <https://teams.micr
+ osoft.com/meetingOptions/?organizerId=9f4ba998-96f4-4f04-b544-841970435c67
+ &tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_ZjNmYTI
+ yYjktYjAxMS00ODg2LTkwZWYtOTdkMjY0MTFiZjc3@thread.v2&messageId=0&language=z
+ h-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n___________________________________________
+ _____________________________________
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:更新G70的试制问题点清单讨论会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
