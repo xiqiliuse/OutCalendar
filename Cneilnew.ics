@@ -5,131 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260604T083500
-DTEND;TZID=GMT 标准时间:20260604T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XR67081粒子结块讨论
-DTSTART;TZID=GMT 标准时间:20260604T150000
-DTEND;TZID=GMT 标准时间:20260604T160000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/330301676284637?p=Q0wSLPc1rjq3X5Wsdg <https://teams.m
- icrosoft.com/meet/330301676284637?p=Q0wSLPc1rjq3X5Wsdg>  \n\n会议 ID: 33
- 0 301 676 284 637 \n\n密码: My7AQ9qt \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzBlN
- jdkODMtNzcyYS00ZTFjLWFlZWMtNDRiYTkyNDAzZGFl%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22304d8f5
- 5-2c96-43bc-ba59-3e17d14dafa4%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=304d8f55-2c96-43bc-
- ba59-3e17d14dafa4&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MzBlNjdkODMtNzcyYS00ZTFjLWFlZWMtNDRiYTkyNDAzZGFl@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:XR67081粒子结块讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration Support - EN
-DTSTART;TZID=GMT 标准时间:20260604T213000
-DTEND;TZID=GMT 标准时间:20260604T220000
-CLASS:PUBLIC
-DESCRIPTION:To support you during the IT environment migration\, we are of
- fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
- d to:\n\n✅ Provide guidance and background information on the migration\
- n\n✅ Share practical tips and best practices\n\n✅ Answer your question
- s live\n\n✅ Learn from real use cases and experiences from the community
- \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n \n\n
- 🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
- ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
- ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
- d experiences.\n\n \n\nOur goal is to learn together and support each othe
- r throughout the migration.\n\nWe’re looking forward to your participati
- on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
- ________________________________________\nMicrosoft Teams-Besprechung \nTe
- ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
- SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
- __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
- amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
- etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
- 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
- Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
- ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
- anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
- aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
- 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
- ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
-   \n______________________________________________________________________
- __________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Migration Support - EN
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:芒种
-DTSTART;TZID=GMT 标准时间:20260605T000000
-DTEND;TZID=GMT 标准时间:20260606T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:芒种
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:芒种
-DTSTART;TZID=GMT 标准时间:20260605T000000
-DTEND;TZID=GMT 标准时间:20260606T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:芒种
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260605T083500
 DTEND;TZID=GMT 标准时间:20260605T090500
 CLASS:PUBLIC
@@ -431,6 +306,110 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:清洁生产，能源及危废数据月度会议
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE: EX工段析出改善
+DTSTART;TZID=GMT 标准时间:20260610T140000
+DTEND;TZID=GMT 标准时间:20260610T143000
+CLASS:PUBLIC
+DESCRIPTION:前次会议纪要如下：\n\n1、针对个别料号进行配
+ 方切换（D301切换为D302）需要进行性能验证（三批）——
+ 黄海涛 6.30\n\nU2100220L1200/U2100221L1200/U2100222L1200\n\nU2100239L17
+ 80\n\nU2100169L1580/U2100169L1160\n\nU2100213L1520（R&D准备切换）\n\
+ nU2100172L1800（7月份再次确认，目前产品调整存在客诉）\n
+ \n2、D302存在放置变色问题，压花下线之后会发生变色，
+ 需要调整压花公差——陈成龙\n\n3、挑选料号确认未来3
+ 个月销售计划，确认产量（单位LFM）——孙洪鑫/SCM 4.16\n
+ \n\n邀请各位Teams共享一下当前析出改善的进度，谢谢！\n
+ @Huang\, Haitao02 <mailto:haitao.2.huang@contitech.com> @Chen\, Chenglong 
+ <mailto:chenglong.chen@contitech.com> 相关数据还请提前准备一下
+ \n\n\n________________________________\n\nFrom: Hou\, Xuewen <xuewen.hou@c
+ ontitech.com>\nSent: Thursday\, 04 June 2026 08:24:58\nTo: Li\, Xiaodong03
+  <xiaodong.3.li@contitech.com>\; Sun\, Hongxin <hongxin.sun@contitech.com>
+ \; Huang\, Haitao02 <haitao.2.huang@contitech.com>\; Lin\, Weiying <Weiyin
+ g.Lin@contitech.com>\nCc: Xu\, Jinkai <jinkai.xu@contitech.com>\; Jin\, Le
+ i <lei.jin@contitech.com>\; Pan\, Sheng <sheng.pan@contitech.com>\; Chen\,
+  Hongmei <Hongmei.Chen@contitech.com>\nSubject: 回复: EX工段析出改
+ 善 \n \n@Sun\, Hongxin <mailto:hongxin.sun@contitech.com> 组织个teams
+ 会议，大家更新一下进度\n________________________________\n\n发
+ 件人: Li\, Xiaodong03 <xiaodong.3.li@contitech.com>\n发送时间: 2026
+ 年6月2日 12:49\n收件人: Sun\, Hongxin <hongxin.sun@contitech.com>\; 
+ Hou\, Xuewen <xuewen.hou@contitech.com>\; Huang\, Haitao02 <haitao.2.huang
+ @contitech.com>\; Lin\, Weiying <Weiying.Lin@contitech.com>\n抄送: Xu\, 
+ Jinkai <jinkai.xu@contitech.com>\; Jin\, Lei <lei.jin@contitech.com>\; Pan
+ \, Sheng <sheng.pan@contitech.com>\; Chen\, Hongmei <Hongmei.Chen@contitec
+ h.com>\n主题: 回复: EX工段析出改善 \n \n\n@Huang\, Haitao02 <mai
+ lto:haitao.2.huang@benecke-changshun.com.cn>  海涛，验证试单什么
+ 时候拉？\n\n \n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n发件
+ 人: Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn> \n发送时间: 
+ 2026年5月6日 16:34\n收件人: Hou\, Xuewen <xuewen.hou@benecke-changsh
+ un.com.cn>\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn>\; Li\,
+  Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn>\; Huang\, Haitao02 <h
+ aitao.2.huang@benecke-changshun.com.cn>\; Lin\, Weiying <Weiying.Lin@benec
+ ke-changshun.com.cn>\n抄送: Xu\, Jinkai <jinkai.xu@benecke-changshun.com
+ .cn>\; Jin\, Lei <lei.jin@benecke-changshun.com.cn>\; Pan\, Sheng <sheng.p
+ an@benecke-changshun.com.cn>\n主题: 回复: EX工段析出改善\n\n \n\
+ n@Huang\, Haitao02 <mailto:haitao.2.huang@benecke-changshun.com.cn> \n\nSC
+ M给出5-7月份销售数量预测如下：\n\nU2100220L1200/U2100221L1200
+ /U2100222L1200——26.4 TSQM\n\nU2100239L1780——18 TSQM\n\nU2100169L15
+ 80/U2100169L1160——34.228 TSQM\n\nU2100213L1520（R&D准备切换）—
+ —81.85 TSQM\n\n \n\n具体预测如附件，谢谢\n\n \n\n \n\nInternal
+ \n\n________________________________\n\n发件人: Sun\, Hongxin <hongxin.
+ sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn>
+  >\n发送时间: 2026年4月15日 11:00\n收件人: Hou\, Xuewen <xuewen.
+ hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> 
+ >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.
+ Chen@benecke-changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-
+ changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Huang
+ \, Haitao02 <haitao.2.huang@benecke-changshun.com.cn <mailto:haitao.2.huan
+ g@benecke-changshun.com.cn> >\; Lin\, Weiying <Weiying.Lin@benecke-changsh
+ un.com.cn <mailto:Weiying.Lin@benecke-changshun.com.cn> >\n抄送: Xu\, Ji
+ nkai <jinkai.xu@benecke-changshun.com.cn <mailto:jinkai.xu@benecke-changsh
+ un.com.cn> >\; Jin\, Lei <lei.jin@benecke-changshun.com.cn <mailto:lei.jin
+ @benecke-changshun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.co
+ m.cn <mailto:sheng.pan@benecke-changshun.com.cn> >\n主题: 回复: EX工
+ 段析出改善 \n\n \n\nHello ALL：\n\n本次会议纪要如下：\n\n1
+ 、针对个别料号进行配方切换（D301切换为D302）需要进行
+ 性能验证（三批）——黄海涛 6.30\n\nU2100220L1200/U2100221L120
+ 0/U2100222L1200\n\nU2100239L1780\n\nU2100169L1580/U2100169L1160\n\nU210021
+ 3L1520（R&D准备切换）\n\nU2100172L1800（7月份再次确认，目
+ 前产品调整存在客诉）\n\n2、D302存在放置变色问题，压
+ 花下线之后会发生变色，需要调整压花公差——陈成龙\n
+ \n3、挑选料号确认未来3个月销售计划，确认产量（单位L
+ FM）——孙洪鑫/SCM 4.16\n\n \n\n \n\n \n\n__________________________
+ ______\n\n发件人: Sun\, Hongxin\n发送时间: 2026年4月9日 14:51\n
+ 收件人: Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewe
+ n.hou@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-c
+ hangshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Li\, Xi
+ aodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@ben
+ ecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benecke-changs
+ hun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\n主题: EX
+ 工段析出改善\n时间: 2026年4月15日 10:30-11:00。\n地点: TPO
+ 关爱小屋\n\n \n\nHello ALL:\n\n邀请各位对TPO挤出产品析出改
+ 善进度进行分享，本次会议我将提前准备近期析出订单
+ 数据\n\n \n\n感谢支持！\n\n \n\nInternal\n\n\n_____________________
+ ___________________________________________________________\nMicrosoft Tea
+ ms 会议 \n加入: https://teams.microsoft.com/meet/394132900689771?p=HDn
+ 3bIc9BvNpcgiDjh \n会议 ID: 394 132 900 689 771 \n密码: RA9hM2Bq \n____
+ ____________________________\n\n是否需要帮助? <https://aka.ms/JoinTe
+ amsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_NTA5MzhjNjMtMTgwNC00ZDJkLWI4NjEtMjIwMmVlNTkxMTVl%40th
+ read.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%2
+ 2%2c%22Oid%22%3a%225c8a7070-0576-432a-a607-27fd9e1d19b4%22%7d>  \n对于
+ 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
+ izerId=5c8a7070-0576-432a-a607-27fd9e1d19b4&tenantId=49bcf5a3-8181-4f6c-aa
+ 5a-2625c7e55082&threadId=19_meeting_NTA5MzhjNjMtMTgwNC00ZDJkLWI4NjEtMjIwMm
+ VlNTkxMTVl@thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https
+ ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n
+ __________________________________________________________________________
+ ______
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RE: EX工段析出改善
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
