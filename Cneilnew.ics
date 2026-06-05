@@ -312,9 +312,9 @@ SUMMARY:0.3mm试制Review
 DTSTART;TZID=GMT 标准时间:20260610T120000
 DTEND;TZID=GMT 标准时间:20260610T130000
 CLASS:PUBLIC
-DESCRIPTION:回顾下本次0.3mm 试制过程\n下一次试制准备\n*  D
- 104配方0.3mm正常的挤出\n*  回收粒子作为中间层，准备非
- 完整结果，委外造粒。\n*  EM4放卷装置改善
+DESCRIPTION:回顾下本次0.3mm 试制过程\n\n下一次试制准备\n\n
+ *  D104配方0.3mm正常的挤出\n\n*  回收粒子作为中间层，准
+ 备非完整结果，委外造粒。\n\n*  EM4放卷装置改善\n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
