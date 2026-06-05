@@ -283,6 +283,47 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:U2100213L1520异常改善会议
+DTSTART;TZID=GMT 标准时间:20260610T110000
+DTEND;TZID=GMT 标准时间:20260610T113000
+CLASS:PUBLIC
+DESCRIPTION:Hello All：\nU2100213L1520订单配方从ED30变更为D301后
+ ，在挤出/印刷/压花反馈有如下问题，邀请各位共同讨论
+ 确认异常原因并进行改善：\n1、该订单配方变更后，挤
+ 出机台BDE无法报工\n2、印刷工段生产U2100213L1520/8294136订
+ 单时，首样初样光泽0.6（标准0.6-1.0） 颜色DL-2.41（标准 -
+ 1.4-1.8），超差0.6，查询历史批次生产过程也存在DL不稳
+ 定超差的情况\n3、压花工段生产订单U2100213L1520/8294136，
+ 更换表皮第8卷后，压花产品南侧色差线条异常明显，停
+ 机更换第3卷表皮后，产品表面正常\,做完第3表皮再换回
+ 第8卷压花后，还是跟之前一样有线条，印刷重跑检查未
+ 发现色差线条，周一进行上机验证\n\n以上是整理出的相
+ 关问题，还请各位知悉，会上进行改善讨论，谢谢！\n
+LOCATION:TPO早会会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U2100213L1520异常改善会议
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0.3mm试制Review
+DTSTART;TZID=GMT 标准时间:20260610T120000
+DTEND;TZID=GMT 标准时间:20260610T130000
+CLASS:PUBLIC
+DESCRIPTION:回顾下本次0.3mm 试制过程\n下一次试制准备\n*  D
+ 104配方0.3mm正常的挤出\n*  回收粒子作为中间层，准备非
+ 完整结果，委外造粒。\n*  EM4放卷装置改善
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:0.3mm试制Review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:清洁生产，能源及危废数据月度会议
 DTSTART;TZID=GMT 标准时间:20260610T130000
 DTEND;TZID=GMT 标准时间:20260610T140000
@@ -414,7 +455,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2026TNM and TPOC actions monthly review meeting
+SUMMARY:已取消: 2026TNM and TPOC actions monthly review meeting
 DTSTART;TZID=GMT 标准时间:20260610T143000
 DTEND;TZID=GMT 标准时间:20260610T160000
 CLASS:PUBLIC
@@ -422,19 +463,35 @@ DESCRIPTION:Dear all\,\n\n \n\nAs we aligned\, 2026TNM and TPOC actions mo
  nthly review invited\, this is series meeting\, so pls accept all\, we can
   reschedule if any confliction happened for specific month.\n\n \n\nI will
   adjust participants according to project start and finish time monthly.\n
- \n \n\npls. update  TNM2026.xlsx <https://continental.sharepoint.com/:x:/r
- /teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/TNM20
- 26.xlsx?d=w4efa06e4c9e249fc8b484a4ab581b829&csf=1&web=1&e=sOxuAQ>  and upl
- oad report to  monthly review meeting <https://continental.sharepoint.com/
- :f:/r/teams/team_10069384-2026strategy/Shared%20Documents/2026%20strategy/
- monthly%20review%20meeting?csf=1&web=1&e=9yVbg9>  in advance. For project\
- , pls. prepare A3 report\, for JDI\, pls. prepare project one-pager.\n\n \
- n\nThank you.\n\n \n\nBest Regards\,\n\nFiona Huang\n\n \n
+ \n \n\npls. update  TNM2026.xlsx <https://contitechind.sharepoint.com/:x:/
+ r/teams/BCZplantstrategyworkshop-2026strategy/Shared%20Documents/2026%20st
+ rategy/TNM2026.xlsx?d=w7c8c62d0f3ba49c59e23aa773df50e73&csf=1&web=1&e=UaUc
+ OP> and upload report to  monthly review meeting <https://contitechind.sha
+ repoint.com/:f:/r/teams/BCZplantstrategyworkshop-2026strategy/Shared%20Doc
+ uments/2026%20strategy/monthly%20review%20meeting?csf=1&web=1&e=PlU8ow>  i
+ n advance. For project\, pls. prepare A3 report\, for JDI\, pls. prepare p
+ roject one-pager.\n\n \n\nThank you.\n\n \n\nBest Regards\,\n\nFiona Huang
+ \n\n \n\n_________________________________________________________________
+ _______________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.micros
+ oft.com/meet/380493636084338?p=hUgZr5UsZkjpSNMlqZ <https://teams.microsoft
+ .com/meet/380493636084338?p=hUgZr5UsZkjpSNMlqZ>  \n\n会议 ID: 380 493 63
+ 6 084 338 \n\n密码: Jq2wS6mS \n\n________________________________\n\n是
+ 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引
+ 用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTZhYjIxYjUtNT
+ g2MC00Nzg4LTlhMzYtY2I5YWRlYTFkMjQ3%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223fe2fb72-52ac-49
+ a5-8f64-4394442a585d%22%7d>  \n\n对于组织者: 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=3fe2fb72-52ac-49a5-8f64-4394
+ 442a585d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _ZTZhYjIxYjUtNTg2MC00Nzg4LTlhMzYtY2I5YWRlYTFkMjQ3@thread.v2&messageId=0&la
+ nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
+ d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_______________________________
+ _________________________________________________\n\n \n
 LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:2026TNM and TPOC actions monthly review meeting
+DESCRIPTION:已取消: 2026TNM and TPOC actions monthly review meeting
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
