@@ -392,47 +392,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:已取消: 2026TNM and TPOC actions monthly review meeting
-DTSTART;TZID=GMT 标准时间:20260610T143000
-DTEND;TZID=GMT 标准时间:20260610T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all\,\n\n \n\nAs we aligned\, 2026TNM and TPOC actions mo
- nthly review invited\, this is series meeting\, so pls accept all\, we can
-  reschedule if any confliction happened for specific month.\n\n \n\nI will
-  adjust participants according to project start and finish time monthly.\n
- \n \n\npls. update  TNM2026.xlsx <https://contitechind.sharepoint.com/:x:/
- r/teams/BCZplantstrategyworkshop-2026strategy/Shared%20Documents/2026%20st
- rategy/TNM2026.xlsx?d=w7c8c62d0f3ba49c59e23aa773df50e73&csf=1&web=1&e=UaUc
- OP> and upload report to  monthly review meeting <https://contitechind.sha
- repoint.com/:f:/r/teams/BCZplantstrategyworkshop-2026strategy/Shared%20Doc
- uments/2026%20strategy/monthly%20review%20meeting?csf=1&web=1&e=PlU8ow>  i
- n advance. For project\, pls. prepare A3 report\, for JDI\, pls. prepare p
- roject one-pager.\n\n \n\nThank you.\n\n \n\nBest Regards\,\n\nFiona Huang
- \n\n \n\n_________________________________________________________________
- _______________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.micros
- oft.com/meet/380493636084338?p=hUgZr5UsZkjpSNMlqZ <https://teams.microsoft
- .com/meet/380493636084338?p=hUgZr5UsZkjpSNMlqZ>  \n\n会议 ID: 380 493 63
- 6 084 338 \n\n密码: Jq2wS6mS \n\n________________________________\n\n是
- 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引
- 用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTZhYjIxYjUtNT
- g2MC00Nzg4LTlhMzYtY2I5YWRlYTFkMjQ3%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%223fe2fb72-52ac-49
- a5-8f64-4394442a585d%22%7d>  \n\n对于组织者: 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=3fe2fb72-52ac-49a5-8f64-4394
- 442a585d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _ZTZhYjIxYjUtNTg2MC00Nzg4LTlhMzYtY2I5YWRlYTFkMjQ3@thread.v2&messageId=0&la
- nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
- d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_______________________________
- _________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 2026TNM and TPOC actions monthly review meeting
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Migration Unterstützung - DE
 DTSTART;TZID=GMT 标准时间:20260610T173000
 DTEND;TZID=GMT 标准时间:20260610T180000
