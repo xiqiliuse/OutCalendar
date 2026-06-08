@@ -130,6 +130,62 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:宁德新泉凹凸点零件实物确认和分析报告相关
+DTSTART;TZID=GMT 标准时间:20260609T123000
+DTEND;TZID=GMT 标准时间:20260609T130000
+CLASS:PUBLIC
+DESCRIPTION:背景：最新批次8292700按3000米的频次更换挤出滤
+ 网，但是做出了客户端的历史最差表现，客户需要分析
+ 报告。\n\n \n\n\n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:宁德新泉凹凸点零件实物确认和分析报告相关
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ POR Meeting
+DTSTART;TZID=GMT 标准时间:20260609T140000
+DTEND;TZID=GMT 标准时间:20260609T150000
+CLASS:PUBLIC
+DESCRIPTION:Fyi\n\n \n\n-----原始约会-----\n发件人: Yang\, Luna <ti
+ an.yang@contitech.com> \n发送时间: 2025年12月24日 10:36\n收件人:
+  Yang\, Luna\; Yang\, Luna\; Blichenberg\, Lars\; Blume\, Jens\; Ferrari\,
+  Gianlorenzo\; Knerr\, Karsten\; Shan\, Lan\; Zhu\, Zachary\; Wang\, Fengh
+ ua\; Tian\, Richard\; Huang\, Qing\; Chen\, Hongmei\; Ge\, Yiqiang\; Sun\,
+  Dimin\; Kang\, Bill\; Sun\, Juan\; Chen\, Miaoyan\; jiang\, song03\; Hou\
+ , Xuewen\; Jin\, Lei\; Cheng\, Dong01\; Zhu\, Lin\; Li\, Min05\; Yang\, La
+ raine\; Behrndt\, Jan-Philipp\n抄送: Liehr\, Annick\; Heuss\, Maren\; Do
+ hmen\, Christian\; Dudek\, Christoph\; Reinsch\, Steffen\; Maetschke\, And
+ reas\; Eggers\, Marco01\; Huang\, Jian02\; Andreas Maetschke\; Ge\, Jianfe
+ n\; Ferrari\, Gianlorenzo\n主题: BCZ POR Meeting\n时间: 2026年6月9
+ 日星期二 14:00-15:00(UTC+08:00) 北京，重庆，香港特别行政
+ 区，乌鲁木齐。\n地点: Microsoft Teams 会议\; TE_ZG_MR_PlantOffi
+ ce301_Zhangjiagang\n\n \n\n \n\n__________________________________________
+ ______________________________________\n\nMicrosoft Teams 是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 
+ <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWE3ODE4YjMtMDcwOC
+ 00Y2RmLWJmYjgtNDhhNjk5NWE5MWM5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+ b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22cf92f571-b846-4591-8
+ f05-9b83fbed9e46%22%7d>  \n\n会议 ID: 338 895 213 520 84 \n\n密码: 4kr
+ 6nQ2u \n\n________________________________\n\n对于组织者: 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=cf92f571-b846
+ -4591-8f05-9b83fbed9e46&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_NWE3ODE4YjMtMDcwOC00Y2RmLWJmYjgtNDhhNjk5NWE5MWM5@thread.v2
+ &messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiral
+ cloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n________________
+ ________________________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ POR Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Migration Support - EN
 DTSTART;TZID=GMT 标准时间:20260609T143000
 DTEND;TZID=GMT 标准时间:20260609T150000
