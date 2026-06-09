@@ -98,25 +98,26 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
  osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
  Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
- riences.\n\n \n\nOur goal is to learn together and support each other thro
- ughout the migration.\n\nWe’re looking forward to your participation!\n\
- nCarsten & Guenter\n\n\n\n\n______________________________________________
- __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
- en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
- \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
- ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
- ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
- oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
- text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
- %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
- esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
- Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
- 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
- ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
- /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
- __________________________________________________________________________
- ____
+ n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
+ eriences.\n\n \n\nOur goal is to learn together and support each other thr
+ oughout the migration.\n\nWe’re looking forward to your participation!\n
+ \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
+ TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
+ QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -165,6 +166,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:安全现状专家评审后补充资料
+DTSTART;TZID=GMT 标准时间:20260610T093000
+DTEND;TZID=GMT 标准时间:20260610T100000
+CLASS:PUBLIC
+DESCRIPTION:Hi，all：\n\n针对5月18日第三方邀请行业安全专
+ 家对公司安全现状报告进行评审后提出的整改意见，\n\n
+ 请各位准时参加会议，讨论需要补充的资料（见附件1的
+ 批注），还有几个现场整改项的进度。\n\n \n\n \n\n现场整
+ 改项已发在eAudit中，如下：\n\n1.        \n\n印刷一，溶剂
+ 桶、油漆缸等静电接地未连接在母排上。\n\n提供整改前
+ 后对照照片\n\n2.        \n\n操作中油漆缸本体应直接接地
+ 并于缸盖进行等电位连接。\n\n提供整改前后对照照片\n\n
+ 3.        \n\n印刷一印刷机端部控制箱停用，请核实急停按
+ 钮是否符合防爆要求。\n\n提供整改前后对照照片\n\n4.    
+     \n\n导热油氮气灭火管线未设置色标、介质流向说明，
+ 电磁阀后手阀未进行常开管理。\n\n提供整改前后对照照
+ 片\n\n5.        \n\n调漆间异丙醇中间罐设置PLC称重控制，
+ 但未设置超液位报警。\n\n提供整改前后对照照片\n\n \n\n
+ 谢谢！\n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:安全现状专家评审后补充资料
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -351,31 +380,31 @@ DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
  zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
  n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
  live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
- r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
- n der IT‑Migration betroffen sind oder sich dafür interessieren – una
- bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
- r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
- ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
- \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
- n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
- igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
- arsten und Günter\n\n \n\n \n\n \n\n_____________________________________
- ___________________________________________\n\nMicrosoft Teams-Besprechung
- \n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUecn
- mcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM
- 8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\n
- \n________________________________\n\nBenötigen Sie Hilfe? <https://aka.m
- s/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.
- com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/177
- 7884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%
- 22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür O
- rganisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8
- 181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@th
- read.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz un
- d Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e> \n\n______________________________________________________
- __________________________\n
+ r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
+ on der IT‑Migration betroffen sind oder sich dafür interessieren – un
+ abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
+ er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
+ ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
+  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
+ \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
+ Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
+ Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
+ nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
+ M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -560,28 +589,29 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  n\n✅ Share practical tips and best practices\n\n✅ Answer your question
  s live\n\n✅ Learn from real use cases and experiences from the community
  \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ IT migration – regardless of role or level of experience. \n\n \n\n \n\n
  🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
  ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
  ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
  d experiences.\n\n \n\nOur goal is to learn together and support each othe
  r throughout the migration.\n\nWe’re looking forward to your participati
- on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
- ________________________________________\nMicrosoft Teams-Besprechung \nTe
- ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
- SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
- __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
- amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
- etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
- 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
- Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
- ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
- anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
- aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
- 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
- ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
-   \n______________________________________________________________________
- __________
+ on!\n\nCarsten & Guenter\n\n \n\n \n\n \n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams-Bespr
+ echung\n\nTeilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0
+ XUmGCC8AUzyZSgPf4 <https://teams.microsoft.com/meet/347277617466173?p=0XUm
+ GCC8AUzyZSgPf4> \n\nBesprechungs-ID: 347 277 617 466 173\n\nPasscode: 7KA9
+ go3S\n\n________________________________\n\nBenötigen Sie Hilfe? <https:/
+ /aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.micr
+ osoft.com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tac
+ v2/1777883867970?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e
+ 55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\n
+ Für Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meet
+ ingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bc
+ f5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c459
+ 54e@thread.tacv2&messageId=1777883867970&language=de-DE> \n\n \n\nDatensch
+ utz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-43
+ 6b-832a-1d684ab9ad7e> \n\n________________________________________________
+ ________________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -774,25 +804,26 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
  osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
  Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
- riences.\n\n \n\nOur goal is to learn together and support each other thro
- ughout the migration.\n\nWe’re looking forward to your participation!\n\
- nCarsten & Guenter\n\n\n\n\n______________________________________________
- __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
- en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
- \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
- ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
- ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
- oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
- text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
- %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
- esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
- Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
- 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
- ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
- /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
- __________________________________________________________________________
- ____
+ n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
+ eriences.\n\n \n\nOur goal is to learn together and support each other thr
+ oughout the migration.\n\nWe’re looking forward to your participation!\n
+ \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
+ TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
+ QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -839,31 +870,31 @@ DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
  zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
  n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
  live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
- r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
- n der IT‑Migration betroffen sind oder sich dafür interessieren – una
- bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
- r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
- ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
- \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
- n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
- igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
- arsten und Günter\n\n \n\n \n\n \n\n_____________________________________
- ___________________________________________\n\nMicrosoft Teams-Besprechung
- \n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUecn
- mcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM
- 8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\n
- \n________________________________\n\nBenötigen Sie Hilfe? <https://aka.m
- s/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.
- com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/177
- 7884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%
- 22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür O
- rganisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8
- 181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@th
- read.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz un
- d Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e> \n\n______________________________________________________
- __________________________\n
+ r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
+ on der IT‑Migration betroffen sind oder sich dafür interessieren – un
+ abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
+ er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
+ ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
+  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
+ \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
+ Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
+ Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
+ nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
+ M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -997,28 +1028,29 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  n\n✅ Share practical tips and best practices\n\n✅ Answer your question
  s live\n\n✅ Learn from real use cases and experiences from the community
  \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ IT migration – regardless of role or level of experience. \n\n \n\n \n\n
  🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
  ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
  ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
  d experiences.\n\n \n\nOur goal is to learn together and support each othe
  r throughout the migration.\n\nWe’re looking forward to your participati
- on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
- ________________________________________\nMicrosoft Teams-Besprechung \nTe
- ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
- SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
- __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
- amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
- etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
- 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
- Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
- ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
- anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
- aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
- 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
- ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
-   \n______________________________________________________________________
- __________
+ on!\n\nCarsten & Guenter\n\n \n\n \n\n \n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams-Bespr
+ echung\n\nTeilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0
+ XUmGCC8AUzyZSgPf4 <https://teams.microsoft.com/meet/347277617466173?p=0XUm
+ GCC8AUzyZSgPf4> \n\nBesprechungs-ID: 347 277 617 466 173\n\nPasscode: 7KA9
+ go3S\n\n________________________________\n\nBenötigen Sie Hilfe? <https:/
+ /aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.micr
+ osoft.com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tac
+ v2/1777883867970?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e
+ 55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\n
+ Für Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meet
+ ingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bc
+ f5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c459
+ 54e@thread.tacv2&messageId=1777883867970&language=de-DE> \n\n \n\nDatensch
+ utz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-43
+ 6b-832a-1d684ab9ad7e> \n\n________________________________________________
+ ________________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1300,25 +1332,26 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
  osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
  Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
- riences.\n\n \n\nOur goal is to learn together and support each other thro
- ughout the migration.\n\nWe’re looking forward to your participation!\n\
- nCarsten & Guenter\n\n\n\n\n______________________________________________
- __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
- en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
- \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
- ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
- ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
- oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
- text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
- %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
- esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
- Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
- 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
- ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
- /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
- __________________________________________________________________________
- ____
+ n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
+ eriences.\n\n \n\nOur goal is to learn together and support each other thr
+ oughout the migration.\n\nWe’re looking forward to your participation!\n
+ \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
+ TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
+ QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1498,31 +1531,31 @@ DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
  zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
  n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
  live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
- r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
- n der IT‑Migration betroffen sind oder sich dafür interessieren – una
- bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
- r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
- ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
- \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
- n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
- igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
- arsten und Günter\n\n \n\n \n\n \n\n_____________________________________
- ___________________________________________\n\nMicrosoft Teams-Besprechung
- \n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUecn
- mcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM
- 8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\n
- \n________________________________\n\nBenötigen Sie Hilfe? <https://aka.m
- s/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.
- com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/177
- 7884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%
- 22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür O
- rganisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8
- 181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@th
- read.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz un
- d Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e> \n\n______________________________________________________
- __________________________\n
+ r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
+ on der IT‑Migration betroffen sind oder sich dafür interessieren – un
+ abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
+ er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
+ ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
+  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
+ \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
+ Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
+ Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
+ nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
+ M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1626,28 +1659,29 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  n\n✅ Share practical tips and best practices\n\n✅ Answer your question
  s live\n\n✅ Learn from real use cases and experiences from the community
  \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ IT migration – regardless of role or level of experience. \n\n \n\n \n\n
  🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
  ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
  ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
  d experiences.\n\n \n\nOur goal is to learn together and support each othe
  r throughout the migration.\n\nWe’re looking forward to your participati
- on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
- ________________________________________\nMicrosoft Teams-Besprechung \nTe
- ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
- SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
- __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
- amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
- etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
- 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
- Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
- ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
- anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
- aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
- 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
- ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
-   \n______________________________________________________________________
- __________
+ on!\n\nCarsten & Guenter\n\n \n\n \n\n \n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams-Bespr
+ echung\n\nTeilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0
+ XUmGCC8AUzyZSgPf4 <https://teams.microsoft.com/meet/347277617466173?p=0XUm
+ GCC8AUzyZSgPf4> \n\nBesprechungs-ID: 347 277 617 466 173\n\nPasscode: 7KA9
+ go3S\n\n________________________________\n\nBenötigen Sie Hilfe? <https:/
+ /aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.micr
+ osoft.com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tac
+ v2/1777883867970?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e
+ 55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\n
+ Für Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meet
+ ingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bc
+ f5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c459
+ 54e@thread.tacv2&messageId=1777883867970&language=de-DE> \n\n \n\nDatensch
+ utz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-43
+ 6b-832a-1d684ab9ad7e> \n\n________________________________________________
+ ________________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1841,25 +1875,26 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
  osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
  Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
- riences.\n\n \n\nOur goal is to learn together and support each other thro
- ughout the migration.\n\nWe’re looking forward to your participation!\n\
- nCarsten & Guenter\n\n\n\n\n______________________________________________
- __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
- en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
- \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
- ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
- ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
- oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
- text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
- %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
- esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
- Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
- 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
- ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
- /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
- __________________________________________________________________________
- ____
+ n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
+ eriences.\n\n \n\nOur goal is to learn together and support each other thr
+ oughout the migration.\n\nWe’re looking forward to your participation!\n
+ \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
+ TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
+ QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -1907,31 +1942,31 @@ DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
  zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
  n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
  live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
- r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
- n der IT‑Migration betroffen sind oder sich dafür interessieren – una
- bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
- r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
- ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
- \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
- n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
- igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
- arsten und Günter\n\n \n\n \n\n \n\n_____________________________________
- ___________________________________________\n\nMicrosoft Teams-Besprechung
- \n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUecn
- mcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM
- 8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\n
- \n________________________________\n\nBenötigen Sie Hilfe? <https://aka.m
- s/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.
- com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/177
- 7884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%
- 22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür O
- rganisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8
- 181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@th
- read.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz un
- d Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e> \n\n______________________________________________________
- __________________________\n
+ r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
+ on der IT‑Migration betroffen sind oder sich dafür interessieren – un
+ abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
+ er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
+ ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
+  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
+ \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
+ Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
+ Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
+ nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
+ M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -2014,28 +2049,29 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  n\n✅ Share practical tips and best practices\n\n✅ Answer your question
  s live\n\n✅ Learn from real use cases and experiences from the community
  \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n \n\n
+ IT migration – regardless of role or level of experience. \n\n \n\n \n\n
  🎙 Hosts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learn
  ing & Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be sh
  ared in this channel.)\n\n \n\n👉 Bring your questions\, challenges\, an
  d experiences.\n\n \n\nOur goal is to learn together and support each othe
  r throughout the migration.\n\nWe’re looking forward to your participati
- on!\n\nCarsten & Guenter\n\n\n\n\n________________________________________
- ________________________________________\nMicrosoft Teams-Besprechung \nTe
- ilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0XUmGCC8AUzyZ
- SgPf4 \nBesprechungs-ID: 347 277 617 466 173 \nPasscode: 7KA9go3S \n______
- __________________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTe
- amsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/me
- etup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17778838679
- 70?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22
- Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisato
- ren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
- anizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-
- aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv
- 2&messageId=1777883867970&language=de-DE>  \nDatenschutz und Sicherheit <h
- ttps://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>
-   \n______________________________________________________________________
- __________
+ on!\n\nCarsten & Guenter\n\n \n\n \n\n \n\n_______________________________
+ _________________________________________________\n\nMicrosoft Teams-Bespr
+ echung\n\nTeilnehmen: https://teams.microsoft.com/meet/347277617466173?p=0
+ XUmGCC8AUzyZSgPf4 <https://teams.microsoft.com/meet/347277617466173?p=0XUm
+ GCC8AUzyZSgPf4> \n\nBesprechungs-ID: 347 277 617 466 173\n\nPasscode: 7KA9
+ go3S\n\n________________________________\n\nBenötigen Sie Hilfe? <https:/
+ /aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.micr
+ osoft.com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tac
+ v2/1777883867970?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e
+ 55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\n
+ Für Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meet
+ ingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bc
+ f5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c459
+ 54e@thread.tacv2&messageId=1777883867970&language=de-DE> \n\n \n\nDatensch
+ utz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-43
+ 6b-832a-1d684ab9ad7e> \n\n________________________________________________
+ ________________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -2194,25 +2230,26 @@ DESCRIPTION:To support you during the IT environment migration\, we are of
  IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
  osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
  Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.)\n\n \n\n👉 Bring your questions\, challenges\, and expe
- riences.\n\n \n\nOur goal is to learn together and support each other thro
- ughout the migration.\n\nWe’re looking forward to your participation!\n\
- nCarsten & Guenter\n\n\n\n\n______________________________________________
- __________________________________\nMicrosoft Teams-Besprechung \nTeilnehm
- en: https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLkQEbFTVINM 
- \nBesprechungs-ID: 367 454 933 126 594 \nPasscode: jn3Qu2BL \n____________
- ____________________\n\nBenötigen Sie Hilfe? <https://aka.ms/JoinTeamsMee
- ting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.com/l/meetup-j
- oin/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/1777883766484?con
- text=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22
- %3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Organisatoren: B
- esprechungsoptionen <https://teams.microsoft.com/meetingOptions/?organizer
- Id=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8181-4f6c-aa5a-2
- 625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@thread.tacv2&mess
- ageId=1777883766484&language=de-DE>  \nDatenschutz und Sicherheit <https:/
- /filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__
- __________________________________________________________________________
- ____
+ n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
+ eriences.\n\n \n\nOur goal is to learn together and support each other thr
+ oughout the migration.\n\nWe’re looking forward to your participation!\n
+ \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
+ TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
+ QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
@@ -2259,31 +2296,31 @@ DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
  zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
  n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
  live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
- r Community zu lernen\n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die vo
- n der IT‑Migration betroffen sind oder sich dafür interessieren – una
- bhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günte
- r\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Detai
- ls zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n 
- \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n \
- n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die M
- igration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\nC
- arsten und Günter\n\n \n\n \n\n \n\n_____________________________________
- ___________________________________________\n\nMicrosoft Teams-Besprechung
- \n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUecn
- mcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmcM
- 8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\n
- \n________________________________\n\nBenötigen Sie Hilfe? <https://aka.m
- s/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.
- com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/177
- 7884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%
- 22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür O
- rganisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOpt
- ions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-8
- 181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@th
- read.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz un
- d Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
- a-1d684ab9ad7e> \n\n______________________________________________________
- __________________________\n
+ r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
+ on der IT‑Migration betroffen sind oder sich dafür interessieren – un
+ abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
+ er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
+ ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
+  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
+ \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
+ Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
+ Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
+ nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
+ M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
 LOCATION:Microsoft Teams Meeting
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
