@@ -647,6 +647,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IATF Audit-TPO Extrusion
+DTSTART;TZID=GMT 标准时间:20260616T140000
+DTEND;TZID=GMT 标准时间:20260616T150000
+CLASS:PUBLIC
+DESCRIPTION:Hello Xiaodong：\n\n \n\n提前确认WI， PFMEA\, 并应审
+ ，谢谢！\n\n \n\n \n\nSophia   6/10\n\n \n\n-----原始约会-----\n
+ 发件人: Xu\, Yan01 <yan01.xu@contitech.com> \n发送时间: 2026年6月
+ 9日 11:11\n收件人: Xu\, Yan01\; Hou\, Xuewen\; Sun\, Hongxin\; Qian\, 
+ Chunlei\; Chen\, Hongmei\; Yao\, Tomi\n抄送: Chao Yuan\; Cai\, Jun02\; l
+ in\, xiaoqing\; Zhang\, Xiaorong\n主题: IATF Audit-TPO Extrusion\n时间
+ : 2026年6月16日星期二 14:00-15:00(UTC+08:00) 北京，重庆，香
+ 港特别行政区，乌鲁木齐。\n地点: TPO Extrusion\n\n \n\nHello 
+ all\,\n\nBook your time for audit\, pls make preparation for it and forwar
+ d it to auditees if necessary.\n\n2nd Day 2026/6/16 Tuesday\n\n　\n\n　\
+ n\n　\n\nSecond Day\n\nAuditor:  Mark Sheng (Team2)\nCoordinator: Bill Qi
+ an]\n\nStart\n\nEnd\n\n过程/子过程 Process\n\n特别关注 Focus on\n
+ \nProcess Owner\n\n2:00 PM\n\n3:00 PM\n\nPROD: C3 Fulfill from Demand to D
+ eliver(/13)/TPO\n\nTPO Extrusion\n\nSnow Hou\n\n \n
+LOCATION:TPO Extrusion
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IATF Audit-TPO Extrusion
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:定期review设备改善项目
 DTSTART;TZID=GMT 标准时间:20260616T140000
 DTEND;TZID=GMT 标准时间:20260616T150000
