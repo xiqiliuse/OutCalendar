@@ -5,317 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260610T083500
-DTEND;TZID=GMT 标准时间:20260610T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:安全现状专家评审后补充资料
-DTSTART;TZID=GMT 标准时间:20260610T093000
-DTEND;TZID=GMT 标准时间:20260610T100000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n\n针对5月18日第三方邀请行业安全专
- 家对公司安全现状报告进行评审后提出的整改意见，\n\n
- 请各位准时参加会议，讨论需要补充的资料（见附件1的
- 批注），还有几个现场整改项的进度。\n\n \n\n \n\n现场整
- 改项已发在eAudit中，如下：\n\n1.        \n\n印刷一，溶剂
- 桶、油漆缸等静电接地未连接在母排上。\n\n提供整改前
- 后对照照片\n\n2.        \n\n操作中油漆缸本体应直接接地
- 并于缸盖进行等电位连接。\n\n提供整改前后对照照片\n\n
- 3.        \n\n印刷一印刷机端部控制箱停用，请核实急停按
- 钮是否符合防爆要求。\n\n提供整改前后对照照片\n\n4.    
-     \n\n导热油氮气灭火管线未设置色标、介质流向说明，
- 电磁阀后手阀未进行常开管理。\n\n提供整改前后对照照
- 片\n\n5.        \n\n调漆间异丙醇中间罐设置PLC称重控制，
- 但未设置超液位报警。\n\n提供整改前后对照照片\n\n \n\n
- 谢谢！\n
-LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:安全现状专家评审后补充资料
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:U2100213L1520异常改善会议
-DTSTART;TZID=GMT 标准时间:20260610T110000
-DTEND;TZID=GMT 标准时间:20260610T113000
-CLASS:PUBLIC
-DESCRIPTION:Hello All：\nU2100213L1520订单配方从ED30变更为D301后
- ，在挤出/印刷/压花反馈有如下问题，邀请各位共同讨论
- 确认异常原因并进行改善：\n1、该订单配方变更后，挤
- 出机台BDE无法报工\n2、印刷工段生产U2100213L1520/8294136订
- 单时，首样初样光泽0.6（标准0.6-1.0） 颜色DL-2.41（标准 -
- 1.4-1.8），超差0.6，查询历史批次生产过程也存在DL不稳
- 定超差的情况\n3、压花工段生产订单U2100213L1520/8294136，
- 更换表皮第8卷后，压花产品南侧色差线条异常明显，停
- 机更换第3卷表皮后，产品表面正常\,做完第3表皮再换回
- 第8卷压花后，还是跟之前一样有线条，印刷重跑检查未
- 发现色差线条，周一进行上机验证\n\n以上是整理出的相
- 关问题，还请各位知悉，会上进行改善讨论，谢谢！\n
-LOCATION:TPO早会会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:U2100213L1520异常改善会议
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V446 review
-DTSTART;TZID=GMT 标准时间:20260610T120000
-DTEND;TZID=GMT 标准时间:20260610T123000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/384783739540089?p=XTXBz1o2dXbqJQHUWI <https://teams.m
- icrosoft.com/meet/384783739540089?p=XTXBz1o2dXbqJQHUWI>  \n\n会议 ID: 38
- 4 783 739 540 089 \n\n密码: Yw7Kx7MA \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjQ1O
- TBhMjItMDQ4MS00MmVlLTgyODMtNzRiY2Y5NDM4MDc2%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MjQ1OTBhMjItMDQ4MS00MmVlLTgyODMtNzRiY2Y5NDM4MDc2@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:V446 review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:清洁生产，能源及危废数据月度会议
-DTSTART;TZID=GMT 标准时间:20260610T130000
-DTEND;TZID=GMT 标准时间:20260610T140000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZDQxZDM0NDMtNDc2Yy00NmVjLTg1NzItNT
- M0ODc0NDJjMWQ5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%224d5e1cea-2ca2-4582-b48b-b674e2625c0e
- %22%7d>  \n\n会议 ID: 346 286 406 413 \n\n密码: yY6Am9Pk \n\n_________
- _______________________\n\n对于组织者: 会议选项 <https://teams.mi
- crosoft.com/meetingOptions/?organizerId=4d5e1cea-2ca2-4582-b48b-b674e2625c
- 0e&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDQxZ
- DM0NDMtNDc2Yy00NmVjLTg1NzItNTM0ODc0NDJjMWQ5@thread.v2&messageId=0&language
- =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
- 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
- ___________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:清洁生产，能源及危废数据月度会议
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RE: EX工段析出改善
-DTSTART;TZID=GMT 标准时间:20260610T140000
-DTEND;TZID=GMT 标准时间:20260610T143000
-CLASS:PUBLIC
-DESCRIPTION:前次会议纪要如下：\n\n1、针对个别料号进行配
- 方切换（D301切换为D302）需要进行性能验证（三批）——
- 黄海涛 6.30\n\nU2100220L1200/U2100221L1200/U2100222L1200\n\nU2100239L17
- 80\n\nU2100169L1580/U2100169L1160\n\nU2100213L1520（R&D准备切换）\n\
- nU2100172L1800（7月份再次确认，目前产品调整存在客诉）\n
- \n2、D302存在放置变色问题，压花下线之后会发生变色，
- 需要调整压花公差——陈成龙\n\n3、挑选料号确认未来3
- 个月销售计划，确认产量（单位LFM）——孙洪鑫/SCM 4.16\n
- \n\n邀请各位Teams共享一下当前析出改善的进度，谢谢！\n
- @Huang\, Haitao02 <mailto:haitao.2.huang@contitech.com> @Chen\, Chenglong 
- <mailto:chenglong.chen@contitech.com> 相关数据还请提前准备一下
- \n\n\n________________________________\n\nFrom: Hou\, Xuewen <xuewen.hou@c
- ontitech.com>\nSent: Thursday\, 04 June 2026 08:24:58\nTo: Li\, Xiaodong03
-  <xiaodong.3.li@contitech.com>\; Sun\, Hongxin <hongxin.sun@contitech.com>
- \; Huang\, Haitao02 <haitao.2.huang@contitech.com>\; Lin\, Weiying <Weiyin
- g.Lin@contitech.com>\nCc: Xu\, Jinkai <jinkai.xu@contitech.com>\; Jin\, Le
- i <lei.jin@contitech.com>\; Pan\, Sheng <sheng.pan@contitech.com>\; Chen\,
-  Hongmei <Hongmei.Chen@contitech.com>\nSubject: 回复: EX工段析出改
- 善 \n \n@Sun\, Hongxin <mailto:hongxin.sun@contitech.com> 组织个teams
- 会议，大家更新一下进度\n________________________________\n\n发
- 件人: Li\, Xiaodong03 <xiaodong.3.li@contitech.com>\n发送时间: 2026
- 年6月2日 12:49\n收件人: Sun\, Hongxin <hongxin.sun@contitech.com>\; 
- Hou\, Xuewen <xuewen.hou@contitech.com>\; Huang\, Haitao02 <haitao.2.huang
- @contitech.com>\; Lin\, Weiying <Weiying.Lin@contitech.com>\n抄送: Xu\, 
- Jinkai <jinkai.xu@contitech.com>\; Jin\, Lei <lei.jin@contitech.com>\; Pan
- \, Sheng <sheng.pan@contitech.com>\; Chen\, Hongmei <Hongmei.Chen@contitec
- h.com>\n主题: 回复: EX工段析出改善 \n \n\n@Huang\, Haitao02 <mai
- lto:haitao.2.huang@benecke-changshun.com.cn>  海涛，验证试单什么
- 时候拉？\n\n \n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\n \n\n发件
- 人: Sun\, Hongxin <hongxin.sun@benecke-changshun.com.cn> \n发送时间: 
- 2026年5月6日 16:34\n收件人: Hou\, Xuewen <xuewen.hou@benecke-changsh
- un.com.cn>\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn>\; Li\,
-  Xiaodong03 <xiaodong.3.li@benecke-changshun.com.cn>\; Huang\, Haitao02 <h
- aitao.2.huang@benecke-changshun.com.cn>\; Lin\, Weiying <Weiying.Lin@benec
- ke-changshun.com.cn>\n抄送: Xu\, Jinkai <jinkai.xu@benecke-changshun.com
- .cn>\; Jin\, Lei <lei.jin@benecke-changshun.com.cn>\; Pan\, Sheng <sheng.p
- an@benecke-changshun.com.cn>\n主题: 回复: EX工段析出改善\n\n \n\
- n@Huang\, Haitao02 <mailto:haitao.2.huang@benecke-changshun.com.cn> \n\nSC
- M给出5-7月份销售数量预测如下：\n\nU2100220L1200/U2100221L1200
- /U2100222L1200——26.4 TSQM\n\nU2100239L1780——18 TSQM\n\nU2100169L15
- 80/U2100169L1160——34.228 TSQM\n\nU2100213L1520（R&D准备切换）—
- —81.85 TSQM\n\n \n\n具体预测如附件，谢谢\n\n \n\n \n\nInternal
- \n\n________________________________\n\n发件人: Sun\, Hongxin <hongxin.
- sun@benecke-changshun.com.cn <mailto:hongxin.sun@benecke-changshun.com.cn>
-  >\n发送时间: 2026年4月15日 11:00\n收件人: Hou\, Xuewen <xuewen.
- hou@benecke-changshun.com.cn <mailto:xuewen.hou@benecke-changshun.com.cn> 
- >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.
- Chen@benecke-changshun.com.cn> >\; Li\, Xiaodong03 <xiaodong.3.li@benecke-
- changshun.com.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Huang
- \, Haitao02 <haitao.2.huang@benecke-changshun.com.cn <mailto:haitao.2.huan
- g@benecke-changshun.com.cn> >\; Lin\, Weiying <Weiying.Lin@benecke-changsh
- un.com.cn <mailto:Weiying.Lin@benecke-changshun.com.cn> >\n抄送: Xu\, Ji
- nkai <jinkai.xu@benecke-changshun.com.cn <mailto:jinkai.xu@benecke-changsh
- un.com.cn> >\; Jin\, Lei <lei.jin@benecke-changshun.com.cn <mailto:lei.jin
- @benecke-changshun.com.cn> >\; Pan\, Sheng <sheng.pan@benecke-changshun.co
- m.cn <mailto:sheng.pan@benecke-changshun.com.cn> >\n主题: 回复: EX工
- 段析出改善 \n\n \n\nHello ALL：\n\n本次会议纪要如下：\n\n1
- 、针对个别料号进行配方切换（D301切换为D302）需要进行
- 性能验证（三批）——黄海涛 6.30\n\nU2100220L1200/U2100221L120
- 0/U2100222L1200\n\nU2100239L1780\n\nU2100169L1580/U2100169L1160\n\nU210021
- 3L1520（R&D准备切换）\n\nU2100172L1800（7月份再次确认，目
- 前产品调整存在客诉）\n\n2、D302存在放置变色问题，压
- 花下线之后会发生变色，需要调整压花公差——陈成龙\n
- \n3、挑选料号确认未来3个月销售计划，确认产量（单位L
- FM）——孙洪鑫/SCM 4.16\n\n \n\n \n\n \n\n__________________________
- ______\n\n发件人: Sun\, Hongxin\n发送时间: 2026年4月9日 14:51\n
- 收件人: Hou\, Xuewen <xuewen.hou@benecke-changshun.com.cn <mailto:xuewe
- n.hou@benecke-changshun.com.cn> >\; Chen\, Hongmei <Hongmei.Chen@benecke-c
- hangshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; Li\, Xi
- aodong03 <xiaodong.3.li@benecke-changshun.com.cn <mailto:xiaodong.3.li@ben
- ecke-changshun.com.cn> >\; Huang\, Haitao02 <haitao.2.huang@benecke-changs
- hun.com.cn <mailto:haitao.2.huang@benecke-changshun.com.cn> >\n主题: EX
- 工段析出改善\n时间: 2026年4月15日 10:30-11:00。\n地点: TPO
- 关爱小屋\n\n \n\nHello ALL:\n\n邀请各位对TPO挤出产品析出改
- 善进度进行分享，本次会议我将提前准备近期析出订单
- 数据\n\n \n\n感谢支持！\n\n \n\nInternal\n\n\n_____________________
- ___________________________________________________________\nMicrosoft Tea
- ms 会议 \n加入: https://teams.microsoft.com/meet/394132900689771?p=HDn
- 3bIc9BvNpcgiDjh \n会议 ID: 394 132 900 689 771 \n密码: RA9hM2Bq \n____
- ____________________________\n\n是否需要帮助? <https://aka.ms/JoinTe
- amsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meet
- up-join/19%3ameeting_NTA5MzhjNjMtMTgwNC00ZDJkLWI4NjEtMjIwMmVlNTkxMTVl%40th
- read.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%2
- 2%2c%22Oid%22%3a%225c8a7070-0576-432a-a607-27fd9e1d19b4%22%7d>  \n对于
- 组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organ
- izerId=5c8a7070-0576-432a-a607-27fd9e1d19b4&tenantId=49bcf5a3-8181-4f6c-aa
- 5a-2625c7e55082&threadId=19_meeting_NTA5MzhjNjMtMTgwNC00ZDJkLWI4NjEtMjIwMm
- VlNTkxMTVl@thread.v2&messageId=0&language=zh-CN>  \n隐私和安全 <https
- ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n
- __________________________________________________________________________
- ______
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:RE: EX工段析出改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration Unterstützung - DE
-DTSTART;TZID=GMT 标准时间:20260610T173000
-DTEND;TZID=GMT 标准时间:20260610T180000
-CLASS:PUBLIC
-DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
- öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
- regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
- zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
- n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
- live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
- r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
- on der IT‑Migration betroffen sind oder sich dafür interessieren – un
- abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
- er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
- ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
-  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
- \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
- Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
- Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams-Besprechun
- g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
- nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
- M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
- n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
- ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
- .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
- 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
- %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
- Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
- tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
- 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
- hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
- nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
- 2a-1d684ab9ad7e> \n\n_____________________________________________________
- ___________________________\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Migration Unterstützung - DE
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Call - RPA Developers Worldwide Option 1
-DTSTART;TZID=GMT 标准时间:20260610T220000
-DTEND;TZID=GMT 标准时间:20260610T230000
-CLASS:PUBLIC
-DESCRIPTION:This is a continuation of the previous Open Calls\n\n\n\n\n___
- __________________________________________________________________________
- ___\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-U
- S>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3
- a0a53d13422fa4c21a703569ee88cc19b%40thread.skype/1754325850286?context=%7b
- %22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2274
- 7198b6-f9dc-48a8-925a-e78c77260ed8%22%7d>  \nMeeting ID: 365 192 380 447 7
-  \nPasscode: MR2NG3km \n________________________________\n\nFor organizers
- : Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId
- =747198b6-f9dc-48a8-925a-e78c77260ed8&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
- d79e6265a&threadId=19_0a53d13422fa4c21a703569ee88cc19b@thread.skype&messag
- eId=1754325850286&language=en-US>  \nPrivacy and security <https://filehub
- .admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__________
- ______________________________________________________________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260611T083500
 DTEND;TZID=GMT 标准时间:20260611T090500
 CLASS:PUBLIC
@@ -2378,6 +2067,43 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Migration Support - EN
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EX析出改善
+DTSTART;TZID=GMT 标准时间:20260710T150000
+DTEND;TZID=GMT 标准时间:20260710T153000
+CLASS:PUBLIC
+DESCRIPTION:本次会议纪要如下：\n1、下批次变更料号为U2100
+ 169L1580/U2100169L1160—黄海涛 7.15\n2、U2100239L1780/U2100172L1800
+ （7月份再次确认，目前产品调整存在客诉）—李晓东/黄
+ 海涛 7.15\n3、确认已变更料号U2100220L1200/U2100221L1200/U2100222
+ L1200   \n                                          U2100213L1520改善数
+ 据—李晓东 6.15\n4、增加DB备注，机台增加改善结果关注
+ —孙洪鑫\n5、D302存在放置变色问题，压花下线之后会发
+ 生变色，需确认改善方案—陈成龙/黄海涛 6.20\n6、下次
+ 会议时间7.10—孙洪鑫\n\n提前约出会议，感谢各位支持！
+ \n\n______________________________________________________________________
+ __________\nMicrosoft Teams 会议 \n加入: https://teams.microsoft.com/m
+ eet/314360139273897?p=7cKCPxudsvCoaSZxa3 \n会议 ID: 314 360 139 273 897 
+ \n密码: nu6KZ7aZ \n________________________________\n\n是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_OTk4MzQ3YTUtMmZlZC00MjFjLT
+ lkMzItY2U1YzZjMWNjMGRj%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-81
+ 81-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%225c8a7070-0576-432a-a607-27fd
+ 9e1d19b4%22%7d>  \n对于组织者: 会议选项 <https://teams.microsoft.
+ com/meetingOptions/?organizerId=5c8a7070-0576-432a-a607-27fd9e1d19b4&tenan
+ tId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_OTk4MzQ3YTUtM
+ mZlZC00MjFjLTlkMzItY2U1YzZjMWNjMGRj@thread.v2&messageId=0&language=zh-CN> 
+  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-43
+ 6b-832a-1d684ab9ad7e>  \n_________________________________________________
+ _______________________________
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EX析出改善
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
