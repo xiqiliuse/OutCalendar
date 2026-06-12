@@ -1049,6 +1049,35 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:更新G70的试制问题点清单二次讨论
+DTSTART;TZID=GMT 标准时间:20260625T143000
+DTEND;TZID=GMT 标准时间:20260625T163000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/31666139601409?p=hYlopy5nvizNHsiMdz <https://teams.mi
+ crosoft.com/meet/31666139601409?p=hYlopy5nvizNHsiMdz>  \n\n会议 ID: 316 
+ 661 396 014 09 \n\n密码: e5nw3kK6 \n\n________________________________\n
+ \n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系
+ 统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjNmYTIy
+ YjktYjAxMS00ODg2LTkwZWYtOTdkMjY0MTFiZjc3%40thread.v2/0?context=%7b%22Tid%2
+ 2%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%229f4ba998-9
+ 6f4-4f04-b544-841970435c67%22%7d>  \n\n对于组织者: 会议选项 <http
+ s://teams.microsoft.com/meetingOptions/?organizerId=9f4ba998-96f4-4f04-b54
+ 4-841970435c67&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_m
+ eeting_ZjNmYTIyYjktYjAxMS00ODg2LTkwZWYtOTdkMjY0MTFiZjc3@thread.v2&messageI
+ d=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________
+ _______________________________________________________\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:更新G70的试制问题点清单二次讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: Migration Support - EN
 DTSTART;TZID=GMT 标准时间:20260625T213000
 DTEND;TZID=GMT 标准时间:20260625T220000
