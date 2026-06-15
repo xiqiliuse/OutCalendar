@@ -63,8 +63,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:0.3mm试制Review
-DTSTART;TZID=GMT 标准时间:20260615T150000
-DTEND;TZID=GMT 标准时间:20260615T160000
+DTSTART;TZID=GMT 标准时间:20260615T120000
+DTEND;TZID=GMT 标准时间:20260615T130000
 CLASS:PUBLIC
 DESCRIPTION:回顾下本次0.3mm 试制过程\n\n下一次试制准备\n\n
  *  D104配方0.3mm正常的挤出\n\n*  回收粒子作为中间层，准
@@ -146,7 +146,7 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:定期review设备改善项目
+SUMMARY:已取消: 定期review设备改善项目
 DTSTART;TZID=GMT 标准时间:20260616T140000
 DTEND;TZID=GMT 标准时间:20260616T150000
 CLASS:PUBLIC
@@ -154,28 +154,30 @@ DESCRIPTION:Dear all：\n\n \n\n我们需要定期review 相关的设备
  改善进度。\n\n@Chen chenglong <mailto:chenglong.chen@benecke-changshu
  n.com.cn> ，如果我无法参加会议的话，请帮忙定期回顾，
  谢谢！\n\n@Yao\, Tomi <mailto:mengyue.yao@benecke-changshun.com.cn> \,M
- E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n_____
- __________________________________________________________________________
- _\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/3
- 5564427492136?p=NlAZUwk1UitrGdKIBm <https://teams.microsoft.com/meet/35564
- 427492136?p=NlAZUwk1UitrGdKIBm>  \n\n会议 ID: 355 644 274 921 36 \n\n密
- 码: kN7dy6wx \n\n________________________________\n\n是否需要帮助? 
- <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://team
- s.microsoft.com/l/meetup-join/19%3ameeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDI
- tMzdjODU1ZDEzZDNk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
- ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade16
- 64a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com
- /meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId
- =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWExMjE0N2ItMjQ4
- OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@thread.v2&messageId=0&language=zh-CN>  \n
- \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b
- 3-92cf-aaf920ff7119>  \n\n________________________________________________
- ________________________________\n\n \n
+ E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n \n\n
+ Dear all：\n\n由于这周IATF 审核，这次会议取消，谢谢！\n\
+ n \n\n \n\nSophia   6/15\n\n \n\n_________________________________________
+ _______________________________________\n\nMicrosoft Teams 会议 \n\n加
+ 入: https://teams.microsoft.com/meet/35564427492136?p=NlAZUwk1UitrGdKIBm 
+ <https://teams.microsoft.com/meet/35564427492136?p=NlAZUwk1UitrGdKIBm>  \n
+ \n会议 ID: 355 644 274 921 36 \n\n密码: kN7dy6wx \n\n_________________
+ _______________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?om
+ kt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3a
+ meeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk%40thread.v2/0?con
+ text=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22
+ %3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a%22%7d>  \n\n对于组织者: 
+ 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=d413
+ 55c2-a5da-4f3e-88bb-0d07ade1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a&threadId=19_meeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@
+ thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://filehu
+ b.admiralcloud.com/dl/5/d6981e10-1775-44b3-92cf-aaf920ff7119>  \n\n_______
+ _________________________________________________________________________\
+ n\n \n
 LOCATION:维修会议室
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:定期review设备改善项目
+DESCRIPTION:已取消: 定期review设备改善项目
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -407,6 +409,42 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:customer project review
+DTSTART;TZID=GMT 标准时间:20260618T160000
+DTEND;TZID=GMT 标准时间:20260618T170000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n1.	确认开发过程中的客户项目状
+ 况。\n\n1.1   试制不合格情况讨论。\n\n1.2   试制多轮次情
+ 况讨论。\n\n==》TPO\, PVC launch 负责\n\n2.	G70之后的，5批次
+ 的量产订单的报废率改善说明。\n\n==》@wang Congyu @Chen chen
+ glong\n\n3.	颜色合格率讨论。\n\n@Wang\, Fen <mailto:fen.wang@benec
+ ke-changshun.com.cn> @Chen\, Chenglong <mailto:chenglong.chen@benecke-chan
+ gshun.com.cn> \n\n \n\n \n\n谢谢！\n\n \n\nSophia   1/20\n\n \n\n \n\n 
+ \n\n______________________________________________________________________
+ __________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.c
+ om/meet/37099182941006?p=QFHYF1gmL6gbUHdKvp <https://teams.microsoft.com/m
+ eet/37099182941006?p=QFHYF1gmL6gbUHdKvp>  \n\n会议 ID: 370 991 829 410 0
+ 6 \n\n密码: tm2Ln7J8 \n\n________________________________\n\n是否需
+ 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFiMTdkNTUtMmExMC00
+ MDYyLTg3YzItM2VmZDFlMzU1MjE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88b
+ b-0d07ade1664a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade166
+ 4a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZGFiM
+ TdkNTUtMmExMC00MDYyLTg3YzItM2VmZDFlMzU1MjE2@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e
+ 10-1775-44b3-92cf-aaf920ff7119>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:my office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:customer project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: Migration Support - EN
 DTSTART;TZID=GMT 标准时间:20260618T213000
 DTEND;TZID=GMT 标准时间:20260618T220000
@@ -474,42 +512,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:customer project review
-DTSTART;TZID=GMT 标准时间:20260619T150000
-DTEND;TZID=GMT 标准时间:20260619T160000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n1.	确认开发过程中的客户项目状
- 况。\n\n1.1   试制不合格情况讨论。\n\n1.2   试制多轮次情
- 况讨论。\n\n==》TPO\, PVC launch 负责\n\n2.	G70之后的，5批次
- 的量产订单的报废率改善说明。\n\n==》@wang Congyu @Chen chen
- glong\n\n3.	颜色合格率讨论。\n\n@Wang\, Fen <mailto:fen.wang@benec
- ke-changshun.com.cn> @Chen\, Chenglong <mailto:chenglong.chen@benecke-chan
- gshun.com.cn> \n\n \n\n \n\n谢谢！\n\n \n\nSophia   1/20\n\n \n\n \n\n 
- \n\n______________________________________________________________________
- __________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.c
- om/meet/37099182941006?p=QFHYF1gmL6gbUHdKvp <https://teams.microsoft.com/m
- eet/37099182941006?p=QFHYF1gmL6gbUHdKvp>  \n\n会议 ID: 370 991 829 410 0
- 6 \n\n密码: tm2Ln7J8 \n\n________________________________\n\n是否需
- 要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <h
- ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFiMTdkNTUtMmExMC00
- MDYyLTg3YzItM2VmZDFlMzU1MjE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
- 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88b
- b-0d07ade1664a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.mi
- crosoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade166
- 4a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZGFiM
- TdkNTUtMmExMC00MDYyLTg3YzItM2VmZDFlMzU1MjE2@thread.v2&messageId=0&language
- =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e
- 10-1775-44b3-92cf-aaf920ff7119>  \n\n_____________________________________
- ___________________________________________\n\n \n
-LOCATION:my office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:customer project review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
