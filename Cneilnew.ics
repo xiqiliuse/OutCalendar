@@ -45,6 +45,37 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:早会会议纪要
+DTSTART;TZID=GMT 标准时间:20260616T123000
+DTEND;TZID=GMT 标准时间:20260616T130000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n继续过一下早会会议纪要，谢谢
+ ！\n\n \n\nSophia  6/16\n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams 会议 \n\
+ n加入: https://teams.microsoft.com/meet/313993129039204?p=cDvhn05a8bpSAG
+ qhIk <https://teams.microsoft.com/meet/313993129039204?p=cDvhn05a8bpSAGqhI
+ k>  \n\n会议 ID: 313 993 129 039 204 \n\n密码: Sh6tv3rE \n\n__________
+ ______________________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMee
+ ting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_MTE4NTNkMTgtZjM1OC00ODhlLWJlNGEtYTNjZjc1MTZkOGFl%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%2
+ 2Oid%22%3a%2265af9c7b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织
+ 者: 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId
+ =65af9c7b-a4b9-4a5a-9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-262
+ 5c7e55082&threadId=19_meeting_MTE4NTNkMTgtZjM1OC00ODhlLWJlNGEtYTNjZjc1MTZk
+ OGFl@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:早会会议纪要
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IATF Audit-TPO Extrusion
 DTSTART;TZID=GMT 标准时间:20260616T140000
 DTEND;TZID=GMT 标准时间:20260616T150000
@@ -652,6 +683,24 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Q1 Plant Townhall Meeting
+DTSTART;TZID=GMT 标准时间:20260623T150000
+DTEND;TZID=GMT 标准时间:20260623T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n为总结近期生产与质量工作、强
+ 调安全生产事项、推行工厂文化落地，并表彰第一季度
+ “安全之星”、“质量之星”，工厂将召开第一季度工
+ 厂员工大会，诚邀各位同事准时参会。\n\n \n\n特此通知
+ ，请各位同事相互转告\n\n \n\n \n\n \n\n工厂管理部\n\n \n
+LOCATION:TPO车间
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 Q1 Plant Townhall Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260624T083500
 DTEND;TZID=GMT 标准时间:20260624T090500
@@ -1077,6 +1126,243 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kindly Reminder - ContiTech Invention Board Meeting - 2026 Schedul
+ e - Next IBM July 9\, 2026
+DTSTART;TZID=GMT 标准时间:20260629T130000
+DTEND;TZID=GMT 标准时间:20260629T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_____________________________________________\n发件人:
+  Chen\, Hongmei <Hongmei.Chen@contitech.com> \n发送时间: 2026年6月16
+ 日 9:44\n收件人: Li\, Xiaodong03 <xiaodong.3.li@contitech.com>\n主题
+ : 转发: Kindly Reminder - ContiTech Invention Board Meeting - 2026 Sched
+ ule - Next IBM July 9\, 2026\n重要性: 高\n\n \n\nHello Xiaodong：\n\n
+  \n\n下周开始，帮忙定期开会review 实用型专利提交的情
+ 况，谢谢！\n\n \n\n \n\nSophia   6/16\n\n \n\n发件人: Chen\, Tiebi
+ ng <tiebing.chen@contitech.com <mailto:tiebing.chen@contitech.com> > \n发
+ 送时间: 2026年6月11日 14:05\n收件人: Yu\, Jenny <jenny.yu@contite
+ ch.com <mailto:jenny.yu@contitech.com> >\; Fan\, Jessica <jessica.fan@cont
+ itech.com <mailto:jessica.fan@contitech.com> >\; Li\, Sam <sam.li@contitec
+ h.com <mailto:sam.li@contitech.com> >\; Martinez\, Jose <jose.martinez@con
+ titech.com <mailto:jose.martinez@contitech.com> >\; Zhang\, Qi03 <Qi.3.Zha
+ ng@contitech.com <mailto:Qi.3.Zhang@contitech.com> >\; Ma\, Yao <yao.ma@co
+ ntitech.com <mailto:yao.ma@contitech.com> >\; Zhang\, Kenneth <kenneth.zha
+ ng@contitech.com <mailto:kenneth.zhang@contitech.com> >\n抄送: Xia\, Jac
+ k <jack.xia@contitech.com <mailto:jack.xia@contitech.com> >\; Wang\, Chuan
+ feng01 <chuanfeng01.wang@contitech.com <mailto:chuanfeng01.wang@contitech.
+ com> >\; Zhang\, Meng05 <meng.5.zhang@contitech.com <mailto:meng.5.zhang@c
+ ontitech.com> >\; Gu\, Ying <ying.gu@contitech.com <mailto:ying.gu@contite
+ ch.com> >\; zhenxu.huang@contitech-sd.cn <mailto:zhenxu.huang@contitech-sd
+ .cn> \; '李洪成' <hongcheng.li@contitech-sd.cn <mailto:hongcheng.li@con
+ titech-sd.cn> >\; Liang\, Shaohua <shaohua.liang@contitech.com <mailto:sha
+ ohua.liang@contitech.com> >\; Cui\, Baoping <baoping.cui@contitech.com <ma
+ ilto:baoping.cui@contitech.com> >\; Chen\, Hongmei <Hongmei.Chen@contitech
+ .com <mailto:Hongmei.Chen@contitech.com> >\; zhang\, ying11 <ying.11.zhang
+ @contitech.com <mailto:ying.11.zhang@contitech.com> >\; Wu\, Weifei <weife
+ i.wu@contitech.com <mailto:weifei.wu@contitech.com> >\; Zhang\, Gene <gene
+ .zhang@contitech.com <mailto:gene.zhang@contitech.com> >\; Peters\, Herwig
+  <herwig.peters@contitech.com <mailto:herwig.peters@contitech.com> >\; Shi
+ \, Shengyong <peter.shi@contitech.com <mailto:peter.shi@contitech.com> >\n
+ 主题: Kindly Reminder - ContiTech Invention Board Meeting - 2026 Schedul
+ e - Next IBM July 9\, 2026\n\n \n\nDear all\,\n\n \n\nBelow please kindly 
+ find the Schedule of ContiTech Invention Board Meeting in this year. If yo
+ u have any new R&D output urgently seeking for a patent protection\, pleas
+ e submit the inventions to me before June 22\, 2026\, thanks so much!\n\n\
+ n\n \n\nShould you have any questions\, please do not hesitate to reach ou
+ t!\n\n \n\nBest Regards\n\n \n\nTiebing Chen/陈铁兵\n\nSenior IP Counse
+ l\n\nIntellectual Property Department\n\nContinental\, Group Sector ContiT
+ ech\n\n \n\nPhone: 15051685516\n\nEmail: tiebing.chen@contitech.com <mailt
+ o:tiebing.chen@contitech.com> \n\n \n\nContiTech Holding China Co.\, Ltd.\
+ n\n康迪泰克投资（中国）有限公司\n\n20F Building A\, North Am
+ erican Plaza\, 518 Kunming Road\, Shanghai 200082\, P.R. China\n\n上海
+ 市杨浦区昆明路518号北美广场A栋20楼\n\n \n\n发件人: Chen\,
+  Tiebing \n发送时间: 2026年4月17日 11:57\n收件人: Yu\, Jenny <je
+ nny.yu@continental.com <mailto:jenny.yu@continental.com> >\; Fan\, Jessica
+  <jessica.fan@fluid.contitech.cn <mailto:jessica.fan@fluid.contitech.cn> >
+ \; Li\, Sam <sam.li@ptg.contitech.cn <mailto:sam.li@ptg.contitech.cn> >\; 
+ Martinez\, Jose <jose.martinez@continental.com <mailto:jose.martinez@conti
+ nental.com> >\; Zhang\, Qi03 <Qi.3.Zhang@continental.com <mailto:Qi.3.Zhan
+ g@continental.com> >\; Ma\, Yao <yao.ma@benecke-changshun.com.cn <mailto:y
+ ao.ma@benecke-changshun.com.cn> >\; Zhang\, Kenneth <kenneth.zhang@contine
+ ntal.com <mailto:kenneth.zhang@continental.com> >\n抄送: Xia\, Jack <jac
+ k.xia@continental.com <mailto:jack.xia@continental.com> >\; Wang\, Chuanfe
+ ng01 <chuanfeng01.wang@benecke-changzhou.com.cn <mailto:chuanfeng01.wang@b
+ enecke-changzhou.com.cn> >\; Zhang\, Meng05 <meng.5.zhang@benecke-changshu
+ n.com.cn <mailto:meng.5.zhang@benecke-changshun.com.cn> >\; Gu\, Ying <yin
+ g.gu@benecke-changshun.com.cn <mailto:ying.gu@benecke-changshun.com.cn> >\
+ ; zhenxu.huang@contitech-sd.cn <mailto:zhenxu.huang@contitech-sd.cn> \; '
+ 李洪成' <hongcheng.li@contitech-sd.cn <mailto:hongcheng.li@contitech-sd
+ .cn> >\; Liang\, Shaohua <shaohua.liang@phoenix-sx.com <mailto:shaohua.lia
+ ng@phoenix-sx.com> >\; Cui\, Baoping <baoping.cui@continental.com <mailto:
+ baoping.cui@continental.com> >\; Chen\, Hongmei <Hongmei.Chen@benecke-chan
+ gshun.com.cn <mailto:Hongmei.Chen@benecke-changshun.com.cn> >\; zhang\, yi
+ ng11 <ying.11.zhang@continental.com <mailto:ying.11.zhang@continental.com>
+  >\; Wu\, Weifei <weifei.wu@ptg.contitech.cn <mailto:weifei.wu@ptg.contite
+ ch.cn> >\; Zhang\, Gene <gene.zhang@comp.contitech.cn <mailto:gene.zhang@c
+ omp.contitech.cn> >\n主题: Kindly Reminder - ContiTech Invention Board M
+ eeting - 2026 Schedule - Next IBM May 12\, 2026\n\n \n\nDear all\,\n\n \n\
+ nBelow please kindly find the Schedule of ContiTech Invention Board Meetin
+ g in this year. If you have any new R&D output urgently seeking for a pate
+ nt protection\, please submit the inventions to me before Apr. 21\, 2026\,
+  thanks so much!\n\n\n\n \n\nBest Regards\n\n \n\nTiebing Chen/陈铁兵\n
+ \nSenior IP Counsel\n\nIntellectual Property Department\n\nContinental\, G
+ roup Sector ContiTech\n\n \n\nPhone: 15051685516\n\nEmail: tiebing.chen@co
+ ntinental.com <mailto:tiebing.chen@continental.com> \n\n \n\nContiTech Hol
+ ding China Co.\, Ltd.\n\n康迪泰克投资（中国）有限公司\n\n20F
+  Building A\, North American Plaza\, 518 Kunming Road\, Shanghai 200082\, 
+ P.R. China\n\n上海市杨浦区昆明路518号北美广场A栋20楼\n\n \
+ n\n发件人: Chen\, Tiebing \n发送时间: 2025年6月10日 16:43\n收
+ 件人: Yu\, Jenny <jenny.yu@continental.com <mailto:jenny.yu@continental.
+ com> >\; Fan\, Jessica <jessica.fan@fluid.contitech.cn <mailto:jessica.fan
+ @fluid.contitech.cn> >\; Li\, Sam <sam.li@ptg.contitech.cn <mailto:sam.li@
+ ptg.contitech.cn> >\; Martinez\, Jose <jose.antonio.martinez.gorbena@conti
+ tech.net.au <mailto:jose.antonio.martinez.gorbena@contitech.net.au> >\; Zh
+ ang\, Qi03 <Qi.3.Zhang@continental.com <mailto:Qi.3.Zhang@continental.com>
+  >\; Ye\, Robin02 <jun.2.ye@continental.com <mailto:jun.2.ye@continental.c
+ om> >\; Ma\, Yao <yao.ma@benecke-changshun.com.cn <mailto:yao.ma@benecke-c
+ hangshun.com.cn> >\; Zhang\, Kenneth <kenneth.zhang@continental.com <mailt
+ o:kenneth.zhang@continental.com> >\; Ren\, Warren <naifeng.ren@continental
+ .com <mailto:naifeng.ren@continental.com> >\; Zhu\, MinYu <minyu.zhu@conti
+ nental.com <mailto:minyu.zhu@continental.com> >\; Zhang\, Hoffi08 <hao.8.z
+ hang@continental.com <mailto:hao.8.zhang@continental.com> >\; Chen\, Xiaom
+ in <xiaomin.chen@contitech.cn <mailto:xiaomin.chen@contitech.cn> >\n抄送
+ : Xia\, Jack <jack.xia@continental.com <mailto:jack.xia@continental.com> >
+ \; Wang\, Chuanfeng01 <chuanfeng01.wang@benecke-changzhou.com.cn <mailto:c
+ huanfeng01.wang@benecke-changzhou.com.cn> >\; Zhang\, Meng05 <meng.5.zhang
+ @benecke-changshun.com.cn <mailto:meng.5.zhang@benecke-changshun.com.cn> >
+ \; Gu\, Ying <ying.gu@benecke-changshun.com.cn <mailto:ying.gu@benecke-cha
+ ngshun.com.cn> >\; zhenxu.huang@contitech-sd.cn <mailto:zhenxu.huang@conti
+ tech-sd.cn> \; '李洪成' <hongcheng.li@contitech-sd.cn <mailto:hongcheng
+ .li@contitech-sd.cn> >\; Liang\, Shaohua <shaohua.liang@phoenix-sx.com <ma
+ ilto:shaohua.liang@phoenix-sx.com> >\; Sun\, Xiuqiang <xiuqiang.sun@contin
+ ental.com <mailto:xiuqiang.sun@continental.com> >\; Cui\, Baoping <baoping
+ .cui@continental.com <mailto:baoping.cui@continental.com> >\; Chen\, Hongm
+ ei <Hongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-cha
+ ngshun.com.cn> >\; zhang\, ying11 <ying.11.zhang@continental.com <mailto:y
+ ing.11.zhang@continental.com> >\; Wu\, Weifei <weifei.wu@ptg.contitech.cn 
+ <mailto:weifei.wu@ptg.contitech.cn> >\; Feng\, Kemei02 <kemei.2.feng@fluid
+ .contitech.cn <mailto:kemei.2.feng@fluid.contitech.cn> >\; Wang Xiufeng <W
+ ang.xiuFeng@continental.com <mailto:Wang.xiuFeng@continental.com> >\; Qi\,
+  Fei02 <fei.2.qi@fluid.contitech.cn <mailto:fei.2.qi@fluid.contitech.cn> >
+ \; Shi\, Shengyong <peter.shi@contitech.cn <mailto:peter.shi@contitech.cn>
+  >\; Zhang\, Gene <gene.zhang@comp.contitech.cn <mailto:gene.zhang@comp.co
+ ntitech.cn> >\n主题: 回复: Kindly Reminder - ContiTech Invention Board
+  Meeting - 2025 Schedule - Next IBM July 10\, 2025\n\n \n\nDear all\,\n\n 
+ \n\nBelow please kindly find the Schedule of ContiTech Invention Board Mee
+ ting in this year. If you have any new R&D output urgently seeking for a p
+ atent protection\, please submit the inventions to me before June 21st\, 2
+ 025\, thanks so much!\n\n \n\n\n\n \n\nBest Regards\n\n \n\nTiebing Chen/
+ 陈铁兵\n\nSenior IP Counsel\n\nIntellectual Property Department\n\nCont
+ inental\, Group Sector ContiTech\n\n \n\nPhone: 15051685516\n\nEmail: tieb
+ ing.chen@continental.com <mailto:tiebing.chen@continental.com> \n\n \n\nCo
+ ntiTech Holding China Co.\, Ltd.\n\n康迪泰克投资（中国）有限
+ 公司\n\n20F Building A\, North American Plaza\, 518 Kunming Road\, Shang
+ hai 200082\, P.R. China\n\n上海市杨浦区昆明路518号北美广场A
+ 栋20楼\n\n \n\n发件人: Chen\, Tiebing \n发送时间: 2025年4月15
+ 日 17:40\n收件人: Yu\, Jenny <jenny.yu@continental.com <mailto:jenny.y
+ u@continental.com> >\; Fan\, Jessica <jessica.fan@fluid.contitech.cn <mail
+ to:jessica.fan@fluid.contitech.cn> >\; Li\, Sam <sam.li@ptg.contitech.cn <
+ mailto:sam.li@ptg.contitech.cn> >\; Martinez\, Jose <jose.antonio.martinez
+ .gorbena@contitech.net.au <mailto:jose.antonio.martinez.gorbena@contitech.
+ net.au> >\; Zhang\, Qi03 <Qi.3.Zhang@continental.com <mailto:Qi.3.Zhang@co
+ ntinental.com> >\; Ye\, Robin02 <jun.2.ye@continental.com <mailto:jun.2.ye
+ @continental.com> >\; Ma\, Yao <yao.ma@benecke-changshun.com.cn <mailto:ya
+ o.ma@benecke-changshun.com.cn> >\; Zhang\, Kenneth <kenneth.zhang@continen
+ tal.com <mailto:kenneth.zhang@continental.com> >\; Ren\, Warren <naifeng.r
+ en@continental.com <mailto:naifeng.ren@continental.com> >\; Zha\, Charles 
+ <wangying.zha@continental.com <mailto:wangying.zha@continental.com> >\; Zh
+ u\, MinYu <minyu.zhu@continental.com <mailto:minyu.zhu@continental.com> >\
+ ; Zhang\, Hoffi08 <hao.8.zhang@continental.com <mailto:hao.8.zhang@contine
+ ntal.com> >\; Chen\, Xiaomin <xiaomin.chen@contitech.cn <mailto:xiaomin.ch
+ en@contitech.cn> >\n抄送: Xia\, Jack <jack.xia@continental.com <mailto:j
+ ack.xia@continental.com> >\; Wang\, Chuanfeng01 <chuanfeng01.wang@benecke-
+ changzhou.com.cn <mailto:chuanfeng01.wang@benecke-changzhou.com.cn> >\; Zh
+ ang\, Meng05 <meng.5.zhang@benecke-changshun.com.cn <mailto:meng.5.zhang@b
+ enecke-changshun.com.cn> >\; Gu\, Ying <ying.gu@benecke-changshun.com.cn <
+ mailto:ying.gu@benecke-changshun.com.cn> >\; zhenxu.huang@contitech-sd.cn 
+ <mailto:zhenxu.huang@contitech-sd.cn> \; '李洪成' <hongcheng.li@contite
+ ch-sd.cn <mailto:hongcheng.li@contitech-sd.cn> >\; Liang\, Shaohua <shaohu
+ a.liang@phoenix-sx.com <mailto:shaohua.liang@phoenix-sx.com> >\; Sun\, Xiu
+ qiang <xiuqiang.sun@continental.com <mailto:xiuqiang.sun@continental.com> 
+ >\; Cui\, Baoping <baoping.cui@continental.com <mailto:baoping.cui@contine
+ ntal.com> >\; Chen\, Hongmei <Hongmei.Chen@benecke-changshun.com.cn <mailt
+ o:Hongmei.Chen@benecke-changshun.com.cn> >\; zhang\, ying11 <ying.11.zhang
+ @continental.com <mailto:ying.11.zhang@continental.com> >\; Wu\, Weifei <w
+ eifei.wu@ptg.contitech.cn <mailto:weifei.wu@ptg.contitech.cn> >\; Feng\, K
+ emei02 <kemei.2.feng@fluid.contitech.cn <mailto:kemei.2.feng@fluid.contite
+ ch.cn> >\; Wang Xiufeng <Wang.xiuFeng@continental.com <mailto:Wang.xiuFeng
+ @continental.com> >\; Qi\, Fei02 <fei.2.qi@fluid.contitech.cn <mailto:fei.
+ 2.qi@fluid.contitech.cn> >\; Shi\, Shengyong <peter.shi@contitech.cn <mail
+ to:peter.shi@contitech.cn> >\; Zhang\, Gene <gene.zhang@comp.contitech.cn 
+ <mailto:gene.zhang@comp.contitech.cn> >\n主题: Kindly Reminder - ContiTe
+ ch Invention Board Meeting - 2025 Schedule - Next IBM May 8\, 2025\n\n \n\
+ nDear all\,\n\n \n\nBelow please kindly find the Schedule of ContiTech Inv
+ ention Board Meeting in this year. If you have any new R&D output urgently
+  seeking for a patent protection\, please submit the inventions to me befo
+ re April 21st\, 2025\, thanks so much!\n\n \n\n\n\n \n\nAny questions\, pl
+ ease feel free to contact me!\n\n \n\nBest Regards\n\n \n\nTiebing Chen/
+ 陈铁兵\n\nSenior IP Counsel\n\nIntellectual Property Department\n\nCont
+ inental\, Group Sector ContiTech\n\n \n\nPhone: 15051685516\n\nEmail: tieb
+ ing.chen@continental.com <mailto:tiebing.chen@continental.com> \n\n \n\nCo
+ ntiTech Holding China Co.\, Ltd.\n\n康迪泰克投资（中国）有限
+ 公司\n\n20F Building A\, North American Plaza\, 518 Kunming Road\, Shang
+ hai 200082\, P.R. China\n\n上海市杨浦区昆明路518号北美广场A
+ 栋20楼\n\n \n\n发件人: Chen\, Tiebing \n发送时间: 2025年2月12
+ 日 15:54\n收件人: Yu\, Jenny <jenny.yu@continental.com <mailto:jenny.y
+ u@continental.com> >\; Fan\, Jessica <jessica.fan@fluid.contitech.cn <mail
+ to:jessica.fan@fluid.contitech.cn> >\; Li\, Sam <sam.li@ptg.contitech.cn <
+ mailto:sam.li@ptg.contitech.cn> >\; Martinez\, Jose <jose.antonio.martinez
+ .gorbena@contitech.net.au <mailto:jose.antonio.martinez.gorbena@contitech.
+ net.au> >\; Zhang\, Qi03 <Qi.3.Zhang@continental.com <mailto:Qi.3.Zhang@co
+ ntinental.com> >\; Ye\, Robin02 <jun.2.ye@continental.com <mailto:jun.2.ye
+ @continental.com> >\; Ma\, Yao <yao.ma@benecke-changshun.com.cn <mailto:ya
+ o.ma@benecke-changshun.com.cn> >\; Zhang\, Kenneth <kenneth.zhang@continen
+ tal.com <mailto:kenneth.zhang@continental.com> >\; Ren\, Warren <naifeng.r
+ en@continental.com <mailto:naifeng.ren@continental.com> >\; Zha\, Charles 
+ <wangying.zha@continental.com <mailto:wangying.zha@continental.com> >\; Zh
+ u\, MinYu <minyu.zhu@continental.com <mailto:minyu.zhu@continental.com> >\
+ ; Zhang\, Hoffi08 <hao.8.zhang@continental.com <mailto:hao.8.zhang@contine
+ ntal.com> >\; Chen\, Xiaomin <xiaomin.chen@contitech.cn <mailto:xiaomin.ch
+ en@contitech.cn> >\; Qi\, Fei02 <fei.2.qi@fluid.contitech.cn <mailto:fei.2
+ .qi@fluid.contitech.cn> >\; Wang Xiufeng <Wang.xiuFeng@continental.com <ma
+ ilto:Wang.xiuFeng@continental.com> >\; Feng\, Kemei02 <kemei.2.feng@fluid.
+ contitech.cn <mailto:kemei.2.feng@fluid.contitech.cn> >\; Wu\, Weifei <wei
+ fei.wu@ptg.contitech.cn <mailto:weifei.wu@ptg.contitech.cn> >\n抄送: Xia
+ \, Jack <jack.xia@continental.com <mailto:jack.xia@continental.com> >\; Wa
+ ng\, Chuanfeng01 <chuanfeng01.wang@benecke-changzhou.com.cn <mailto:chuanf
+ eng01.wang@benecke-changzhou.com.cn> >\; Zhang\, Meng05 <meng.5.zhang@bene
+ cke-changshun.com.cn <mailto:meng.5.zhang@benecke-changshun.com.cn> >\; Gu
+ \, Ying <ying.gu@benecke-changshun.com.cn <mailto:ying.gu@benecke-changshu
+ n.com.cn> >\; zhenxu.huang@contitech-sd.cn <mailto:zhenxu.huang@contitech-
+ sd.cn> \; '李洪成' <hongcheng.li@contitech-sd.cn <mailto:hongcheng.li@c
+ ontitech-sd.cn> >\; Liang\, Shaohua <shaohua.liang@phoenix-sx.com <mailto:
+ shaohua.liang@phoenix-sx.com> >\; Sun\, Xiuqiang <xiuqiang.sun@continental
+ .com <mailto:xiuqiang.sun@continental.com> >\; Cui\, Baoping <baoping.cui@
+ continental.com <mailto:baoping.cui@continental.com> >\; Chen\, Hongmei <H
+ ongmei.Chen@benecke-changshun.com.cn <mailto:Hongmei.Chen@benecke-changshu
+ n.com.cn> >\n主题: ContiTech Invention Board Meeting - 2025 Schedule\n\n
+  \n\nDear all\,\n\n \n\nBelow please kindly find the Schedule of ContiTech
+  Invention Board Meeting in this year. For any new R&D output urgently see
+ king for a patent protection\, please submit the inventions to me accordin
+ g to the suggested IDF submission date.\n\n\n\n \n\nBTW\, the attached inv
+ ention disclosure form is still available for our inventors to disclose th
+ eir new inventions\, after completion of the form\, just send it to me via
+  email\, then I will start our internal patent application process.\n\n \n
+ \nBest Regards\n\n \n\nTiebing Chen/陈铁兵\n\nSenior IP Counsel (ContiT
+ ech China)\n\nIntellectual Property Department\n\n \n\nPhone: 86-216080466
+ 8 / 15051685516\n\nFax: 86-21-60804021\n\nEmail: tiebing.chen@continental-
+ corporation.com <mailto:tiebing.chen@continental-corporation.com> \n\n \n\
+ nContinental Holding China Co.\, Ltd.\n\n13 floor\, NAP (C)\, 538 Dalian R
+ oad\, Shanghai 200082\, P.R.China\n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindly Reminder - ContiTech Invention Board Meeting - 2026 Sch
+ edule - Next IBM July 9\, 2026
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
