@@ -365,6 +365,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPO2新配方试制，参考P417项目结构
+DTSTART;TZID=GMT 标准时间:20260622T103000
+DTEND;TZID=GMT 标准时间:20260622T110000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位\n\n \n\n新开发的二代降本配方，参考P4
+ 17项目 Z2100220Y1200A\n\n后续要安排客户端试制，\n\n \n\n召
+ 集各位开个项目启动会议，节后就拉单子做了\n\n__________
+ ______________________________________________________________________\n\n
+ Microsoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/372345
+ 91021866?p=4lbWwSOU2SdyiyQsjw <https://teams.microsoft.com/meet/3723459102
+ 1866?p=4lbWwSOU2SdyiyQsjw>  \n\n会议 ID: 372 345 910 218 66 \n\n密码: 
+ 7nY9Hk3u \n\n________________________________\n\n是否需要帮助? <http
+ s://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.mic
+ rosoft.com/l/meetup-join/19%3ameeting_NGY1MGQwYWUtZjgyZS00YjJjLWIyYmQtZDJi
+ NDZhZmIzOGRl%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa
+ 5a-2625c7e55082%22%2c%22Oid%22%3a%225f97ebad-407b-44f2-9df2-a61e74320e62%2
+ 2%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meet
+ ingOptions/?organizerId=5f97ebad-407b-44f2-9df2-a61e74320e62&tenantId=49bc
+ f5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_NGY1MGQwYWUtZjgyZS00Y
+ jJjLWIyYmQtZDJiNDZhZmIzOGRl@thread.v2&messageId=0&language=zh-CN>  \n\n隐
+ 私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832
+ a-1d684ab9ad7e>  \n\n_____________________________________________________
+ ___________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO2新配方试制，参考P417项目结构
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:色母粒&油漆房Database调整
 DTSTART;TZID=GMT 标准时间:20260622T140000
 DTEND;TZID=GMT 标准时间:20260622T150000
