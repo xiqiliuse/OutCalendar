@@ -63,6 +63,34 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2YC 客户要求增加管控TPO 表皮层厚度 0.5+0.05 mm
+DTSTART;TZID=GMT 标准时间:20260622T113000
+DTEND;TZID=GMT 标准时间:20260622T120000
+CLASS:PUBLIC
+DESCRIPTION:\n____________________________________________________________
+ ____________________\nMicrosoft Teams 会议 \n加入: https://teams.micro
+ soft.com/meet/371452354986519?p=gu6lSHeamng9Pjv52w \n会议 ID: 371 452 35
+ 4 986 519 \n密码: Co3qa2rh \n________________________________\n\n是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用
+  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjNlMDk3NzMtZTY0Z
+ i00ODExLWFmMWEtYmU2MWMzODA4NDIx%40thread.v2/0?context=%7b%22Tid%22%3a%2249
+ bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%225f9b9f82-7919-469f-
+ 8af1-f7eaad9ab8aa%22%7d>  \n对于组织者: 会议选项 <https://teams.m
+ icrosoft.com/meetingOptions/?organizerId=5f9b9f82-7919-469f-8af1-f7eaad9ab
+ 8aa&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_MjNl
+ MDk3NzMtZTY0Zi00ODExLWFmMWEtYmU2MWMzODA4NDIx@thread.v2&messageId=0&languag
+ e=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531
+ f-d1ca-436b-832a-1d684ab9ad7e>  \n________________________________________
+ ________________________________________
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2YC 客户要求增加管控TPO 表皮层厚度 0.5+0.05 mm
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:宁德新泉V446K问题点
 DTSTART;TZID=GMT 标准时间:20260622T130000
 DTEND;TZID=GMT 标准时间:20260622T140000
