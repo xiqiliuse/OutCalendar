@@ -175,29 +175,40 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Project review
+SUMMARY:BCZ Sprint 讨论
 DTSTART;TZID=GMT 标准时间:20260626T153000
 DTEND;TZID=GMT 标准时间:20260626T163000
 CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZDA1MjA3ODYtZGMzMi00OWNiLWEwNGItNm
- Y2MWI4OWE1OThm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 379 358 398 426 73 \n\n密码: 9yU3DY6P \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZD
- A1MjA3ODYtZGMzMi00OWNiLWEwNGItNmY2MWI4OWE1OThm@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
+DESCRIPTION:Dear all：\n\n \n\n由于1-5月份，BCZ sprint 没有达标
+ ，目前已经被管理层重点关注。\n\n1.	解释1-5月份项目未
+ 达标的原因。\n2.	需要召集大家一起讨论潜在的cost saving
+ 的项目，如何保证FC达到target？\n\n此会非常重要，请大
+ 家务必参加，如果委派，参加人员需要能够承诺数据。\n
+ \n@Jin\, Lei <mailto:lei.jin@contitech.com> ，\n\n（1）我看了BCC的
+ 数据，SQE 索赔的部分，他们也算，你看看我们BCZ的情况
+ 是否可以添加？\n\n\n\n（2）BCC报废率降低也算，你看看
+ 我们BCZ NQC的数据？\n\n\n\n \n\n谢谢！\n\n \n\nSophia  6/25\n\n \
+ n\n \n\n__________________________________________________________________
+ ______________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microso
+ ft.com/meet/338335700645175?p=6r61NUxN8SDfB27fkp <https://teams.microsoft.
+ com/meet/338335700645175?p=6r61NUxN8SDfB27fkp>  \n\n会议 ID: 338 335 700
+  645 175 \n\n密码: Ti2wV3mc \n\n________________________________\n\n是
+ 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引
+ 用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjEwNDViNWUtYT
+ UyMi00NmUwLTliOGUtZGMxZGIxYmUzMDRm%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7b-a4b9-4a
+ 5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-9863-844e
+ f4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting
+ _ZjEwNDViNWUtYTUyMi00NmUwLTliOGUtZGMxZGIxYmUzMDRm@thread.v2&messageId=0&la
+ nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
+ 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
+ _________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Project review
+DESCRIPTION:BCZ Sprint 讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -649,6 +660,33 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Project review
+DTSTART;TZID=GMT 标准时间:20260701T160000
+DTEND;TZID=GMT 标准时间:20260701T170000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZDA1MjA3ODYtZGMzMi00OWNiLWEwNGItNm
+ Y2MWI4OWE1OThm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
+ %22%7d>  \n\n会议 ID: 379 358 398 426 73 \n\n密码: 9yU3DY6P \n\n______
+ __________________________\n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
+ 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZD
+ A1MjA3ODYtZGMzMi00OWNiLWEwNGItNmY2MWI4OWE1OThm@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
+ 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:My Office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Project review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: Migration Unterstützung - DE
 DTSTART;TZID=GMT 标准时间:20260701T173000
 DTEND;TZID=GMT 标准时间:20260701T180000
@@ -698,54 +736,119 @@ SUMMARY:2026 Quarterly Cross-Group Learning Review & Sharing Meeting｜202
 DTSTART;TZID=GMT 标准时间:20260702T130000
 DTEND;TZID=GMT 标准时间:20260702T163000
 CLASS:PUBLIC
-DESCRIPTION:Dear D Talent Team\,\n\n尊敬的 D Talent 团队，\n\n \n\nW
- e are pleased to invite you to our 2026 Quarterly Cross-Group Learning Rev
- iew & Sharing Meeting. 🎉\n\n我们诚挚地邀请您参加2026 年度
- 季度跨小组学习回顾与成果分享会议。\n\n \n\nThis quarterly
-  meeting is designed to enhance learning communication and collaboration a
- cross different groups. The session will focus on reviewing the progress o
- f ongoing training programs\, sharing learning outcomes\, and aligning on 
- learning priorities and course content for the upcoming quarter.\n\n本次
- 季度会议旨在加强不同小组之间的学习沟通与协作，重
- 点回顾当前培训项目的整体进展，分享学习成果，并对
- 齐下一阶段的学习重点与课程内容。\n\n \n\n*  👥Participan
- ts / 参与人员：\n\n*  All D Talent Program group members are required
-  to attend.\n\n*  D Talent Program 小组成员需必须参加。\n\n*  Ma
- nagement level members are welcome to attend on an optional basis.\n\n*  
- 管理层可自愿参加。\n\n \n\nDuring the meeting\, we will:\n\n会
- 议将主要包括以下内容：\n\n \n\n*  🗂️Review Coursera accoun
- t usage and accumulated training hours across groups\n\n  回顾各小组 
- Coursera 账户使用情况及培训时长\n\n*  🌟Share key learning ou
- tcomes\, application cases\, and achievements from different groups\n\n   
-  分享各小组的学习成果、实践应用案例及阶段性成果\n\n
- *  🧭Align on upcoming learning tasks\, priorities\, and course content 
- for the next quarter\n\n    对齐下一季度的学习任务、重点方
- 向及课程规划\n\n*  💡Collect feedback and suggestions to continuou
- sly improve our group learning initiatives\n\n    收集反馈与建议，
- 持续优化小组学习机制\n\n \n\nThis meeting will serve as an impor
- tant platform for cross-group knowledge sharing and mutual learning. We lo
- ok forward to your participation and valuable insights.\n\n本次会议将
- 作为跨小组知识共享与经验交流的重要平台，期待您的
- 积极参与和宝贵建议。\n\n \n\nThank you\, and we look forward to 
- seeing you at the meeting.\n\n感谢您的支持，期待您的参与！
- 😊\n\n \n\nBest regards\,\n\nLily Liu is sending this email on behalf of
-  the cross-functional project team.\n\n \n\n______________________________
- __________________________________________________\n\nMicrosoft Teams meet
- ing \n\nJoin: https://teams.microsoft.com/meet/383016132007181?p=6rsQ0tp6w
- AUcWb4Pt2 <https://teams.microsoft.com/meet/383016132007181?p=6rsQ0tp6wAUc
- Wb4Pt2>  \n\nMeeting ID: 383 016 132 007 181 \n\nPasscode: 59jX7Zx3 \n\n__
- ______________________________\n\nNeed help? <https://aka.ms/JoinTeamsMeet
- ing?omkt=en-US>  | System reference <https://teams.microsoft.com/l/meetup-
- join/19%3ameeting_MWM4YTU5NTQtYjk5ZS00MDMzLWIzY2MtNjI4ZWEwZjFlMGQx%40threa
- d.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2
- c%22Oid%22%3a%2219e4d4bd-ed8a-42c2-9001-77c414b89798%22%7d>  \n\nFor organ
- izers: Meeting options <https://teams.microsoft.com/meetingOptions/?organi
- zerId=19e4d4bd-ed8a-42c2-9001-77c414b89798&tenantId=49bcf5a3-8181-4f6c-aa5
- a-2625c7e55082&threadId=19_meeting_MWM4YTU5NTQtYjk5ZS00MDMzLWIzY2MtNjI4ZWE
- wZjFlMGQx@thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security 
- <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7
- e>  \n\n__________________________________________________________________
- ______________\n\n \n
+DESCRIPTION:Dear D Talent Program Members\,\n\n尊敬的 D Talent Program 
+ 成员：\n\n \n\nThe case collection and presentation order draw for the 
+ Q2 Exchange Meeting have now been completed. Thank you all for your active
+  participation and case submissions.\n\nQ2交流会案例征集及展示
+ 顺序抽签工作现已完成。感谢大家积极参与并提交优秀
+ 案例。\n\n \n\nPlease find the presentation order below:\n\n展示顺
+ 序如下：\n\n \n\nOrder\n\nTeam Number\n\nQuarter\n\nSubmitter\n\nTitle
+ \n\nStakeholders\n\n1\n\nGroup 1\n\n2\n\nCao\, Haibing\n\nCIM重复性筛
+ 查/CIM Repeat Screening\n\nHuang\, Qing\n\n2\n\nGroup 1\n\n2\n\nCheng\, D
+ ong01\n\n慢病管理系统/Chronic Disease Management System\n\nTE_ZG_FA\
+ , Health Center\n\n3\n\nGroup 1\n\n2\n\nHuang-EXT\, Weiping\n\n实验室
+ 信息管理系统/Laboratory Information Management System\n\nShi\, Gino\
+ n\n4\n\nGroup 1\n\n2\n\nHuang-EXT\, Weiping\n\n数字工具箱/Digital Too
+ lbox\n\n	\n5\n\nGroup 3\n\n1\n\nZhu\, Dali\;Bian\, Baoxiang02\n\nAI 安全
+ 行为观察/AI-Based Safety Behavior Observation\n\nGe\, Yiqiang\n\n6\n\n
+ Group 4\n\n2\n\nTang\, Jiawei04\n\nAI配方自动化（相似推荐）/AI-
+ Powered Formulation Automation (Similarity Recommendations)\n\n　\n\n7\n\
+ nGroup 2\n\n2\n\nLi\, Xiaodong03\n\n基于Grafana的工艺参数超差目
+ 视化看板/Grafana-Based Visualization Dashboard for Process Parameter O
+ ut-of-Tolerance Alerts\n\nChen\, Hongmei\n\n \n\n@Huang\, Qing <mailto:Qin
+ g.Huang@contitech.com> @TE_ZG_FA\, Health Center <mailto:health.center.te_
+ zg_fa@contitech.com> @Shi\, Gino <mailto:Gaofeng.shi@contitech.com> @Ge\, 
+ Yiqiang <mailto:yiqiang.ge@contitech.com> @Chen\, Hongmei <mailto:Hongmei.
+ Chen@contitech.com>  \n\nDear Stakeholder\, you are cordially invited to a
+ ttend the corresponding case presentation session and witness the project 
+ outcomes firsthand. Your feedback and insights will be highly appreciated.
+ \n\n尊敬的利益相关方，诚挚邀请您莅临对应案例展示时
+ 段，现场观摩项目成果，您的反馈与建议将对项目价值
+ 验证和持续改进提供重要支持。\n\n \n\n@Zhang\, Melody <mailto
+ :melody.zhang@contitech.com> \n\nDear Melody\, @Bian\, Baoxiang02 <mailto:
+ baoxiang.2.bian@contitech.com>  has recommended you to participate in this
+  event\, as your previous discussions demonstrated a strong interest and c
+ uriosity in Claude. We would be delighted to have you join us and welcome 
+ your participation if your schedule permits.\n\n亲爱的 Melody，保祥
+ 推荐您参与本次活动。在与您的工作交流过程中，我们
+ 感受到了您对 Claude 的浓厚兴趣与好奇。诚挚邀请您莅临
+ 现场参加本次活动，如时间允许，期待您的参与。\n\n \n\
+ n@Ma\, Yao <mailto:yao.ma@contitech.com> \n\nDear Dr. Ma\, @Shi\, Gino <ma
+ ilto:Gaofeng.shi@contitech.com>  recommended inviting a business stakehold
+ er to participate in this event\, as the LIMS project involves the digital
+ ization of the upstream DVP process\; their participation would help us be
+ tter showcase and validate the project outcomes. We would appreciate your 
+ support in identifying and inviting a suitable representative.\n\n尊敬
+ 的马博士，Gino推荐邀请一位业务相关方参与本次活动。
+ 由于 LIMS 项目涉及前道 DVP 流程的数字化建设，其参与将
+ 有助于更好地展示和验证项目成果，烦请协助推荐并邀
+ 请合适的业务代表参加。\n\n \n\nTo ensure consistency and effect
+ ive communication during the exchange meeting\, please note the following 
+ requirements:\n\n为确保交流会顺利开展并保持展示内容的一
+ 致性，请大家注意以下要求：\n\n \n\nPlease prepare your presen
+ tation using the latest company PPT template.\n\n请使用公司最新版P
+ PT模板准备展示材料。\n\n \n\nEach case should contain at least on
+ e PPT slide.\n\n每个案例至少准备1页PPT。\n\n \n\nPlease be prepa
+ red to conduct an on-site demonstration of your project results or achieve
+ ments whenever applicable.\n\n请结合项目实际情况，配合现场
+ 成果展示或演示，以便更直观地呈现项目成果及项目价
+ 值。\n\n \n\nIf you have any questions regarding the presentation prepar
+ ation\, please contact the organizing team.\n\n如对展示准备工作有
+ 任何疑问，请及时与组织团队联系。\n\n \n\nThank you for you
+ r cooperation. We look forward to learning from your valuable experiences 
+ and successful practices during the exchange session.\n\n感谢大家的
+ 支持与配合，期待在交流会上共同分享优秀实践与项目
+ 成果。\n\n \n\nBest Regards\,\n\nLily Liu is sending this email on beha
+ lf of the cross-functional project team.\n\n \n\n-------------------------
+ ---------------------------------------------------------------\n\n \n\nDe
+ ar D Talent Team\,\n\n尊敬的 D Talent 团队，\n\n \n\nWe are pleased 
+ to invite you to our 2026 Quarterly Cross-Group Learning Review & Sharing 
+ Meeting. 🎉\n\n我们诚挚地邀请您参加2026 年度季度跨小组
+ 学习回顾与成果分享会议。\n\n \n\nThis quarterly meeting is des
+ igned to enhance learning communication and collaboration across different
+  groups. The session will focus on reviewing the progress of ongoing train
+ ing programs\, sharing learning outcomes\, and aligning on learning priori
+ ties and course content for the upcoming quarter.\n\n本次季度会议旨
+ 在加强不同小组之间的学习沟通与协作，重点回顾当前
+ 培训项目的整体进展，分享学习成果，并对齐下一阶段
+ 的学习重点与课程内容。\n\n \n\n*  👥Participants / 参与人
+ 员：\n\n*  All D Talent Program group members are required to attend.\n\
+ n*  D Talent Program 小组成员需必须参加。\n\n*  Management level
+  members are welcome to attend on an optional basis.\n\n*  管理层可自
+ 愿参加。\n\n \n\nDuring the meeting\, we will:\n\n会议将主要包
+ 括以下内容：\n\n \n\n*  🗂️Review Coursera account usage and acc
+ umulated training hours across groups\n\n  回顾各小组 Coursera 账户
+ 使用情况及培训时长\n\n*  🌟Share key learning outcomes\, applic
+ ation cases\, and achievements from different groups\n\n    分享各小
+ 组的学习成果、实践应用案例及阶段性成果\n\n*  🧭Align 
+ on upcoming learning tasks\, priorities\, and course content for the next 
+ quarter\n\n    对齐下一季度的学习任务、重点方向及课程
+ 规划\n\n*  💡Collect feedback and suggestions to continuously improve 
+ our group learning initiatives\n\n    收集反馈与建议，持续优化
+ 小组学习机制\n\n \n\nThis meeting will serve as an important platfor
+ m for cross-group knowledge sharing and mutual learning. We look forward t
+ o your participation and valuable insights.\n\n本次会议将作为跨小
+ 组知识共享与经验交流的重要平台，期待您的积极参与
+ 和宝贵建议。\n\n \n\nThank you\, and we look forward to seeing you a
+ t the meeting.\n\n感谢您的支持，期待您的参与！😊\n\n \n\nB
+ est regards\,\n\nLily Liu is sending this email on behalf of the cross-fun
+ ctional project team.\n\n \n\n____________________________________________
+ ____________________________________\n\nMicrosoft Teams meeting \n\nJoin: 
+ https://teams.microsoft.com/meet/383016132007181?p=6rsQ0tp6wAUcWb4Pt2 <htt
+ ps://teams.microsoft.com/meet/383016132007181?p=6rsQ0tp6wAUcWb4Pt2>  \n\nM
+ eeting ID: 383 016 132 007 181 \n\nPasscode: 59jX7Zx3 \n\n________________
+ ________________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US
+ >  | System reference <https://teams.microsoft.com/l/meetup-join/19%3ameet
+ ing_MWM4YTU5NTQtYjk5ZS00MDMzLWIzY2MtNjI4ZWEwZjFlMGQx%40thread.v2/0?context
+ =%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%
+ 2219e4d4bd-ed8a-42c2-9001-77c414b89798%22%7d>  \n\nFor organizers: Meeting
+  options <https://teams.microsoft.com/meetingOptions/?organizerId=19e4d4bd
+ -ed8a-42c2-9001-77c414b89798&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ &threadId=19_meeting_MWM4YTU5NTQtYjk5ZS00MDMzLWIzY2MtNjI4ZWEwZjFlMGQx@thre
+ ad.v2&messageId=0&language=en-US>  \n\nPrivacy and security <https://fileh
+ ub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______
+ __________________________________________________________________________
+ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
