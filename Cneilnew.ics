@@ -5,71 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260626T083500
-DTEND;TZID=GMT 标准时间:20260626T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_YjM1MTVlMjYtOGI5My00NGMxLTgxYmEtM2
- YwN2FhZjhkNmFl%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 373 635 821 179 30 \n\n密码: v93L9nn7 \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Yj
- M1MTVlMjYtOGI5My00NGMxLTgxYmEtM2YwN2FhZjhkNmFl@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ Sprint 讨论
-DTSTART;TZID=GMT 标准时间:20260626T153000
-DTEND;TZID=GMT 标准时间:20260626T163000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n由于1-5月份，BCZ sprint 没有达标
- ，目前已经被管理层重点关注。\n\n1.	解释1-5月份项目未
- 达标的原因。\n2.	需要召集大家一起讨论潜在的cost saving
- 的项目，如何保证FC达到target？\n\n此会非常重要，请大
- 家务必参加，如果委派，参加人员需要能够承诺数据。\n
- \n@Jin\, Lei <mailto:lei.jin@contitech.com> ，\n\n（1）我看了BCC的
- 数据，SQE 索赔的部分，他们也算，你看看我们BCZ的情况
- 是否可以添加？\n\n\n\n（2）BCC报废率降低也算，你看看
- 我们BCZ NQC的数据？\n\n\n\n \n\n谢谢！\n\n \n\nSophia  6/25\n\n \
- n\n \n\n__________________________________________________________________
- ______________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microso
- ft.com/meet/338335700645175?p=6r61NUxN8SDfB27fkp <https://teams.microsoft.
- com/meet/338335700645175?p=6r61NUxN8SDfB27fkp>  \n\n会议 ID: 338 335 700
-  645 175 \n\n密码: Ti2wV3mc \n\n________________________________\n\n是
- 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引
- 用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjEwNDViNWUtYT
- UyMi00NmUwLTliOGUtZGMxZGIxYmUzMDRm%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7b-a4b9-4a
- 5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-9863-844e
- f4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting
- _ZjEwNDViNWUtYTUyMi00NmUwLTliOGUtZGMxZGIxYmUzMDRm@thread.v2&messageId=0&la
- nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
- _________________________________________________\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ Sprint 讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260629T083500
 DTEND;TZID=GMT 标准时间:20260629T090500
 CLASS:PUBLIC
@@ -1853,6 +1788,134 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:已取消: 油漆&色母粒周会
+DTSTART;TZID=GMT 标准时间:20260728T101500
+DTEND;TZID=GMT 标准时间:20260728T110000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:已取消: 油漆&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:定期review设备改善项目
+DTSTART;TZID=GMT 标准时间:20260728T140000
+DTEND;TZID=GMT 标准时间:20260728T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear all：\n\n \n\n我们需要定期review 相关的设备
+ 改善进度。\n\n@Chen chenglong <mailto:chenglong.chen@benecke-changshu
+ n.com.cn> ，如果我无法参加会议的话，请帮忙定期回顾，
+ 谢谢！\n\n@Yao\, Tomi <mailto:mengyue.yao@benecke-changshun.com.cn> \,M
+ E需要参加的人员，请帮忙添加。\n\n \n\nSophia   3/19\n\n_____
+ __________________________________________________________________________
+ _\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/3
+ 5564427492136?p=NlAZUwk1UitrGdKIBm <https://teams.microsoft.com/meet/35564
+ 427492136?p=NlAZUwk1UitrGdKIBm>  \n\n会议 ID: 355 644 274 921 36 \n\n密
+ 码: kN7dy6wx \n\n________________________________\n\n是否需要帮助? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_OWExMjE0N2ItMjQ4OC00OGIwLWIwMDI
+ tMzdjODU1ZDEzZDNk%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade16
+ 64a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com
+ /meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade1664a&tenantId
+ =8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_OWExMjE0N2ItMjQ4
+ OC00OGIwLWIwMDItMzdjODU1ZDEzZDNk@thread.v2&messageId=0&language=zh-CN>  \n
+ \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d6981e10-1775-44b
+ 3-92cf-aaf920ff7119>  \n\n________________________________________________
+ ________________________________\n\n \n
+LOCATION:维修会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:定期review设备改善项目
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260728T143000
+DTEND;TZID=GMT 标准时间:20260728T150000
+CLASS:PUBLIC
+DESCRIPTION:To support you during the IT environment migration\, we are of
+ fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
+ d to:\n\n✅ Provide guidance and background information on the migration\
+ n\n✅ Share practical tips and best practices\n\n✅ Answer your question
+ s live\n\n✅ Learn from real use cases and experiences from the community
+ \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
+ IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
+ osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
+ Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
+ n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
+ eriences.\n\n \n\nOur goal is to learn together and support each other thr
+ oughout the migration.\n\nWe’re looking forward to your participation!\n
+ \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
+ TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
+ QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Migration Support - EN
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO量产颜色梳理会
+DTSTART;TZID=GMT 标准时间:20260728T150000
+DTEND;TZID=GMT 标准时间:20260728T160000
+CLASS:PUBLIC
+DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
+ 2.xu@contitech.com>\nSent: Wednesday\, 24 June 2026 05:24:51\nTo: Zhang\, 
+ Yufan02 <yufan.2.zhang@contitech.com>\; TE_ZG_FA\, LuKeting <luketing.te_z
+ g_fa@contitech.com>\; Du-EXT\, Wenqiu02 <wenqiu.2.du-EXT@contitech.com>\; 
+ Shen\, Qi <qi.shen@contitech.com>\; Guo\, Wei02 <wei.2.guo@contitech.com>\
+ ; Wang\, Fen <fen.wang@contitech.com>\nSubject: DX1H stone grey 颜色配
+ 方优化 \n \nHello Yufan\,\n\n色号77712，\n基于8294612\nDL:+0.65\,\
+ nDa:-0.2\nDb:+0.1\n\n色号77713\n基于8294614\nDl: +0.55\nDa: -0.15\nDb:
+ +0.15\n\n同色异普A光源和Tl84 F11光源客户反馈上边两个批
+ 次同塑料色板目视比对偏红，优化配方时请关注\n\nBest re
+ gards\nSofie\n\nInternal\n\n______________________________________________
+ __________________________________\nMicrosoft Teams 会议 \n加入: https
+ ://teams.microsoft.com/meet/361469863528743?p=LIrR4J3Rgk6rJLHsSz \n会议 
+ ID: 361 469 863 528 743 \n密码: J78aL3y7 \n_____________________________
+ ___\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  |
+  系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDhi
+ ZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz%40thread.v2/0?context=%7b%22T
+ id%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22bd9db7
+ 2d-4b6f-4606-b88e-6949f31da74c%22%7d>  \n对于组织者: 会议选项 <ht
+ tps://teams.microsoft.com/meetingOptions/?organizerId=bd9db72d-4b6f-4606-b
+ 88e-6949f31da74c&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19
+ _meeting_MDhiZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz@thread.v2&messag
+ eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
+ /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
+ _____________________________________________________
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO量产颜色梳理会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
