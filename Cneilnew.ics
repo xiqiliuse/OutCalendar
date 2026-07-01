@@ -53,6 +53,52 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:COEM 国产管控review
+DTSTART;TZID=GMT 标准时间:20260701T140000
+DTEND;TZID=GMT 标准时间:20260701T150000
+CLASS:PUBLIC
+DESCRIPTION:@Guo\, Wei02 <mailto:wei.2.guo@contitech.com> \,\n\n分享1.2.
+ 3 点汇总信息。\n\n \n\n==》VAVE/R&D 原材料国产化或者切换
+ 的管理。 讨论一下。\n\n \n\n \n\n谢谢！\n\n \n\nSophia  7/1\n\
+ n \n\n____________________________________________________________________
+ ____________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft
+ .com/meet/384416271047383?p=W8gIyK88NHrf6afmAG <https://teams.microsoft.co
+ m/meet/384416271047383?p=W8gIyK88NHrf6afmAG>  \n\n会议 ID: 384 416 271 0
+ 47 383 \n\n密码: B3HE22Nz \n\n________________________________\n\n是否
+ 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用
+  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWYyN2UzOTAtYjdiN
+ C00ODdkLTkwNmQtNGVkMjA1Zjc4M2Uw%40thread.v2/0?context=%7b%22Tid%22%3a%2249
+ bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7b-a4b9-4a5a-
+ 9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-9863-844ef43
+ 86e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_YW
+ YyN2UzOTAtYjdiNC00ODdkLTkwNmQtNGVkMjA1Zjc4M2Uw@thread.v2&messageId=0&langu
+ age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650
+ 1531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________
+ ______________________________________________\n\n \n
+LOCATION:Sophia‘ office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:COEM 国产管控review
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:基于Grafana的工艺参数超差目视化看板
+DTSTART;TZID=GMT 标准时间:20260701T154500
+DTEND;TZID=GMT 标准时间:20260701T160000
+CLASS:PUBLIC
+DESCRIPTION: \n
+LOCATION:ppi 
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:基于Grafana的工艺参数超差目视化看板
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project review
 DTSTART;TZID=GMT 标准时间:20260701T160000
 DTEND;TZID=GMT 标准时间:20260701T170000
@@ -433,6 +479,115 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:0.3mm试制Review
+DTSTART;TZID=GMT 标准时间:20260706T150000
+DTEND;TZID=GMT 标准时间:20260706T154500
+CLASS:PUBLIC
+DESCRIPTION:试制前review\n\n \n\n______________________________________
+ _______\n发件人: Kang\, Bill <Fujun.Kang@contitech.com> \n发送时间:
+  2026年6月29日 15:21\n收件人: Yao\, Tomi <mengyue.yao@contitech.com>
+ \; Li\, Xiaodong03 <xiaodong.3.li@contitech.com>\; Qian\, Zhenhua <zhenhua
+ .qian@contitech.com>\n抄送: Sun\, Xiaoyong <xiaoyong.sun@contitech.com>\
+ ; Zhou\, Yunyun <Yunyun.Zhou@contitech.com>\; Lu\, Zhichao02 <zhichao.2.lu
+ @contitech.com>\; Sun\, Hongxin <hongxin.sun@contitech.com>\; Hou\, Xuewen
+  <xuewen.hou@contitech.com>\; Chen\, Chenglong <chenglong.chen@contitech.c
+ om>\; Chen\, Hongmei <Hongmei.Chen@contitech.com>\; lin\, xiaoqing <xiaoqi
+ ng.lin@contitech.com>\; Peng\, Shuping <Shuping.Peng@contitech.com>\; Cai\
+ , Jun02 <jun.2.cai@contitech.com>\; Chen\, Zhijian <zhijian.chen@contitech
+ .com>\n主题: 回复: 0.3mm试制Review\n\n \n\nhello  project manager \,
+ \n\n          the risk accessment  was the mandtery for this project\, pls
+  arrange every stayholders to make the discussing deeply .\n\nthe final re
+ port of risk handing list and emergnecy plan is the deliveied by the meeti
+ ng .\n\n \n\nBest regards\,\n\nBill Kang\n\nHead of facility BCZ\n\nContiT
+ ech Surface Solutions\n\n \n\nBesucheradresse / Visitor address:\n\nBeneck
+ e Changshun Auto Trim (Zhangjiagang) Co.\, Ltd.\n\n贝内克长顺汽车
+ 内饰材料（张家港）有限公司\n\nNo.108\,Jianghai South Rd.\,Nan
+ sha\, Jingang Town\, Zhangjiagang\, 215632 Jiangsu\, P.R.China\n江苏省
+ 张家港市金港镇南沙江海南路108号 215632\n\n \n\nMobile: +86 1
+ 8951136370\n\nE-mail: Fujun.kang@contitech.com <mailto:Fujun.kang@contitec
+ h.com> \n\nWebsite: www.continental-industry.com <http://www.continental-i
+ ndustry.com/> \n\n \n\n\n\n \n\n \n\n \n\nInternal\n\n____________________
+ ____________\n\n发件人: Yao\, Tomi <mengyue.yao@contitech.com <mailto:m
+ engyue.yao@contitech.com> >\n发送时间: 2026年6月29日 14:44\n收件
+ 人: Li\, Xiaodong03 <xiaodong.3.li@contitech.com <mailto:xiaodong.3.li@co
+ ntitech.com> >\; Qian\, Zhenhua <zhenhua.qian@contitech.com <mailto:zhenhu
+ a.qian@contitech.com> >\n抄送: Sun\, Xiaoyong <xiaoyong.sun@contitech.co
+ m <mailto:xiaoyong.sun@contitech.com> >\; Zhou\, Yunyun <Yunyun.Zhou@conti
+ tech.com <mailto:Yunyun.Zhou@contitech.com> >\; Lu\, Zhichao02 <zhichao.2.
+ lu@contitech.com <mailto:zhichao.2.lu@contitech.com> >\; Sun\, Hongxin <ho
+ ngxin.sun@contitech.com <mailto:hongxin.sun@contitech.com> >\; Hou\, Xuewe
+ n <xuewen.hou@contitech.com <mailto:xuewen.hou@contitech.com> >\; Chen\, C
+ henglong <chenglong.chen@contitech.com <mailto:chenglong.chen@contitech.co
+ m> >\; Chen\, Hongmei <Hongmei.Chen@contitech.com <mailto:Hongmei.Chen@con
+ titech.com> >\; lin\, xiaoqing <xiaoqing.lin@contitech.com <mailto:xiaoqin
+ g.lin@contitech.com> >\; Peng\, Shuping <Shuping.Peng@contitech.com <mailt
+ o:Shuping.Peng@contitech.com> >\; Cai\, Jun02 <jun.2.cai@contitech.com <ma
+ ilto:jun.2.cai@contitech.com> >\; Chen\, Zhijian <zhijian.chen@contitech.c
+ om <mailto:zhijian.chen@contitech.com> >\; Kang\, Bill <Fujun.Kang@contite
+ ch.com <mailto:Fujun.Kang@contitech.com> >\n主题: 回复: 0.3mm试制Rev
+ iew \n\n \n\nHello Xiaodong\,\n\n1.   直接回收非完整配方表皮碎
+ 片，EX2只使用K7料罐开机（100%）\n\n该功能需要在程序内
+ 开放限制测试，无法保证100%可以，建议找个机会进行验
+ 证测试。同时提供设备变更单\n\n2.   挤出使用正常的压
+ 延辊——Tomi确认 6/18 回复\n\n挤出使用正常的压延辊进行
+ 0.3mm 试制，请明确标定间隙目标？上次只是标定到0.25mm\n
+ \n校准间隙时如果低于0.25mm ，由于1#辊和2#辊之间没有产
+ 品，风险非常高（辊轮碰撞）校准时只用铜塞尺校准两
+ 边，缺少产品的话风险太高了，而且塞尺只是验证间隙
+ ，存在一定的人为误差\n\n3.   压花放卷装置调整\n\na)     
+   卷轴中心高度降低\n\n目前已经安排制作中，预计时间25
+ 天\n\n放卷和大预热辊之间增加舞动辊，调节张力\n\n该改
+ 动设计设备大变更，需要变更到整体结构及张力控制，
+ 如上次沟通，显示先不进行该方案\n\n@Qian\, Zhenhua <mailto:z
+ henhua.qian@contitech.com>  请考虑压延辊1#辊和2#辊的备辊情况
+ ，以制定应急计划\n\n \n\n \n\nInternal\n\n发件人: Li\, Xiaodong
+ 03 <xiaodong.3.li@contitech.com <mailto:xiaodong.3.li@contitech.com> > \n
+ 发送时间: Monday\, June 15\, 2026 1:04 PM\n收件人: Sun\, Hongxin <h
+ ongxin.sun@contitech.com <mailto:hongxin.sun@contitech.com> >\; Hou\, Xuew
+ en <xuewen.hou@contitech.com <mailto:xuewen.hou@contitech.com> >\; Chen\, 
+ Chenglong <chenglong.chen@contitech.com <mailto:chenglong.chen@contitech.c
+ om> >\; Chen\, Hongmei <Hongmei.Chen@contitech.com <mailto:Hongmei.Chen@co
+ ntitech.com> >\; Yao\, Tomi <mengyue.yao@contitech.com <mailto:mengyue.yao
+ @contitech.com> >\; lin\, xiaoqing <xiaoqing.lin@contitech.com <mailto:xia
+ oqing.lin@contitech.com> >\; Peng\, Shuping <Shuping.Peng@contitech.com <m
+ ailto:Shuping.Peng@contitech.com> >\n抄送: Sun\, Xiaoyong <xiaoyong.sun@
+ contitech.com <mailto:xiaoyong.sun@contitech.com> >\; Zhou\, Yunyun <Yunyu
+ n.Zhou@contitech.com <mailto:Yunyun.Zhou@contitech.com> >\; Lu\, Zhichao02
+  <zhichao.2.lu@contitech.com <mailto:zhichao.2.lu@contitech.com> >\n主题
+ : 回复: 0.3mm试制Review\n\n \n\n今日讨论会议纪要如下：\n\n1
+ .	  挑选配方：D104、D302。花纹 #3026  #2504\n2.	TPO生产准备
+ 回收料——孙洪鑫 6/30\n3.	直接回收非完整配方表皮碎片
+ ，EX2只使用K7料罐开机（100%）。——PPI&ME 6/30\n4.	非完整
+ 结构收集后，再大粉碎机回收，更新包装规范（出和回
+ 的包装）——李晓东 6/30\n5.	委外供应商流程确认——周
+ 云云 \n6.	委外供应商质量标准——彭淑萍 8/31\n7.	挤出使
+ 用正常的压延辊——Tomi确认 6/18 回复\n8.	印刷工艺原因&
+ 调整（200LFM*3）——孙晓勇 \n9.	压花放卷装置调整\n\n	*	
+ 卷轴中心高度降低——Tomi\n	*	卷大小<250m——李晓东\n	*	
+ 放卷和大预热辊之间增加舞动辊，调节张力——Tomi\n\n10.
+ 	EM4 3层复合投资改造，长期投资，11月启动——邹阳\n11.	
+ 下一轮试制时间—— All 7/11\n12.	第一轮试制结果—— 陆
+ 志超 7/15\n\n \n\n \n\n \n\nThanks\n\n \n\nNeil Li /李晓东\n\nxiaodon
+ g.3.li@contitech.com <mailto:xiaodong.3.li@contitech.com> \n\n \n\n \n\nIn
+ ternal\n\n-----原始约会-----\n发件人: Li\, Xiaodong03 \n发送时
+ 间: 2026年6月5日 15:02\n收件人: Li\, Xiaodong03\; Sun\, Hongxin\; H
+ ou\, Xuewen\; Chen\, Chenglong\; Chen\, Hongmei\; Yao\, Tomi\; lin\, xiaoq
+ ing\; Peng\, Shuping\n抄送: Sun\, Xiaoyong\; Zhou\, Yunyun\; Lu\, Zhicha
+ o02\n主题: 0.3mm试制Review\n时间: 2026年6月15日星期一 12:00-13
+ :00(UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐。\n
+ 地点: TE_ZG_MR_PlantOffice302_Zhangjiagang\n\n \n\n回顾下本次0.3mm 
+ 试制过程\n\n下一次试制准备\n\n*  D104配方0.3mm正常的挤出
+ \n\n*  回收粒子作为中间层，准备非完整结果，委外造粒
+ 。\n\n*  EM4放卷装置改善\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:0.3mm试制Review
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
