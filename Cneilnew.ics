@@ -5,172 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260701T083500
-DTEND;TZID=GMT 标准时间:20260701T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
- icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
- 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
- mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:Sophia‘s office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX2超温异常改善讨论
-DTSTART;TZID=GMT 标准时间:20260701T103000
-DTEND;TZID=GMT 标准时间:20260701T110000
-CLASS:PUBLIC
-DESCRIPTION:Hello 各位领导：\n针对EX2温度超限问题，前次会
- 议有如下议题邀请各位讨论确认：\n1、目前已改善模温
- 机能力，TCU换热能力增加一倍，TCU温度已正常无超限情
- 况\n2、邀请研发、PPI共同讨论配方物料问题（当前生产
- 二代配方会有明显的超温情况-Z03/Z06/Z26，一代配方正常
- ）\n\n\n\nBest regards\,\nHongxin SUN(Ethan)/孙洪鑫\nTPO Production Co
- ordinator\n\n
-LOCATION:TPO早会会议室
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX2超温异常改善讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COEM 国产管控review
-DTSTART;TZID=GMT 标准时间:20260701T140000
-DTEND;TZID=GMT 标准时间:20260701T150000
-CLASS:PUBLIC
-DESCRIPTION:@Guo\, Wei02 <mailto:wei.2.guo@contitech.com> \,\n\n分享1.2.
- 3 点汇总信息。\n\n \n\n==》VAVE/R&D 原材料国产化或者切换
- 的管理。 讨论一下。\n\n \n\n \n\n谢谢！\n\n \n\nSophia  7/1\n\
- n \n\n____________________________________________________________________
- ____________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft
- .com/meet/384416271047383?p=W8gIyK88NHrf6afmAG <https://teams.microsoft.co
- m/meet/384416271047383?p=W8gIyK88NHrf6afmAG>  \n\n会议 ID: 384 416 271 0
- 47 383 \n\n密码: B3HE22Nz \n\n________________________________\n\n是否
- 需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用
-  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWYyN2UzOTAtYjdiN
- C00ODdkLTkwNmQtNGVkMjA1Zjc4M2Uw%40thread.v2/0?context=%7b%22Tid%22%3a%2249
- bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-9863-844ef43
- 86e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_YW
- YyN2UzOTAtYjdiNC00ODdkLTkwNmQtNGVkMjA1Zjc4M2Uw@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650
- 1531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:Sophia‘ office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:COEM 国产管控review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:基于Grafana的工艺参数超差目视化看板
-DTSTART;TZID=GMT 标准时间:20260701T154500
-DTEND;TZID=GMT 标准时间:20260701T160000
-CLASS:PUBLIC
-DESCRIPTION: \n
-LOCATION:ppi 
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:基于Grafana的工艺参数超差目视化看板
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project review
-DTSTART;TZID=GMT 标准时间:20260701T160000
-DTEND;TZID=GMT 标准时间:20260701T170000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
- a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
- icrosoft.com/l/meetup-join/19%3ameeting_ZDA1MjA3ODYtZGMzMi00OWNiLWEwNGItNm
- Y2MWI4OWE1OThm%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
- ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22d41355c2-a5da-4f3e-88bb-0d07ade1664a
- %22%7d>  \n\n会议 ID: 379 358 398 426 73 \n\n密码: 9yU3DY6P \n\n______
- __________________________\n\n对于组织者: 会议选项 <https://teams
- .microsoft.com/meetingOptions/?organizerId=d41355c2-a5da-4f3e-88bb-0d07ade
- 1664a&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZD
- A1MjA3ODYtZGMzMi00OWNiLWEwNGItNmY2MWI4OWE1OThm@thread.v2&messageId=0&langu
- age=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/d69
- 81e10-1775-44b3-92cf-aaf920ff7119>  \n\n__________________________________
- ______________________________________________\n\n \n
-LOCATION:My Office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Project review
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Migration Unterstützung - DE
-DTSTART;TZID=GMT 标准时间:20260701T173000
-DTEND;TZID=GMT 标准时间:20260701T180000
-CLASS:PUBLIC
-DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
- öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
- regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
- zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
- n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
- live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
- r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
- on der IT‑Migration betroffen sind oder sich dafür interessieren – un
- abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
- er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
- ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
-  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
- \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
- Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
- Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams-Besprechun
- g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
- nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
- M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
- n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
- ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
- .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
- 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
- %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
- Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
- tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
- 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
- hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
- nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
- 2a-1d684ab9ad7e> \n\n_____________________________________________________
- ___________________________\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: Migration Unterstützung - DE
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260702T083500
 DTEND;TZID=GMT 标准时间:20260702T090500
 CLASS:PUBLIC
@@ -2417,6 +2251,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Migration Support - EN
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260731T083500
+DTEND;TZID=GMT 标准时间:20260731T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
+ icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
+ 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
+ mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
+ b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
+ 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
+ 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:Sophia‘s office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
