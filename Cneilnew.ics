@@ -5,193 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260702T083500
-DTEND;TZID=GMT 标准时间:20260702T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
- icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
- 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
- mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:Sophia‘s office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Quarterly Cross-Group Learning Review & Sharing Meeting｜202
- 6季度跨小组学习回顾与成果分享会议
-DTSTART;TZID=GMT 标准时间:20260702T130000
-DTEND;TZID=GMT 标准时间:20260702T163000
-CLASS:PUBLIC
-DESCRIPTION:Dear D Talent Program Members\,\n\n尊敬的 D Talent Program 
- 成员：\n\n \n\nThe case collection and presentation order draw for the 
- Q2 Exchange Meeting have now been completed. Thank you all for your active
-  participation and case submissions.\n\nQ2交流会案例征集及展示
- 顺序抽签工作现已完成。感谢大家积极参与并提交优秀
- 案例。\n\n \n\nPlease find the presentation order below:\n\n展示顺
- 序如下：\n\n \n\nOrder\n\nTeam Number\n\nQuarter\n\nSubmitter\n\nTitle
- \n\nStakeholders\n\n1\n\nGroup 1\n\n2\n\nCao\, Haibing\n\nCIM重复性筛
- 查/CIM Repeat Screening\n\nHuang\, Qing\n\n2\n\nGroup 1\n\n2\n\nCheng\, D
- ong01\n\n慢病管理系统/Chronic Disease Management System\n\nTE_ZG_FA\
- , Health Center\n\n3\n\nGroup 1\n\n2\n\nHuang-EXT\, Weiping\n\n实验室
- 信息管理系统/Laboratory Information Management System\n\nShi\, Gino\
- n\n4\n\nGroup 1\n\n2\n\nHuang-EXT\, Weiping\n\n数字工具箱/Digital Too
- lbox\n\n	\n5\n\nGroup 3\n\n1\n\nZhu\, Dali\;Bian\, Baoxiang02\n\nAI 安全
- 行为观察/AI-Based Safety Behavior Observation\n\nGe\, Yiqiang\n\n6\n\n
- Group 4\n\n2\n\nTang\, Jiawei04\n\nAI配方自动化（相似推荐）/AI-
- Powered Formulation Automation (Similarity Recommendations)\n\n　\n\n7\n\
- nGroup 2\n\n2\n\nLi\, Xiaodong03\n\n基于Grafana的工艺参数超差目
- 视化看板/Grafana-Based Visualization Dashboard for Process Parameter O
- ut-of-Tolerance Alerts\n\nChen\, Hongmei\n\n \n\n@Huang\, Qing <mailto:Qin
- g.Huang@contitech.com> @TE_ZG_FA\, Health Center <mailto:health.center.te_
- zg_fa@contitech.com> @Shi\, Gino <mailto:Gaofeng.shi@contitech.com> @Ge\, 
- Yiqiang <mailto:yiqiang.ge@contitech.com> @Chen\, Hongmei <mailto:Hongmei.
- Chen@contitech.com>  \n\nDear Stakeholder\, you are cordially invited to a
- ttend the corresponding case presentation session and witness the project 
- outcomes firsthand. Your feedback and insights will be highly appreciated.
- \n\n尊敬的利益相关方，诚挚邀请您莅临对应案例展示时
- 段，现场观摩项目成果，您的反馈与建议将对项目价值
- 验证和持续改进提供重要支持。\n\n \n\n@Zhang\, Melody <mailto
- :melody.zhang@contitech.com> \n\nDear Melody\, @Bian\, Baoxiang02 <mailto:
- baoxiang.2.bian@contitech.com>  has recommended you to participate in this
-  event\, as your previous discussions demonstrated a strong interest and c
- uriosity in Claude. We would be delighted to have you join us and welcome 
- your participation if your schedule permits.\n\n亲爱的 Melody，保祥
- 推荐您参与本次活动。在与您的工作交流过程中，我们
- 感受到了您对 Claude 的浓厚兴趣与好奇。诚挚邀请您莅临
- 现场参加本次活动，如时间允许，期待您的参与。\n\n \n\
- n@Ma\, Yao <mailto:yao.ma@contitech.com> \n\nDear Dr. Ma\, @Shi\, Gino <ma
- ilto:Gaofeng.shi@contitech.com>  recommended inviting a business stakehold
- er to participate in this event\, as the LIMS project involves the digital
- ization of the upstream DVP process\; their participation would help us be
- tter showcase and validate the project outcomes. We would appreciate your 
- support in identifying and inviting a suitable representative.\n\n尊敬
- 的马博士，Gino推荐邀请一位业务相关方参与本次活动。
- 由于 LIMS 项目涉及前道 DVP 流程的数字化建设，其参与将
- 有助于更好地展示和验证项目成果，烦请协助推荐并邀
- 请合适的业务代表参加。\n\n \n\nTo ensure consistency and effect
- ive communication during the exchange meeting\, please note the following 
- requirements:\n\n为确保交流会顺利开展并保持展示内容的一
- 致性，请大家注意以下要求：\n\n \n\nPlease prepare your presen
- tation using the latest company PPT template.\n\n请使用公司最新版P
- PT模板准备展示材料。\n\n \n\nEach case should contain at least on
- e PPT slide.\n\n每个案例至少准备1页PPT。\n\n \n\nPlease be prepa
- red to conduct an on-site demonstration of your project results or achieve
- ments whenever applicable.\n\n请结合项目实际情况，配合现场
- 成果展示或演示，以便更直观地呈现项目成果及项目价
- 值。\n\n \n\nIf you have any questions regarding the presentation prepar
- ation\, please contact the organizing team.\n\n如对展示准备工作有
- 任何疑问，请及时与组织团队联系。\n\n \n\nThank you for you
- r cooperation. We look forward to learning from your valuable experiences 
- and successful practices during the exchange session.\n\n感谢大家的
- 支持与配合，期待在交流会上共同分享优秀实践与项目
- 成果。\n\n \n\nBest Regards\,\n\nLily Liu is sending this email on beha
- lf of the cross-functional project team.\n\n \n\n-------------------------
- ---------------------------------------------------------------\n\n \n\nDe
- ar D Talent Team\,\n\n尊敬的 D Talent 团队，\n\n \n\nWe are pleased 
- to invite you to our 2026 Quarterly Cross-Group Learning Review & Sharing 
- Meeting. 🎉\n\n我们诚挚地邀请您参加2026 年度季度跨小组
- 学习回顾与成果分享会议。\n\n \n\nThis quarterly meeting is des
- igned to enhance learning communication and collaboration across different
-  groups. The session will focus on reviewing the progress of ongoing train
- ing programs\, sharing learning outcomes\, and aligning on learning priori
- ties and course content for the upcoming quarter.\n\n本次季度会议旨
- 在加强不同小组之间的学习沟通与协作，重点回顾当前
- 培训项目的整体进展，分享学习成果，并对齐下一阶段
- 的学习重点与课程内容。\n\n \n\n*  👥Participants / 参与人
- 员：\n\n*  All D Talent Program group members are required to attend.\n\
- n*  D Talent Program 小组成员需必须参加。\n\n*  Management level
-  members are welcome to attend on an optional basis.\n\n*  管理层可自
- 愿参加。\n\n \n\nDuring the meeting\, we will:\n\n会议将主要包
- 括以下内容：\n\n \n\n*  🗂️Review Coursera account usage and acc
- umulated training hours across groups\n\n  回顾各小组 Coursera 账户
- 使用情况及培训时长\n\n*  🌟Share key learning outcomes\, applic
- ation cases\, and achievements from different groups\n\n    分享各小
- 组的学习成果、实践应用案例及阶段性成果\n\n*  🧭Align 
- on upcoming learning tasks\, priorities\, and course content for the next 
- quarter\n\n    对齐下一季度的学习任务、重点方向及课程
- 规划\n\n*  💡Collect feedback and suggestions to continuously improve 
- our group learning initiatives\n\n    收集反馈与建议，持续优化
- 小组学习机制\n\n \n\nThis meeting will serve as an important platfor
- m for cross-group knowledge sharing and mutual learning. We look forward t
- o your participation and valuable insights.\n\n本次会议将作为跨小
- 组知识共享与经验交流的重要平台，期待您的积极参与
- 和宝贵建议。\n\n \n\nThank you\, and we look forward to seeing you a
- t the meeting.\n\n感谢您的支持，期待您的参与！😊\n\n \n\nB
- est regards\,\n\nLily Liu is sending this email on behalf of the cross-fun
- ctional project team.\n\n \n\n____________________________________________
- ____________________________________\n\nMicrosoft Teams meeting \n\nJoin: 
- https://teams.microsoft.com/meet/383016132007181?p=6rsQ0tp6wAUcWb4Pt2 <htt
- ps://teams.microsoft.com/meet/383016132007181?p=6rsQ0tp6wAUcWb4Pt2>  \n\nM
- eeting ID: 383 016 132 007 181 \n\nPasscode: 59jX7Zx3 \n\n________________
- ________________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US
- >  | System reference <https://teams.microsoft.com/l/meetup-join/19%3ameet
- ing_MWM4YTU5NTQtYjk5ZS00MDMzLWIzY2MtNjI4ZWEwZjFlMGQx%40thread.v2/0?context
- =%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%
- 2219e4d4bd-ed8a-42c2-9001-77c414b89798%22%7d>  \n\nFor organizers: Meeting
-  options <https://teams.microsoft.com/meetingOptions/?organizerId=19e4d4bd
- -ed8a-42c2-9001-77c414b89798&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082
- &threadId=19_meeting_MWM4YTU5NTQtYjk5ZS00MDMzLWIzY2MtNjI4ZWEwZjFlMGQx@thre
- ad.v2&messageId=0&language=en-US>  \n\nPrivacy and security <https://fileh
- ub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______
- __________________________________________________________________________
- \n\n \n
-LOCATION:TE_ZG_MR_CollaborationLab_CBC213_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2026 Quarterly Cross-Group Learning Review & Sharing Meeting
- ｜2026季度跨小组学习回顾与成果分享会议
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:油漆房&色母粒周会
-DTSTART;TZID=GMT 标准时间:20260702T133000
-DTEND;TZID=GMT 标准时间:20260702T143000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:油漆房&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Migration Support - EN
-DTSTART;TZID=GMT 标准时间:20260702T213000
-DTEND;TZID=GMT 标准时间:20260702T220000
-CLASS:PUBLIC
-DESCRIPTION:I have to reschudle it for today\, unfortunately I have to can
- cel the complete series\, because I'm not able to change a single appointm
- ent.
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: Migration Support - EN
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260703T083500
 DTEND;TZID=GMT 标准时间:20260703T090500
 CLASS:PUBLIC
@@ -332,6 +145,50 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260706T140000
+DTEND;TZID=GMT 标准时间:20260706T143000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/386572692
+ 807383?p=fBm0gYz6ET6sgXAAdl \nBesprechungs-ID: 386 572 692 807 383 \nPassc
+ ode: Vc6S35mj \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985471452?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985471452&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:0.3mm试制Review
 DTSTART;TZID=GMT 标准时间:20260706T150000
 DTEND;TZID=GMT 标准时间:20260706T154500
@@ -441,6 +298,51 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Motivationsmontag
+DTSTART;TZID=GMT 标准时间:20260706T173000
+DTEND;TZID=GMT 标准时间:20260706T180000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in German ****\n\nPl
+ ease DO NOT delete this channel invitation.\n\nCancellations only in your 
+ private calendar\, not in the group calendar of the Learning Bites team.\n
+ \nThank you very much\n\n-------------------------------------------------
+ -------------------------------------------------------------\n\n \n\nLieb
+ e Motivationsmontag Community\, 🎉\n\n \n\nes ist soweit die nicht enden
+ de Lernreise beginnt wieder und wie kann man eine Woche besser beginnen al
+ s mit motivierendem und frisch Gelernten\, was man mit anderen teilen kann
+ . 🤩\n\n \n\nWie versprochen werden wir jeden Montag eine Lerneinheit ru
+ nd um das Thema New Work Style präsentieren.\n\n \n\nHierbei möchten wir
+  gemeinsam mit euch lernen\, da wir immer wieder hoch aktuelle Themen und 
+ Updates mit einfließen lassen werden. Um die Win-Win Situation komplett z
+ u machen\, werden wir mit euch gemeinsam die Fridays for Future Work Sessi
+ ons üben oder anders gesagt spoilern\, so dass ihr schon wisst\, was die 
+ anderen Teilnehmer erwartet. 😉\n\n \n\n \n\nWir freuen uns auf eine tol
+ le Lernzeit mit euch und wir sehen uns zum\n\nMotivationsmontag\n\n \n\nEu
+ ere GUIDEs\n\nCarsten & Günter\n\n\n\n\n_________________________________
+ _______________________________________________\nMicrosoft Teams-Besprechu
+ ng \nTeilnehmen: https://teams.microsoft.com/meet/399100251560051?p=LQE3HK
+ ADmWAiGlAF2t \nBesprechungs-ID: 399 100 251 560 051 \nPasscode: pE7qi3Xg \
+ n________________________________\n\nBenötigen Sie Hilfe? <https://aka.ms
+ /JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.c
+ om/l/meetup-join/19%3afcd3a0910fab4645b5c8740cf79e2df3%40thread.tacv2/1782
+ 984511744?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%2
+ 2%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Org
+ anisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptio
+ ns/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-818
+ 1-4f6c-aa5a-2625c7e55082&threadId=19_fcd3a0910fab4645b5c8740cf79e2df3@thre
+ ad.tacv2&messageId=1782984511744&language=de-DE>  \nDatenschutz und Sicher
+ heit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684a
+ b9ad7e>  \n_______________________________________________________________
+ _________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivationsmontag
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Session
 DTSTART;TZID=GMT 标准时间:20260706T203000
 DTEND;TZID=GMT 标准时间:20260706T210000
@@ -495,6 +397,50 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ContiGPT Session
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260706T233000
+DTEND;TZID=GMT 标准时间:20260707T000000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/371915657
+ 651454?p=u70yC1XcTyPC7cBVNT \nBesprechungs-ID: 371 915 657 651 454 \nPassc
+ ode: Xs2Kw3XD \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985594173?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985594173&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1016,6 +962,139 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260713T140000
+DTEND;TZID=GMT 标准时间:20260713T143000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/386572692
+ 807383?p=fBm0gYz6ET6sgXAAdl \nBesprechungs-ID: 386 572 692 807 383 \nPassc
+ ode: Vc6S35mj \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985471452?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985471452&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivationsmontag
+DTSTART;TZID=GMT 标准时间:20260713T173000
+DTEND;TZID=GMT 标准时间:20260713T180000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in German ****\n\nPl
+ ease DO NOT delete this channel invitation.\n\nCancellations only in your 
+ private calendar\, not in the group calendar of the Learning Bites team.\n
+ \nThank you very much\n\n-------------------------------------------------
+ -------------------------------------------------------------\n\n \n\nLieb
+ e Motivationsmontag Community\, 🎉\n\n \n\nes ist soweit die nicht enden
+ de Lernreise beginnt wieder und wie kann man eine Woche besser beginnen al
+ s mit motivierendem und frisch Gelernten\, was man mit anderen teilen kann
+ . 🤩\n\n \n\nWie versprochen werden wir jeden Montag eine Lerneinheit ru
+ nd um das Thema New Work Style präsentieren.\n\n \n\nHierbei möchten wir
+  gemeinsam mit euch lernen\, da wir immer wieder hoch aktuelle Themen und 
+ Updates mit einfließen lassen werden. Um die Win-Win Situation komplett z
+ u machen\, werden wir mit euch gemeinsam die Fridays for Future Work Sessi
+ ons üben oder anders gesagt spoilern\, so dass ihr schon wisst\, was die 
+ anderen Teilnehmer erwartet. 😉\n\n \n\n \n\nWir freuen uns auf eine tol
+ le Lernzeit mit euch und wir sehen uns zum\n\nMotivationsmontag\n\n \n\nEu
+ ere GUIDEs\n\nCarsten & Günter\n\n\n\n\n_________________________________
+ _______________________________________________\nMicrosoft Teams-Besprechu
+ ng \nTeilnehmen: https://teams.microsoft.com/meet/399100251560051?p=LQE3HK
+ ADmWAiGlAF2t \nBesprechungs-ID: 399 100 251 560 051 \nPasscode: pE7qi3Xg \
+ n________________________________\n\nBenötigen Sie Hilfe? <https://aka.ms
+ /JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.c
+ om/l/meetup-join/19%3afcd3a0910fab4645b5c8740cf79e2df3%40thread.tacv2/1782
+ 984511744?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%2
+ 2%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Org
+ anisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptio
+ ns/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-818
+ 1-4f6c-aa5a-2625c7e55082&threadId=19_fcd3a0910fab4645b5c8740cf79e2df3@thre
+ ad.tacv2&messageId=1782984511744&language=de-DE>  \nDatenschutz und Sicher
+ heit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684a
+ b9ad7e>  \n_______________________________________________________________
+ _________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivationsmontag
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260713T233000
+DTEND;TZID=GMT 标准时间:20260714T000000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/371915657
+ 651454?p=u70yC1XcTyPC7cBVNT \nBesprechungs-ID: 371 915 657 651 454 \nPassc
+ ode: Xs2Kw3XD \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985594173?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985594173&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260714T083500
 DTEND;TZID=GMT 标准时间:20260714T090500
@@ -1442,6 +1521,95 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260720T140000
+DTEND;TZID=GMT 标准时间:20260720T143000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/386572692
+ 807383?p=fBm0gYz6ET6sgXAAdl \nBesprechungs-ID: 386 572 692 807 383 \nPassc
+ ode: Vc6S35mj \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985471452?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985471452&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivationsmontag
+DTSTART;TZID=GMT 标准时间:20260720T173000
+DTEND;TZID=GMT 标准时间:20260720T180000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in German ****\n\nPl
+ ease DO NOT delete this channel invitation.\n\nCancellations only in your 
+ private calendar\, not in the group calendar of the Learning Bites team.\n
+ \nThank you very much\n\n-------------------------------------------------
+ -------------------------------------------------------------\n\n \n\nLieb
+ e Motivationsmontag Community\, 🎉\n\n \n\nes ist soweit die nicht enden
+ de Lernreise beginnt wieder und wie kann man eine Woche besser beginnen al
+ s mit motivierendem und frisch Gelernten\, was man mit anderen teilen kann
+ . 🤩\n\n \n\nWie versprochen werden wir jeden Montag eine Lerneinheit ru
+ nd um das Thema New Work Style präsentieren.\n\n \n\nHierbei möchten wir
+  gemeinsam mit euch lernen\, da wir immer wieder hoch aktuelle Themen und 
+ Updates mit einfließen lassen werden. Um die Win-Win Situation komplett z
+ u machen\, werden wir mit euch gemeinsam die Fridays for Future Work Sessi
+ ons üben oder anders gesagt spoilern\, so dass ihr schon wisst\, was die 
+ anderen Teilnehmer erwartet. 😉\n\n \n\n \n\nWir freuen uns auf eine tol
+ le Lernzeit mit euch und wir sehen uns zum\n\nMotivationsmontag\n\n \n\nEu
+ ere GUIDEs\n\nCarsten & Günter\n\n\n\n\n_________________________________
+ _______________________________________________\nMicrosoft Teams-Besprechu
+ ng \nTeilnehmen: https://teams.microsoft.com/meet/399100251560051?p=LQE3HK
+ ADmWAiGlAF2t \nBesprechungs-ID: 399 100 251 560 051 \nPasscode: pE7qi3Xg \
+ n________________________________\n\nBenötigen Sie Hilfe? <https://aka.ms
+ /JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.c
+ om/l/meetup-join/19%3afcd3a0910fab4645b5c8740cf79e2df3%40thread.tacv2/1782
+ 984511744?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%2
+ 2%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Org
+ anisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptio
+ ns/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-818
+ 1-4f6c-aa5a-2625c7e55082&threadId=19_fcd3a0910fab4645b5c8740cf79e2df3@thre
+ ad.tacv2&messageId=1782984511744&language=de-DE>  \nDatenschutz und Sicher
+ heit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684a
+ b9ad7e>  \n_______________________________________________________________
+ _________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivationsmontag
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ContiGPT Session
 DTSTART;TZID=GMT 标准时间:20260720T203000
 DTEND;TZID=GMT 标准时间:20260720T210000
@@ -1496,6 +1664,50 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ContiGPT Session
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260720T233000
+DTEND;TZID=GMT 标准时间:20260721T000000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/371915657
+ 651454?p=u70yC1XcTyPC7cBVNT \nBesprechungs-ID: 371 915 657 651 454 \nPassc
+ ode: Xs2Kw3XD \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985594173?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985594173&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1923,6 +2135,139 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260727T140000
+DTEND;TZID=GMT 标准时间:20260727T143000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/386572692
+ 807383?p=fBm0gYz6ET6sgXAAdl \nBesprechungs-ID: 386 572 692 807 383 \nPassc
+ ode: Vc6S35mj \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985471452?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985471452&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivationsmontag
+DTSTART;TZID=GMT 标准时间:20260727T173000
+DTEND;TZID=GMT 标准时间:20260727T180000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in German ****\n\nPl
+ ease DO NOT delete this channel invitation.\n\nCancellations only in your 
+ private calendar\, not in the group calendar of the Learning Bites team.\n
+ \nThank you very much\n\n-------------------------------------------------
+ -------------------------------------------------------------\n\n \n\nLieb
+ e Motivationsmontag Community\, 🎉\n\n \n\nes ist soweit die nicht enden
+ de Lernreise beginnt wieder und wie kann man eine Woche besser beginnen al
+ s mit motivierendem und frisch Gelernten\, was man mit anderen teilen kann
+ . 🤩\n\n \n\nWie versprochen werden wir jeden Montag eine Lerneinheit ru
+ nd um das Thema New Work Style präsentieren.\n\n \n\nHierbei möchten wir
+  gemeinsam mit euch lernen\, da wir immer wieder hoch aktuelle Themen und 
+ Updates mit einfließen lassen werden. Um die Win-Win Situation komplett z
+ u machen\, werden wir mit euch gemeinsam die Fridays for Future Work Sessi
+ ons üben oder anders gesagt spoilern\, so dass ihr schon wisst\, was die 
+ anderen Teilnehmer erwartet. 😉\n\n \n\n \n\nWir freuen uns auf eine tol
+ le Lernzeit mit euch und wir sehen uns zum\n\nMotivationsmontag\n\n \n\nEu
+ ere GUIDEs\n\nCarsten & Günter\n\n\n\n\n_________________________________
+ _______________________________________________\nMicrosoft Teams-Besprechu
+ ng \nTeilnehmen: https://teams.microsoft.com/meet/399100251560051?p=LQE3HK
+ ADmWAiGlAF2t \nBesprechungs-ID: 399 100 251 560 051 \nPasscode: pE7qi3Xg \
+ n________________________________\n\nBenötigen Sie Hilfe? <https://aka.ms
+ /JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.c
+ om/l/meetup-join/19%3afcd3a0910fab4645b5c8740cf79e2df3%40thread.tacv2/1782
+ 984511744?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%2
+ 2%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Org
+ anisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptio
+ ns/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-818
+ 1-4f6c-aa5a-2625c7e55082&threadId=19_fcd3a0910fab4645b5c8740cf79e2df3@thre
+ ad.tacv2&messageId=1782984511744&language=de-DE>  \nDatenschutz und Sicher
+ heit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684a
+ b9ad7e>  \n_______________________________________________________________
+ _________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivationsmontag
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motivational Monday
+DTSTART;TZID=GMT 标准时间:20260727T233000
+DTEND;TZID=GMT 标准时间:20260728T000000
+CLASS:PUBLIC
+DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
+ lease DO NOT delete this channel invitation.\n\nCancellations only in your
+  private calendar\, not in the group calendar of the Learning Bites team.\
+ n\nThank you very much\n\n------------------------------------------------
+ --------------------------------------------------------------\n\n \n\nDea
+ r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
+ r-ending learning journey begins and what better way to start the week tha
+ n with motivating and newly learned material that you can share with other
+ s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
+  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
+ u\, as we incorporate highly relevant topics and updates. To make it a Win
+ -Win situation we will practice the Fridays for Future Work Sessions with 
+ you\, or in other words\, give you a sneak peek\, so you already know what
+  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
+ great learning experience with you and we'll see you on \n\nMotivational M
+ onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/371915657
+ 651454?p=u70yC1XcTyPC7cBVNT \nBesprechungs-ID: 371 915 657 651 454 \nPassc
+ ode: Xs2Kw3XD \n________________________________\n\nBenötigen Sie Hilfe? 
+ <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
+ ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
+ read.tacv2/1782985594173?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
+ -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
+ 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
+ om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
+ Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
+ 2d9ef6e6d4@thread.tacv2&messageId=1782985594173&language=de-DE>  \nDatensc
+ hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
+ 36b-832a-1d684ab9ad7e>  \n________________________________________________
+ ________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Motivational Monday
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260728T083500
 DTEND;TZID=GMT 标准时间:20260728T090500
@@ -2295,6 +2640,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:建军节
+DTSTART;TZID=GMT 标准时间:20260801T000000
+DTEND;TZID=GMT 标准时间:20260802T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:建军节
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:建军节
+DTSTART;TZID=GMT 标准时间:20260801T000000
+DTEND;TZID=GMT 标准时间:20260802T000000
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:中国
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:建军节
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
