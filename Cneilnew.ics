@@ -77,101 +77,16 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D-Talent Monthly Group2 Review 
-DTSTART;TZID=GMT 标准时间:20260707T130000
-DTEND;TZID=GMT 标准时间:20260707T140000
-CLASS:PUBLIC
-DESCRIPTION:D-Talent Monthly Review\n\n因为每个月就一次，邀请
- 大家一起线下讨论下！\n\n包含不止如下几个话题：\n\n1.	
- 学习培训的话题回顾及反馈\n2.	Group2的Topics\n\nAI Best Parame
- ter Recommendations/AI Best 参数推荐\n\nAI Knowledge Assistant/AI 知
- 识助手\n\n3.	个人的数字化相关项目或话题（必要）\n4.	
- 其他相关的话题\n
-LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:D-Talent Monthly Group2 Review 
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Migration Support - EN
-DTSTART;TZID=GMT 标准时间:20260707T143000
-DTEND;TZID=GMT 标准时间:20260707T150000
-CLASS:PUBLIC
-DESCRIPTION:To support you during the IT environment migration\, we are of
- fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
- d to:\n\n✅ Provide guidance and background information on the migration\
- n\n✅ Share practical tips and best practices\n\n✅ Answer your question
- s live\n\n✅ Learn from real use cases and experiences from the community
- \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
- osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
- Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
- eriences.\n\n \n\nOur goal is to learn together and support each other thr
- oughout the migration.\n\nWe’re looking forward to your participation!\n
- \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams-Besprechun
- g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
- TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
- QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
- n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
- ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
- .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
- 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
- %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
- Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
- tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
- 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
- hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
- nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
- 2a-1d684ab9ad7e> \n\n_____________________________________________________
- ___________________________\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: Migration Support - EN
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO量产颜色梳理会
+SUMMARY:已取消: TPO量产颜色梳理会
 DTSTART;TZID=GMT 标准时间:20260707T150000
 DTEND;TZID=GMT 标准时间:20260707T160000
 CLASS:PUBLIC
-DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
- 2.xu@contitech.com>\nSent: Wednesday\, 24 June 2026 05:24:51\nTo: Zhang\, 
- Yufan02 <yufan.2.zhang@contitech.com>\; TE_ZG_FA\, LuKeting <luketing.te_z
- g_fa@contitech.com>\; Du-EXT\, Wenqiu02 <wenqiu.2.du-EXT@contitech.com>\; 
- Shen\, Qi <qi.shen@contitech.com>\; Guo\, Wei02 <wei.2.guo@contitech.com>\
- ; Wang\, Fen <fen.wang@contitech.com>\nSubject: DX1H stone grey 颜色配
- 方优化 \n \nHello Yufan\,\n\n色号77712，\n基于8294612\nDL:+0.65\,\
- nDa:-0.2\nDb:+0.1\n\n色号77713\n基于8294614\nDl: +0.55\nDa: -0.15\nDb:
- +0.15\n\n同色异普A光源和Tl84 F11光源客户反馈上边两个批
- 次同塑料色板目视比对偏红，优化配方时请关注\n\nBest re
- gards\nSofie\n\nInternal\n\n______________________________________________
- __________________________________\nMicrosoft Teams 会议 \n加入: https
- ://teams.microsoft.com/meet/361469863528743?p=LIrR4J3Rgk6rJLHsSz \n会议 
- ID: 361 469 863 528 743 \n密码: J78aL3y7 \n_____________________________
- ___\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  |
-  系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDhi
- ZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz%40thread.v2/0?context=%7b%22T
- id%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22bd9db7
- 2d-4b6f-4606-b88e-6949f31da74c%22%7d>  \n对于组织者: 会议选项 <ht
- tps://teams.microsoft.com/meetingOptions/?organizerId=bd9db72d-4b6f-4606-b
- 88e-6949f31da74c&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19
- _meeting_MDhiZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz@thread.v2&messag
- eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
- _____________________________________________________
+DESCRIPTION:
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:TPO量产颜色梳理会
+DESCRIPTION:已取消: TPO量产颜色梳理会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -201,20 +116,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:booking
-DTSTART;TZID=GMT 标准时间:20260708T090000
-DTEND;TZID=GMT 标准时间:20260708T170000
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:booking
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -485,9 +386,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260713T083500
+DTEND;TZID=GMT 标准时间:20260713T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
+ icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
+ 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
+ mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
+ b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
+ 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
+ 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:Sophia‘s office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EX析出改善
-DTSTART;TZID=GMT 标准时间:20260710T150000
-DTEND;TZID=GMT 标准时间:20260710T153000
+DTSTART;TZID=GMT 标准时间:20260713T110000
+DTEND;TZID=GMT 标准时间:20260713T113000
 CLASS:PUBLIC
 DESCRIPTION:本次会议纪要如下：\n1、下批次变更料号为U2100
  169L1580/U2100169L1160—黄海涛 7.15\n2、U2100239L1780/U2100172L1800
@@ -518,35 +448,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:EX析出改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260713T083500
-DTEND;TZID=GMT 标准时间:20260713T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
- icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
- 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
- mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:Sophia‘s office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -683,6 +584,25 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:D-Talent Monthly Group2 Review 
+DTSTART;TZID=GMT 标准时间:20260714T130000
+DTEND;TZID=GMT 标准时间:20260714T140000
+CLASS:PUBLIC
+DESCRIPTION:D-Talent Monthly Review\n\n因为每个月就一次，邀请
+ 大家一起线下讨论下！\n\n包含不止如下几个话题：\n\n1.	
+ 学习培训的话题回顾及反馈\n2.	Group2的Topics\n\nAI Best Parame
+ ter Recommendations/AI Best 参数推荐\n\nAI Knowledge Assistant/AI 知
+ 识助手\n\n3.	个人的数字化相关项目或话题（必要）\n4.	
+ 其他相关的话题\n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Talent Monthly Group2 Review 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:定期review设备改善项目
 DTSTART;TZID=GMT 标准时间:20260714T140000
 DTEND;TZID=GMT 标准时间:20260714T150000
@@ -713,48 +633,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:定期review设备改善项目
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Migration Support - EN
-DTSTART;TZID=GMT 标准时间:20260714T143000
-DTEND;TZID=GMT 标准时间:20260714T150000
-CLASS:PUBLIC
-DESCRIPTION:To support you during the IT environment migration\, we are of
- fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
- d to:\n\n✅ Provide guidance and background information on the migration\
- n\n✅ Share practical tips and best practices\n\n✅ Answer your question
- s live\n\n✅ Learn from real use cases and experiences from the community
- \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
- osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
- Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
- eriences.\n\n \n\nOur goal is to learn together and support each other thr
- oughout the migration.\n\nWe’re looking forward to your participation!\n
- \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams-Besprechun
- g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
- TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
- QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
- n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
- ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
- .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
- 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
- %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
- Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
- tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
- 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
- hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
- nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
- 2a-1d684ab9ad7e> \n\n_____________________________________________________
- ___________________________\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1284,48 +1162,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canceled: Migration Support - EN
-DTSTART;TZID=GMT 标准时间:20260721T143000
-DTEND;TZID=GMT 标准时间:20260721T150000
-CLASS:PUBLIC
-DESCRIPTION:To support you during the IT environment migration\, we are of
- fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
- d to:\n\n✅ Provide guidance and background information on the migration\
- n\n✅ Share practical tips and best practices\n\n✅ Answer your question
- s live\n\n✅ Learn from real use cases and experiences from the community
- \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
- osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
- Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
- eriences.\n\n \n\nOur goal is to learn together and support each other thr
- oughout the migration.\n\nWe’re looking forward to your participation!\n
- \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams-Besprechun
- g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
- TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
- QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
- n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
- ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
- .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
- 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
- %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
- Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
- tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
- 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
- hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
- nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
- 2a-1d684ab9ad7e> \n\n_____________________________________________________
- ___________________________\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: Migration Support - EN
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TPO量产颜色梳理会
 DTSTART;TZID=GMT 标准时间:20260721T150000
 DTEND;TZID=GMT 标准时间:20260721T160000
@@ -1816,48 +1652,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canceled: Migration Support - EN
-DTSTART;TZID=GMT 标准时间:20260728T143000
-DTEND;TZID=GMT 标准时间:20260728T150000
-CLASS:PUBLIC
-DESCRIPTION:To support you during the IT environment migration\, we are of
- fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
- d to:\n\n✅ Provide guidance and background information on the migration\
- n\n✅ Share practical tips and best practices\n\n✅ Answer your question
- s live\n\n✅ Learn from real use cases and experiences from the community
- \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
- osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
- Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
- eriences.\n\n \n\nOur goal is to learn together and support each other thr
- oughout the migration.\n\nWe’re looking forward to your participation!\n
- \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams-Besprechun
- g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
- TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
- QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
- n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
- ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
- .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
- 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
- %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
- Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
- tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
- 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
- hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
- nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
- 2a-1d684ab9ad7e> \n\n_____________________________________________________
- ___________________________\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: Migration Support - EN
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TPO量产颜色梳理会
 DTSTART;TZID=GMT 标准时间:20260728T150000
 DTEND;TZID=GMT 标准时间:20260728T160000
@@ -2344,48 +2138,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Migration Support - EN
-DTSTART;TZID=GMT 标准时间:20260804T143000
-DTEND;TZID=GMT 标准时间:20260804T150000
-CLASS:PUBLIC
-DESCRIPTION:To support you during the IT environment migration\, we are of
- fering regular Migration Support Calls.\n\n \n\nThese sessions are designe
- d to:\n\n✅ Provide guidance and background information on the migration\
- n\n✅ Share practical tips and best practices\n\n✅ Answer your question
- s live\n\n✅ Learn from real use cases and experiences from the community
- \n\n \n\n👥 Who should join?\n\nAnyone affected by or interested in the 
- IT migration – regardless of role or level of experience.\n\n \n\n🎙 H
- osts:\n\nCarsten & Günter\n\n \n\n📅 Format:\n\nInteractive learning & 
- Q&A sessions\n\n(Details on dates\, times\, and dial‑in will be shared i
- n this channel.) \n\n \n\n👉 Bring your questions\, challenges\, and exp
- eriences.\n\n \n\nOur goal is to learn together and support each other thr
- oughout the migration.\n\nWe’re looking forward to your participation!\n
- \nCarsten & Guenter\n\n \n\n \n\n \n\n____________________________________
- ____________________________________________\n\nMicrosoft Teams-Besprechun
- g\n\nTeilnehmen: https://teams.microsoft.com/meet/367454933126594?p=1mZv5q
- TLkQEbFTVINM <https://teams.microsoft.com/meet/367454933126594?p=1mZv5qTLk
- QEbFTVINM> \n\nBesprechungs-ID: 367 454 933 126 594\n\nPasscode: jn3Qu2BL\
- n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
- ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
- .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
- 77883766484?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
- %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
- Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
- tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
- 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
- hread.tacv2&messageId=1777883766484&language=de-DE> \n\n \n\nDatenschutz u
- nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
- 2a-1d684ab9ad7e> \n\n_____________________________________________________
- ___________________________\n
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Canceled: Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
