@@ -4,93 +4,6 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:EX1&EX2返修压延辊上机验证
-DTSTART;TZID=GMT 标准时间:20260707T083000
-DTEND;TZID=GMT 标准时间:20260707T093000
-CLASS:PUBLIC
-DESCRIPTION:Hello All：\n\n    EX1压延辊01和07、EX2压延辊1-03和3
- -02需要上机验证，特邀大家一起谈论下具体时间，谢谢
- ！\n\n \n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com
- /meet/34220143299955?p=tVK8bTxMd35NblyEbk <https://teams.microsoft.com/mee
- t/34220143299955?p=tVK8bTxMd35NblyEbk>  \n\n会议 ID: 342 201 432 999 55 
- \n\n密码: 544L9rb3 \n\n________________________________\n\n是否需要
- 帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <http
- s://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdmMWI0NWYtNmI4NC00Y2Y
- 4LWFlZDAtNTIzNGMyYjQ5YjU4%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3
- -8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22189bc00a-b9e1-4c5e-888f-0
- 340323535e3%22%7d>  \n\n对于组织者: 会议选项 <https://teams.micro
- soft.com/meetingOptions/?organizerId=189bc00a-b9e1-4c5e-888f-0340323535e3&
- tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_ZDdmMWI0
- NWYtNmI4NC00Y2Y4LWFlZDAtNTIzNGMyYjQ5YjU4@thread.v2&messageId=0&language=zh
- -CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-
- d1ca-436b-832a-1d684ab9ad7e>  \n\n________________________________________
- ________________________________________\n\n \n
-LOCATION:TPO早会关爱小屋
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX1&EX2返修压延辊上机验证
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260707T083500
-DTEND;TZID=GMT 标准时间:20260707T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
- icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
- 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
- mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:Sophia‘s office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: 油漆&色母粒周会
-DTSTART;TZID=GMT 标准时间:20260707T101500
-DTEND;TZID=GMT 标准时间:20260707T110000
-CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: 油漆&色母粒周会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:已取消: TPO量产颜色梳理会
-DTSTART;TZID=GMT 标准时间:20260707T150000
-DTEND;TZID=GMT 标准时间:20260707T160000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:已取消: TPO量产颜色梳理会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260708T083500
 DTEND;TZID=GMT 标准时间:20260708T090500
@@ -2249,6 +2162,103 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Canceled: Migration Unterstützung - DE
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260806T083500
+DTEND;TZID=GMT 标准时间:20260806T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
+ icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
+ 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
+ mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
+ b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
+ 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
+ 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:Sophia‘s office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+DTSTART;TZID=GMT 标准时间:20260806T100000
+DTEND;TZID=GMT 标准时间:20260806T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear Group Leader\,\n\n \n\nYou are invited to our biweekly of
+ fline **Jaw Talk** session (20 minutes) to discuss recent learning progres
+ s\, suggestions\, and any support you may need.\n\n \n\nEN Name\n\nCN Name
+ \n\nDept.\n\nGroup\n\nGroup Leader\n\nTime Schedule\n\nGaofeng Shi\n\n石
+ 高峰\n\nLab\n\n1\n\n1\n\n10:00 - 10:20\n\nLi Xiaodong\n\n李晓东\n\nPP
+ I\n\n2\n\n1\n\n10:20 - 10:40\n\nChen Jiajun\n\n陈家骏\n\nFacility\n\n3\
+ n\n1\n\n10:40 - 11:00\n\nTang Jiawei\n\n汤佳炜\n\nME\n\n4\n\n1\n\n11:00
+  - 11:20\n\n \n\nLooking forward to your participation!\n\nBest regards\,\
+ n\nBCZ Digital Talent Team\n\n \n\n_______________________________________
+ _________________________________________\n\nMicrosoft Teams meeting \n\nJ
+ oin: https://teams.microsoft.com/meet/389237694120019?p=HEirmKFBAHLeucb9Ib
+  <https://teams.microsoft.com/meet/389237694120019?p=HEirmKFBAHLeucb9Ib>  
+ \n\nMeeting ID: 389 237 694 120 019 \n\nPasscode: fs959bG6 \n\n___________
+ _____________________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=
+ en-US>  | System reference <https://teams.microsoft.com/l/meetup-join/19%3
+ ameeting_MTA1YTliNGYtNjI1Mi00MjYwLTlhOGMtNjViNmI0NjhiN2E2%40thread.v2/0?co
+ ntext=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%2
+ 2%3a%2219e4d4bd-ed8a-42c2-9001-77c414b89798%22%7d>  \n\nFor organizers: Me
+ eting options <https://teams.microsoft.com/meetingOptions/?organizerId=19e
+ 4d4bd-ed8a-42c2-9001-77c414b89798&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e
+ 55082&threadId=19_meeting_MTA1YTliNGYtNjI1Mi00MjYwLTlhOGMtNjViNmI0NjhiN2E2
+ @thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security <https://
+ filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_
+ __________________________________________________________________________
+ _____\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:油漆房&色母粒周会
+DTSTART;TZID=GMT 标准时间:20260806T133000
+DTEND;TZID=GMT 标准时间:20260806T143000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆房&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Migration Support - EN
+DTSTART;TZID=GMT 标准时间:20260806T213000
+DTEND;TZID=GMT 标准时间:20260806T220000
+CLASS:PUBLIC
+DESCRIPTION:I have to reschudle it for today\, unfortunately I have to can
+ cel the complete series\, because I'm not able to change a single appointm
+ ent.
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Migration Support - EN
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
