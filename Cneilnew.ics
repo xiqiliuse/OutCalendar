@@ -47,6 +47,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260714T123000
+DTEND;TZID=GMT 标准时间:20260714T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D-Talent Monthly Group2 Review 
 DTSTART;TZID=GMT 标准时间:20260714T130000
 DTEND;TZID=GMT 标准时间:20260714T140000
@@ -181,6 +206,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260715T123000
+DTEND;TZID=GMT 标准时间:20260715T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canceled: Migration Unterstützung - DE
 DTSTART;TZID=GMT 标准时间:20260715T173000
 DTEND;TZID=GMT 标准时间:20260715T180000
@@ -297,6 +347,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260716T123000
+DTEND;TZID=GMT 标准时间:20260716T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:已取消: 油漆房&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260716T133000
 DTEND;TZID=GMT 标准时间:20260716T143000
@@ -353,6 +428,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260717T123000
+DTEND;TZID=GMT 标准时间:20260717T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -418,6 +518,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260720T123000
+DTEND;TZID=GMT 标准时间:20260720T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -626,6 +751,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260721T123000
+DTEND;TZID=GMT 标准时间:20260721T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TPO量产颜色梳理会
 DTSTART;TZID=GMT 标准时间:20260721T150000
 DTEND;TZID=GMT 标准时间:20260721T160000
@@ -689,6 +839,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260722T123000
+DTEND;TZID=GMT 标准时间:20260722T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -847,6 +1022,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260723T123000
+DTEND;TZID=GMT 标准时间:20260723T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:油漆房&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260723T133000
 DTEND;TZID=GMT 标准时间:20260723T143000
@@ -921,6 +1121,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260724T123000
+DTEND;TZID=GMT 标准时间:20260724T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project review
 DTSTART;TZID=GMT 标准时间:20260724T150000
 DTEND;TZID=GMT 标准时间:20260724T160000
@@ -977,6 +1202,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260727T123000
+DTEND;TZID=GMT 标准时间:20260727T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1113,6 +1363,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260728T123000
+DTEND;TZID=GMT 标准时间:20260728T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:定期review设备改善项目
 DTSTART;TZID=GMT 标准时间:20260728T140000
 DTEND;TZID=GMT 标准时间:20260728T150000
@@ -1210,6 +1485,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260729T123000
+DTEND;TZID=GMT 标准时间:20260729T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1345,6 +1645,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260730T123000
+DTEND;TZID=GMT 标准时间:20260730T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:油漆房&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260730T133000
 DTEND;TZID=GMT 标准时间:20260730T143000
@@ -1404,6 +1729,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260731T123000
+DTEND;TZID=GMT 标准时间:20260731T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:建军节
 DTSTART;TZID=GMT 标准时间:20260801T000000
 DTEND;TZID=GMT 标准时间:20260802T000000
@@ -1457,6 +1807,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260803T123000
+DTEND;TZID=GMT 标准时间:20260803T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1637,6 +2012,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260804T123000
+DTEND;TZID=GMT 标准时间:20260804T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TPO量产颜色梳理会
 DTSTART;TZID=GMT 标准时间:20260804T150000
 DTEND;TZID=GMT 标准时间:20260804T160000
@@ -1700,6 +2100,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260805T123000
+DTEND;TZID=GMT 标准时间:20260805T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1815,6 +2240,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260806T123000
+DTEND;TZID=GMT 标准时间:20260806T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:油漆房&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260806T133000
 DTEND;TZID=GMT 标准时间:20260806T143000
@@ -1902,6 +2352,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260807T123000
+DTEND;TZID=GMT 标准时间:20260807T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project review
 DTSTART;TZID=GMT 标准时间:20260807T150000
 DTEND;TZID=GMT 标准时间:20260807T160000
@@ -1958,6 +2433,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260810T123000
+DTEND;TZID=GMT 标准时间:20260810T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2080,6 +2580,31 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260811T123000
+DTEND;TZID=GMT 标准时间:20260811T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:定期review设备改善项目
 DTSTART;TZID=GMT 标准时间:20260811T140000
 DTEND;TZID=GMT 标准时间:20260811T150000
@@ -2177,6 +2702,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260812T123000
+DTEND;TZID=GMT 标准时间:20260812T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
