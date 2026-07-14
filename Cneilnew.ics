@@ -5,161 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260713T083500
-DTEND;TZID=GMT 标准时间:20260713T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
- icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
- 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
- mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:Sophia‘s office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EX析出改善
-DTSTART;TZID=GMT 标准时间:20260713T110000
-DTEND;TZID=GMT 标准时间:20260713T113000
-CLASS:PUBLIC
-DESCRIPTION:本次会议纪要如下：\n1、下批次变更料号为U2100
- 169L1580/U2100169L1160—黄海涛 7.15\n2、U2100239L1780/U2100172L1800
- （7月份再次确认，目前产品调整存在客诉）—李晓东/黄
- 海涛 7.15\n3、确认已变更料号U2100220L1200/U2100221L1200/U2100222
- L1200   \n                                          U2100213L1520改善数
- 据—李晓东 6.15\n4、增加DB备注，机台增加改善结果关注
- —孙洪鑫\n5、D302存在放置变色问题，压花下线之后会发
- 生变色，需确认改善方案—陈成龙/黄海涛 6.20\n6、下次
- 会议时间7.10—孙洪鑫\n\n提前约出会议，感谢各位支持！
- \n\n______________________________________________________________________
- __________\nMicrosoft Teams 会议 \n加入: https://teams.microsoft.com/m
- eet/314360139273897?p=7cKCPxudsvCoaSZxa3 \n会议 ID: 314 360 139 273 897 
- \n密码: nu6KZ7aZ \n________________________________\n\n是否需要帮
- 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https:/
- /teams.microsoft.com/l/meetup-join/19%3ameeting_OTk4MzQ3YTUtMmZlZC00MjFjLT
- lkMzItY2U1YzZjMWNjMGRj%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-81
- 81-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%225c8a7070-0576-432a-a607-27fd
- 9e1d19b4%22%7d>  \n对于组织者: 会议选项 <https://teams.microsoft.
- com/meetingOptions/?organizerId=5c8a7070-0576-432a-a607-27fd9e1d19b4&tenan
- tId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_OTk4MzQ3YTUtM
- mZlZC00MjFjLTlkMzItY2U1YzZjMWNjMGRj@thread.v2&messageId=0&language=zh-CN> 
-  \n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-43
- 6b-832a-1d684ab9ad7e>  \n_________________________________________________
- _______________________________
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:EX析出改善
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Motivationsmontag
-DTSTART;TZID=GMT 标准时间:20260713T173000
-DTEND;TZID=GMT 标准时间:20260713T180000
-CLASS:PUBLIC
-DESCRIPTION:**** Attention - these learning bites are in German ****\n\nPl
- ease DO NOT delete this channel invitation.\n\nCancellations only in your 
- private calendar\, not in the group calendar of the Learning Bites team.\n
- \nThank you very much\n\n-------------------------------------------------
- -------------------------------------------------------------\n\n \n\nLieb
- e Motivationsmontag Community\, 🎉\n\n \n\nes ist soweit die nicht enden
- de Lernreise beginnt wieder und wie kann man eine Woche besser beginnen al
- s mit motivierendem und frisch Gelernten\, was man mit anderen teilen kann
- . 🤩\n\n \n\nWie versprochen werden wir jeden Montag eine Lerneinheit ru
- nd um das Thema New Work Style präsentieren.\n\n \n\nHierbei möchten wir
-  gemeinsam mit euch lernen\, da wir immer wieder hoch aktuelle Themen und 
- Updates mit einfließen lassen werden. Um die Win-Win Situation komplett z
- u machen\, werden wir mit euch gemeinsam die Fridays for Future Work Sessi
- ons üben oder anders gesagt spoilern\, so dass ihr schon wisst\, was die 
- anderen Teilnehmer erwartet. 😉\n\n \n\n \n\nWir freuen uns auf eine tol
- le Lernzeit mit euch und wir sehen uns zum\n\nMotivationsmontag\n\n \n\nEu
- ere GUIDEs\n\nCarsten & Günter\n\n\n\n\n_________________________________
- _______________________________________________\nMicrosoft Teams-Besprechu
- ng \nTeilnehmen: https://teams.microsoft.com/meet/399100251560051?p=LQE3HK
- ADmWAiGlAF2t \nBesprechungs-ID: 399 100 251 560 051 \nPasscode: pE7qi3Xg \
- n________________________________\n\nBenötigen Sie Hilfe? <https://aka.ms
- /JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft.c
- om/l/meetup-join/19%3afcd3a0910fab4645b5c8740cf79e2df3%40thread.tacv2/1782
- 984511744?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%2
- 2%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d>  \nFür Org
- anisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOptio
- ns/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-818
- 1-4f6c-aa5a-2625c7e55082&threadId=19_fcd3a0910fab4645b5c8740cf79e2df3@thre
- ad.tacv2&messageId=1782984511744&language=de-DE>  \nDatenschutz und Sicher
- heit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684a
- b9ad7e>  \n_______________________________________________________________
- _________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Motivationsmontag
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Motivational Monday
-DTSTART;TZID=GMT 标准时间:20260713T233000
-DTEND;TZID=GMT 标准时间:20260714T000000
-CLASS:PUBLIC
-DESCRIPTION:**** Attention - these learning bites are in English ****\n\nP
- lease DO NOT delete this channel invitation.\n\nCancellations only in your
-  private calendar\, not in the group calendar of the Learning Bites team.\
- n\nThank you very much\n\n------------------------------------------------
- --------------------------------------------------------------\n\n \n\nDea
- r Motivational Monday Community\, 🎉\n\n \n\nThe time has come! The neve
- r-ending learning journey begins and what better way to start the week tha
- n with motivating and newly learned material that you can share with other
- s. 🤩\n\n \n\nAs promised\, we will present a learning unit on the topic
-  of New Work Style every Monday.\n\n \n\nWe want to learn together with yo
- u\, as we incorporate highly relevant topics and updates. To make it a Win
- -Win situation we will practice the Fridays for Future Work Sessions with 
- you\, or in other words\, give you a sneak peek\, so you already know what
-  to expect from the participants. 😉\n\n \n\nWe're looking forward to a 
- great learning experience with you and we'll see you on \n\nMotivational M
- onday\n\n \n\nYour GUIDEs\n\nCarsten & Guenter\n\n\n\n\n__________________
- ______________________________________________________________\nMicrosoft 
- Teams-Besprechung \nTeilnehmen: https://teams.microsoft.com/meet/371915657
- 651454?p=u70yC1XcTyPC7cBVNT \nBesprechungs-ID: 371 915 657 651 454 \nPassc
- ode: Xs2Kw3XD \n________________________________\n\nBenötigen Sie Hilfe? 
- <https://aka.ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://te
- ams.microsoft.com/l/meetup-join/19%3a13173c0b456641f5a8381f2d9ef6e6d4%40th
- read.tacv2/1782985594173?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a
- -2625c7e55082%22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%
- 7d>  \nFür Organisatoren: Besprechungsoptionen <https://teams.microsoft.c
- om/meetingOptions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenant
- Id=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_13173c0b456641f5a8381f
- 2d9ef6e6d4@thread.tacv2&messageId=1782985594173&language=de-DE>  \nDatensc
- hutz und Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-4
- 36b-832a-1d684ab9ad7e>  \n________________________________________________
- ________________________________
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Motivational Monday
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260714T083500
 DTEND;TZID=GMT 标准时间:20260714T090500
 CLASS:PUBLIC
@@ -452,16 +297,17 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:油漆房&色母粒周会
+SUMMARY:已取消: 油漆房&色母粒周会
 DTSTART;TZID=GMT 标准时间:20260716T133000
 DTEND;TZID=GMT 标准时间:20260716T143000
 CLASS:PUBLIC
-DESCRIPTION: \n\n \n\n \n
+DESCRIPTION:因现场本周都已放假，本周四周会取消，有事
+ 单独联系，谢谢！\n\n \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:油漆房&色母粒周会
+DESCRIPTION:已取消: 油漆房&色母粒周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2302,6 +2148,133 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:TPO量产颜色梳理会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260812T083500
+DTEND;TZID=GMT 标准时间:20260812T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
+ icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
+ 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
+ mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
+ b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
+ 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
+ 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:Sophia‘s office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:清洁生产，能源及危废数据月度会议
+DTSTART;TZID=GMT 标准时间:20260812T130000
+DTEND;TZID=GMT 标准时间:20260812T140000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  \n\n立即加入会议 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZDQxZDM0NDMtNDc2Yy00NmVjLTg1NzItNT
+ M0ODc0NDJjMWQ5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a%22%2c%22Oid%22%3a%224d5e1cea-2ca2-4582-b48b-b674e2625c0e
+ %22%7d>  \n\n会议 ID: 346 286 406 413 \n\n密码: yY6Am9Pk \n\n_________
+ _______________________\n\n对于组织者: 会议选项 <https://teams.mi
+ crosoft.com/meetingOptions/?organizerId=4d5e1cea-2ca2-4582-b48b-b674e2625c
+ 0e&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZDQxZ
+ DM0NDMtNDc2Yy00NmVjLTg1NzItNTM0ODc0NDJjMWQ5@thread.v2&messageId=0&language
+ =zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/650153
+ 1f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_____________________________________
+ ___________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:清洁生产，能源及危废数据月度会议
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canceled: Migration Unterstützung - DE
+DTSTART;TZID=GMT 标准时间:20260812T173000
+DTEND;TZID=GMT 标准时间:20260812T180000
+CLASS:PUBLIC
+DESCRIPTION:📣 Einladung: IT‑Migration Support Calls\n\nUm euch bestm
+ öglich bei der Migration der IT‑Umgebung zu unterstützen\, bieten wir 
+ regelmäßige Migration Support Calls an.\n\n \n\nDiese Sessions dienen da
+ zu:\n\n✅ Orientierung und Hintergrundinformationen zur Migration zu gebe
+ n\n\n✅ Praktische Tipps und Best Practices zu teilen\n\n✅ Eure Fragen 
+ live zu beantworten\n\n✅ Aus realen Anwendungsfällen und Erfahrungen de
+ r Community zu lernen \n\n \n\n👥 Wer sollte teilnehmen?\n\nAlle\, die v
+ on der IT‑Migration betroffen sind oder sich dafür interessieren – un
+ abhängig von Rolle oder Erfahrung.\n\n \n\n🎙 Hosts:\n\nCarsten & Günt
+ er\n\n \n\n📅 Format:\n\nInteraktive Lern‑ und Q&A‑Sessions\n\n(Deta
+ ils zu Terminen\, Zeiten und Einwahldaten teilen wir in diesem Kanal.)\n\n
+  \n\n👉 Bringt eure Fragen\, Herausforderungen und Erfahrungen mit.\n\n 
+ \n\nUnser Ziel ist es\, gemeinsam zu lernen und uns gegenseitig durch die 
+ Migration zu unterstützen.\n\n \n\nWir freuen uns auf eure Teilnahme!\n\n
+ Carsten und Günter\n\n \n\n \n\n \n\n____________________________________
+ ____________________________________________\n\nMicrosoft Teams-Besprechun
+ g\n\nTeilnehmen: https://teams.microsoft.com/meet/334563246451205?p=yyvUec
+ nmcM8sjWVsy5 <https://teams.microsoft.com/meet/334563246451205?p=yyvUecnmc
+ M8sjWVsy5> \n\nBesprechungs-ID: 334 563 246 451 205\n\nPasscode: Qp7SA6fv\
+ n\n________________________________\n\nBenötigen Sie Hilfe? <https://aka.
+ ms/JoinTeamsMeeting?omkt=de-DE>  | Systemreferenz <https://teams.microsoft
+ .com/l/meetup-join/19%3a347588e0bbaf47bb962dc9de4c45954e%40thread.tacv2/17
+ 77884024237?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082
+ %22%2c%22Oid%22%3a%229756b494-0d79-41ef-809a-5ac440e03d0b%22%7d> \n\nFür 
+ Organisatoren: Besprechungsoptionen <https://teams.microsoft.com/meetingOp
+ tions/?organizerId=9756b494-0d79-41ef-809a-5ac440e03d0b&tenantId=49bcf5a3-
+ 8181-4f6c-aa5a-2625c7e55082&threadId=19_347588e0bbaf47bb962dc9de4c45954e@t
+ hread.tacv2&messageId=1777884024237&language=de-DE> \n\n \n\nDatenschutz u
+ nd Sicherheit <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-83
+ 2a-1d684ab9ad7e> \n\n_____________________________________________________
+ ___________________________\n
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canceled: Migration Unterstützung - DE
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Call - RPA Developers Worldwide Option 1
+DTSTART;TZID=GMT 标准时间:20260812T220000
+DTEND;TZID=GMT 标准时间:20260812T230000
+CLASS:PUBLIC
+DESCRIPTION:This is a continuation of the previous Open Calls\n\n\n\n\n___
+ __________________________________________________________________________
+ ___\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-U
+ S>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3
+ a0a53d13422fa4c21a703569ee88cc19b%40thread.skype/1754325850286?context=%7b
+ %22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2274
+ 7198b6-f9dc-48a8-925a-e78c77260ed8%22%7d>  \nMeeting ID: 365 192 380 447 7
+  \nPasscode: MR2NG3km \n________________________________\n\nFor organizers
+ : Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId
+ =747198b6-f9dc-48a8-925a-e78c77260ed8&tenantId=8d4b558f-7b2e-40ba-ad1f-e04
+ d79e6265a&threadId=19_0a53d13422fa4c21a703569ee88cc19b@thread.skype&messag
+ eId=1754325850286&language=en-US>  \nPrivacy and security <https://filehub
+ .admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n__________
+ ______________________________________________________________________
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Open Call - RPA Developers Worldwide Option 1
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
