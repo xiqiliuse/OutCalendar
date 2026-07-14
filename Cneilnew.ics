@@ -91,40 +91,16 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TPO量产颜色梳理会
+SUMMARY:已取消: TPO量产颜色梳理会
 DTSTART;TZID=GMT 标准时间:20260714T150000
 DTEND;TZID=GMT 标准时间:20260714T160000
 CLASS:PUBLIC
-DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
- 2.xu@contitech.com>\nSent: Wednesday\, 24 June 2026 05:24:51\nTo: Zhang\, 
- Yufan02 <yufan.2.zhang@contitech.com>\; TE_ZG_FA\, LuKeting <luketing.te_z
- g_fa@contitech.com>\; Du-EXT\, Wenqiu02 <wenqiu.2.du-EXT@contitech.com>\; 
- Shen\, Qi <qi.shen@contitech.com>\; Guo\, Wei02 <wei.2.guo@contitech.com>\
- ; Wang\, Fen <fen.wang@contitech.com>\nSubject: DX1H stone grey 颜色配
- 方优化 \n \nHello Yufan\,\n\n色号77712，\n基于8294612\nDL:+0.65\,\
- nDa:-0.2\nDb:+0.1\n\n色号77713\n基于8294614\nDl: +0.55\nDa: -0.15\nDb:
- +0.15\n\n同色异普A光源和Tl84 F11光源客户反馈上边两个批
- 次同塑料色板目视比对偏红，优化配方时请关注\n\nBest re
- gards\nSofie\n\nInternal\n\n______________________________________________
- __________________________________\nMicrosoft Teams 会议 \n加入: https
- ://teams.microsoft.com/meet/361469863528743?p=LIrR4J3Rgk6rJLHsSz \n会议 
- ID: 361 469 863 528 743 \n密码: J78aL3y7 \n_____________________________
- ___\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  |
-  系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDhi
- ZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz%40thread.v2/0?context=%7b%22T
- id%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22bd9db7
- 2d-4b6f-4606-b88e-6949f31da74c%22%7d>  \n对于组织者: 会议选项 <ht
- tps://teams.microsoft.com/meetingOptions/?organizerId=bd9db72d-4b6f-4606-b
- 88e-6949f31da74c&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19
- _meeting_MDhiZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz@thread.v2&messag
- eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
- _____________________________________________________
+DESCRIPTION:
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:TPO量产颜色梳理会
+DESCRIPTION:已取消: TPO量产颜色梳理会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -383,6 +359,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:已取消: 油漆房&色母粒周会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPO设备周会
+DTSTART;TZID=GMT 标准时间:20260716T150000
+DTEND;TZID=GMT 标准时间:20260716T160000
+CLASS:PUBLIC
+DESCRIPTION:Hello 各位同事：\n邀请各位参加本次TPO设备周会
+ ，根据近期异常，有如下议题：\n1、EX2近期故障问题频
+ 发，建议停机期间对设备进行全面保养；\n①6.25 供料系
+ 统无法抽料\n②7.8风机故障，K1-K8无法抽料，维修后7/9-7/1
+ 0重复发生两次\n③牵引一张力异常（实际240N，设定125N）
+ 导致产品刮伤和停机\n2、EX1 7.10夜班生产订单 8296725 / Z230
+ 0305A0685A ，以800kg/h生产时K6出现最大转速报警，机台降到
+ 700kg/h生产至订单结束，需工艺和维修确认该问题产生原
+ 因，制定后续改善措施\n3、EX1管线清洁后续计划讨论\n4
+ 、LM3板间烘箱冷却辊进入夏天，表面存在较多冷凝水，
+ 影响产品质量（目前空调常开，仍存在冷凝水），需PPI
+ 共同讨论改善措施\n5、LM3收卷机故障改善\n6、EM2/EM4压花
+ 辊黑色斑印改善讨论\n\n以上为本次例会议题，如有补充
+ 还请提前提出\n\n\n
+LOCATION:TPO早会会议室
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TPO设备周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
