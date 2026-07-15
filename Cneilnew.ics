@@ -381,6 +381,44 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GWM  C06A备胎罩 Project Kick off
+DTSTART;TZID=GMT 标准时间:20260717T143000
+DTEND;TZID=GMT 标准时间:20260717T150000
+CLASS:PUBLIC
+DESCRIPTION: \n________________________________\n\n发件人: jared.ma@con
+ titech.com <jared.ma@contitech.com>\n已发送: 2026年7月15日 9:00:56 (
+ UTC+08:00) Beijing\, Chongqing\, Hong Kong\, Urumqi\n收件人: jared.ma@c
+ ontitech.com <jared.ma@contitech.com>\; Qian\, Chunlei <chunlei.qian@conti
+ tech.com>\; Sun\, Xiaoyong <xiaoyong.sun@benecke-changshun.com.cn>\; Xiang
+ \, Hengwei <hengwei.xiang@contitech.com>\; Huang\, Haitao02 <haitao.2.huan
+ g@benecke-changshun.com.cn>\; Zeng\, Xianxin <xianxin.zeng@contitech.com>\
+ n主题: GWM C06A备胎罩 Project Kick off\n时间: 2026年7月17日 14:3
+ 0-15:00。\n位置: Microsoft Teams 会议\n\n\n\n \n\n___________________
+ _____________________________________________________________\n\nMicrosoft
+  Teams 会议 \n\n加入: https://teams.microsoft.com/meet/314097580482781
+ ?p=qbG5HANLTQF8Kqhgr5 <https://teams.microsoft.com/meet/314097580482781?p=
+ qbG5HANLTQF8Kqhgr5>  \n\n会议 ID: 314 097 580 482 781 \n\n密码: Cg2Yv9
+ 5t \n\n________________________________\n\n是否需要帮助? <https://ak
+ a.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft
+ .com/l/meetup-join/19%3ameeting_YmYyMmY3ZTctYTQ5Zi00YmNkLWFmNmItMGQ1NDI4Nj
+ lhMzE1%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-262
+ 5c7e55082%22%2c%22Oid%22%3a%226d101e12-7098-4715-a078-9df6d26437b1%22%7d> 
+  \n\n对于组织者: 会议选项 <https://teams.microsoft.com/meetingOpt
+ ions/?organizerId=6d101e12-7098-4715-a078-9df6d26437b1&tenantId=49bcf5a3-8
+ 181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_YmYyMmY3ZTctYTQ5Zi00YmNkLWF
+ mNmItMGQ1NDI4NjlhMzE1@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和
+ 安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d68
+ 4ab9ad7e>  \n\n___________________________________________________________
+ _____________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GWM  C06A备胎罩 Project Kick off
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260720T083500
 DTEND;TZID=GMT 标准时间:20260720T090500
