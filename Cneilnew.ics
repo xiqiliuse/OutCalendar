@@ -145,6 +145,37 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:南京航天P417异色点频发以及应用鼓包讨论
+DTSTART;TZID=GMT 标准时间:20260717T110000
+DTEND;TZID=GMT 标准时间:20260717T120000
+CLASS:PUBLIC
+DESCRIPTION:最近客户端投诉较多，客户遇到质量问题要直
+ 接退货\n\n请大家务必要来参加讨论\n\n________________________
+ ________________________________________________________\n\nMicrosoft Team
+ s 会议 \n\n加入: https://teams.microsoft.com/meet/39372462623099?p=TpH
+ 0oyCIb5qo43i1rL <https://teams.microsoft.com/meet/39372462623099?p=TpH0oyC
+ Ib5qo43i1rL>  \n\n会议 ID: 393 724 626 230 99 \n\n密码: qM2nv2AW \n\n_
+ _______________________________\n\n是否需要帮助? <https://aka.ms/Joi
+ nTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/m
+ eetup-join/19%3ameeting_ZTRhMzMyODQtMDBiYS00MGU0LWE4OTYtMjE1ZTJiMWYxNGYx%4
+ 0thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e5508
+ 2%22%2c%22Oid%22%3a%2296a796d4-96a4-4bcb-b118-d3fb4ef60dbf%22%7d>  \n\n对
+ 于组织者: 会议选项 <https://teams.microsoft.com/meetingOptions/?or
+ ganizerId=96a796d4-96a4-4bcb-b118-d3fb4ef60dbf&tenantId=49bcf5a3-8181-4f6c
+ -aa5a-2625c7e55082&threadId=19_meeting_ZTRhMzMyODQtMDBiYS00MGU0LWE4OTYtMjE
+ 1ZTJiMWYxNGYx@thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <
+ https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e
+ >  \n\n___________________________________________________________________
+ _____________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:南京航天P417异色点频发以及应用鼓包讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
 DTSTART;TZID=GMT 标准时间:20260717T123000
 DTEND;TZID=GMT 标准时间:20260717T124500
@@ -258,6 +289,29 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D-Talent Monthly Group2 Review 
+DTSTART;TZID=GMT 标准时间:20260720T153000
+DTEND;TZID=GMT 标准时间:20260720T163000
+CLASS:PUBLIC
+DESCRIPTION:Group2 项目收集\n\n1.	员工信息收集系统。\n2.	HR
+ 招聘人才库。PDF扫描，打标签，保存进数据库，查询。\n
+ \n	1.	各项人员入职事项\n\n3.	包装规范AI推荐。\n4.	行政信
+ 息展示看板\n5.	会议纪要Action追中。office 365 planner \n6.	打
+ 卡情况核对，自动发送考情异常。\n\n	1.	白领\n	2.	蓝领\n	
+ 3.	全员人员的考情记录数据\n	4.	提醒方式，邮件或短信
+ 。\n\n \n\n所有考情信息的数据源；——彭\n\n打卡数据来
+ 源打卡机；\n\n上班和下班时间，3个时间段，link 员工号
+ ；\n\n固定白领打卡提醒；\n\n离职和入职人员信息；\n\n \
+ n
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:D-Talent Monthly Group2 Review 
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -583,17 +637,16 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canceled: Open Call - RPA Developers Worldwide Option 1
-DTSTART;TZID=GMT 标准时间:20260722T153000
-DTEND;TZID=GMT 标准时间:20260722T163000
+SUMMARY:在线颜色测色
+DTSTART;TZID=GMT 标准时间:20260722T160000
+DTEND;TZID=GMT 标准时间:20260722T170000
 CLASS:PUBLIC
-DESCRIPTION:There will be a new invitation for the open calls by Stan Nowi
- ki soon.
-LOCATION:Microsoft Teams Meeting
+DESCRIPTION: \n
+LOCATION:ppi office
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Canceled: Open Call - RPA Developers Worldwide Option 1
+DESCRIPTION:在线颜色测色
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
