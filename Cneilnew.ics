@@ -33,20 +33,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:提醒查看CDP打卡
-DTSTART;TZID=GMT 标准时间:20260721T114000
-DTEND;TZID=GMT 标准时间:20260721T114500
-CLASS:PUBLIC
-DESCRIPTION: 
-LOCATION:
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒查看CDP打卡
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
 DTSTART;TZID=GMT 标准时间:20260721T123000
 DTEND;TZID=GMT 标准时间:20260721T124500
@@ -72,6 +58,65 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:flooring TPO business kick off and trial 
+DTSTART;TZID=GMT 标准时间:20260721T140000
+DTEND;TZID=GMT 标准时间:20260721T143000
+CLASS:PUBLIC
+DESCRIPTION: \n________________________________\n\n发件人: Fan\, Yinfen
+ g <yinfeng.fan@contitech.com>\n已发送: 2026年7月21日 11:28:00 (UTC+0
+ 8:00) Beijing\, Chongqing\, Hong Kong\, Urumqi\n收件人: Fan\, Yinfeng <
+ yinfeng.fan@contitech.com>\; Peng\, Shuping <Shuping.Peng@contitech.com>\;
+  Gu\, Ace <ace.gu@contitech.com>\; Qian\, Chunlei <chunlei.qian@contitech.
+ com>\; Zhao\, Yulia <yulia.zhao@contitech.com>\; Sun\, Xiaoyong <xiaoyong.
+ sun@contitech.com>\; Zhang\, Fei <fei.zhang@contitech.com>\n抄送: Zhang\
+ , Kenneth <kenneth.zhang@contitech.com>\; Chen\, Hongmei <Hongmei.Chen@con
+ titech.com>\n主题: flooring TPO business kick off and trial \n时间: 20
+ 26年7月21日 14:00-14:30。\n位置: Microsoft Teams 会议\n\n\n\nHello
+  all\,\n\n \n\n关于之前一直在跟进Flooring的售后市场项目，
+ 客户下了一个300米的订单，选用的是滴滴地板项目的木
+ 纹及颜色\n\n \n\n参考ZT580046A1700A 料号，不带TPU膜，厚度0.
+ 45mm，幅宽1550mm，\n\n \n\n还有需要其他的信息会上一起讨
+ 论，多谢！\n\n \n\n \n\n \n\n________________________________________
+ ________________________________________\n\nMicrosoft Teams 会议 \n\n加
+ 入: https://teams.microsoft.com/meet/386844779006934?p=ipWKVmZEwQJUJC3spw
+  <https://teams.microsoft.com/meet/386844779006934?p=ipWKVmZEwQJUJC3spw>  
+ \n\n会议 ID: 386 844 779 006 934 \n\n密码: N4Lo2Po7 \n\n______________
+ __________________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting
+ ?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_Mzc1YmQ3ZjQtNjUxMS00NjVhLTg4NmItOTBlMzMwZDAxZjFj%40thread.v2/0?
+ context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid
+ %22%3a%22517cb7da-5f1e-4f5e-b1d6-2e56d82fa1bc%22%7d>  \n\n对于组织者:
+  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=517
+ cb7da-5f1e-4f5e-b1d6-2e56d82fa1bc&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e
+ 55082&threadId=19_meeting_Mzc1YmQ3ZjQtNjUxMS00NjVhLTg4NmItOTBlMzMwZDAxZjFj
+ @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
+ ub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______
+ __________________________________________________________________________
+ \n\n \n\n_________________________________________________________________
+ _______________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.micros
+ oft.com/meet/316809628670883?p=v8vh5cnN7yZ8NnOCnT <https://teams.microsoft
+ .com/meet/316809628670883?p=v8vh5cnN7yZ8NnOCnT>  \n\n会议 ID: 316 809 62
+ 8 670 883 \n\n密码: 7mW7Ly24 \n\n________________________________\n\n是
+ 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引
+ 用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWM5OTU1MmItYj
+ JmNC00MmNhLWFlNWYtM2JiNDY4MjBlNDQ4%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22517cb7da-5f1e-4f
+ 5e-b1d6-2e56d82fa1bc%22%7d>  \n\n对于组织者: 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=517cb7da-5f1e-4f5e-b1d6-2e56
+ d82fa1bc&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting
+ _MWM5OTU1MmItYjJmNC00MmNhLWFlNWYtM2JiNDY4MjBlNDQ4@thread.v2&messageId=0&la
+ nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
+ 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
+ _________________________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:flooring TPO business kick off and trial 
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:清洁生产项目与第三方沟通会
 DTSTART;TZID=GMT 标准时间:20260721T150000
 DTEND;TZID=GMT 标准时间:20260721T160000
@@ -85,44 +130,6 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:清洁生产项目与第三方沟通会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPO量产颜色梳理会
-DTSTART;TZID=GMT 标准时间:20260721T150000
-DTEND;TZID=GMT 标准时间:20260721T160000
-CLASS:PUBLIC
-DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
- 2.xu@contitech.com>\nSent: Wednesday\, 24 June 2026 05:24:51\nTo: Zhang\, 
- Yufan02 <yufan.2.zhang@contitech.com>\; TE_ZG_FA\, LuKeting <luketing.te_z
- g_fa@contitech.com>\; Du-EXT\, Wenqiu02 <wenqiu.2.du-EXT@contitech.com>\; 
- Shen\, Qi <qi.shen@contitech.com>\; Guo\, Wei02 <wei.2.guo@contitech.com>\
- ; Wang\, Fen <fen.wang@contitech.com>\nSubject: DX1H stone grey 颜色配
- 方优化 \n \nHello Yufan\,\n\n色号77712，\n基于8294612\nDL:+0.65\,\
- nDa:-0.2\nDb:+0.1\n\n色号77713\n基于8294614\nDl: +0.55\nDa: -0.15\nDb:
- +0.15\n\n同色异普A光源和Tl84 F11光源客户反馈上边两个批
- 次同塑料色板目视比对偏红，优化配方时请关注\n\nBest re
- gards\nSofie\n\nInternal\n\n______________________________________________
- __________________________________\nMicrosoft Teams 会议 \n加入: https
- ://teams.microsoft.com/meet/361469863528743?p=LIrR4J3Rgk6rJLHsSz \n会议 
- ID: 361 469 863 528 743 \n密码: J78aL3y7 \n_____________________________
- ___\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  |
-  系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDhi
- ZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz%40thread.v2/0?context=%7b%22T
- id%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22bd9db7
- 2d-4b6f-4606-b88e-6949f31da74c%22%7d>  \n对于组织者: 会议选项 <ht
- tps://teams.microsoft.com/meetingOptions/?organizerId=bd9db72d-4b6f-4606-b
- 88e-6949f31da74c&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19
- _meeting_MDhiZWQ5MDgtY2NkNS00M2NiLWE2M2QtNDcyNzViNDBhNTYz@thread.v2&messag
- eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
- /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
- _____________________________________________________
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:TPO量产颜色梳理会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -212,6 +219,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:清机料讨论
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:提醒查看CDP打卡
+DTSTART;TZID=GMT 标准时间:20260722T114000
+DTEND;TZID=GMT 标准时间:20260722T114500
+CLASS:PUBLIC
+DESCRIPTION: 
+LOCATION:
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒查看CDP打卡
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -439,6 +460,41 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:健康小课堂：失眠的预防与治疗
+DTSTART;TZID=GMT 标准时间:20260724T140000
+DTEND;TZID=GMT 标准时间:20260724T143000
+CLASS:PUBLIC
+DESCRIPTION:Dear All：\n\n高温酷暑、工作压力与倒班作息，
+ 让失眠成为大家不容忽视的健康隐患。\n\n科学预防、及
+ 时调理、规范养护，既能改善日间精神状态，也能有效
+ 降低长期缺觉带来的身体损耗。\n\n为帮助大家系统掌握
+ 睡眠知识、掌握实用助眠与作息调整技巧。\n\n健康中心
+ 特筹备本次睡眠健康小课堂，诚邀各位同事参与！\n\n____
+ __________________________________________________________________________
+ __\n\nMicrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/
+ 369813442757318?p=L3nPSYhIBrn5NMxsfg <https://teams.microsoft.com/meet/369
+ 813442757318?p=L3nPSYhIBrn5NMxsfg>  \n\n会议 ID: 369 813 442 757 318 \n\
+ n密码: wG2zW7mF \n\n________________________________\n\n是否需要帮
+ 助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https:/
+ /teams.microsoft.com/l/meetup-join/19%3ameeting_ODQxYzNlZjYtZWZiNi00ZjExLT
+ gwZTgtN2M5M2M1MzkzYWEy%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-81
+ 81-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22bb8bfe7e-d77b-4a13-a441-1301
+ 9a9bbc6a%22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsof
+ t.com/meetingOptions/?organizerId=bb8bfe7e-d77b-4a13-a441-13019a9bbc6a&ten
+ antId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_ODQxYzNlZjY
+ tZWZiNi00ZjExLTgwZTgtN2M5M2M1MzkzYWEy@thread.v2&messageId=0&language=zh-CN
+ >  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1c
+ a-436b-832a-1d684ab9ad7e>  \n\n___________________________________________
+ _____________________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:健康小课堂：失眠的预防与治疗
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -767,7 +823,7 @@ DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
  eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
  /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
  _____________________________________________________
-LOCATION:Microsoft Teams 会议
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1322,7 +1378,7 @@ DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
  eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
  /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
  _____________________________________________________
-LOCATION:Microsoft Teams 会议
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1864,7 +1920,7 @@ DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
  eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
  /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
  _____________________________________________________
-LOCATION:Microsoft Teams 会议
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2415,7 +2471,7 @@ DESCRIPTION:\n________________________________\n\nFrom: Xu\, Hong02 <hong.
  eId=0&language=zh-CN>  \n隐私和安全 <https://filehub.admiralcloud.com
  /dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n___________________________
  _____________________________________________________
-LOCATION:Microsoft Teams 会议
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
