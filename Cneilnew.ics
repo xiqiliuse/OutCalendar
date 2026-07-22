@@ -5,180 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:BCZ PPI 早会
-DTSTART;TZID=GMT 标准时间:20260721T083500
-DTEND;TZID=GMT 标准时间:20260721T090500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
- s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
- icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
- 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
- _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
- mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:Sophia‘s office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:BCZ PPI 早会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
-DTSTART;TZID=GMT 标准时间:20260721T123000
-DTEND;TZID=GMT 标准时间:20260721T124500
-CLASS:PUBLIC
-DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
- 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
- “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
- 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
- \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
- 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
- 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
- 习（扫描附件二维码下载）\n\n             登陆域名：Contit
- ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
- 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
- ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
- Tech Surface Solutions\n\n \n
-LOCATION:BC在线学习平台
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:flooring TPO business kick off and trial 
-DTSTART;TZID=GMT 标准时间:20260721T140000
-DTEND;TZID=GMT 标准时间:20260721T143000
-CLASS:PUBLIC
-DESCRIPTION: \n________________________________\n\n发件人: Fan\, Yinfen
- g <yinfeng.fan@contitech.com>\n已发送: 2026年7月21日 11:28:00 (UTC+0
- 8:00) Beijing\, Chongqing\, Hong Kong\, Urumqi\n收件人: Fan\, Yinfeng <
- yinfeng.fan@contitech.com>\; Peng\, Shuping <Shuping.Peng@contitech.com>\;
-  Gu\, Ace <ace.gu@contitech.com>\; Qian\, Chunlei <chunlei.qian@contitech.
- com>\; Zhao\, Yulia <yulia.zhao@contitech.com>\; Sun\, Xiaoyong <xiaoyong.
- sun@contitech.com>\; Zhang\, Fei <fei.zhang@contitech.com>\n抄送: Zhang\
- , Kenneth <kenneth.zhang@contitech.com>\; Chen\, Hongmei <Hongmei.Chen@con
- titech.com>\n主题: flooring TPO business kick off and trial \n时间: 20
- 26年7月21日 14:00-14:30。\n位置: Microsoft Teams 会议\n\n\n\nHello
-  all\,\n\n \n\n关于之前一直在跟进Flooring的售后市场项目，
- 客户下了一个300米的订单，选用的是滴滴地板项目的木
- 纹及颜色\n\n \n\n参考ZT580046A1700A 料号，不带TPU膜，厚度0.
- 45mm，幅宽1550mm，\n\n \n\n还有需要其他的信息会上一起讨
- 论，多谢！\n\n \n\n \n\n \n\n________________________________________
- ________________________________________\n\nMicrosoft Teams 会议 \n\n加
- 入: https://teams.microsoft.com/meet/386844779006934?p=ipWKVmZEwQJUJC3spw
-  <https://teams.microsoft.com/meet/386844779006934?p=ipWKVmZEwQJUJC3spw>  
- \n\n会议 ID: 386 844 779 006 934 \n\n密码: N4Lo2Po7 \n\n______________
- __________________\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting
- ?omkt=zh-CN>  | 系统引用 <https://teams.microsoft.com/l/meetup-join/19
- %3ameeting_Mzc1YmQ3ZjQtNjUxMS00NjVhLTg4NmItOTBlMzMwZDAxZjFj%40thread.v2/0?
- context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid
- %22%3a%22517cb7da-5f1e-4f5e-b1d6-2e56d82fa1bc%22%7d>  \n\n对于组织者:
-  会议选项 <https://teams.microsoft.com/meetingOptions/?organizerId=517
- cb7da-5f1e-4f5e-b1d6-2e56d82fa1bc&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e
- 55082&threadId=19_meeting_Mzc1YmQ3ZjQtNjUxMS00NjVhLTg4NmItOTBlMzMwZDAxZjFj
- @thread.v2&messageId=0&language=zh-CN>  \n\n隐私和安全 <https://fileh
- ub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______
- __________________________________________________________________________
- \n\n \n\n_________________________________________________________________
- _______________\n\nMicrosoft Teams 会议 \n\n加入: https://teams.micros
- oft.com/meet/316809628670883?p=v8vh5cnN7yZ8NnOCnT <https://teams.microsoft
- .com/meet/316809628670883?p=v8vh5cnN7yZ8NnOCnT>  \n\n会议 ID: 316 809 62
- 8 670 883 \n\n密码: 7mW7Ly24 \n\n________________________________\n\n是
- 否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引
- 用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWM5OTU1MmItYj
- JmNC00MmNhLWFlNWYtM2JiNDY4MjBlNDQ4%40thread.v2/0?context=%7b%22Tid%22%3a%2
- 249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%22517cb7da-5f1e-4f
- 5e-b1d6-2e56d82fa1bc%22%7d>  \n\n对于组织者: 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=517cb7da-5f1e-4f5e-b1d6-2e56
- d82fa1bc&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting
- _MWM5OTU1MmItYjJmNC00MmNhLWFlNWYtM2JiNDY4MjBlNDQ4@thread.v2&messageId=0&la
- nguage=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.com/dl/5/
- 6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________
- _________________________________________________\n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:flooring TPO business kick off and trial 
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:清洁生产项目与第三方沟通会
-DTSTART;TZID=GMT 标准时间:20260721T150000
-DTEND;TZID=GMT 标准时间:20260721T160000
-CLASS:PUBLIC
-DESCRIPTION:Hi，all：\n关于清洁生产审核的项目，召开与第
- 三方（远创）的沟通会：\n\n1.	项目负责人介绍各自项目
- 的进度\n2.	第三方（远创）介绍需要大家提交的资料和数
- 据\n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:清洁生产项目与第三方沟通会
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:过程半成品公差讨论
-DTSTART;TZID=GMT 标准时间:20260721T160000
-DTEND;TZID=GMT 标准时间:20260721T170000
-CLASS:PUBLIC
-DESCRIPTION:Dear all：\n\n \n\n关于半成品公差的合理性，我们
- 内部先捋一下，顺序：涂布- 印刷- 挤出。\n\n@Sun\, Xiaoyong
-  <mailto:xiaoyong.sun@contitech.com> @Li\, Xiaodong03 <mailto:xiaodong.3.l
- i@contitech.com> ，你们可以等涂布捋完，再加入，节约时间
- 。\n\n \n\n涂布：厚度/重量/宽度（每1层宽度）\n\n@cheng\, y
- ifei <mailto:yifei.cheng@contitech.com> ， 增加SEV 不同的基布，
- 至少1-3个料号的数据展示厚度/重量设定/实际涂布后数据
- 。\n\n@Chen\, Zhijian <mailto:zhijian.chen@contitech.com> ，增加SEV 
- 不同基布，至少1-3个料号，展示宽度设定/实际涂布后的
- 数据。\n\n@Guo\, Wei02 <mailto:wei.2.guo@contitech.com> \,  新基布
- 的试单数据。\n\n \n\n印刷：光泽度/宽度/特殊油漆的报废
- 率\n\n@Sun\, Xiaoyong <mailto:xiaoyong.sun@contitech.com> ， 增加需
- 要PP foam 4个配方/PE foam 至少1-3个料号幅宽的设定/实际印
- 刷厚度数据。\n\n \n\n挤出：厚度/重量/宽度\n\n \n\n委外加
- 工的报废率：复合/打孔/烘皮…\n\n \n\n谢谢！\n\n \n\nSophia
-    7/20\n\n \n\n__________________________________________________________
- ______________________\n\nMicrosoft Teams 会议 \n\n加入: https://teams
- .microsoft.com/meet/397104891985172?p=KMwFSnEYRri9GzaFQ5 <https://teams.mi
- crosoft.com/meet/397104891985172?p=KMwFSnEYRri9GzaFQ5>  \n\n会议 ID: 397
-  104 891 985 172 \n\n密码: 4VF69Qa9 \n\n________________________________
- \n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
- 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzZmO
- Dc1NzEtZTEyOS00MTk1LWFhODYtZDQzOTFlNzUzYzJl%40thread.v2/0?context=%7b%22Ti
- d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
- b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
- ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
- 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
- 9_meeting_NzZmODc1NzEtZTEyOS00MTk1LWFhODYtZDQzOTFlNzUzYzJl@thread.v2&messa
- geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
- com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
- __________________________________________________________\n\n \n
-LOCATION:Sophia‘s office
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:过程半成品公差讨论
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BCZ PPI 早会
 DTSTART;TZID=GMT 标准时间:20260722T083500
 DTEND;TZID=GMT 标准时间:20260722T090500
 CLASS:PUBLIC
@@ -258,6 +84,35 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:P417异色点、鼓包问题讨论
+DTSTART;TZID=GMT 标准时间:20260722T150000
+DTEND;TZID=GMT 标准时间:20260722T160000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/326946638238561?p=X6HMmUKxx4fZmcCE6P <https://teams.m
+ icrosoft.com/meet/326946638238561?p=X6HMmUKxx4fZmcCE6P>  \n\n会议 ID: 32
+ 6 946 638 238 561 \n\n密码: z2XG2As7 \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWI1N
+ DNjM2ItZjhiMi00MzA2LWFjYjgtNWYyNWQ5ZDdhYzEw%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2296a796d
+ 4-96a4-4bcb-b118-d3fb4ef60dbf%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=96a796d4-96a4-4bcb-
+ b118-d3fb4ef60dbf&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
+ 9_meeting_MWI1NDNjM2ItZjhiMi00MzA2LWFjYjgtNWYyNWQ5ZDdhYzEw@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:P417异色点、鼓包问题讨论
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -2573,6 +2428,112 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:CBS@Operations community - Monthly phone-call - Americas & Eur
  ope
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BCZ PPI 早会
+DTSTART;TZID=GMT 标准时间:20260820T083500
+DTEND;TZID=GMT 标准时间:20260820T090500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________\n\nMicrosoft Teams 会议 \n\n加入: https://team
+ s.microsoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7 <https://teams.m
+ icrosoft.com/meet/314665913257269?p=5rwmFhKrsSPTUFBpi7>  \n\n会议 ID: 31
+ 4 665 913 257 269 \n\n密码: Lm3uS6sM \n\n_______________________________
+ _\n\n是否需要帮助? <https://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 
+ 系统引用 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGVhM
+ mMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%22%3a%2265af9c7
+ b-a4b9-4a5a-9863-844ef4386e6b%22%7d>  \n\n对于组织者: 会议选项 <h
+ ttps://teams.microsoft.com/meetingOptions/?organizerId=65af9c7b-a4b9-4a5a-
+ 9863-844ef4386e6b&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=1
+ 9_meeting_MGVhMmMzOTEtNzdiYi00YWE2LWI1MDktOTNlMTE0OTE3ZTFk@thread.v2&messa
+ geId=0&language=zh-CN>  \n\n隐私和安全 <https://filehub.admiralcloud.
+ com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n______________________
+ __________________________________________________________\n\n \n
+LOCATION:Sophia‘s office
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BCZ PPI 早会
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+DTSTART;TZID=GMT 标准时间:20260820T100000
+DTEND;TZID=GMT 标准时间:20260820T113000
+CLASS:PUBLIC
+DESCRIPTION:Dear Group Leader\,\n\n \n\nYou are invited to our biweekly of
+ fline **Jaw Talk** session (20 minutes) to discuss recent learning progres
+ s\, suggestions\, and any support you may need.\n\n \n\nEN Name\n\nCN Name
+ \n\nDept.\n\nGroup\n\nGroup Leader\n\nTime Schedule\n\nGaofeng Shi\n\n石
+ 高峰\n\nLab\n\n1\n\n1\n\n10:00 - 10:20\n\nLi Xiaodong\n\n李晓东\n\nPP
+ I\n\n2\n\n1\n\n10:20 - 10:40\n\nChen Jiajun\n\n陈家骏\n\nFacility\n\n3\
+ n\n1\n\n10:40 - 11:00\n\nTang Jiawei\n\n汤佳炜\n\nME\n\n4\n\n1\n\n11:00
+  - 11:20\n\n \n\nLooking forward to your participation!\n\nBest regards\,\
+ n\nBCZ Digital Talent Team\n\n \n\n_______________________________________
+ _________________________________________\n\nMicrosoft Teams meeting \n\nJ
+ oin: https://teams.microsoft.com/meet/389237694120019?p=HEirmKFBAHLeucb9Ib
+  <https://teams.microsoft.com/meet/389237694120019?p=HEirmKFBAHLeucb9Ib>  
+ \n\nMeeting ID: 389 237 694 120 019 \n\nPasscode: fs959bG6 \n\n___________
+ _____________________\n\nNeed help? <https://aka.ms/JoinTeamsMeeting?omkt=
+ en-US>  | System reference <https://teams.microsoft.com/l/meetup-join/19%3
+ ameeting_MTA1YTliNGYtNjI1Mi00MjYwLTlhOGMtNjViNmI0NjhiN2E2%40thread.v2/0?co
+ ntext=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-aa5a-2625c7e55082%22%2c%22Oid%2
+ 2%3a%2219e4d4bd-ed8a-42c2-9001-77c414b89798%22%7d>  \n\nFor organizers: Me
+ eting options <https://teams.microsoft.com/meetingOptions/?organizerId=19e
+ 4d4bd-ed8a-42c2-9001-77c414b89798&tenantId=49bcf5a3-8181-4f6c-aa5a-2625c7e
+ 55082&threadId=19_meeting_MTA1YTliNGYtNjI1Mi00MjYwLTlhOGMtNjViNmI0NjhiN2E2
+ @thread.v2&messageId=0&language=en-US>  \n\nPrivacy and security <https://
+ filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n_
+ __________________________________________________________________________
+ _____\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice304_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invitation: D-Talent! Biweekly “Jaw Talk” Meeting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:脑力下午茶 | 用15分钟，每天给大脑加个餐
+DTSTART;TZID=GMT 标准时间:20260820T123000
+DTEND;TZID=GMT 标准时间:20260820T124500
+CLASS:PUBLIC
+DESCRIPTION:Dear all，\n\n \n\n午餐后，别忘了给大脑也来点“
+ 精神食粮”~\n\n \n\n每天中午 12:30 - 12:45，是我们专属的
+ “脑力下午茶”时间。只需短短15分钟，利用饭后的碎片
+ 时间，就能轻松解锁新知识，为下午的工作蓄满能量！\n
+ \n \n\n*  登录账号及方式Login account and method：\n\n账号：28
+ 工号  初始密码：123456\n\n1.	网页版：首页 - BC在线学习平
+ 台 <https://contitech.yunxuetang.cn/main/#/index> \n2.	APP：绚星云学
+ 习（扫描附件二维码下载）\n\n             登陆域名：Contit
+ ech.yunxuetang.cn <http://Contitech.yunxuetang.cn> \n\n \n\n每天一小
+ 步，微光成坦途。\n\n祝大家学习愉快，每天都有新收获
+ ！\n\n \n\nBest regards\n\nJane XUE / 薛佳蕾\n\nHR Specialist\n\nConti
+ Tech Surface Solutions\n\n \n
+LOCATION:BC在线学习平台
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:脑力下午茶 | 用15分钟，每天给大脑加个餐
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:油漆房&色母粒周会
+DTSTART;TZID=GMT 标准时间:20260820T133000
+DTEND;TZID=GMT 标准时间:20260820T143000
+CLASS:PUBLIC
+DESCRIPTION: \n\n \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:油漆房&色母粒周会
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
