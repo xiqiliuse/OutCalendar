@@ -88,6 +88,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:0.3mm试制
+DTSTART;TZID=GMT 标准时间:20260722T124000
+DTEND;TZID=GMT 标准时间:20260722T130000
+CLASS:PUBLIC
+DESCRIPTION:0.3mm产品预计明天白板排产！\n\n看下上次的catio
+ n，已经还有什么疑问一起简短聊下！\n\n此次订单生产使
+ 用正常的D104配方和使用委外的造粒粒子。\n\n\n\n___________
+ _____________________________________________________________________\n\nM
+ icrosoft Teams 会议 \n\n加入: https://teams.microsoft.com/meet/3125362
+ 36499982?p=pJ8nU4xK9KLjPwrx81 <https://teams.microsoft.com/meet/3125362364
+ 99982?p=pJ8nU4xK9KLjPwrx81>  \n\n会议 ID: 312 536 236 499 982 \n\n密码
+ : v79g54Go \n\n________________________________\n\n是否需要帮助? <ht
+ tps://aka.ms/JoinTeamsMeeting?omkt=zh-CN>  | 系统引用 <https://teams.m
+ icrosoft.com/l/meetup-join/19%3ameeting_ZTdmY2ZjMjktMTQwOS00N2NjLTg2YTAtNm
+ ViYzg4YzgwNWFl%40thread.v2/0?context=%7b%22Tid%22%3a%2249bcf5a3-8181-4f6c-
+ aa5a-2625c7e55082%22%2c%22Oid%22%3a%22bfa1976e-b58c-455c-bd6f-a8b340ddf3e5
+ %22%7d>  \n\n对于组织者: 会议选项 <https://teams.microsoft.com/me
+ etingOptions/?organizerId=bfa1976e-b58c-455c-bd6f-a8b340ddf3e5&tenantId=49
+ bcf5a3-8181-4f6c-aa5a-2625c7e55082&threadId=19_meeting_ZTdmY2ZjMjktMTQwOS0
+ 0N2NjLTg2YTAtNmViYzg4YzgwNWFl@thread.v2&messageId=0&language=zh-CN>  \n\n
+ 隐私和安全 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-
+ 832a-1d684ab9ad7e>  \n\n__________________________________________________
+ ______________________________\n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:0.3mm试制
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:P417异色点、鼓包问题讨论
 DTSTART;TZID=GMT 标准时间:20260722T150000
 DTEND;TZID=GMT 标准时间:20260722T160000
